@@ -1,5 +1,5 @@
 
-## PRJ: India’s state budgets with LLMs
+## LLM_table2db
 
 Collection of state budget original PDFs, along with output of the LLM
 runs, and prompts.
