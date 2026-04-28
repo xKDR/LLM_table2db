@@ -1,0 +1,7 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+3|06|06|4711|Capital Outlay on Flood Control Projects|02||||||||||4711|Capital Outlay on Flood Control Projects||Header|Major-Head||||
+3|06|06|4711|Capital Outlay on Flood Control Projects|02||103||2||02|Sea Erosion Control Works|||4711-02-103-2-02|Sea Erosion Control Works||Header|Detailed-Head||||
+3|06|06|4711|Capital Outlay on Flood Control Projects|02||103||2||02|Sea Erosion Control Works|132|Other Capital Expenses|4711-02-103-2-02|Other Capital Expenses||Data|Object-Head||||1500.00
+3|06|06|4711|Capital Outlay on Flood Control Projects|02||103||2||02|Sea Erosion Control Works|139|Major Works|4711-02-103-2-02|Major Works||Data|Object-Head|2857.00|1500.00|1500.00|
+3|06|06|4711|Capital Outlay on Flood Control Projects|02||103||2||02|Sea Erosion Control Works||||4711-02-103-2-02|HOA Total :|Total|Detailed-Head|2857.00|1500.00|1500.00|1500.00
+3|06|06|4711|Capital Outlay on Flood Control Projects|02||||||||||4711|4711 - Total :||Total|Major-Head|2857.00|1500.00|1500.00|1500.00

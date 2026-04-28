@@ -1,0 +1,19 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+49|01|04|2052|Secretariat-General Services|00||092||0||06|Resident Commissioner for Govt of Karnataka, New Delhi|052|Telephone Charges|2052-00-092-0-06|Telephone Charges||Data|Object-Head|3.77|||
+49|01|04|2052|Secretariat-General Services|00||092||0||06|Resident Commissioner for Govt of Karnataka, New Delhi|||||HOA Total:|Total|Detailed-Head|383.60|477.00|477.00|483.00
+49|01|04|2052|Secretariat-General Services|00||092||0||17|Court Case Monitoring System(CCMS)|||2052-00-092-0-17|Court Case Monitoring System(CCMS)||Header|Detailed-Head||||
+49|01|04|2052|Secretariat-General Services|00||092||0||17|Court Case Monitoring System(CCMS)|034|Contract/Outsource|2052-00-092-0-17|Contract/Outsource||Data|Object-Head|87.67|||
+49|01|04|2052|Secretariat-General Services|00||092||0||17|Court Case Monitoring System(CCMS)|051|General Expenses|2052-00-092-0-17|General Expenses||Data|Object-Head|3.40|||
+49|01|04|2052|Secretariat-General Services|00||092||0||17|Court Case Monitoring System(CCMS)|||||HOA Total:|Total|Detailed-Head|91.07|0.00|0.00|0.00
+49|01|04|2052|Secretariat-General Services|00||800||0||04|Jyothi Sanjeevini|||2052-00-800-0-04|Jyothi Sanjeevini||Header|Detailed-Head||||
+49|01|04|2052|Secretariat-General Services|00||800||0||04|Jyothi Sanjeevini|059|Other Expenses|2052-00-800-0-04|Other Expenses||Data|Object-Head|1600.00|2000.00|3634.00|1.00
+49|01|04|2052|Secretariat-General Services|00||800||0||04|Jyothi Sanjeevini|||||HOA Total:|Total|Detailed-Head|1600.00|2000.00|3634.00|1.00
+49|01|04|2052|Secretariat-General Services|00||911||0||00|Deduct Recoveries of Over Payment|||2052-00-911-0-00|Deduct Recoveries of Over Payment||Header|Detailed-Head||||
+49|01|04|2052|Secretariat-General Services|00||911||0||00|Deduct Recoveries of Over Payment|364|Deduct - Recoveries|2052-00-911-0-00|Deduct - Recoveries||Data|Object-Head|-9.67|||
+49|01|04|2052|Secretariat-General Services|00||911||0||00|Deduct Recoveries of Over Payment|||||HOA Total:|Total|Detailed-Head|-9.67|0.00|0.00|0.00
+49|01|04|2052|Secretariat-General Services|00||911||0||01|Deduct Recovery of Over Payments of Current Year|||2052-00-911-0-01|Deduct Recovery of Over Payments of Current Year||Header|Detailed-Head||||
+49|01|04|2052|Secretariat-General Services|00||911||0||01|Deduct Recovery of Over Payments of Current Year|364|Deduct - Recoveries|2052-00-911-0-01|Deduct - Recoveries||Data|Object-Head|-32.03|||
+49|01|04|2052|Secretariat-General Services|00||911||0||01|Deduct Recovery of Over Payments of Current Year|||||HOA Total:|Total|Detailed-Head|-32.03|0.00|0.00|0.00
+49|01|04|2052|Secretariat-General Services|00||911||0||02|Deduct Recovery of Over Payment|||2052-00-911-0-02|Deduct Recovery of Over Payment||Header|Detailed-Head||||
+49|01|04|2052|Secretariat-General Services|00||911||0||02|Deduct Recovery of Over Payment|364|Deduct - Recoveries|2052-00-911-0-02|Deduct - Recoveries||Data|Object-Head|-78.64|||
+49|01|04|2052|Secretariat-General Services|00||911||0||02|Deduct Recovery of Over Payment|||||HOA Total:|Total|Detailed-Head|-78.64|0.00|0.00|0.00

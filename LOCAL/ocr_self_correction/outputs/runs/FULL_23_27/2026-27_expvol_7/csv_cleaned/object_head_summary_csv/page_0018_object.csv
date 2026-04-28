@@ -1,0 +1,26 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+7|07|20|3054|Roads and Bridges|||||||||||3054|Roads and Bridges||Header|Major-Head||||
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|||3054-01-001-1-01|Chief Engineer National Highways||Header|Detailed-Head||||
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|002|Basic Pay|3054-01-001-1-01|Basic Pay||Data|Object-Head|1863.26|4157.00|4157.00|4099.00
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|003|Basic Pay-Staff|3054-01-001-1-01|Basic Pay-Staff||Data|Object-Head|1505.02|||
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|004|Interim Relief|3054-01-001-1-01|Interim Relief||Data|Object-Head|206.24|||
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|011|Dearness Allowance|3054-01-001-1-01|Dearness Allowance||Data|Object-Head|764.95|915.00|915.00|1025.00
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|014|Other Allowance|3054-01-001-1-01|Other Allowance||Data|Object-Head|516.10|647.00|647.00|631.00
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|020|Medical Allowance|3054-01-001-1-01|Medical Allowance||Data|Object-Head|11.60|||
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|021|Reimbursement of Medical Expenses|3054-01-001-1-01|Reimbursement of Medical Expenses||Data|Object-Head|18.26|35.00|35.00|34.00
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|033|Daily-wages|3054-01-001-1-01|Daily-wages||Data|Object-Head|45.64|41.32|50.32|47.11
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|041|Travel Expenses|3054-01-001-1-01|Travel Expenses||Data|Object-Head|25.25|30.00|30.00|30.00
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|050|Office Expenses|3054-01-001-1-01|Office Expenses||Data|Object-Head||10.00|10.00|50.00
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|051|General Expenses|3054-01-001-1-01|General Expenses||Data|Object-Head|32.18|35.00|35.00|25.00
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|052|Telephone Charges|3054-01-001-1-01|Telephone Charges||Data|Object-Head|6.34|||
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|071|Building Expenses|3054-01-001-1-01|Building Expenses||Data|Object-Head|32.79|40.00|40.00|40.00
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|195|Transport Expenses|3054-01-001-1-01|Transport Expenses||Data|Object-Head|158.37|160.97|160.97|115.27
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|251|Pension & Retirement Benefits|3054-01-001-1-01|Pension & Retirement Benefits||Data|Object-Head|18.62|1.00|7.21|30.00
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|||||HOA Total :|Total|Detailed-Head|5204.62|6072.29|6087.50|6126.38
+7|07|20|3054|Roads and Bridges|01||911|Deduct- Recovery of Overpayments|||||||3054-01-911|Deduct- Recovery of Overpayments||Header|Minor-Head||||
+7|07|20|3054|Roads and Bridges|01||911|Deduct- Recovery of Overpayments|0||00|Deduct- Recovery of Overpayments|||3054-01-911-0-00|Deduct- Recovery of Overpayments||Header|Detailed-Head||||
+7|07|20|3054|Roads and Bridges|01||911|Deduct- Recovery of Overpayments|0||00|Deduct- Recovery of Overpayments|364|Deduct - Recoveries|3054-01-911-0-00|Deduct - Recoveries||Data|Object-Head|-0.03|||
+7|07|20|3054|Roads and Bridges|01||911|Deduct- Recovery of Overpayments|0||00|Deduct- Recovery of Overpayments|||||HOA Total :|Total|Detailed-Head|-0.03|0.00|0.00|0.00
+7|07|20|3054|Roads and Bridges|01||911|Deduct- Recovery of Overpayments|0||01|Deduct-Recovery of Overpayments|||3054-01-911-0-01|Deduct-Recovery of Overpayments||Header|Detailed-Head||||
+7|07|20|3054|Roads and Bridges|01||911|Deduct- Recovery of Overpayments|0||01|Deduct-Recovery of Overpayments|364|Deduct - Recoveries|3054-01-911-0-01|Deduct - Recoveries||Data|Object-Head|-2.22|||
+7|07|20|3054|Roads and Bridges|01||911|Deduct- Recovery of Overpayments|0||01|Deduct-Recovery of Overpayments|||||HOA Total :|Total|Detailed-Head|-2.22|0.00|0.00|0.00

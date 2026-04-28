@@ -1,0 +1,22 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||||||||||2045|Other Taxes & Duties on Commodities and Services|V|Header|Major-Head||||
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|||2045-00-103-0-01|Electrical Inspectorate|V|Header|Detailed-Head||||
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|002|Basic Pay|2045-00-103-0-01|Basic Pay|V|Data|Object-Head|1508.00|2342.00|2342.00|2457.00
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|003|Basic Pay-Staff|2045-00-103-0-01|Basic Pay-Staff|V|Data|Object-Head|422.64|||
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|004|Interim Relief|2045-00-103-0-01|Interim Relief|V|Data|Object-Head|117.95|||
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|011|Dearness Allowance|2045-00-103-0-01|Dearness Allowance|V|Data|Object-Head|428.73|516.00|516.00|615.00
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|014|Other Allowance|2045-00-103-0-01|Other Allowance|V|Data|Object-Head|318.03|383.00|383.00|397.00
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|020|Medical Allowance|2045-00-103-0-01|Medical Allowance|V|Data|Object-Head|3.41|||
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|021|Reimbursement of Medical Expenses|2045-00-103-0-01|Reimbursement of Medical Expenses|V|Data|Object-Head|3.67|17.00|17.00|17.00
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|034|Contract/Outsource|2045-00-103-0-01|Contract/Outsource|V|Data|Object-Head|111.86|137.60|137.60|151.07
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|037|Payment on Service Contract|2045-00-103-0-01|Payment on Service Contract|V|Data|Object-Head||3.80|3.80|3.80
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|041|Travel Expenses|2045-00-103-0-01|Travel Expenses|V|Data|Object-Head|10.91|10.00|10.00|10.00
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|050|Office Expenses|2045-00-103-0-01|Office Expenses|V|Data|Object-Head||100.00|100.00|100.00
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|051|General Expenses|2045-00-103-0-01|General Expenses|V|Data|Object-Head|115.39|3.00|3.00|3.00
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|052|Telephone Charges|2045-00-103-0-01|Telephone Charges|V|Data|Object-Head|2.08|||
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|071|Building Expenses|2045-00-103-0-01|Building Expenses|V|Data|Object-Head|227.25|311.00|311.00|320.00
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|195|Transport Expenses|2045-00-103-0-01|Transport Expenses|V|Data|Object-Head|335.19|452.58|452.58|444.73
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|200|Maintenance Expenditure|2045-00-103-0-01|Maintenance Expenditure|V|Data|Object-Head||15.00|15.00|7.00
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|433|Examination Expenses|2045-00-103-0-01|Examination Expenses|V|Data|Object-Head||5.00|5.00|2.00
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate||||HOA Total :|V|Total|Detailed-Head|3605.11|4295.98|4295.98|4527.60
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||||||||||2045|2045 - Total :|V|Total|Major-Head|3605.11|4295.98|4295.98|4527.60

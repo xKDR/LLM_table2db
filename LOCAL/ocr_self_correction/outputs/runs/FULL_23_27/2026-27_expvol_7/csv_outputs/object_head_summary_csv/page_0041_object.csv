@@ -1,0 +1,25 @@
+30|07|21|2705|Command Area Development|00||||||||||2705|Command Area Development|V|Header|Major-Head||||
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|||2705-00-001-0-02|CADA Directorate|V|Header|Detailed-Head||||
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|002|Basic Pay|2705-00-001-0-02|Basic Pay|V|Data|Object-Head|68.21|146.00|191.50|141.00
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|003|Basic Pay-Staff|2705-00-001-0-02|Basic Pay-Staff|V|Data|Object-Head|56.85|||
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|004|Interim Relief|2705-00-001-0-02|Interim Relief|V|Data|Object-Head|8.58|||
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|011|Dearness Allowance|2705-00-001-0-02|Dearness Allowance|V|Data|Object-Head|30.26|32.00|32.00|35.00
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|014|Other Allowance|2705-00-001-0-02|Other Allowance|V|Data|Object-Head|33.87|37.00|49.50|36.00
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|020|Medical Allowance|2705-00-001-0-02|Medical Allowance|V|Data|Object-Head|0.46|||
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|021|Reimbursement of Medical Expenses|2705-00-001-0-02|Reimbursement of Medical Expenses|V|Data|Object-Head|1.22|9.00|9.00|9.00
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|034|Contract/Outsource|2705-00-001-0-02|Contract/Outsource|V|Data|Object-Head|33.10|35.83|35.83|37.05
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|041|Travel Expenses|2705-00-001-0-02|Travel Expenses|V|Data|Object-Head|1.90|1.00|1.00|4.00
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|050|Office Expenses|2705-00-001-0-02|Office Expenses|V|Data|Object-Head||1.00|1.00|10.00
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|051|General Expenses|2705-00-001-0-02|General Expenses|V|Data|Object-Head|6.50|8.00|8.00|1.00
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|052|Telephone Charges|2705-00-001-0-02|Telephone Charges|V|Data|Object-Head|0.33|||
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|071|Building Expenses|2705-00-001-0-02|Building Expenses|V|Data|Object-Head|53.98|54.00|54.00|57.00
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|195|Transport Expenses|2705-00-001-0-02|Transport Expenses|V|Data|Object-Head|12.29|17.23|17.23|11.14
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|251|Pension & Retirement Benefits|2705-00-001-0-02|Pension & Retirement Benefits|V|Data|Object-Head||1.00|1.00|
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|||2705-00-001-0-02|HOA Total :|V|Total|Detailed-Head|307.55|342.06|400.06|341.19
+30|07|21|2705|Command Area Development|00||101||0||01|Water and Land Management Institute - WALMI|||2705-00-101-0-01|Water and Land Management Institute - WALMI|V|Header|Detailed-Head||||
+30|07|21|2705|Command Area Development|00||101||0||01|Water and Land Management Institute - WALMI|101|Grants-in-Aid-Salaries|2705-00-101-0-01|Grants-in-Aid-Salaries|V|Data|Object-Head|357.40|354.47|375.87|429.41
+30|07|21|2705|Command Area Development|00||101||0||01|Water and Land Management Institute - WALMI|103|Grants-in-Aid -General|2705-00-101-0-01|Grants-in-Aid -General|V|Data|Object-Head|525.00|525.00|525.00|525.00
+30|07|21|2705|Command Area Development|00||101||0||01|Water and Land Management Institute - WALMI|||2705-00-101-0-01|HOA Total :|V|Total|Detailed-Head|882.40|879.47|900.87|954.41
+30|07|21|2705|Command Area Development|00||201||0||01|Tungabhadra Project|||2705-00-201-0-01|Tungabhadra Project|V|Header|Detailed-Head||||
+30|07|21|2705|Command Area Development|00||201||0||01|Tungabhadra Project|101|Grants-in-Aid-Salaries|2705-00-201-0-01|Grants-in-Aid-Salaries|V|Data|Object-Head|572.10|664.67|664.67|656.08
+30|07|21|2705|Command Area Development|00||201||0||01|Tungabhadra Project|103|Grants-in-Aid -General|2705-00-201-0-01|Grants-in-Aid -General|V|Data|Object-Head|74.67|42.00|42.00|50.60

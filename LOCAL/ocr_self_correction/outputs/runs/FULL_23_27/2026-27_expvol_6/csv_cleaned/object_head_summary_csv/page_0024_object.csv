@@ -1,0 +1,9 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+11|06|15|5425|Capital Outlay on Other Scientific and Environmental Research|00||||||||||5425|Capital Outlay on Other Scientific and Environmental Research|V|Header|Major-Head||||
+11|06|15|5425|Capital Outlay on Other Scientific and Environmental Research|00||600||0||01|District Science Centres|||5425-00-600-0-01|District Science Centres|V|Header|Detailed-Head||||
+11|06|15|5425|Capital Outlay on Other Scientific and Environmental Research|00||600||0||01|District Science Centres|132|Other Capital Expenses|5425-00-600-0-01|Other Capital Expenses|V|Data|Object-Head||900.00|900.00|500.00
+11|06|15|5425|Capital Outlay on Other Scientific and Environmental Research|00||600||0||01|District Science Centres||||HOA Total :|V|Total|Detailed-Head|0.00|900.00|900.00|500.00
+11|06|15|5425|Capital Outlay on Other Scientific and Environmental Research|00||600||0||02|Capital Works of IT and BT Department|||5425-00-600-0-02|Capital Works of IT and BT Department|V|Header|Detailed-Head||||
+11|06|15|5425|Capital Outlay on Other Scientific and Environmental Research|00||600||0||02|Capital Works of IT and BT Department|145|Acquisition of Land|5425-00-600-0-02|Acquisition of Land|V|Data|Object-Head|||415.00|
+11|06|15|5425|Capital Outlay on Other Scientific and Environmental Research|00||600||0||02|Capital Works of IT and BT Department||||HOA Total :|V|Total|Detailed-Head|0.00|0.00|415.00|0.00
+11|06|15|5425|Capital Outlay on Other Scientific and Environmental Research|00||||||||||5425|5425 - Total :|V|Total|Major-Head|0.00|900.00|1315.00|500.00

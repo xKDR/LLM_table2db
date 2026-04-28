@@ -1,0 +1,24 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+7|01|03|2047|Other Fiscal Services|00||||||||||2047|Other Fiscal Services|V|Header|Major-Head||||
+7|01|03|2047|Other Fiscal Services|00||103|Promotion of Small Savings|0||01|Director of Small Savings|||2047-00-103-0-01|Director of Small Savings|V|Header|Detailed-Head||||
+7|01|03|2047|Other Fiscal Services|00||103|Promotion of Small Savings|0||01|Director of Small Savings|002|Basic Pay|2047-00-103-0-01|Basic Pay|V|Data|Object-Head|294.42|1188.00|1188.00|1205.00
+7|01|03|2047|Other Fiscal Services|00||103|Promotion of Small Savings|0||01|Director of Small Savings|003|Basic Pay-Staff|2047-00-103-0-01|Basic Pay-Staff|V|Data|Object-Head|705.72|||
+7|01|03|2047|Other Fiscal Services|00||103|Promotion of Small Savings|0||01|Director of Small Savings|004|Interim Relief|2047-00-103-0-01|Interim Relief|V|Data|Object-Head|63.88|||
+7|01|03|2047|Other Fiscal Services|00||103|Promotion of Small Savings|0||01|Director of Small Savings|011|Dearness Allowance|2047-00-103-0-01|Dearness Allowance|V|Data|Object-Head|233.74|262.00|262.00|301.00
+7|01|03|2047|Other Fiscal Services|00||103|Promotion of Small Savings|0||01|Director of Small Savings|014|Other Allowance|2047-00-103-0-01|Other Allowance|V|Data|Object-Head|148.81|167.00|172.50|164.00
+7|01|03|2047|Other Fiscal Services|00||103|Promotion of Small Savings|0||01|Director of Small Savings|020|Medical Allowance|2047-00-103-0-01|Medical Allowance|V|Data|Object-Head|5.60|||
+7|01|03|2047|Other Fiscal Services|00||103|Promotion of Small Savings|0||01|Director of Small Savings|021|Reimbursement of Medical Expenses|2047-00-103-0-01|Reimbursement of Medical Expenses|V|Data|Object-Head|4.04|15.00|15.00|15.00
+7|01|03|2047|Other Fiscal Services|00||103|Promotion of Small Savings|0||01|Director of Small Savings|034|Contract/Outsource|2047-00-103-0-01|Contract/Outsource|V|Data|Object-Head|55.01|56.83|56.83|77.09
+7|01|03|2047|Other Fiscal Services|00||103|Promotion of Small Savings|0||01|Director of Small Savings|041|Travel Expenses|2047-00-103-0-01|Travel Expenses|V|Data|Object-Head|6.71|4.16|4.16|5.00
+7|01|03|2047|Other Fiscal Services|00||103|Promotion of Small Savings|0||01|Director of Small Savings|050|Office Expenses|2047-00-103-0-01|Office Expenses|V|Data|Object-Head||7.00|7.00|32.00
+7|01|03|2047|Other Fiscal Services|00||103|Promotion of Small Savings|0||01|Director of Small Savings|051|General Expenses|2047-00-103-0-01|General Expenses|V|Data|Object-Head|31.85|26.00|26.00|3.70
+7|01|03|2047|Other Fiscal Services|00||103|Promotion of Small Savings|0||01|Director of Small Savings|052|Telephone Charges|2047-00-103-0-01|Telephone Charges|V|Data|Object-Head|4.55|||
+7|01|03|2047|Other Fiscal Services|00||103|Promotion of Small Savings|0||01|Director of Small Savings|053|Purchase of Furniture and Fixture for Office|2047-00-103-0-01|Purchase of Furniture and Fixture for Office|V|Data|Object-Head|1.96|||
+7|01|03|2047|Other Fiscal Services|00||103|Promotion of Small Savings|0||01|Director of Small Savings|071|Building Expenses|2047-00-103-0-01|Building Expenses|V|Data|Object-Head|46.02|28.00|28.00|32.00
+7|01|03|2047|Other Fiscal Services|00||103|Promotion of Small Savings|0||01|Director of Small Savings|195|Transport Expenses|2047-00-103-0-01|Transport Expenses|V|Data|Object-Head|4.35|22.62|22.62|16.54
+7|01|03|2047|Other Fiscal Services|00||103|Promotion of Small Savings|0||01|Director of Small Savings|200|Maintenance Expenditure|2047-00-103-0-01|Maintenance Expenditure|V|Data|Object-Head||5.00|5.00|5.00
+7|01|03|2047|Other Fiscal Services|00||103|Promotion of Small Savings|0||01|Director of Small Savings|||2047-00-103-0-01|HOA Total :|V|Total|Detailed-Head|1606.66|1781.61|1787.11|1856.33
+7|01|03|2047|Other Fiscal Services|00||911|Deduct Recoveries of Over Payment|0||02|Deduct Recoveries of Over Payment|||2047-00-911-0-02|Deduct Recoveries of Over Payment|V|Header|Detailed-Head||||
+7|01|03|2047|Other Fiscal Services|00||911|Deduct Recoveries of Over Payment|0||02|Deduct Recoveries of Over Payment|364|Deduct - Recoveries|2047-00-911-0-02|Deduct - Recoveries|V|Data|Object-Head|-0.23|||
+7|01|03|2047|Other Fiscal Services|00||911|Deduct Recoveries of Over Payment|0||02|Deduct Recoveries of Over Payment|||2047-00-911-0-02|HOA Total :|V|Total|Detailed-Head|-0.23|0.00|0.00|0.00
+7|01|03|2047|Other Fiscal Services|00|||||||||||2047 - Total :|V|Total|Major-Head|1606.43|1781.61|1787.11|1856.33

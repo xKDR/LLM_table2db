@@ -1,0 +1,8 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+15|07|20|4059|Capital Outlay on Public Works|80||051||0||60|CM's Infrastructure Development Program(CMIDP)|422|Schedule Caste Sub Plan|4059-80-051-0-60|Schedule Caste Sub Plan||Data|Object-Head||16500.00|16500.00|19800.00
+15|07|20|4059|Capital Outlay on Public Works|80||051||0||60|CM's Infrastructure Development Program(CMIDP)|423|Tribal Sub Plan|4059-80-051-0-60|Tribal Sub Plan||Data|Object-Head||6000.00|6000.00|7200.00
+15|07|20|4059|Capital Outlay on Public Works|80||051||0||60|CM's Infrastructure Development Program(CMIDP)||||HOA Total :||Total|Detailed-Head|0.00|150000.00|150000.00|180000.00
+15|07|20|4059|Capital Outlay on Public Works|80||051||0||90|Deduct- Receipts and Recoveries on Capital Account||||4059-80-051-0-90|Deduct- Receipts and Recoveries on Capital Account|Header|Detailed-Head||||
+15|07|20|4059|Capital Outlay on Public Works|80||051||0||90|Deduct- Receipts and Recoveries on Capital Account|364|Deduct - Recoveries|4059-80-051-0-90|Deduct - Recoveries||Data|Object-Head|-1.63|||
+15|07|20|4059|Capital Outlay on Public Works|80||051||0||90|Deduct- Receipts and Recoveries on Capital Account||||HOA Total :||Total|Detailed-Head|-1.63|0.00|0.00|0.00
+15|07|20|4059|Capital Outlay on Public Works|80||051||0||||||4059|4059 - Total :||Total|Major-Head|97017.52|242500.00|242500.00|272500.00

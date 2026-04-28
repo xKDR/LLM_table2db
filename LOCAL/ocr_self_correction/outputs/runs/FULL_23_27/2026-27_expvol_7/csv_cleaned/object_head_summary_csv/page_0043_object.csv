@@ -1,0 +1,15 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+32|07|21|2705|Command Area Development|00||205|Bhadra Project-CADA|0||01|Bhadra Project-CADA|115|GIA Contract /Outsource|2705-00-205-0-01|GIA Contract /Outsource|V|Data|Object-Head|81.09|84.59|84.59|87.65
+32|07|21|2705|Command Area Development|00||205|Bhadra Project-CADA|0||01|Bhadra Project-CADA||||HOA Total :|V|Total|Detailed-Head|723.87|717.22|717.22|784.83
+32|07|21|2705|Command Area Development|00||206|CADA Kalaburgi - GiA Salaries|0||01|CADA Kalaburgi - GiA Salaries|||2705-00-206-0-01|CADA Kalaburgi - GiA Salaries|V|Header|Detailed-Head||||
+32|07|21|2705|Command Area Development|00||206|CADA Kalaburgi - GiA Salaries|0||01|CADA Kalaburgi - GiA Salaries|101|Grants-in-Aid-Salaries|2705-00-206-0-01|Grants-in-Aid-Salaries|V|Data|Object-Head|758.17|1004.69|1004.69|988.88
+32|07|21|2705|Command Area Development|00||206|CADA Kalaburgi - GiA Salaries|0||01|CADA Kalaburgi - GiA Salaries|103|Grants-in-Aid -General|2705-00-206-0-01|Grants-in-Aid -General|V|Data|Object-Head|92.00|30.00|30.00|31.00
+32|07|21|2705|Command Area Development|00||206|CADA Kalaburgi - GiA Salaries|0||01|CADA Kalaburgi - GiA Salaries|115|GIA Contract /Outsource|2705-00-206-0-01|GIA Contract /Outsource|V|Data|Object-Head|20.92|21.86|21.86|22.68
+32|07|21|2705|Command Area Development|00||206|CADA Kalaburgi - GiA Salaries|0||01|CADA Kalaburgi - GiA Salaries||||HOA Total :|V|Total|Detailed-Head|871.09|1056.55|1056.55|1042.56
+32|07|21|2705|Command Area Development|00||911|Deduct-Recovery of Overpayments|0||01|Deduct-Recovery of Overpayments|||2705-00-911-0-01|Deduct-Recovery of Overpayments|V|Header|Detailed-Head||||
+32|07|21|2705|Command Area Development|00||911|Deduct-Recovery of Overpayments|0||01|Deduct-Recovery of Overpayments|364|Deduct - Recoveries|2705-00-911-0-01|Deduct - Recoveries|V|Data|Object-Head|-13.81|||
+32|07|21|2705|Command Area Development|00||911|Deduct-Recovery of Overpayments|0||01|Deduct-Recovery of Overpayments||||HOA Total :|V|Total|Detailed-Head|-13.81|0.00|0.00|0.00
+32|07|21|2705|Command Area Development|00||911|Deduct-Recovery of Overpayments|0||02|Deduct-Recovery of Overpayments|||2705-00-911-0-02|Deduct-Recovery of Overpayments|V|Header|Detailed-Head||||
+32|07|21|2705|Command Area Development|00||911|Deduct-Recovery of Overpayments|0||02|Deduct-Recovery of Overpayments|364|Deduct - Recoveries|2705-00-911-0-02|Deduct - Recoveries|V|Data|Object-Head|-11.86|||
+32|07|21|2705|Command Area Development|00||911|Deduct-Recovery of Overpayments|0||02|Deduct-Recovery of Overpayments||||HOA Total :|V|Total|Detailed-Head|-11.86|0.00|0.00|0.00
+32|07|21|2705|Command Area Development|00|||||||||||2705 - Total :|V|Total|Major-Head|5496.69|6255.83|6364.25|6735.06

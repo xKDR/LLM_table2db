@@ -1,0 +1,7 @@
+45|01|04|2051|Public Service Commission|00||911||0||01|Recovery of Over Payment|||2051-00-911-0-01|Recovery of Over Payment|C|Header|Detailed-Head||||
+45|01|04|2051|Public Service Commission|00||911||0||01|Recovery of Over Payment|364|Deduct - Recoveries|2051-00-911-0-01|Deduct - Recoveries|C|Data|Object-Head|-2.87||||
+45|01|04|2051|Public Service Commission|00||911||0||01|Recovery of Over Payment||||HOA Total :|C|Total|Detailed-Head|-2.87|0.00|0.00|0.00
+45|01|04|2051|Public Service Commission|00||911||0||02|Deduct Recovery of Overpayments|||2051-00-911-0-02|Deduct Recovery of Overpayments|C|Header|Detailed-Head||||
+45|01|04|2051|Public Service Commission|00||911||0||02|Deduct Recovery of Overpayments|364|Deduct - Recoveries|2051-00-911-0-02|Deduct - Recoveries|C|Data|Object-Head|-7.16||||
+45|01|04|2051|Public Service Commission|00||911||0||02|Deduct Recovery of Overpayments||||HOA Total :|C|Total|Detailed-Head|-7.16|0.00|0.00|0.00
+45|01|04|2051|Public Service Commission|00|||||||||||2051 - Total :|C|Total|Major-Head|13236.94|7798.26|7798.26|7642.50

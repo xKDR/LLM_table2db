@@ -1,0 +1,25 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+40|01|04|2015|Elections|00||102||0||01|Chief Electoral Officers|||2015-00-102-0-01|Chief Electoral Officers||Header|Detailed-Head||||
+40|01|04|2015|Elections|00||102||0||01|Chief Electoral Officers|002|Basic Pay|2015-00-102-0-01|Basic Pay||Data|Object-Head|385.30|4939.00|4988.07|4813.00
+40|01|04|2015|Elections|00||102||0||01|Chief Electoral Officers|003|Basic Pay-Staff|2015-00-102-0-01|Basic Pay-Staff||Data|Object-Head|3621.36|||
+40|01|04|2015|Elections|00||102||0||01|Chief Electoral Officers|004|Interim Relief|2015-00-102-0-01|Interim Relief||Data|Object-Head|223.81|||
+40|01|04|2015|Elections|00||102||0||01|Chief Electoral Officers|011|Dearness Allowance|2015-00-102-0-01|Dearness Allowance||Data|Object-Head|891.82|1104.00|1104.00|1214.00
+40|01|04|2015|Elections|00||102||0||01|Chief Electoral Officers|014|Other Allowance|2015-00-102-0-01|Other Allowance||Data|Object-Head|472.31|606.00|618.58|552.00
+40|01|04|2015|Elections|00||102||0||01|Chief Electoral Officers|020|Medical Allowance|2015-00-102-0-01|Medical Allowance||Data|Object-Head|28.00|||
+40|01|04|2015|Elections|00||102||0||01|Chief Electoral Officers|021|Reimbursement of Medical Expenses|2015-00-102-0-01|Reimbursement of Medical Expenses||Data|Object-Head|49.62|50.00|50.00|48.00
+40|01|04|2015|Elections|00||102||0||01|Chief Electoral Officers|034|Contract/Outsource|2015-00-102-0-01|Contract/Outsource||Data|Object-Head|111.72|98.02|98.02|65.16
+40|01|04|2015|Elections|00||102||0||01|Chief Electoral Officers|035|Salary of Board/Corp.Staff working in State Government|2015-00-102-0-01|Salary of Board/Corp.Staff working in State Government||Data|Object-Head|83.56|85.65|85.65|63.27
+40|01|04|2015|Elections|00||102||0||01|Chief Electoral Officers|037|Payment on Service Contract|2015-00-102-0-01|Payment on Service Contract||Data|Object-Head||943.00|943.00|1008.13
+40|01|04|2015|Elections|00||102||0||01|Chief Electoral Officers|041|Travel Expenses|2015-00-102-0-01|Travel Expenses||Data|Object-Head|13.89|16.00|26.00|16.00
+40|01|04|2015|Elections|00||102||0||01|Chief Electoral Officers|050|Office Expenses|2015-00-102-0-01|Office Expenses||Data|Object-Head||20.00|20.00|20.00
+40|01|04|2015|Elections|00||102||0||01|Chief Electoral Officers|051|General Expenses|2015-00-102-0-01|General Expenses||Data|Object-Head|71.58|75.00|75.00|26.60
+40|01|04|2015|Elections|00||102||0||01|Chief Electoral Officers|052|Telephone Charges|2015-00-102-0-01|Telephone Charges||Data|Object-Head|22.59|||
+40|01|04|2015|Elections|00||102||0||01|Chief Electoral Officers|071|Building Expenses|2015-00-102-0-01|Building Expenses||Data|Object-Head|107.71|100.00|100.00|92.00
+40|01|04|2015|Elections|00||102||0||01|Chief Electoral Officers|195|Transport Expenses|2015-00-102-0-01|Transport Expenses||Data|Object-Head|77.11|82.22|82.22|58.12
+40|01|04|2015|Elections|00||102||0||01|Chief Electoral Officers|221|Materials and Supplies|2015-00-102-0-01|Materials and Supplies||Data|Object-Head||||2.00
+40|01|04|2015|Elections|00||102||0||01|Chief Electoral Officers|||||HOA Total :|Total|Detailed-Head|6160.38|8118.89|8190.54|7978.28
+40|01|04|2015|Elections|00||103||0||01|Parliamentary & Assembly Constituencies|||2015-00-103-0-01|Parliamentary & Assembly Constituencies||Header|Detailed-Head||||
+40|01|04|2015|Elections|00||103||0||01|Parliamentary & Assembly Constituencies|015|Subsidiary Expenses|2015-00-103-0-01|Subsidiary Expenses||Data|Object-Head|4988.41|5000.00|5000.00|9500.00
+40|01|04|2015|Elections|00||103||0||01|Parliamentary & Assembly Constituencies|051|General Expenses|2015-00-103-0-01|General Expenses||Data|Object-Head|5900.99|3640.00|3640.00|2016.00
+40|01|04|2015|Elections|00||103||0||01|Parliamentary & Assembly Constituencies|195|Transport Expenses|2015-00-103-0-01|Transport Expenses||Data|Object-Head|55.00|24.80|24.80|13.00
+40|01|04|2015|Elections|00||103||0||01|Parliamentary & Assembly Constituencies|||||HOA Total :|Total|Detailed-Head|10944.40|8664.80|8664.80|11529.00

@@ -1,0 +1,8 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+2|1|03|2039|State Excise|00||911|Deduct Recoveries of Over Payment|0||01|Deduct Recovery of Over Payments of Current Year|||2039-00-911-0-01|Deduct Recovery of Over Payments of Current Year|V|Header|Detailed-Head||||
+2|1|03|2039|State Excise|00||911|Deduct Recoveries of Over Payment|0||01|Deduct Recovery of Over Payments of Current Year|364|Deduct - Recoveries|2039-00-911-0-01|Deduct - Recoveries|V|Data|Object-Head|-10.65|||
+2|1|03|2039|State Excise|00||911|Deduct Recoveries of Over Payment|0||01|Deduct Recovery of Over Payments of Current Year|||2039-00-911-0-01|HOA Total :|V|Total|Detailed-Head|-10.65|0.00|0.00|0.00
+2|1|03|2039|State Excise|00||911|Deduct Recoveries of Over Payment|0||02|Deduct Recovery of Over Payments of Previous Year|||2039-00-911-0-02|Deduct Recovery of Over Payments of Previous Year|V|Header|Detailed-Head||||
+2|1|03|2039|State Excise|00||911|Deduct Recoveries of Over Payment|0||02|Deduct Recovery of Over Payments of Previous Year|364|Deduct - Recoveries|2039-00-911-0-02|Deduct - Recoveries|V|Data|Object-Head|-0.20|||
+2|1|03|2039|State Excise|00||911|Deduct Recoveries of Over Payment|0||02|Deduct Recovery of Over Payments of Previous Year|||2039-00-911-0-02|HOA Total :|V|Total|Detailed-Head|-0.20|0.00|0.00|0.00
+2|1|03|2039|State Excise|00||||||||||2039|2039 - Total :|V|Total|Major-Head|31840.97|37064.02|38992.95|39993.01

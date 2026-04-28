@@ -1,0 +1,27 @@
+30|04|07|3054|Roads and Bridges|80|General|001||0|KRRDA-Project Division & Sub Division|02|KRRDA-Project Division & Sub Division|071|Building Expenses|3054-80-001-0-02|Building Expenses|V|Data|Object-Head|150.52|190.00|190.00|190.00
+30|04|07|3054|Roads and Bridges|80|General|001||0|KRRDA-Project Division & Sub Division|02|KRRDA-Project Division & Sub Division|180|Machinery and Equipments|3054-80-001-0-02|Machinery and Equipments|V|Data|Object-Head|10.07|||
+30|04|07|3054|Roads and Bridges|80|General|001||0|KRRDA-Project Division & Sub Division|02|KRRDA-Project Division & Sub Division|195|Transport Expenses|3054-80-001-0-02|Transport Expenses|V|Data|Object-Head|339.10|383.45|383.45|379.68
+30|04|07|3054|Roads and Bridges|80|General|001||0|KRRDA-Project Division & Sub Division|02|KRRDA-Project Division & Sub Division|||3054-80-001-0-02|HOA Total :|V|Total|Detailed-Head|6002.66|6537.33|6559.19|6698.00
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|01|Block Grants|||3054-80-196-1-01|Block Grants|V|Header|Detailed-Head||||
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|01|Block Grants|300|Lumpsum - ZP|3054-80-196-1-01|Lumpsum - ZP|V|Data|Object-Head|12956.10|||
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|01|Block Grants|||3054-80-196-1-01|HOA Total :|V|Total|Detailed-Head|12956.10|0.00|0.00|0.00
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|03|Special grants for Rural Roads|||3054-80-196-1-03|Special grants for Rural Roads|V|Header|Detailed-Head||||
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|03|Special grants for Rural Roads|300|Lumpsum - ZP|3054-80-196-1-03|Lumpsum - ZP|V|Data|Object-Head|10233.24|23457.00|23457.00|20000.00
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|03|Special grants for Rural Roads|401|Bengaluru (Urban)|3054-80-196-1-03|Bengaluru (Urban)|V|Data|Object-Head|234.00|234.00|234.00|407.00
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|03|Special grants for Rural Roads|402|Bengaluru (Rural)|3054-80-196-1-03|Bengaluru (Rural)|V|Data|Object-Head|206.23|206.23|206.23|379.00
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|03|Special grants for Rural Roads|403|Chitradurga|3054-80-196-1-03|Chitradurga|V|Data|Object-Head|325.00|325.00|325.00|573.00
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|03|Special grants for Rural Roads|404|Kolar|3054-80-196-1-03|Kolar|V|Data|Object-Head|279.00|279.00|279.00|452.00
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|03|Special grants for Rural Roads|405|Shivamogga|3054-80-196-1-03|Shivamogga|V|Data|Object-Head|361.00|361.00|361.00|598.00
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|03|Special grants for Rural Roads|406|Tumakuru|3054-80-196-1-03|Tumakuru|V|Data|Object-Head|541.00|541.00|541.00|723.00
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|03|Special grants for Rural Roads|407|Mysuru|3054-80-196-1-03|Mysuru|V|Data|Object-Head|320.00|320.00|320.00|553.00
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|03|Special grants for Rural Roads|408|Chikkamagaluru|3054-80-196-1-03|Chikkamagaluru|V|Data|Object-Head|585.00|585.00|585.00|673.00
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|03|Special grants for Rural Roads|409|Dakshina Kannada|3054-80-196-1-03|Dakshina Kannada|V|Data|Object-Head|606.00|606.00|606.00|653.00
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|03|Special grants for Rural Roads|410|Hassan|3054-80-196-1-03|Hassan|V|Data|Object-Head|415.00|415.00|415.00|623.00
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|03|Special grants for Rural Roads|411|Kodagu|3054-80-196-1-03|Kodagu|V|Data|Object-Head|372.00|372.00|372.00|545.00
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|03|Special grants for Rural Roads|412|Mandya|3054-80-196-1-03|Mandya|V|Data|Object-Head|346.00|346.00|346.00|558.00
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|03|Special grants for Rural Roads|413|Belagavi|3054-80-196-1-03|Belagavi|V|Data|Object-Head|563.00|563.00|563.00|773.00
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|03|Special grants for Rural Roads|414|Vijayapura|3054-80-196-1-03|Vijayapura|V|Data|Object-Head|390.00|390.00|390.00|613.00
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|03|Special grants for Rural Roads|415|Dharwad|3054-80-196-1-03|Dharwad|V|Data|Object-Head|238.00|238.00|238.00|423.00
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|03|Special grants for Rural Roads|416|Uttara Kannada|3054-80-196-1-03|Uttara Kannada|V|Data|Object-Head|455.00|455.00|455.00|651.00
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|03|Special grants for Rural Roads|417|Kalaburagi|3054-80-196-1-03|Kalaburagi|V|Data|Object-Head|416.00|416.00|416.00|613.00
+30|04|07|3054|Roads and Bridges|80|General|196||1|Block Grants|03|Special grants for Rural Roads|418|Ballari|3054-80-196-1-03|Ballari|V|Data|Object-Head|195.00|195.00|195.00|378.00

@@ -1,0 +1,14 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+97|1|05|4059|Capital Outlay on Public Works|80||051||0||13|Construction of Prisons|||4059-80-051-0-13|Construction of Prisons||Header|Detailed-Head||||
+97|1|05|4059|Capital Outlay on Public Works|80||051||0||13|Construction of Prisons|125|Modernisation|4059-80-051-0-13|Modernisation||Data|Object-Head|124.99|||
+97|1|05|4059|Capital Outlay on Public Works|80||051||0||13|Construction of Prisons|180|Machinery and Equipments|4059-80-051-0-13|Machinery and Equipments||Data|Object-Head||225.00|225.00|600.00
+97|1|05|4059|Capital Outlay on Public Works|80||051||0||13|Construction of Prisons|386|Purchase/Construction of Buildings|4059-80-051-0-13|Purchase/Construction of Buildings||Data|Object-Head|9999.99|10000.00|10000.00|7500.00
+97|1|05|4059|Capital Outlay on Public Works|80||051||0||13|Construction of Prisons|||||HOA Total :|Total|Detailed-Head|10124.98|10225.00|10225.00|8100.00
+97|1|05|4059|Capital Outlay on Public Works|80||051||0||41|K.S.A.F.E|||4059-80-051-0-41|K.S.A.F.E||Header|Detailed-Head||||
+97|1|05|4059|Capital Outlay on Public Works|80||051||0||41|K.S.A.F.E|132|Other Capital Expenses|4059-80-051-0-41|Other Capital Expenses||Data|Object-Head|3459.16|2500.00|2500.00|2200.00
+97|1|05|4059|Capital Outlay on Public Works|80||051||0||41|K.S.A.F.E|199|Transportation Assets|4059-80-051-0-41|Transportation Assets||Data|Object-Head|711.48|2500.00|2500.00|2500.00
+97|1|05|4059|Capital Outlay on Public Works|80||051||0||41|K.S.A.F.E|||||HOA Total :|Total|Detailed-Head|4170.64|5000.00|5000.00|4700.00
+97|1|05|4059|Capital Outlay on Public Works|80||052||0||02|CSS-Central Share-Modernisation of Prisons(100% GoI)|||4059-80-052-0-02|CSS-Central Share-Modernisation of Prisons(100% GoI)||Header|Detailed-Head||||
+97|1|05|4059|Capital Outlay on Public Works|80||052||0||02|CSS-Central Share-Modernisation of Prisons(100% GoI)|180|Machinery and Equipments|4059-80-052-0-02|Machinery and Equipments||Data|Object-Head||1000.00|1000.00|
+97|1|05|4059|Capital Outlay on Public Works|80||052||0||02|CSS-Central Share-Modernisation of Prisons(100% GoI)|||||HOA Total :|Total|Detailed-Head|0.00|1000.00|1000.00|0.00
+97|1|05|4059|Capital Outlay on Public Works|80||||||||||4059-80|4059 - Total :||Total|Major-Head|14295.62|16225.00|16225.00|12800.00

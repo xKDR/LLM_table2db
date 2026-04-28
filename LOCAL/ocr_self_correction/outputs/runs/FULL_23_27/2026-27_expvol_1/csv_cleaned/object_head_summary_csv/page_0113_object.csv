@@ -1,0 +1,27 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+99|1|05|2041|Taxes on Vehicles|00||||||||||2041|Taxes on Vehicles|V|Header|Major-Head||||
+99|1|05|2041|Taxes on Vehicles|00||001||0||01|Commissioner for Transport|||2041-00-001-0-01|Commissioner for Transport|V|Header|Detailed-Head||||
+99|1|05|2041|Taxes on Vehicles|00||001||0||01|Commissioner for Transport|002|Basic Pay|2041-00-001-0-01|Basic Pay|V|Data|Object-Head|149.22|675.00|675.00|731.00
+99|1|05|2041|Taxes on Vehicles|00||001||0||01|Commissioner for Transport|003|Basic Pay-Staff|2041-00-001-0-01|Basic Pay-Staff|V|Data|Object-Head|406.95|||
+99|1|05|2041|Taxes on Vehicles|00||001||0||01|Commissioner for Transport|004|Interim Relief|2041-00-001-0-01|Interim Relief|V|Data|Object-Head|38.40|||
+99|1|05|2041|Taxes on Vehicles|00||001||0||01|Commissioner for Transport|011|Dearness Allowance|2041-00-001-0-01|Dearness Allowance|V|Data|Object-Head|141.36|155.00|155.00|190.00
+99|1|05|2041|Taxes on Vehicles|00||001||0||01|Commissioner for Transport|014|Other Allowance|2041-00-001-0-01|Other Allowance|V|Data|Object-Head|135.11|153.00|153.00|160.00
+99|1|05|2041|Taxes on Vehicles|00||001||0||01|Commissioner for Transport|020|Medical Allowance|2041-00-001-0-01|Medical Allowance|V|Data|Object-Head|3.57|||
+99|1|05|2041|Taxes on Vehicles|00||001||0||01|Commissioner for Transport|021|Reimbursement of Medical Expenses|2041-00-001-0-01|Reimbursement of Medical Expenses|V|Data|Object-Head|0.78|15.00|15.00|15.00
+99|1|05|2041|Taxes on Vehicles|00||001||0||01|Commissioner for Transport|034|Contract/Outsource|2041-00-001-0-01|Contract/Outsource|V|Data|Object-Head|1201.01|985.96|985.96|1066.58
+99|1|05|2041|Taxes on Vehicles|00||001||0||01|Commissioner for Transport|035|Salary of Board/Corp.Staff working in State Government|2041-00-001-0-01|Salary of Board/Corp.Staff working in State Government|V|Data|Object-Head|75.29|87.05|87.05|87.05
+99|1|05|2041|Taxes on Vehicles|00||001||0||01|Commissioner for Transport|041|Travel Expenses|2041-00-001-0-01|Travel Expenses|V|Data|Object-Head|4.60|5.00|5.00|5.00
+99|1|05|2041|Taxes on Vehicles|00||001||0||01|Commissioner for Transport|050|Office Expenses|2041-00-001-0-01|Office Expenses|V|Data|Object-Head||40.00|40.00|40.00
+99|1|05|2041|Taxes on Vehicles|00||001||0||01|Commissioner for Transport|051|General Expenses|2041-00-001-0-01|General Expenses|V|Data|Object-Head|139.89|130.00|130.00|135.00
+99|1|05|2041|Taxes on Vehicles|00||001||0||01|Commissioner for Transport|052|Telephone Charges|2041-00-001-0-01|Telephone Charges|V|Data|Object-Head|14.12|||
+99|1|05|2041|Taxes on Vehicles|00||001||0||01|Commissioner for Transport|071|Building Expenses|2041-00-001-0-01|Building Expenses|V|Data|Object-Head|463.67|600.00|600.00|550.00
+99|1|05|2041|Taxes on Vehicles|00||001||0||01|Commissioner for Transport|180|Machinery and Equipments|2041-00-001-0-01|Machinery and Equipments|V|Data|Object-Head|2.93|||
+99|1|05|2041|Taxes on Vehicles|00||001||0||01|Commissioner for Transport|195|Transport Expenses|2041-00-001-0-01|Transport Expenses|V|Data|Object-Head|62.71|75.00|75.00|53.16
+99|1|05|2041|Taxes on Vehicles|00||001||0||01|Commissioner for Transport|200|Maintenance Expenditure|2041-00-001-0-01|Maintenance Expenditure|V|Data|Object-Head|363.29|500.00|500.00|300.00
+99|1|05|2041|Taxes on Vehicles|00||001||0||01|Commissioner for Transport|||2041-00-001-0-01|HOA Total :|V|Total|Detailed-Head|3202.90|3421.01|3421.01|3332.79
+99|1|05|2041|Taxes on Vehicles|00||001||0||03|Karnataka State Transport Appellate Tribunal|||2041-00-001-0-03|Karnataka State Transport Appellate Tribunal|V|Header|Detailed-Head||||
+99|1|05|2041|Taxes on Vehicles|00||001||0||03|Karnataka State Transport Appellate Tribunal|002|Basic Pay|2041-00-001-0-03|Basic Pay|V|Data|Object-Head|27.69|62.00|62.00|59.00
+99|1|05|2041|Taxes on Vehicles|00||001||0||03|Karnataka State Transport Appellate Tribunal|003|Basic Pay-Staff|2041-00-001-0-03|Basic Pay-Staff|V|Data|Object-Head|33.93|||
+99|1|05|2041|Taxes on Vehicles|00||001||0||03|Karnataka State Transport Appellate Tribunal|004|Interim Relief|2041-00-001-0-03|Interim Relief|V|Data|Object-Head|1.79|||
+99|1|05|2041|Taxes on Vehicles|00||001||0||03|Karnataka State Transport Appellate Tribunal|011|Dearness Allowance|2041-00-001-0-03|Dearness Allowance|V|Data|Object-Head|21.16|26.00|26.00|28.00
+99|1|05|2041|Taxes on Vehicles|00||001||0||03|Karnataka State Transport Appellate Tribunal|014|Other Allowance|2041-00-001-0-03|Other Allowance|V|Data|Object-Head|35.44|13.00|13.00|10.00

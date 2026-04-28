@@ -1,0 +1,25 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+12|06|18|2851|Village and Small Industries|00||||||||||2851|Village and Small Industries|V|Header|Major-Head||||
+12|06|18|2851|Village and Small Industries|00||001||0||06|Unspent SCSP-TSP Amount as per the SCSP-TSP Act 2013|||2851-00-001-0-06|Unspent SCSP-TSP Amount as per the SCSP-TSP Act 2013|V|Header|Detailed-Head||||
+12|06|18|2851|Village and Small Industries|00||001||0||06|Unspent SCSP-TSP Amount as per the SCSP-TSP Act 2013|422|Schedule Caste Sub Plan|2851-00-001-0-06|Schedule Caste Sub Plan|V|Data|Object-Head||0.01|0.01|
+12|06|18|2851|Village and Small Industries|00||001||0||06|Unspent SCSP-TSP Amount as per the SCSP-TSP Act 2013||||HOA Total :|V|Total|Detailed-Head|0.00|0.01|0.01|0.00
+12|06|18|2851|Village and Small Industries|00||001||0||50|Vacant Post Provision|||2851-00-001-0-50|Vacant Post Provision|V|Header|Detailed-Head||||
+12|06|18|2851|Village and Small Industries|00||001||0||50|Vacant Post Provision|014|Other Allowance|2851-00-001-0-50|Other Allowance|V|Data|Object-Head||167.77|165.55|205.77
+12|06|18|2851|Village and Small Industries|00||001||0||50|Vacant Post Provision||||HOA Total :|V|Total|Detailed-Head|0.00|167.77|165.55|205.77
+12|06|18|2851|Village and Small Industries|00||103||0||01|Directorate of Handloom & Textiles|||2851-00-103-0-01|Directorate of Handloom & Textiles|V|Header|Detailed-Head||||
+12|06|18|2851|Village and Small Industries|00||103||0||01|Directorate of Handloom & Textiles|002|Basic Pay|2851-00-103-0-01|Basic Pay|V|Data|Object-Head|192.28|337.00|485.97|433.00
+12|06|18|2851|Village and Small Industries|00||103||0||01|Directorate of Handloom & Textiles|003|Basic Pay-Staff|2851-00-103-0-01|Basic Pay-Staff|V|Data|Object-Head|121.75|||
+12|06|18|2851|Village and Small Industries|00||103||0||01|Directorate of Handloom & Textiles|004|Interim Relief|2851-00-103-0-01|Interim Relief|V|Data|Object-Head|23.63|||
+12|06|18|2851|Village and Small Industries|00||103||0||01|Directorate of Handloom & Textiles|011|Dearness Allowance|2851-00-103-0-01|Dearness Allowance|V|Data|Object-Head|85.30|81.00|81.00|116.00
+12|06|18|2851|Village and Small Industries|00||103||0||01|Directorate of Handloom & Textiles|014|Other Allowance|2851-00-103-0-01|Other Allowance|V|Data|Object-Head|72.38|74.00|101.88|85.00
+12|06|18|2851|Village and Small Industries|00||103||0||01|Directorate of Handloom & Textiles|020|Medical Allowance|2851-00-103-0-01|Medical Allowance|V|Data|Object-Head|1.00|||
+12|06|18|2851|Village and Small Industries|00||103||0||01|Directorate of Handloom & Textiles|021|Reimbursement of Medical Expenses|2851-00-103-0-01|Reimbursement of Medical Expenses|V|Data|Object-Head|5.91|15.00|15.00|15.00
+12|06|18|2851|Village and Small Industries|00||103||0||01|Directorate of Handloom & Textiles|034|Contract/Outsource|2851-00-103-0-01|Contract/Outsource|V|Data|Object-Head|76.67|85.40|85.40|88.15
+12|06|18|2851|Village and Small Industries|00||103||0||01|Directorate of Handloom & Textiles|041|Travel Expenses|2851-00-103-0-01|Travel Expenses|V|Data|Object-Head|6.97|6.00|6.00|7.00
+12|06|18|2851|Village and Small Industries|00||103||0||01|Directorate of Handloom & Textiles|050|Office Expenses|2851-00-103-0-01|Office Expenses|V|Data|Object-Head||35.00|35.00|36.00
+12|06|18|2851|Village and Small Industries|00||103||0||01|Directorate of Handloom & Textiles|051|General Expenses|2851-00-103-0-01|General Expenses|V|Data|Object-Head|29.88|1.00|1.00|1.00
+12|06|18|2851|Village and Small Industries|00||103||0||01|Directorate of Handloom & Textiles|052|Telephone Charges|2851-00-103-0-01|Telephone Charges|V|Data|Object-Head|2.04|||
+12|06|18|2851|Village and Small Industries|00||103||0||01|Directorate of Handloom & Textiles|053|Purchase of Furniture and Fixture for Office|2851-00-103-0-01|Purchase of Furniture and Fixture for Office|V|Data|Object-Head|2.00|||
+12|06|18|2851|Village and Small Industries|00||103||0||01|Directorate of Handloom & Textiles|071|Building Expenses|2851-00-103-0-01|Building Expenses|V|Data|Object-Head|97.12|104.00|104.00|146.00
+12|06|18|2851|Village and Small Industries|00||103||0||01|Directorate of Handloom & Textiles|195|Transport Expenses|2851-00-103-0-01|Transport Expenses|V|Data|Object-Head|30.65|34.98|34.98|32.51
+12|06|18|2851|Village and Small Industries|00||103||0||01|Directorate of Handloom & Textiles||||HOA Total :|V|Total|Detailed-Head|747.58|773.38|950.23|959.66

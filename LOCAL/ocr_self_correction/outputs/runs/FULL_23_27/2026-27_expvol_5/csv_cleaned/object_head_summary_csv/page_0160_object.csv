@@ -1,0 +1,11 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+147|05|14|2250|Other Social Services|00||911|Deduct Recoveries of Overpayments|0||00|Recovery of Over Payments|||2250-00-911-0-00|Recovery of Over Payments|V|Header|Detailed-Head||||
+147|05|14|2250|Other Social Services|00||911|Deduct Recoveries of Overpayments|0||00|Recovery of Over Payments|364|Deduct - Recoveries|2250-00-911-0-00|Deduct - Recoveries|V|Data|Object-Head|-9.07|||
+147|05|14|2250|Other Social Services|00||911|Deduct Recoveries of Overpayments|0||00|Recovery of Over Payments|||2250-00-911-0-00|HOA Total :|V|Total|Detailed-Head|-9.07|0.00|0.00|0.00
+147|05|14|2250|Other Social Services|00||911|Deduct Recoveries of Overpayments|0||01|Deduct Recovery of Over Payments of Current Year|||2250-00-911-0-01|Deduct Recovery of Over Payments of Current Year|V|Header|Detailed-Head||||
+147|05|14|2250|Other Social Services|00||911|Deduct Recoveries of Overpayments|0||01|Deduct Recovery of Over Payments of Current Year|364|Deduct - Recoveries|2250-00-911-0-01|Deduct - Recoveries|V|Data|Object-Head|-0.19|||
+147|05|14|2250|Other Social Services|00||911|Deduct Recoveries of Overpayments|0||01|Deduct Recovery of Over Payments of Current Year|||2250-00-911-0-01|HOA Total :|V|Total|Detailed-Head|-0.19|0.00|0.00|0.00
+147|05|14|2250|Other Social Services|00||911|Deduct Recoveries of Overpayments|0||02|Deduct Recovery of Overpayments|||2250-00-911-0-02|Deduct Recovery of Overpayments|V|Header|Detailed-Head||||
+147|05|14|2250|Other Social Services|00||911|Deduct Recoveries of Overpayments|0||02|Deduct Recovery of Overpayments|364|Deduct - Recoveries|2250-00-911-0-02|Deduct - Recoveries|V|Data|Object-Head|-21.50|||
+147|05|14|2250|Other Social Services|00||911|Deduct Recoveries of Overpayments|0||02|Deduct Recovery of Overpayments|||2250-00-911-0-02|HOA Total :|V|Total|Detailed-Head|-21.50|0.00|0.00|0.00
+147|05|14|2250|Other Social Services|00||||||||||2250|2250 - Total :|V|Total|Major-Head|30789.42|14102.83|15759.81|18730.34

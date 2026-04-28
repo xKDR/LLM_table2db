@@ -1,0 +1,5 @@
+
+    total_prompt_tokens: 978714
+    total_candidate_tokens: 230121
+    total_thought_tokens: 1038274
+    

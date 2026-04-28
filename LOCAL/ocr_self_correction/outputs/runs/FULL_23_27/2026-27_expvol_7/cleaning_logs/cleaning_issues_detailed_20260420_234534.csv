@@ -1,0 +1,225 @@
+CSV_Type,File_Name,Page_Number,Row_Number,Error_Type,Fixed,Column,Error_Message
+object_head,page_0012_object.csv,12,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0013_object.csv,13,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0013_object.csv,13,3,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0013_object.csv,13,4,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0013_object.csv,13,7,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0013_object.csv,13,13,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0013_object.csv,13,19,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0013_object.csv,13,20,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0013_object.csv,13,23,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0014_object.csv,14,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0014_object.csv,14,5,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0014_object.csv,14,7,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0015_object.csv,15,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0016_object.csv,16,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0017_object.csv,17,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0017_object.csv,17,5,MISSING_COLUMNS_FIXED,Yes,ALL,"Row had 23 columns, expected 24. Inserted 1 empty field(s) at position 14."
+object_head,page_0018_object.csv,18,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0018_object.csv,18,18,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0018_object.csv,18,21,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0018_object.csv,18,22,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0018_object.csv,18,24,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0018_object.csv,18,25,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0019_object.csv,19,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0019_object.csv,19,3,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0019_object.csv,19,4,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0019_object.csv,19,7,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0019_object.csv,19,14,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0019_object.csv,19,16,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0019_object.csv,19,19,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0019_object.csv,19,22,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0019_object.csv,19,23,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0020_object.csv,20,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0020_object.csv,20,12,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0020_object.csv,20,15,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0020_object.csv,20,18,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0021_object.csv,21,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0021_object.csv,21,11,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0021_object.csv,21,14,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0021_object.csv,21,17,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0021_object.csv,21,20,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0022_object.csv,22,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0022_object.csv,22,2,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0022_object.csv,22,3,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0022_object.csv,22,5,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0022_object.csv,22,6,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0022_object.csv,22,9,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0022_object.csv,22,12,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0022_object.csv,22,14,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0022_object.csv,22,15,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0022_object.csv,22,17,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0022_object.csv,22,19,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0023_object.csv,23,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0023_object.csv,23,3,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0023_object.csv,23,6,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0023_object.csv,23,9,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0023_object.csv,23,11,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0023_object.csv,23,12,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0023_object.csv,23,14,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0023_object.csv,23,15,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0024_object.csv,24,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0024_object.csv,24,2,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0024_object.csv,24,3,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0025_object.csv,25,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0025_object.csv,25,5,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0025_object.csv,25,10,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0025_object.csv,25,13,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0025_object.csv,25,16,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0026_object.csv,26,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0026_object.csv,26,4,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0027_object.csv,27,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0027_object.csv,27,5,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0028_object.csv,28,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0028_object.csv,28,4,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0028_object.csv,28,6,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0028_object.csv,28,7,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0028_object.csv,28,9,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0028_object.csv,28,11,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0028_object.csv,28,14,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0028_object.csv,28,15,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0028_object.csv,28,19,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0028_object.csv,28,20,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0028_object.csv,28,22,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0029_object.csv,29,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0029_object.csv,29,3,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0029_object.csv,29,4,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0029_object.csv,29,7,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0029_object.csv,29,10,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0029_object.csv,29,13,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0029_object.csv,29,15,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0029_object.csv,29,16,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0030_object.csv,30,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0030_object.csv,30,5,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0030_object.csv,30,6,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0030_object.csv,30,7,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0030_object.csv,30,10,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0030_object.csv,30,13,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0030_object.csv,30,17,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0030_object.csv,30,19,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0031_object.csv,31,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0031_object.csv,31,2,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0031_object.csv,31,3,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0031_object.csv,31,4,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0031_object.csv,31,5,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0031_object.csv,31,6,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0031_object.csv,31,7,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0031_object.csv,31,8,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0031_object.csv,31,9,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0031_object.csv,31,10,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0031_object.csv,31,11,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0031_object.csv,31,12,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0031_object.csv,31,13,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0031_object.csv,31,14,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0031_object.csv,31,15,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0031_object.csv,31,17,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0032_object.csv,32,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0032_object.csv,32,3,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0032_object.csv,32,5,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0032_object.csv,32,6,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0032_object.csv,32,9,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0032_object.csv,32,11,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0032_object.csv,32,12,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0032_object.csv,32,15,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0032_object.csv,32,18,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0032_object.csv,32,19,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0032_object.csv,32,20,MISSING_COLUMNS_FIXED,Yes,ALL,"Row had 23 columns, expected 24. Inserted 1 empty field(s) at position 14."
+object_head,page_0033_object.csv,33,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0034_object.csv,34,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0034_object.csv,34,7,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0034_object.csv,34,11,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0035_object.csv,35,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0035_object.csv,35,21,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0035_object.csv,35,24,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0036_object.csv,36,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0036_object.csv,36,3,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0036_object.csv,36,4,MISSING_COLUMNS_FIXED,Yes,ALL,"Row had 23 columns, expected 24. Inserted 1 empty field(s) at position 14."
+object_head,page_0036_object.csv,36,7,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0036_object.csv,36,8,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0036_object.csv,36,11,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0036_object.csv,36,17,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0036_object.csv,36,23,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0037_object.csv,37,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0037_object.csv,37,3,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0037_object.csv,37,6,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0037_object.csv,37,7,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0037_object.csv,37,11,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0037_object.csv,37,18,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0037_object.csv,37,21,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0037_object.csv,37,25,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (18,)."
+object_head,page_0038_object.csv,38,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0039_object.csv,39,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0040_object.csv,40,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0040_object.csv,40,2,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0040_object.csv,40,4,MISSING_COLUMNS_FIXED,Yes,ALL,"Row had 23 columns, expected 24. Inserted 1 empty field(s) at position 14."
+object_head,page_0041_object.csv,41,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0042_object.csv,42,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0043_object.csv,43,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0043_object.csv,43,2,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0043_object.csv,43,7,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0043_object.csv,43,9,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0043_object.csv,43,10,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0043_object.csv,43,12,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0043_object.csv,43,13,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0044_object.csv,44,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0045_object.csv,45,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0046_object.csv,46,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0047_object.csv,47,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0048_object.csv,48,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0048_object.csv,48,4,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0048_object.csv,48,15,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0049_object.csv,49,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0049_object.csv,49,9,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (15,)."
+object_head,page_0049_object.csv,49,13,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (15,)."
+object_head,page_0050_object.csv,50,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0051_object.csv,51,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0051_object.csv,51,12,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0052_object.csv,52,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0052_object.csv,52,3,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0052_object.csv,52,7,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0052_object.csv,52,8,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0052_object.csv,52,12,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0052_object.csv,52,18,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0052_object.csv,52,19,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0052_object.csv,52,21,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0053_object.csv,53,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0053_object.csv,53,4,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0053_object.csv,53,12,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0053_object.csv,53,13,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0053_object.csv,53,16,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0053_object.csv,53,22,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0054_object.csv,54,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0054_object.csv,54,4,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0054_object.csv,54,5,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0054_object.csv,54,8,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0054_object.csv,54,9,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0054_object.csv,54,11,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0054_object.csv,54,12,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0054_object.csv,54,14,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0054_object.csv,54,15,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0055_object.csv,55,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0055_object.csv,55,22,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0056_object.csv,56,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0057_object.csv,57,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0058_object.csv,58,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0059_object.csv,59,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0059_object.csv,59,7,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0060_object.csv,60,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0061_object.csv,61,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0062_object.csv,62,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0062_object.csv,62,2,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0062_object.csv,62,11,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0063_object.csv,63,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0063_object.csv,63,4,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0064_object.csv,64,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0064_object.csv,64,4,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0064_object.csv,64,5,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0064_object.csv,64,8,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0064_object.csv,64,15,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (24,)."
+object_head,page_0065_object.csv,65,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0066_object.csv,66,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0066_object.csv,66,6,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0067_object.csv,67,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0067_object.csv,67,6,EXTRA_COLUMNS_FIXED,Yes,ALL,"Row had 25 columns, expected 24. Removed empty fields at positions (16,)."
+object_head,page_0068_object.csv,68,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)
+object_head,page_0069_object.csv,69,0,HEADER_PREPENDED,Yes,HEADER,No header row found; prepended schema header (object_head)

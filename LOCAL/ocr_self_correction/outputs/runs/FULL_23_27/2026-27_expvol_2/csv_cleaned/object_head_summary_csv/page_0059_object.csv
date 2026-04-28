@@ -1,0 +1,23 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+46|02|17|2202|General Education|01||107||0||09|Teachers Training and Orientation Training Centres|004|Interim Relief|2202-01-107-0-09|Interim Relief|V|Data|Object-Head|114.99|||
+46|02|17|2202|General Education|01||107||0||09|Teachers Training and Orientation Training Centres|011|Dearness Allowance|2202-01-107-0-09|Dearness Allowance|V|Data|Object-Head|404.46|457.00|457.00|554.00
+46|02|17|2202|General Education|01||107||0||09|Teachers Training and Orientation Training Centres|014|Other Allowance|2202-01-107-0-09|Other Allowance|V|Data|Object-Head|221.23|280.00|280.00|283.00
+46|02|17|2202|General Education|01||107||0||09|Teachers Training and Orientation Training Centres|020|Medical Allowance|2202-01-107-0-09|Medical Allowance|V|Data|Object-Head|7.77|||
+46|02|17|2202|General Education|01||107||0||09|Teachers Training and Orientation Training Centres|021|Reimbursement of Medical Expenses|2202-01-107-0-09|Reimbursement of Medical Expenses|V|Data|Object-Head|9.97|18.00|18.00|18.00
+46|02|17|2202|General Education|01||107||0||09|Teachers Training and Orientation Training Centres|041|Travel Expenses|2202-01-107-0-09|Travel Expenses|V|Data|Object-Head|0.93|2.00|2.00|2.00
+46|02|17|2202|General Education|01||107||0||09|Teachers Training and Orientation Training Centres|050|Office Expenses|2202-01-107-0-09|Office Expenses|V|Data|Object-Head||1.00|1.00|4.00
+46|02|17|2202|General Education|01||107||0||09|Teachers Training and Orientation Training Centres|051|General Expenses|2202-01-107-0-09|General Expenses|V|Data|Object-Head|1.74|2.00|2.00|2.00
+46|02|17|2202|General Education|01||107||0||09|Teachers Training and Orientation Training Centres|052|Telephone Charges|2202-01-107-0-09|Telephone Charges|V|Data|Object-Head|0.43|||
+46|02|17|2202|General Education|01||107||0||09|Teachers Training and Orientation Training Centres|071|Building Expenses|2202-01-107-0-09|Building Expenses|V|Data|Object-Head|1.92|4.00|4.00|4.20
+46|02|17|2202|General Education|01||107||0||09|Teachers Training and Orientation Training Centres||||ಜುಮ್ಲಾ HOA Total :|V|Total|Detailed-Head|2427.81|2839.00|2839.00|3083.20
+46|02|17|2202|General Education|01||109||0||03|Vidya Vikasa Scheme- Incentive for Students|||2202-01-109-0-03|Vidya Vikasa Scheme- Incentive for Students|V|Header|Detailed-Head||||
+46|02|17|2202|General Education|01||109||0||03|Vidya Vikasa Scheme- Incentive for Students|133|Regional Imbalance Redressal Program|2202-01-109-0-03|Regional Imbalance Redressal Program|V|Data|Object-Head|9331.83|7022.39|6422.39|8713.70
+46|02|17|2202|General Education|01||109||0||03|Vidya Vikasa Scheme- Incentive for Students|135|Regional Imbalances Redressal Program-SCP|2202-01-109-0-03|Regional Imbalances Redressal Program-SCP|V|Data|Object-Head||||3230.21
+46|02|17|2202|General Education|01||109||0||03|Vidya Vikasa Scheme- Incentive for Students|136|Regional Imbalances Redressal Program-TSP|2202-01-109-0-03|Regional Imbalances Redressal Program-TSP|V|Data|Object-Head||||1292.09
+46|02|17|2202|General Education|01||109||0||03|Vidya Vikasa Scheme- Incentive for Students|221|Materials and Supplies|2202-01-109-0-03|Materials and Supplies|V|Data|Object-Head|26180.32|19627.61|20227.61|18936.30
+46|02|17|2202|General Education|01||109||0||03|Vidya Vikasa Scheme- Incentive for Students|422|Schedule Caste Sub Plan|2202-01-109-0-03|Schedule Caste Sub Plan|V|Data|Object-Head|7991.87|10250.00|10250.00|7019.79
+46|02|17|2202|General Education|01||109||0||03|Vidya Vikasa Scheme- Incentive for Students|423|Tribal Sub Plan|2202-01-109-0-03|Tribal Sub Plan|V|Data|Object-Head|3226.74|4100.00|4100.00|2807.91
+46|02|17|2202|General Education|01||109||0||03|Vidya Vikasa Scheme- Incentive for Students||||ಜುಮ್ಲಾ HOA Total :|V|Total|Detailed-Head|46730.76|41000.00|41000.00|42000.00
+46|02|17|2202|General Education|01||109||0||08|Education Quality Improvement Program|||2202-01-109-0-08|Education Quality Improvement Program|V|Header|Detailed-Head||||
+46|02|17|2202|General Education|01||109||0||08|Education Quality Improvement Program|015|Subsidiary Expenses|2202-01-109-0-08|Subsidiary Expenses|V|Data|Object-Head||700.00|700.00|550.00
+46|02|17|2202|General Education|01||109||0||08|Education Quality Improvement Program|051|General Expenses|2202-01-109-0-08|General Expenses|V|Data|Object-Head||||150.00

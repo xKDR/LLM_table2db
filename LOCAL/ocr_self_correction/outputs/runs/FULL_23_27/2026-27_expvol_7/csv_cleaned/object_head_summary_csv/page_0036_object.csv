@@ -1,0 +1,27 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+25|07|21|2701|Medium Irrigation|80||001||0||21|Vacant Post Provision|||2701-80-001-0-21|Vacant Post Provision||Header|Detailed-Head||||
+25|07|21|2701|Medium Irrigation|80||001||0||21|Vacant Post Provision|014|Other Allowance|2701-80-001-0-21|Other Allowance||Data|Object-Head||13023.75|12899.48|15981.75
+25|07|21|2701|Medium Irrigation|80||001||0||21|Vacant Post Provision|||||HOA Total :|Total|Detailed-Head|0.00|13023.75|12899.48|15981.75
+25|07|21|2701|Medium Irrigation|80||004||||||||2701-80-004|||Header|Minor-Head||||
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|||2701-80-004-1-02|Karnataka Engineering Research Station, Krishna Raja Sagar||Header|Detailed-Head||||
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|002|Basic Pay|2701-80-004-1-02|Basic Pay||Data|Object-Head|507.34|975.00|975.00|915.00
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|003|Basic Pay-Staff|2701-80-004-1-02|Basic Pay-Staff||Data|Object-Head|275.53|||
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|004|Interim Relief|2701-80-004-1-02|Interim Relief||Data|Object-Head|50.57|||
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|011|Dearness Allowance|2701-80-004-1-02|Dearness Allowance||Data|Object-Head|183.08|215.00|215.00|229.00
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|014|Other Allowance|2701-80-004-1-02|Other Allowance||Data|Object-Head|102.61|119.00|119.00|125.00
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|020|Medical Allowance|2701-80-004-1-02|Medical Allowance||Data|Object-Head|2.50|||
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|021|Reimbursement of Medical Expenses|2701-80-004-1-02|Reimbursement of Medical Expenses||Data|Object-Head|1.17|15.00|15.00|15.00
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|034|Contract/Outsource|2701-80-004-1-02|Contract/Outsource||Data|Object-Head|50.43|66.56|66.56|68.96
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|041|Travel Expenses|2701-80-004-1-02|Travel Expenses||Data|Object-Head|4.85|5.00|5.00|6.00
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|050|Office Expenses|2701-80-004-1-02|Office Expenses||Data|Object-Head||3.00|3.00|30.00
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|051|General Expenses|2701-80-004-1-02|General Expenses||Data|Object-Head|71.65|60.00|60.00|30.00
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|052|Telephone Charges|2701-80-004-1-02|Telephone Charges||Data|Object-Head|1.90|||
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|071|Building Expenses|2701-80-004-1-02|Building Expenses||Data|Object-Head|14.23|18.00|18.00|28.51
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|195|Transport Expenses|2701-80-004-1-02|Transport Expenses||Data|Object-Head|25.74|34.37|34.37|33.03
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|200|Maintenance Expenditure|2701-80-004-1-02|Maintenance Expenditure||Data|Object-Head|39.98|30.00|30.00|40.00
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|251|Pension & Retirement Benefits|2701-80-004-1-02|Pension & Retirement Benefits||Data|Object-Head||24.50|24.50|25.00
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|324|Honorarium|2701-80-004-1-02|Honorarium||Data|Object-Head||||3.00
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|||||HOA Total :|Total|Detailed-Head|1331.58|1565.43|1565.43|1548.50
+25|07|21|2701|Medium Irrigation|80||004||1||04|Suspense|||2701-80-004-1-04|Suspense||Header|Detailed-Head||||
+25|07|21|2701|Medium Irrigation|80||004||1||04|Suspense|292|Stock Debits|2701-80-004-1-04|Stock Debits||Data|Object-Head||1.00|1.00|
+25|07|21|2701|Medium Irrigation|80||004||1||04|Suspense|293|M P W A Debits|2701-80-004-1-04|M P W A Debits||Data|Object-Head||1.00|1.00|

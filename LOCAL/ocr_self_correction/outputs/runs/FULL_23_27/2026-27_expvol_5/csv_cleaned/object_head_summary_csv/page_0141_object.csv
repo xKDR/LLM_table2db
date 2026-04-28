@@ -1,0 +1,11 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+128|05|14|2053|District Administration|00||911||0||00|Deduct - Recoveries of Overpayments|||2053-00-911-0-00|Deduct - Recoveries of Overpayments|V|Header|Detailed-Head||||
+128|05|14|2053|District Administration|00||911||0||00|Deduct - Recoveries of Overpayments|364|Deduct - Recoveries|2053-00-911-0-00|Deduct - Recoveries|V|Data|Object-Head|-6.20|||
+128|05|14|2053|District Administration|00||911||0||00|Deduct - Recoveries of Overpayments|||2053-00-911-0-00|HOA Total :|V|Total|Detailed-Head|-6.20|0.00|0.00|0.00
+128|05|14|2053|District Administration|00||911||0||01|Deduct Recovery of Over Payments of Current Year|||2053-00-911-0-01|Deduct Recovery of Over Payments of Current Year|V|Header|Detailed-Head||||
+128|05|14|2053|District Administration|00||911||0||01|Deduct Recovery of Over Payments of Current Year|364|Deduct - Recoveries|2053-00-911-0-01|Deduct - Recoveries|V|Data|Object-Head|-22.09|||
+128|05|14|2053|District Administration|00||911||0||01|Deduct Recovery of Over Payments of Current Year|||2053-00-911-0-01|HOA Total :|V|Total|Detailed-Head|-22.09|0.00|0.00|0.00
+128|05|14|2053|District Administration|00||911||0||02|Deduct Recoveries of Overpayment of Previous Years|||2053-00-911-0-02|Deduct Recoveries of Overpayment of Previous Years|V|Header|Detailed-Head||||
+128|05|14|2053|District Administration|00||911||0||02|Deduct Recoveries of Overpayment of Previous Years|364|Deduct - Recoveries|2053-00-911-0-02|Deduct - Recoveries|V|Data|Object-Head|-10.38|||
+128|05|14|2053|District Administration|00||911||0||02|Deduct Recoveries of Overpayment of Previous Years|||2053-00-911-0-02|HOA Total :|V|Total|Detailed-Head|-10.38|0.00|0.00|0.00
+128|05|14|2053|District Administration|00||||||||||2053|2053 - Total :|V|Total|Major-Head|70435.58|100998.11|83336.78|109390.13

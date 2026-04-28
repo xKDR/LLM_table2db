@@ -1,0 +1,22 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+139|05|14|2245|Relief on Account of Natural Calamities|07||101||0||03|Transfer of State Share to National Disaster Mitigation Fund|||2245-07-101-0-03|Transfer of State Share to National Disaster Mitigation Fund||Header|Detailed-Head||||
+139|05|14|2245|Relief on Account of Natural Calamities|07||101||0||03|Transfer of State Share to National Disaster Mitigation Fund|261|Inter Account Transfers|2245-07-101-0-03|Inter Account Transfers||Data|Object-Head|||500.00|
+139|05|14|2245|Relief on Account of Natural Calamities|07||101||0||03|Transfer of State Share to National Disaster Mitigation Fund|||2245-07-101-0-03|HOA Total :||Total|Detailed-Head|0.00|0.00|500.00|0.00
+139|05|14|2245|Relief on Account of Natural Calamities|07||901||0||01|Deduct -Amount met from National Disaster Mitigation Fund|||2245-07-901-0-01|Deduct -Amount met from National Disaster Mitigation Fund||Header|Detailed-Head||||
+139|05|14|2245|Relief on Account of Natural Calamities|07||901||0||01|Deduct -Amount met from National Disaster Mitigation Fund|261|Inter Account Transfers|2245-07-901-0-01|Inter Account Transfers||Data|Object-Head|||-5500.00|
+139|05|14|2245|Relief on Account of Natural Calamities|07||901||0||01|Deduct -Amount met from National Disaster Mitigation Fund|||2245-07-901-0-01|HOA Total :||Total|Detailed-Head|0.00|0.00|-5500.00|0.00
+139|05|14|2245|Relief on Account of Natural Calamities|08||101||0||01|State Disaster Mitigation Fund|||2245-08-101-0-01|State Disaster Mitigation Fund||Header|Detailed-Head||||
+139|05|14|2245|Relief on Account of Natural Calamities|08||101||0||01|State Disaster Mitigation Fund|059|Other Expenses|2245-08-101-0-01|Other Expenses||Data|Object-Head|10699.82|25626.67|49610.77|31000.00
+139|05|14|2245|Relief on Account of Natural Calamities|08||101||0||01|State Disaster Mitigation Fund|||2245-08-101-0-01|HOA Total :||Total|Detailed-Head|10699.82|25626.67|49610.77|31000.00
+139|05|14|2245|Relief on Account of Natural Calamities|80||001||0||01|Disaster Management Cell|||2245-80-001-0-01|Disaster Management Cell||Header|Detailed-Head||||
+139|05|14|2245|Relief on Account of Natural Calamities|80||001||0||01|Disaster Management Cell|002|Basic Pay|2245-80-001-0-01|Basic Pay||Data|Object-Head|7.46|12.00|12.00|13.00
+139|05|14|2245|Relief on Account of Natural Calamities|80||001||0||01|Disaster Management Cell|003|Basic Pay-Staff|2245-80-001-0-01|Basic Pay-Staff||Data|Object-Head|8.57|||
+139|05|14|2245|Relief on Account of Natural Calamities|80||001||0||01|Disaster Management Cell|004|Interim Relief|2245-80-001-0-01|Interim Relief||Data|Object-Head|0.52|||
+139|05|14|2245|Relief on Account of Natural Calamities|80||001||0||01|Disaster Management Cell|011|Dearness Allowance|2245-80-001-0-01|Dearness Allowance||Data|Object-Head|5.53|3.00|3.00|4.00
+139|05|14|2245|Relief on Account of Natural Calamities|80||001||0||01|Disaster Management Cell|014|Other Allowance|2245-80-001-0-01|Other Allowance||Data|Object-Head|5.14|6.00|6.00|5.00
+139|05|14|2245|Relief on Account of Natural Calamities|80||001||0||01|Disaster Management Cell|020|Medical Allowance|2245-80-001-0-01|Medical Allowance||Data|Object-Head|0.04|||
+139|05|14|2245|Relief on Account of Natural Calamities|80||001||0||01|Disaster Management Cell|021|Reimbursement of Medical Expenses|2245-80-001-0-01|Reimbursement of Medical Expenses||Data|Object-Head||3.00|3.00|3.00
+139|05|14|2245|Relief on Account of Natural Calamities|80||001||0||01|Disaster Management Cell|034|Contract/Outsource|2245-80-001-0-01|Contract/Outsource||Data|Object-Head|2.66|9.20|19.64|12.00
+139|05|14|2245|Relief on Account of Natural Calamities|80||001||0||01|Disaster Management Cell|041|Travel Expenses|2245-80-001-0-01|Travel Expenses||Data|Object-Head||1.00|1.00|
+139|05|14|2245|Relief on Account of Natural Calamities|80||001||0||01|Disaster Management Cell|195|Transport Expenses|2245-80-001-0-01|Transport Expenses||Data|Object-Head|4.19|5.00|5.00|4.65
+139|05|14|2245|Relief on Account of Natural Calamities|80||001||0||01|Disaster Management Cell|||2245-80-001-0-01|HOA Total :||Total|Detailed-Head|34.11|39.20|49.64|41.65

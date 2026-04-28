@@ -1,0 +1,8 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+33|06|18|2852|Industries|08||911|Deduct-Recovery of Overpayments|0||02|Deduct-Recovery of Overpayments|||2852-08-911-0-02|Deduct-Recovery of Overpayments|V|Header|Detailed-Head||||
+33|06|18|2852|Industries|08||911|Deduct-Recovery of Overpayments|0||02|Deduct-Recovery of Overpayments|364|Deduct - Recoveries|2852-08-911-0-02|Deduct - Recoveries|V|Data|Object-Head|-83.68|||
+33|06|18|2852|Industries|08||911|Deduct-Recovery of Overpayments|0||02|Deduct-Recovery of Overpayments|||2852-08-911-0-02|HOA Total :|V|Total|Detailed-Head|-83.68|0.00|0.00|0.00
+33|06|18|2852|Industries|80||911|Deduct Recovery of Over Payment of Previous years-ZP|0||04|Deduct Recovery of Over Payment of Previous years-ZP|||2852-80-911-0-04|Deduct Recovery of Over Payment of Previous years-ZP|V|Header|Detailed-Head||||
+33|06|18|2852|Industries|80||911|Deduct Recovery of Over Payment of Previous years-ZP|0||04|Deduct Recovery of Over Payment of Previous years-ZP|261|Inter Account Transfers|2852-80-911-0-04|Inter Account Transfers|V|Data|Object-Head||-41.67|-41.67|-9541.16
+33|06|18|2852|Industries|80||911|Deduct Recovery of Over Payment of Previous years-ZP|0||04|Deduct Recovery of Over Payment of Previous years-ZP|||2852-80-911-0-04|HOA Total :|V|Total|Detailed-Head|0.00|-41.67|-41.67|-9541.16
+33|06|18|2852|Industries|80||||||||||2852|2852 - Total :|V|Total|Major-Head|-83.68|-41.67|-41.67|-9541.16

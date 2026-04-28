@@ -1,0 +1,27 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+7|6|15|3451|Secretariat- Economic Services|00||||||||||3451|Secretariat- Economic Services|V|Header|Major-Head||||
+7|6|15|3451|Secretariat- Economic Services|00||090||2||01|IT Policy|||3451-00-090-2-01|IT Policy|V|Header|Detailed-Head||||
+7|6|15|3451|Secretariat- Economic Services|00||090||2||01|IT Policy|059|Other Expenses|3451-00-090-2-01|Other Expenses|V|Data|Object-Head|6921.05|11690.00|11690.00|10780.00
+7|6|15|3451|Secretariat- Economic Services|00||090||2||01|IT Policy|422|Schedule Caste Sub Plan|3451-00-090-2-01|Schedule Caste Sub Plan|V|Data|Object-Head|169.29|1080.00|1080.00|1004.50
+7|6|15|3451|Secretariat- Economic Services|00||090||2||01|IT Policy|423|Tribal Sub Plan|3451-00-090-2-01|Tribal Sub Plan|V|Data|Object-Head|9.66|480.00|480.00|465.50
+7|6|15|3451|Secretariat- Economic Services|00||090||2||01|IT Policy|||3451-00-090-2-01|HOA Total :|V|Total|Detailed-Head|7100.00|13250.00|13250.00|12250.00
+7|6|15|3451|Secretariat- Economic Services|00||090||2||05|International Institute for Information Technology|||3451-00-090-2-05|International Institute for Information Technology|V|Header|Detailed-Head||||
+7|6|15|3451|Secretariat- Economic Services|00||090||2||05|International Institute for Information Technology|059|Other Expenses|3451-00-090-2-05|Other Expenses|V|Data|Object-Head|2500.00|2500.00|2500.00|2500.00
+7|6|15|3451|Secretariat- Economic Services|00||090||2||05|International Institute for Information Technology|||3451-00-090-2-05|HOA Total :|V|Total|Detailed-Head|2500.00|2500.00|2500.00|2500.00
+7|6|15|3451|Secretariat- Economic Services|00||090||2||21|IT & BT Directorate|||3451-00-090-2-21|IT & BT Directorate|V|Header|Detailed-Head||||
+7|6|15|3451|Secretariat- Economic Services|00||090||2||21|IT & BT Directorate|002|Basic Pay|3451-00-090-2-21|Basic Pay|V|Data|Object-Head|111.09|175.00|175.00|177.00
+7|6|15|3451|Secretariat- Economic Services|00||090||2||21|IT & BT Directorate|003|Basic Pay-Staff|3451-00-090-2-21|Basic Pay-Staff|V|Data|Object-Head|19.74|||
+7|6|15|3451|Secretariat- Economic Services|00||090||2||21|IT & BT Directorate|004|Interim Relief|3451-00-090-2-21|Interim Relief|V|Data|Object-Head|9.88|||
+7|6|15|3451|Secretariat- Economic Services|00||090||2||21|IT & BT Directorate|011|Dearness Allowance|3451-00-090-2-21|Dearness Allowance|V|Data|Object-Head|36.89|43.00|43.00|49.00
+7|6|15|3451|Secretariat- Economic Services|00||090||2||21|IT & BT Directorate|014|Other Allowance|3451-00-090-2-21|Other Allowance|V|Data|Object-Head|33.00|39.00|39.00|38.00
+7|6|15|3451|Secretariat- Economic Services|00||090||2||21|IT & BT Directorate|020|Medical Allowance|3451-00-090-2-21|Medical Allowance|V|Data|Object-Head|0.14|||
+7|6|15|3451|Secretariat- Economic Services|00||090||2||21|IT & BT Directorate|021|Reimbursement of Medical Expenses|3451-00-090-2-21|Reimbursement of Medical Expenses|V|Data|Object-Head||9.00|9.00|9.00
+7|6|15|3451|Secretariat- Economic Services|00||090||2||21|IT & BT Directorate|041|Travel Expenses|3451-00-090-2-21|Travel Expenses|V|Data|Object-Head|0.61|2.00|2.00|1.00
+7|6|15|3451|Secretariat- Economic Services|00||090||2||21|IT & BT Directorate|050|Office Expenses|3451-00-090-2-21|Office Expenses|V|Data|Object-Head||1.00|1.00|1.00
+7|6|15|3451|Secretariat- Economic Services|00||090||2||21|IT & BT Directorate|051|General Expenses|3451-00-090-2-21|General Expenses|V|Data|Object-Head|1.51|5.00|5.00|4.00
+7|6|15|3451|Secretariat- Economic Services|00||090||2||21|IT & BT Directorate|052|Telephone Charges|3451-00-090-2-21|Telephone Charges|V|Data|Object-Head|0.21|||
+7|6|15|3451|Secretariat- Economic Services|00||090||2||21|IT & BT Directorate|071|Building Expenses|3451-00-090-2-21|Building Expenses|V|Data|Object-Head|17.31|60.00|60.00|50.00
+7|6|15|3451|Secretariat- Economic Services|00||090||2||21|IT & BT Directorate|177|IT Expenditure|3451-00-090-2-21|IT Expenditure|V|Data|Object-Head||10.00|10.00|1.00
+7|6|15|3451|Secretariat- Economic Services|00||090||2||21|IT & BT Directorate|195|Transport Expenses|3451-00-090-2-21|Transport Expenses|V|Data|Object-Head|7.23|10.80|10.80|5.66
+7|6|15|3451|Secretariat- Economic Services|00||090||2||21|IT & BT Directorate|200|Maintenance Expenditure|3451-00-090-2-21|Maintenance Expenditure|V|Data|Object-Head||3.00|3.00|1.00
+7|6|15|3451|Secretariat- Economic Services|00||090||2||21|IT & BT Directorate|||3451-00-090-2-21|HOA Total :|V|Total|Detailed-Head|237.61|357.80|357.80|336.66

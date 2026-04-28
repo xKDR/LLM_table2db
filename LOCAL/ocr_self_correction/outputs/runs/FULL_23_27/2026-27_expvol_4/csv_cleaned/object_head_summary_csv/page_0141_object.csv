@@ -1,0 +1,8 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+130|04|19|4217|Capital Outlay on Urban Development|04||||||||||4217|Capital Outlay on Urban Development|V|Header|Major-Head||||
+130|04|19|4217|Capital Outlay on Urban Development|04||051||0||01|Improvement of Slums|||4217-04-051-0-01|Improvement of Slums|V|Header|Detailed-Head||||
+130|04|19|4217|Capital Outlay on Urban Development|04||051||0||01|Improvement of Slums|132|Other Capital Expenses|4217-04-051-0-01|Other Capital Expenses|V|Data|Object-Head||3437.00|3437.00|3437.00
+130|04|19|4217|Capital Outlay on Urban Development|04||051||0||01|Improvement of Slums|422|Schedule Caste Sub Plan|4217-04-051-0-01|Schedule Caste Sub Plan|V|Data|Object-Head||1250.00|1250.00|1250.00
+130|04|19|4217|Capital Outlay on Urban Development|04||051||0||01|Improvement of Slums|423|Tribal Sub Plan|4217-04-051-0-01|Tribal Sub Plan|V|Data|Object-Head||313.00|313.00|313.00
+130|04|19|4217|Capital Outlay on Urban Development|04||051||0||01|Improvement of Slums||||HOA Total :|V|Total|Detailed-Head|0.00|5000.00|5000.00|5000.00
+130|04|19|4217|Capital Outlay on Urban Development|04|||||||||||4217 - Total :|V|Total|Major-Head|0.00|5000.00|5000.00|5000.00

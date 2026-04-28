@@ -1,0 +1,12 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+69|03|02|4403|Capital Outlay on Animal Husbandry|00||||||||||4403|Capital Outlay on Animal Husbandry||Header|Major-Head||||
+69|03|02|4403|Capital Outlay on Animal Husbandry|00||101||0||02|Construction of Veterinary Institutions Building|||4403-00-101-0-02|Construction of Veterinary Institutions Building||Header|Detailed-Head||||
+69|03|02|4403|Capital Outlay on Animal Husbandry|00||101||0||02|Construction of Veterinary Institutions Building|132|Other Capital Expenses|4403-00-101-0-02|Other Capital Expenses||Data|Object-Head||||100.00
+69|03|02|4403|Capital Outlay on Animal Husbandry|00||101||0||02|Construction of Veterinary Institutions Building|139|Major Works|4403-00-101-0-02|Major Works||Data|Object-Head||100.00|100.00|
+69|03|02|4403|Capital Outlay on Animal Husbandry|00||101||0||02|Construction of Veterinary Institutions Building|180|Machinery and Equipments|4403-00-101-0-02|Machinery and Equipments||Data|Object-Head||||1100.00
+69|03|02|4403|Capital Outlay on Animal Husbandry|00||101||0||02|Construction of Veterinary Institutions Building|436|NABARD Works|4403-00-101-0-02|NABARD Works||Data|Object-Head|2000.00|6000.00|6000.00|5268.00
+69|03|02|4403|Capital Outlay on Animal Husbandry|00||101||0||02|Construction of Veterinary Institutions Building||||HOA Total :||Total|Detailed-Head|2000.00|6100.00|6100.00|6468.00
+69|03|02|4403|Capital Outlay on Animal Husbandry|00||101||0||11|Construction of New Veterinary Colleges|||4403-00-101-0-11|Construction of New Veterinary Colleges||Header|Detailed-Head||||
+69|03|02|4403|Capital Outlay on Animal Husbandry|00||101||0||11|Construction of New Veterinary Colleges|386|Purchase/Construction of Buildings|4403-00-101-0-11|Purchase/Construction of Buildings||Data|Object-Head|1987.74|2000.00|2000.00|500.00
+69|03|02|4403|Capital Outlay on Animal Husbandry|00||101||0||11|Construction of New Veterinary Colleges||||HOA Total :||Total|Detailed-Head|1987.74|2000.00|2000.00|500.00
+69|03|02|4403|Capital Outlay on Animal Husbandry|00||||||||||4403|4403 - Total :||Total|Major-Head|3987.74|8100.00|8100.00|6968.00

@@ -1,0 +1,11 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+43|01|04|2015|Elections|00||911|Recovery of Overpayments|0||00|Recovery of Overpayments|||2015-00-911-0-00|Recovery of Overpayments||Header|Detailed-Head||||
+43|01|04|2015|Elections|00||911|Recovery of Overpayments|0||00|Recovery of Overpayments|364|Deduct - Recoveries|2015-00-911-0-00|Deduct - Recoveries||Data|Object-Head|-0.70|||
+43|01|04|2015|Elections|00||911|Recovery of Overpayments|0||00|Recovery of Overpayments|||||HOA Total :|Total|Detailed-Head|-0.70|0.00|0.00|0.00
+43|01|04|2015|Elections|00||911|Recovery of Overpayments|0||01|Deduct Recovery of Over Payments of Current Year|||2015-00-911-0-01|Deduct Recovery of Over Payments of Current Year||Header|Detailed-Head||||
+43|01|04|2015|Elections|00||911|Recovery of Overpayments|0||01|Deduct Recovery of Over Payments of Current Year|364|Deduct - Recoveries|2015-00-911-0-01|Deduct - Recoveries||Data|Object-Head|-26046.68|||
+43|01|04|2015|Elections|00||911|Recovery of Overpayments|0||01|Deduct Recovery of Over Payments of Current Year|||||HOA Total :|Total|Detailed-Head|-26046.68|0.00|0.00|0.00
+43|01|04|2015|Elections|00||911|Recovery of Overpayments|0||02|Deduct Recovery of Overpayments|||2015-00-911-0-02|Deduct Recovery of Overpayments||Header|Detailed-Head||||
+43|01|04|2015|Elections|00||911|Recovery of Overpayments|0||02|Deduct Recovery of Overpayments|364|Deduct - Recoveries|2015-00-911-0-02|Deduct - Recoveries||Data|Object-Head|-15.73|||
+43|01|04|2015|Elections|00||911|Recovery of Overpayments|0||02|Deduct Recovery of Overpayments|||||HOA Total :|Total|Detailed-Head|-15.73|0.00|0.00|0.00
+43|01|04|2015|Elections|00||||||||||2015 - Total :|2015 - Total :||Total|Major-Head|30860.23|20511.69|22622.88|20366.28

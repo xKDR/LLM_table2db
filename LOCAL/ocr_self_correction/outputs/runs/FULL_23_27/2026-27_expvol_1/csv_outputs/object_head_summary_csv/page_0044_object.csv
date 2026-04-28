@@ -1,0 +1,12 @@
+30|01|03|4217|Capital Outlay on Urban Development|60||||||||||4217|Capital Outlay on Urban Development|V|Header|Major-Head||||
+30|01|03|4217|Capital Outlay on Urban Development|60||190|Capital Outlay to BMRCL|||||||4217-60-190-2-02|Capital Outlay to BMRCL|V|Header|Minor-Head||||
+30|01|03|4217|Capital Outlay on Urban Development|60||190|Capital Outlay to BMRCL|2||||||4217-60-190-2-02||V|Header|Sub-Head||||
+30|01|03|4217|Capital Outlay on Urban Development|60||190|Capital Outlay to BMRCL|2||02||||4217-60-190-2-02||V|Header|Detailed-Head||||
+30|01|03|4217|Capital Outlay on Urban Development|60||190|Capital Outlay to BMRCL|2||02||132|Other Capital Expenses|4217-60-190-2-02|Other Capital Expenses|V|Data|Object-Head||200000.00|199250.00|300000.00
+30|01|03|4217|Capital Outlay on Urban Development|60||190|Capital Outlay to BMRCL|2||02|||||HOA Total :|V|Total|Detailed-Head|0.00|200000.00|199250.00|300000.00
+30|01|03|4217|Capital Outlay on Urban Development|60||902|Deduct-Amount met from BMRC Fund|||||||4217-60-902-0-04|Deduct-Amount met from BMRC Fund|V|Header|Minor-Head||||
+30|01|03|4217|Capital Outlay on Urban Development|60||902|Deduct-Amount met from BMRC Fund|0||||||4217-60-902-0-04||V|Header|Sub-Head||||
+30|01|03|4217|Capital Outlay on Urban Development|60||902|Deduct-Amount met from BMRC Fund|0||04||||4217-60-902-0-04||V|Header|Detailed-Head||||
+30|01|03|4217|Capital Outlay on Urban Development|60||902|Deduct-Amount met from BMRC Fund|0||04||261|Inter Account Transfers|4217-60-902-0-04|Inter Account Transfers|V|Data|Object-Head||-200000.00|-200000.00|-300000.00
+30|01|03|4217|Capital Outlay on Urban Development|60||902|Deduct-Amount met from BMRC Fund|0||04|||||HOA Total :|V|Total|Detailed-Head|0.00|-200000.00|-200000.00|-300000.00
+30|01|03|4217|Capital Outlay on Urban Development|60||||||||||4217 - Total :|V|Total|Major-Head|0.00|0.00|-750.00|0.00

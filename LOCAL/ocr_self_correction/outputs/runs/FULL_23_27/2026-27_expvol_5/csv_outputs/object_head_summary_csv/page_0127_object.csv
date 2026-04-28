@@ -1,0 +1,24 @@
+114|05|14|2029|Land Revenue|00||102||1||05|Special Cell for creating Revenue Villages of Lambani Tanda's|004|Interim Relief|2029-00-102-1-05|Interim Relief|V|Data|Object-Head|0.53|||
+114|05|14|2029|Land Revenue|00||102||1||05|Special Cell for creating Revenue Villages of Lambani Tanda's|011|Dearness Allowance|2029-00-102-1-05|Dearness Allowance|V|Data|Object-Head|2.32|5.00|5.00|5.00
+114|05|14|2029|Land Revenue|00||102||1||05|Special Cell for creating Revenue Villages of Lambani Tanda's|014|Other Allowance|2029-00-102-1-05|Other Allowance|V|Data|Object-Head|2.76|5.00|5.00|5.00
+114|05|14|2029|Land Revenue|00||102||1||05|Special Cell for creating Revenue Villages of Lambani Tanda's|020|Medical Allowance|2029-00-102-1-05|Medical Allowance|V|Data|Object-Head|0.05|||
+114|05|14|2029|Land Revenue|00||102||1||05|Special Cell for creating Revenue Villages of Lambani Tanda's|021|Reimbursement of Medical Expenses|2029-00-102-1-05|Reimbursement of Medical Expenses|V|Data|Object-Head||3.00|3.00|3.00
+114|05|14|2029|Land Revenue|00||102||1||05|Special Cell for creating Revenue Villages of Lambani Tanda's|034|Contract/Outsource|2029-00-102-1-05|Contract/Outsource|V|Data|Object-Head|11.34|12.17|12.17|12.58
+114|05|14|2029|Land Revenue|00||102||1||05|Special Cell for creating Revenue Villages of Lambani Tanda's|041|Travel Expenses|2029-00-102-1-05|Travel Expenses|V|Data|Object-Head|0.37|1.00|1.00|1.00
+114|05|14|2029|Land Revenue|00||102||1||05|Special Cell for creating Revenue Villages of Lambani Tanda's|050|Office Expenses|2029-00-102-1-05|Office Expenses|V|Data|Object-Head||1.00|1.00|2.00
+114|05|14|2029|Land Revenue|00||102||1||05|Special Cell for creating Revenue Villages of Lambani Tanda's|051|General Expenses|2029-00-102-1-05|General Expenses|V|Data|Object-Head|1.97|1.00|1.00|50.00
+114|05|14|2029|Land Revenue|00||102||1||05|Special Cell for creating Revenue Villages of Lambani Tanda's|195|Transport Expenses|2029-00-102-1-05|Transport Expenses|V|Data|Object-Head|1.95|2.10|2.10|2.20
+114|05|14|2029|Land Revenue|00||102||1||05|Special Cell for creating Revenue Villages of Lambani Tanda's|||2029-00-102-1-05|HOA Total :|V|Total|Detailed-Head|32.97|50.27|50.27|101.78
+114|05|14|2029|Land Revenue|00||102||1||06|Formation of New Revenue Villages|||2029-00-102-1-06|Formation of New Revenue Villages|V|Header|Detailed-Head||||
+114|05|14|2029|Land Revenue|00||102||1||06|Formation of New Revenue Villages|051|General Expenses|2029-00-102-1-06|General Expenses|V|Data|Object-Head|0.76|||
+114|05|14|2029|Land Revenue|00||102||1||06|Formation of New Revenue Villages|||2029-00-102-1-06|HOA Total :|V|Total|Detailed-Head|0.76|0.00|0.00|0.00
+114|05|14|2029|Land Revenue|00||102||1||07|Expenses incurred under Mojini|||2029-00-102-1-07|Expenses incurred under Mojini|V|Header|Detailed-Head||||
+114|05|14|2029|Land Revenue|00||102||1||07|Expenses incurred under Mojini|034|Contract/Outsource|2029-00-102-1-07|Contract/Outsource|V|Data|Object-Head|32.80|51.46|51.46|53.09
+114|05|14|2029|Land Revenue|00||102||1||07|Expenses incurred under Mojini|050|Office Expenses|2029-00-102-1-07|Office Expenses|V|Data|Object-Head|49.46|50.00|50.00|50.00
+114|05|14|2029|Land Revenue|00||102||1||07|Expenses incurred under Mojini|051|General Expenses|2029-00-102-1-07|General Expenses|V|Data|Object-Head|9997.54|10400.00|10400.00|12500.00
+114|05|14|2029|Land Revenue|00||102||1||07|Expenses incurred under Mojini|071|Building Expenses|2029-00-102-1-07|Building Expenses|V|Data|Object-Head|99.92|50.00|50.00|50.00
+114|05|14|2029|Land Revenue|00||102||1||07|Expenses incurred under Mojini|200|Maintenance Expenditure|2029-00-102-1-07|Maintenance Expenditure|V|Data|Object-Head||50.00|50.00|50.00
+114|05|14|2029|Land Revenue|00||102||1||07|Expenses incurred under Mojini|||2029-00-102-1-07|HOA Total :|V|Total|Detailed-Head|10179.72|10601.46|10601.46|12703.09
+114|05|14|2029|Land Revenue|00||103||1||01|Survey Settlement and Land Records-Field Offices|||2029-00-103-1-01|Survey Settlement and Land Records-Field Offices|V|Header|Detailed-Head||||
+114|05|14|2029|Land Revenue|00||103||1||01|Survey Settlement and Land Records-Field Offices|002|Basic Pay|2029-00-103-1-01|Basic Pay|V|Data|Object-Head|1791.81|29662.00|29662.00|29902.00
+114|05|14|2029|Land Revenue|00||103||1||01|Survey Settlement and Land Records-Field Offices|003|Basic Pay-Staff|2029-00-103-1-01|Basic Pay-Staff|V|Data|Object-Head|22494.03|||

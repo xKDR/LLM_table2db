@@ -1,0 +1,23 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||||||||||5054|Capital Outlay on Roads & Bridges||Header|Major-Head||||
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||101|Bridges|0||02|Major District Road - Bridges|||5054-03-101-0-02|Major District Road - Bridges||Header|Detailed-Head||||
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||101|Bridges|0||02|Major District Road - Bridges|132|Other Capital Expenses|5054-03-101-0-02|Other Capital Expenses||Data|Object-Head|13550.51|13000.00|13000.00|13000.00
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||101|Bridges|0||02|Major District Road - Bridges|||||HOA Total :|Total|Detailed-Head|13550.51|13000.00|13000.00|13000.00
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||101|Bridges|0||90|Deduct-Reciepts & Recoveries on Capital Account|||5054-03-101-0-90|Deduct-Reciepts & Recoveries on Capital Account||Header|Detailed-Head||||
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||101|Bridges|0||90|Deduct-Reciepts & Recoveries on Capital Account|364|Deduct - Recoveries|5054-03-101-0-90|Deduct - Recoveries||Data|Object-Head|-0.75|||
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||101|Bridges|0||90|Deduct-Reciepts & Recoveries on Capital Account|||||HOA Total :|Total|Detailed-Head|-0.75|0.00|0.00|0.00
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||09|Land Acquisition Cost- State Highway|||5054-03-337-0-09|Land Acquisition Cost- State Highway||Header|Detailed-Head||||
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||09|Land Acquisition Cost- State Highway|132|Other Capital Expenses|5054-03-337-0-09|Other Capital Expenses||Data|Object-Head|24999.98|||
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||09|Land Acquisition Cost- State Highway|145|Acquisition of Land|5054-03-337-0-09|Acquisition of Land||Data|Object-Head||25000.00|25000.00|35000.00
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||09|Land Acquisition Cost- State Highway|||||HOA Total :|Total|Detailed-Head|24999.98|25000.00|25000.00|35000.00
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||16|State Highways Bridges|||5054-03-337-0-16|State Highways Bridges||Header|Detailed-Head||||
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||16|State Highways Bridges|132|Other Capital Expenses|5054-03-337-0-16|Other Capital Expenses||Data|Object-Head||||3500.00
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||16|State Highways Bridges|154|Improvements|5054-03-337-0-16|Improvements||Data|Object-Head|3498.30|3500.00|3500.00|
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||16|State Highways Bridges|||||HOA Total :|Total|Detailed-Head|3498.30|3500.00|3500.00|3500.00
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||17|State Highways Road Works|||5054-03-337-0-17|State Highways Road Works||Header|Detailed-Head||||
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||17|State Highways Road Works|132|Other Capital Expenses|5054-03-337-0-17|Other Capital Expenses||Data|Object-Head||||15000.00
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||17|State Highways Road Works|133|Regional Imbalance Redressal Program|5054-03-337-0-17|Regional Imbalance Redressal Program||Data|Object-Head||||10000.00
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||17|State Highways Road Works|154|Improvements|5054-03-337-0-17|Improvements||Data|Object-Head|81000.00|21000.00|21000.00|
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||17|State Highways Road Works|160|Renewals|5054-03-337-0-17|Renewals||Data|Object-Head|13999.50|14000.00|14000.00|
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||17|State Highways Road Works|172|Roads|5054-03-337-0-17|Roads||Data|Object-Head||||10000.00
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||17|State Highways Road Works|||||HOA Total :|Total|Detailed-Head|94999.50|35000.00|35000.00|35000.00

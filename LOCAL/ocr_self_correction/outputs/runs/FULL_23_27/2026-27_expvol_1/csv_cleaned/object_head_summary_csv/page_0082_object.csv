@@ -1,0 +1,10 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+68|1|04|2052|Secretariat-General Services|00||||||||||2052|Secretariat-General Services|V|Header|Major-Head||||
+68|1|04|2052|Secretariat-General Services|00||092||0||19|Court Case Monitoring System(e-gov)|||2052-00-092-0-19|Court Case Monitoring System(e-gov)|V|Header|Detailed-Head||||
+68|1|04|2052|Secretariat-General Services|00||092||0||19|Court Case Monitoring System(e-gov)|015|Subsidiary Expenses|2052-00-092-0-19|Subsidiary Expenses|V|Data|Object-Head||25.00|25.00|25.00
+68|1|04|2052|Secretariat-General Services|00||092||0||19|Court Case Monitoring System(e-gov)|034|Contract/Outsource|2052-00-092-0-19|Contract/Outsource|V|Data|Object-Head|21.00|178.97|178.97|179.15
+68|1|04|2052|Secretariat-General Services|00||092||0||19|Court Case Monitoring System(e-gov)|050|Office Expenses|2052-00-092-0-19|Office Expenses|V|Data|Object-Head||3.00|3.00|3.00
+68|1|04|2052|Secretariat-General Services|00||092||0||19|Court Case Monitoring System(e-gov)|051|General Expenses|2052-00-092-0-19|General Expenses|V|Data|Object-Head|6.00|||
+68|1|04|2052|Secretariat-General Services|00||092||0||19|Court Case Monitoring System(e-gov)|195|Transport Expenses|2052-00-092-0-19|Transport Expenses|V|Data|Object-Head||5.66|5.66|5.66
+68|1|04|2052|Secretariat-General Services|00||092||0||19|Court Case Monitoring System(e-gov)||||HOA Total :|V|Total|Detailed-Head|27.00|212.63|212.63|212.81
+68|1|04|2052|Secretariat-General Services|00|||||||||||2052 - Total :|V|Total|Major-Head|27.00|212.63|212.63|212.81

@@ -1,0 +1,23 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||||||||||4702|Capital Outlay on Minor Irrigation||Header|Major-Head||||
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||0||10|Unspent SCSP-TSP Amount as per the SCSP-TSPACT 2013|||4702-00-101-0-10|Unspent SCSP-TSP Amount as per the SCSP-TSPACT 2013||Header|Detailed-Head||||
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||0||10|Unspent SCSP-TSP Amount as per the SCSP-TSPACT 2013|422|Schedule Caste Sub Plan|4702-00-101-0-10|Schedule Caste Sub Plan||Data|Object-Head|50.35|0.09|0.09|1.76
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||0||10|Unspent SCSP-TSP Amount as per the SCSP-TSPACT 2013|423|Tribal Sub Plan|4702-00-101-0-10|Tribal Sub Plan||Data|Object-Head||0.78|0.78|328.56
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||0||10|Unspent SCSP-TSP Amount as per the SCSP-TSPACT 2013|||4702-00-101-0-10|HOA Total :||Total|Detailed-Head|50.35|0.87|0.87|330.32
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||0||90|Deduct Refunds|||4702-00-101-0-90|Deduct Refunds||Header|Detailed-Head||||
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||0||90|Deduct Refunds|364|Deduct - Recoveries|4702-00-101-0-90|Deduct - Recoveries||Data|Object-Head|-3.94|||
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||0||90|Deduct Refunds|||4702-00-101-0-90|HOA Total :||Total|Detailed-Head|-3.94|0.00|0.00|0.00
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||02|Construction of New Tanks,Pick ups etc|||4702-00-101-1-02|Construction of New Tanks,Pick ups etc||Header|Detailed-Head||||
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||02|Construction of New Tanks,Pick ups etc|132|Other Capital Expenses|4702-00-101-1-02|Other Capital Expenses||Data|Object-Head||||4500.00
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||02|Construction of New Tanks,Pick ups etc|139|Major Works|4702-00-101-1-02|Major Works||Data|Object-Head|1995.85|4500.00|4500.00|
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||02|Construction of New Tanks,Pick ups etc|||4702-00-101-1-02|HOA Total :||Total|Detailed-Head|1995.85|4500.00|4500.00|4500.00
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||07|Modernisation of Tanks|||4702-00-101-1-07|Modernisation of Tanks||Header|Detailed-Head||||
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||07|Modernisation of Tanks|132|Other Capital Expenses|4702-00-101-1-07|Other Capital Expenses||Data|Object-Head||||13000.00
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||07|Modernisation of Tanks|139|Major Works|4702-00-101-1-07|Major Works||Data|Object-Head|30992.88|13000.00|14000.00|
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||07|Modernisation of Tanks|436|NABARD Works|4702-00-101-1-07|NABARD Works||Data|Object-Head|5823.27|5220.00|4860.00|
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||07|Modernisation of Tanks|||4702-00-101-1-07|HOA Total :||Total|Detailed-Head|36816.15|18220.00|18860.00|13000.00
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||16|Tank Development Authority|||4702-00-101-1-16|Tank Development Authority||Header|Detailed-Head||||
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||16|Tank Development Authority|132|Other Capital Expenses|4702-00-101-1-16|Other Capital Expenses||Data|Object-Head||1.00|1.00|1.00
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||16|Tank Development Authority|||4702-00-101-1-16|HOA Total :||Total|Detailed-Head|0.00|1.00|1.00|1.00
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||17|CSS-Central Share-HKKP-Repair Restoration and Renovation of Water Bodies|||4702-00-101-1-17|CSS-Central Share-HKKP-Repair Restoration and Renovation of Water Bodies||Header|Detailed-Head||||
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||17|CSS-Central Share-HKKP-Repair Restoration and Renovation of Water Bodies|132|Other Capital Expenses|4702-00-101-1-17|Other Capital Expenses||Data|Object-Head||||33500.00

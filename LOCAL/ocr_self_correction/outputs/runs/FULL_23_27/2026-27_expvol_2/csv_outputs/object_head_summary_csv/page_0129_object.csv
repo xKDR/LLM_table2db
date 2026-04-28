@@ -1,0 +1,27 @@
+116|02|22|2210|Medical and Public Health|06||104||0||02|Drugs Testing Laboratory, Bangalore|071|Building Expenses|2210-06-104-0-02|Building Expenses|V|Data|Object-Head|64.85|104.00|104.00|100.00
+116|02|22|2210|Medical and Public Health|06||104||0||02|Drugs Testing Laboratory, Bangalore|180|Machinery and Equipments|2210-06-104-0-02|Machinery and Equipments|V|Data|Object-Head|88.22|||
+116|02|22|2210|Medical and Public Health|06||104||0||02|Drugs Testing Laboratory, Bangalore|195|Transport Expenses|2210-06-104-0-02|Transport Expenses|V|Data|Object-Head||8.00|8.00|8.00
+116|02|22|2210|Medical and Public Health|06||104||0||02|Drugs Testing Laboratory, Bangalore|200|Maintenance Expenditure|2210-06-104-0-02|Maintenance Expenditure|V|Data|Object-Head|69.14|78.00|78.00|78.00
+116|02|22|2210|Medical and Public Health|06||104||0||02|Drugs Testing Laboratory, Bangalore|221|Materials and Supplies|2210-06-104-0-02|Materials and Supplies|V|Data|Object-Head|69.10|112.00|112.00|150.00
+116|02|22|2210|Medical and Public Health|06||104||0||02|Drugs Testing Laboratory, Bangalore|||2210-06-104-0-02|HOA Total :|V|Total|Detailed-Head|2153.86|2491.00|2491.00|2573.00
+116|02|22|2210|Medical and Public Health|06||107||0||01|Food Safety Programme and Public Health Institute|||2210-06-107-0-01|Food Safety Programme and Public Health Institute|V|Header|Detailed-Head||||
+116|02|22|2210|Medical and Public Health|06||107||0||01|Food Safety Programme and Public Health Institute|002|Basic Pay|2210-06-107-0-01|Basic Pay|V|Data|Object-Head|614.40|1991.00|1991.00|1700.00
+116|02|22|2210|Medical and Public Health|06||107||0||01|Food Safety Programme and Public Health Institute|003|Basic Pay-Staff|2210-06-107-0-01|Basic Pay-Staff|V|Data|Object-Head|1034.47|||
+116|02|22|2210|Medical and Public Health|06||107||0||01|Food Safety Programme and Public Health Institute|004|Interim Relief|2210-06-107-0-01|Interim Relief|V|Data|Object-Head|106.53|||
+116|02|22|2210|Medical and Public Health|06||107||0||01|Food Safety Programme and Public Health Institute|011|Dearness Allowance|2210-06-107-0-01|Dearness Allowance|V|Data|Object-Head|390.84|445.00|445.00|433.00
+116|02|22|2210|Medical and Public Health|06||107||0||01|Food Safety Programme and Public Health Institute|014|Other Allowance|2210-06-107-0-01|Other Allowance|V|Data|Object-Head|351.83|415.00|415.00|327.00
+116|02|22|2210|Medical and Public Health|06||107||0||01|Food Safety Programme and Public Health Institute|020|Medical Allowance|2210-06-107-0-01|Medical Allowance|V|Data|Object-Head|7.31|||
+116|02|22|2210|Medical and Public Health|06||107||0||01|Food Safety Programme and Public Health Institute|021|Reimbursement of Medical Expenses|2210-06-107-0-01|Reimbursement of Medical Expenses|V|Data|Object-Head|6.36|16.00|16.00|15.00
+116|02|22|2210|Medical and Public Health|06||107||0||01|Food Safety Programme and Public Health Institute|034|Contract/Outsource|2210-06-107-0-01|Contract/Outsource|V|Data|Object-Head|243.30|297.54|297.54|310.51
+116|02|22|2210|Medical and Public Health|06||107||0||01|Food Safety Programme and Public Health Institute|041|Travel Expenses|2210-06-107-0-01|Travel Expenses|V|Data|Object-Head|1.64|3.00|3.00|3.00
+116|02|22|2210|Medical and Public Health|06||107||0||01|Food Safety Programme and Public Health Institute|050|Office Expenses|2210-06-107-0-01|Office Expenses|V|Data|Object-Head||5.00|5.00|5.00
+116|02|22|2210|Medical and Public Health|06||107||0||01|Food Safety Programme and Public Health Institute|051|General Expenses|2210-06-107-0-01|General Expenses|V|Data|Object-Head|10.29|17.00|17.00|17.00
+116|02|22|2210|Medical and Public Health|06||107||0||01|Food Safety Programme and Public Health Institute|052|Telephone Charges|2210-06-107-0-01|Telephone Charges|V|Data|Object-Head|2.06|||
+116|02|22|2210|Medical and Public Health|06||107||0||01|Food Safety Programme and Public Health Institute|071|Building Expenses|2210-06-107-0-01|Building Expenses|V|Data|Object-Head|78.21|40.00|40.00|50.00
+116|02|22|2210|Medical and Public Health|06||107||0||01|Food Safety Programme and Public Health Institute|195|Transport Expenses|2210-06-107-0-01|Transport Expenses|V|Data|Object-Head|63.71|85.00|85.00|46.16
+116|02|22|2210|Medical and Public Health|06||107||0||01|Food Safety Programme and Public Health Institute|221|Materials and Supplies|2210-06-107-0-01|Materials and Supplies|V|Data|Object-Head|18.31|31.00|31.00|30.00
+116|02|22|2210|Medical and Public Health|06||107||0||01|Food Safety Programme and Public Health Institute|||2210-06-107-0-01|HOA Total :|V|Total|Detailed-Head|2929.26|3345.54|3345.54|2936.67
+116|02|22|2210|Medical and Public Health|06||200||0||01|Aroghya Kavacha|||2210-06-200-0-01|Aroghya Kavacha|V|Header|Detailed-Head||||
+116|02|22|2210|Medical and Public Health|06||200||0||01|Aroghya Kavacha|059|Other Expenses|2210-06-200-0-01|Other Expenses|V|Data|Object-Head|1703.92|4640.00|4640.00|4227.36
+116|02|22|2210|Medical and Public Health|06||200||0||01|Aroghya Kavacha|200|Maintenance Expenditure|2210-06-200-0-01|Maintenance Expenditure|V|Data|Object-Head|4000.00|3500.00|3500.00|3188.69
+116|02|22|2210|Medical and Public Health|06||200||0||01|Aroghya Kavacha|221|Materials and Supplies|2210-06-200-0-01|Materials and Supplies|V|Data|Object-Head|1900.00|5800.00|4392.00|5284.84

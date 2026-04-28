@@ -1,0 +1,22 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+74|03|02|2405|Fisheries|00||120||0||07|CSS-Central Share-Fishermen Welfare(PMMSY)|||2405-00-120-0-07|CSS-Central Share-Fishermen Welfare(PMMSY)|V|Header|Detailed-Head||||
+74|03|02|2405|Fisheries|00||120||0||07|CSS-Central Share-Fishermen Welfare(PMMSY)|106|Subsidies|2405-00-120-0-07|Subsidies|V|Data|Object-Head|455.16|300.00|300.00|300.00
+74|03|02|2405|Fisheries|00||120||0||07|CSS-Central Share-Fishermen Welfare(PMMSY)|||2405-00-120-0-07|ಜುಮ್ಲಾ HOA Total :|V|Total|Detailed-Head|455.16|300.00|300.00|300.00
+74|03|02|2405|Fisheries|00||120||0||08|CSS-State Share-Fishermen Welfare(PMMSY)|||2405-00-120-0-08|CSS-State Share-Fishermen Welfare(PMMSY)|V|Header|Detailed-Head||||
+74|03|02|2405|Fisheries|00||120||0||08|CSS-State Share-Fishermen Welfare(PMMSY)|106|Subsidies|2405-00-120-0-08|Subsidies|V|Data|Object-Head|455.16|300.00|300.00|300.00
+74|03|02|2405|Fisheries|00||120||0||08|CSS-State Share-Fishermen Welfare(PMMSY)|||2405-00-120-0-08|ಜುಮ್ಲಾ HOA Total :|V|Total|Detailed-Head|455.16|300.00|300.00|300.00
+74|03|02|2405|Fisheries|00||120||0||09|Fishermen Welfare State Top-Up (Matsya Ashakirana)|||2405-00-120-0-09|Fishermen Welfare State Top-Up (Matsya Ashakirana)|V|Header|Detailed-Head||||
+74|03|02|2405|Fisheries|00||120||0||09|Fishermen Welfare State Top-Up (Matsya Ashakirana)|106|Subsidies|2405-00-120-0-09|Subsidies|V|Data|Object-Head|257.80|300.00|300.00|300.00
+74|03|02|2405|Fisheries|00||120||0||09|Fishermen Welfare State Top-Up (Matsya Ashakirana)|||2405-00-120-0-09|ಜುಮ್ಲಾ HOA Total :|V|Total|Detailed-Head|257.80|300.00|300.00|300.00
+74|03|02|2405|Fisheries|00||196||1||01|Grants to District Fisheries Development Establishments|||2405-00-196-1-01|Grants to District Fisheries Development Establishments|V|Header|Detailed-Head||||
+74|03|02|2405|Fisheries|00||196||1||01|Grants to District Fisheries Development Establishments|034|Contract/Outsource|2405-00-196-1-01|Contract/Outsource|V|Data|Object-Head|||22.01|
+74|03|02|2405|Fisheries|00||196||1||01|Grants to District Fisheries Development Establishments|090|Non Salary Expenditure in District Sector|2405-00-196-1-01|Non Salary Expenditure in District Sector|V|Data|Object-Head|||21.34|
+74|03|02|2405|Fisheries|00||196||1||01|Grants to District Fisheries Development Establishments|300|Lumpsum - ZP|2405-00-196-1-01|Lumpsum - ZP|V|Data|Object-Head||||1.00
+74|03|02|2405|Fisheries|00||196||1||01|Grants to District Fisheries Development Establishments|401|Bengaluru (Urban)|2405-00-196-1-01|Bengaluru (Urban)|V|Data|Object-Head|176.79|186.70|186.70|133.25
+74|03|02|2405|Fisheries|00||196||1||01|Grants to District Fisheries Development Establishments|402|Bengaluru (Rural)|2405-00-196-1-01|Bengaluru (Rural)|V|Data|Object-Head|153.65|150.35|150.35|137.40
+74|03|02|2405|Fisheries|00||196||1||01|Grants to District Fisheries Development Establishments|403|Chitradurga|2405-00-196-1-01|Chitradurga|V|Data|Object-Head|155.39|191.54|191.54|139.24
+74|03|02|2405|Fisheries|00||196||1||01|Grants to District Fisheries Development Establishments|404|Kolar|2405-00-196-1-01|Kolar|V|Data|Object-Head|159.04|183.63|183.63|129.06
+74|03|02|2405|Fisheries|00||196||1||01|Grants to District Fisheries Development Establishments|405|Shivamogga|2405-00-196-1-01|Shivamogga|V|Data|Object-Head|319.13|352.49|352.49|240.17
+74|03|02|2405|Fisheries|00||196||1||01|Grants to District Fisheries Development Establishments|406|Tumakuru|2405-00-196-1-01|Tumakuru|V|Data|Object-Head|324.94|317.55|317.55|231.09
+74|03|02|2405|Fisheries|00||196||1||01|Grants to District Fisheries Development Establishments|407|Mysuru|2405-00-196-1-01|Mysuru|V|Data|Object-Head|314.21|316.04|316.04|246.08
+74|03|02|2405|Fisheries|00||196||1||01|Grants to District Fisheries Development Establishments|408|Chikkamagaluru|2405-00-196-1-01|Chikkamagaluru|V|Data|Object-Head|181.77|231.60|231.60|175.16

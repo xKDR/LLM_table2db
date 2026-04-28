@@ -1,0 +1,27 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|||||||||2408|Food, Storage and Ware Housing|V|Header|Major-Head||||
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||01|Director, Food and Civil Supplies|||2408-01-001-0-01|Director, Food and Civil Supplies|V|Header|Detailed-Head||||
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||01|Director, Food and Civil Supplies|002|Basic Pay|2408-01-001-0-01|Basic Pay|V|Data|Object-Head|884.64|5930.00|5930.00|5948.00
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||01|Director, Food and Civil Supplies|003|Basic Pay-Staff|2408-01-001-0-01|Basic Pay-Staff|V|Data|Object-Head|3915.30|||
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||01|Director, Food and Civil Supplies|004|Interim Relief|2408-01-001-0-01|Interim Relief|V|Data|Object-Head|280.24|||
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||01|Director, Food and Civil Supplies|011|Dearness Allowance|2408-01-001-0-01|Dearness Allowance|V|Data|Object-Head|1072.00|1322.00|1322.00|1502.00
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||01|Director, Food and Civil Supplies|014|Other Allowance|2408-01-001-0-01|Other Allowance|V|Data|Object-Head|603.12|772.00|772.00|742.00
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||01|Director, Food and Civil Supplies|020|Medical Allowance|2408-01-001-0-01|Medical Allowance|V|Data|Object-Head|30.03|||
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||01|Director, Food and Civil Supplies|021|Reimbursement of Medical Expenses|2408-01-001-0-01|Reimbursement of Medical Expenses|V|Data|Object-Head|59.27|58.00|58.00|57.00
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||01|Director, Food and Civil Supplies|034|Contract/Outsource|2408-01-001-0-01|Contract/Outsource|V|Data|Object-Head|548.86|633.59|633.59|677.00
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||01|Director, Food and Civil Supplies|041|Travel Expenses|2408-01-001-0-01|Travel Expenses|V|Data|Object-Head|12.41|16.00|16.00|16.00
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||01|Director, Food and Civil Supplies|050|Office Expenses|2408-01-001-0-01|Office Expenses|V|Data|Object-Head|29.56|56.00|56.00|56.00
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||01|Director, Food and Civil Supplies|051|General Expenses|2408-01-001-0-01|General Expenses|V|Data|Object-Head|136.88|50.00|295.00|80.00
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||01|Director, Food and Civil Supplies|052|Telephone Charges|2408-01-001-0-01|Telephone Charges|V|Data|Object-Head|4.19|||
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||01|Director, Food and Civil Supplies|053|Purchase of Furniture and Fixture for Office|2408-01-001-0-01|Purchase of Furniture and Fixture for Office|V|Data|Object-Head|13.46|||
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||01|Director, Food and Civil Supplies|071|Building Expenses|2408-01-001-0-01|Building Expenses|V|Data|Object-Head|223.83|600.00|450.00|438.00
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||01|Director, Food and Civil Supplies|195|Transport Expenses|2408-01-001-0-01|Transport Expenses|V|Data|Object-Head|89.24|227.20|227.20|208.13
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||01|Director, Food and Civil Supplies||||HOA Total :|V|Total|Detailed-Head|7903.03|9664.79|9759.79|9724.13
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||08|Karnataka State Food Commission|||2408-01-001-0-08|Karnataka State Food Commission|V|Header|Detailed-Head||||
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||08|Karnataka State Food Commission|034|Contract/Outsource|2408-01-001-0-08|Contract/Outsource|V|Data|Object-Head|112.64|107.54|107.54|149.02
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||08|Karnataka State Food Commission|041|Travel Expenses|2408-01-001-0-08|Travel Expenses|V|Data|Object-Head|0.40|1.00|1.00|1.00
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||08|Karnataka State Food Commission|050|Office Expenses|2408-01-001-0-08|Office Expenses|V|Data|Object-Head|3.98|6.00|6.00|6.00
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||08|Karnataka State Food Commission|052|Telephone Charges|2408-01-001-0-08|Telephone Charges|V|Data|Object-Head|0.33|||
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||08|Karnataka State Food Commission|071|Building Expenses|2408-01-001-0-08|Building Expenses|V|Data|Object-Head|27.31|29.00|29.00|30.00
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||08|Karnataka State Food Commission|195|Transport Expenses|2408-01-001-0-08|Transport Expenses|V|Data|Object-Head|5.25|10.80|10.80|10.41
+102|05|13|2408|Food, Storage and Ware Housing|01|Food|001||0||08|Karnataka State Food Commission||||HOA Total :|V|Total|Detailed-Head|149.91|154.34|154.34|196.43

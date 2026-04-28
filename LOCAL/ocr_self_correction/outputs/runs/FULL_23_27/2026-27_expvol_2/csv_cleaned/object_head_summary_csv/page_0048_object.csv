@@ -1,0 +1,26 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+35|02|17|2203|Technical Education|00||103|Junior Technical Schools|0||01|Junior Technical Schools|071|Building Expenses|2203-00-103-0-01|Building Expenses|V|Data|Object-Head|3.36|6.00|6.00|6.00
+35|02|17|2203|Technical Education|00||103|Junior Technical Schools|0||01|Junior Technical Schools|||2203-00-103-0-01|ಜುಮ್ಲಾ HOA Total :|V|Total|Detailed-Head|548.79|687.00|687.00|695.20
+35|02|17|2203|Technical Education|00||104||0||01|GIA to Polytechnics|||2203-00-104-0-01|ಪಾಲಟೆಕ್ನಿಕ್ ಗಳಿಗೆ ಸಹಾಯಾನುದಾನ / GIA to Polytechnics|V|Header|Detailed-Head||||
+35|02|17|2203|Technical Education|00||104||0||01|GIA to Polytechnics|101|Grants-in-Aid-Salaries|2203-00-104-0-01|Grants-in-Aid-Salaries|V|Data|Object-Head|33554.13|36149.60|36149.60|35690.07
+35|02|17|2203|Technical Education|00||104||0||01|GIA to Polytechnics|||2203-00-104-0-01|ಜುಮ್ಲಾ HOA Total :|V|Total|Detailed-Head|33554.13|36149.60|36149.60|35690.07
+35|02|17|2203|Technical Education|00||104||0||09|Fine Arts Colleges including Chitrakala Parishath|||2203-00-104-0-09|ಚಿತ್ರಕಲಾ ಪರಿಷತ್ ಸೇರಿದಂತೆ ಲಲಿತ ಕಲಾ ಕಾಲೇಜುಗಳು / Fine Arts Colleges including Chitrakala Parishath|V|Header|Detailed-Head||||
+35|02|17|2203|Technical Education|00||104||0||09|Fine Arts Colleges including Chitrakala Parishath|101|Grants-in-Aid-Salaries|2203-00-104-0-09|Grants-in-Aid-Salaries|V|Data|Object-Head|1002.79|1034.69|1034.69|971.22
+35|02|17|2203|Technical Education|00||104||0||09|Fine Arts Colleges including Chitrakala Parishath|103|Grants-in-Aid -General|2203-00-104-0-09|Grants-in-Aid -General|V|Data|Object-Head|250.00|200.00|250.00|200.00
+35|02|17|2203|Technical Education|00||104||0||09|Fine Arts Colleges including Chitrakala Parishath|||2203-00-104-0-09|ಜುಮ್ಲಾ HOA Total :|V|Total|Detailed-Head|1252.79|1234.69|1284.69|1171.22
+35|02|17|2203|Technical Education|00||105||0||01|Government Polytechnics|||2203-00-105-0-01|ಸರ್ಕಾರಿ ಪಾಲಿಟೆಕ್ನಿಕ್ ಗಳು / Government Polytechnics|V|Header|Detailed-Head||||
+35|02|17|2203|Technical Education|00||105||0||01|Government Polytechnics|002|Basic Pay|2203-00-105-0-01|Basic Pay|V|Data|Object-Head|23725.35|30467.00|30467.00|30596.00
+35|02|17|2203|Technical Education|00||105||0||01|Government Polytechnics|003|Basic Pay-Staff|2203-00-105-0-01|Basic Pay-Staff|V|Data|Object-Head|4936.47|||
+35|02|17|2203|Technical Education|00||105||0||01|Government Polytechnics|004|Interim Relief|2203-00-105-0-01|Interim Relief|V|Data|Object-Head|296.94|||
+35|02|17|2203|Technical Education|00||105||0||01|Government Polytechnics|011|Dearness Allowance|2203-00-105-0-01|Dearness Allowance|V|Data|Object-Head|13460.37|16801.00|16801.00|18306.00
+35|02|17|2203|Technical Education|00||105||0||01|Government Polytechnics|014|Other Allowance|2203-00-105-0-01|Other Allowance|V|Data|Object-Head|3391.75|3629.00|3629.00|3586.00
+35|02|17|2203|Technical Education|00||105||0||01|Government Polytechnics|020|Medical Allowance|2203-00-105-0-01|Medical Allowance|V|Data|Object-Head|37.75|||
+35|02|17|2203|Technical Education|00||105||0||01|Government Polytechnics|021|Reimbursement of Medical Expenses|2203-00-105-0-01|Reimbursement of Medical Expenses|V|Data|Object-Head|55.22|199.00|199.00|192.00
+35|02|17|2203|Technical Education|00||105||0||01|Government Polytechnics|034|Contract/Outsource|2203-00-105-0-01|Contract/Outsource|V|Data|Object-Head|2555.67|2684.40|2684.40|2786.59
+35|02|17|2203|Technical Education|00||105||0||01|Government Polytechnics|041|Travel Expenses|2203-00-105-0-01|Travel Expenses|V|Data|Object-Head|1.64|2.00|2.00|2.00
+35|02|17|2203|Technical Education|00||105||0||01|Government Polytechnics|050|Office Expenses|2203-00-105-0-01|Office Expenses|V|Data|Object-Head|148.50|150.00|150.00|150.00
+35|02|17|2203|Technical Education|00||105||0||01|Government Polytechnics|051|General Expenses|2203-00-105-0-01|General Expenses|V|Data|Object-Head|49.13|10.00|10.00|10.00
+35|02|17|2203|Technical Education|00||105||0||01|Government Polytechnics|052|Telephone Charges|2203-00-105-0-01|Telephone Charges|V|Data|Object-Head|3.50|||
+35|02|17|2203|Technical Education|00||105||0||01|Government Polytechnics|059|Other Expenses|2203-00-105-0-01|Other Expenses|V|Data|Object-Head|||165.06|
+35|02|17|2203|Technical Education|00||105||0||01|Government Polytechnics|071|Building Expenses|2203-00-105-0-01|Building Expenses|V|Data|Object-Head|361.99|400.00|400.00|400.00
+35|02|17|2203|Technical Education|00||105||0||01|Government Polytechnics|195|Transport Expenses|2203-00-105-0-01|Transport Expenses|V|Data|Object-Head|0.76|2.00|2.00|1.00

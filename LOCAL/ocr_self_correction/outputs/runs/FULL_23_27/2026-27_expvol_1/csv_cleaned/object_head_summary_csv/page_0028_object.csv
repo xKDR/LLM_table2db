@@ -1,0 +1,14 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+14|1|03|2071|Pension & Other Retirement Benefits|01||103||3||01|Compassionate Allowances - GIA|||2071-01-103-3-01|Compassionate Allowances - GIA|V|Header|Detailed-Head||||
+14|1|03|2071|Pension & Other Retirement Benefits|01||103||3||01|Compassionate Allowances - GIA|251|Pension & Retirement Benefits|2071-01-103-3-01|Pension & Retirement Benefits|V|Data|Object-Head|670.68|1016.82|1016.82|1016.82
+14|1|03|2071|Pension & Other Retirement Benefits|01||103||3||01|Compassionate Allowances - GIA|||2071-01-103-3-01|HOA Total :|V|Total|Detailed-Head|670.68|1016.82|1016.82|1016.82
+14|1|03|2071|Pension & Other Retirement Benefits|01||104||2||03|DCRG under Revised Pension Rules|||2071-01-104-2-03|DCRG under Revised Pension Rules|V|Header|Detailed-Head||||
+14|1|03|2071|Pension & Other Retirement Benefits|01||104||2||03|DCRG under Revised Pension Rules|251|Pension & Retirement Benefits|2071-01-104-2-03|Pension & Retirement Benefits|V|Data|Object-Head|171043.36|285114.48|285114.48|313286.88
+14|1|03|2071|Pension & Other Retirement Benefits|01||104||2||03|DCRG under Revised Pension Rules|||2071-01-104-2-03|HOA Total :|V|Total|Detailed-Head|171043.36|285114.48|285114.48|313286.88
+14|1|03|2071|Pension & Other Retirement Benefits|01||104||2||05|Gratuities to Ex-shanbhags /Karnams/Patwaries|||2071-01-104-2-05|Gratuities to Ex-shanbhags /Karnams/Patwaries|V|Header|Detailed-Head||||
+14|1|03|2071|Pension & Other Retirement Benefits|01||104||2||05|Gratuities to Ex-shanbhags /Karnams/Patwaries|251|Pension & Retirement Benefits|2071-01-104-2-05|Pension & Retirement Benefits|V|Data|Object-Head|13.72|50.00|50.00|50.00
+14|1|03|2071|Pension & Other Retirement Benefits|01||104||2||05|Gratuities to Ex-shanbhags /Karnams/Patwaries|||2071-01-104-2-05|HOA Total :|V|Total|Detailed-Head|13.72|50.00|50.00|50.00
+14|1|03|2071|Pension & Other Retirement Benefits|01||104||2||06|Interest on Belated Payment of DCRG|||2071-01-104-2-06|Interest on Belated Payment of DCRG|V|Header|Detailed-Head||||
+14|1|03|2071|Pension & Other Retirement Benefits|01||104||2||06|Interest on Belated Payment of DCRG|240|Repayment of Borrowings|2071-01-104-2-06|Repayment of Borrowings|V|Data|Object-Head|271.16|||
+14|1|03|2071|Pension & Other Retirement Benefits|01||104||2||06|Interest on Belated Payment of DCRG|241|Interest Payments|2071-01-104-2-06|Interest Payments|V|Data|Object-Head||250.00|832.12|250.00
+14|1|03|2071|Pension & Other Retirement Benefits|01||104||2||06|Interest on Belated Payment of DCRG|||2071-01-104-2-06|HOA Total :|V|Total|Detailed-Head|271.16|250.00|832.12|250.00

@@ -1,0 +1,10 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+11|02|12|4202|Capital Outlay on Education, Sports, Art and Culture|04||||||||||4202|Capital Outlay on Education, Sports, Art and Culture|V|Header|Major-Head||||
+11|02|12|4202|Capital Outlay on Education, Sports, Art and Culture|04||101||0||02|Archaeology & Museums|||4202-04-101-0-02|Archaeology & Museums|V|Header|Detailed-Head||||
+11|02|12|4202|Capital Outlay on Education, Sports, Art and Culture|04||101||0||02|Archaeology & Museums|132|Other Capital Expenses|4202-04-101-0-02|Other Capital Expenses|V|Data|Object-Head||||3300.00
+11|02|12|4202|Capital Outlay on Education, Sports, Art and Culture|04||101||0||02|Archaeology & Museums|139|Major Works|4202-04-101-0-02|Major Works|V|Data|Object-Head|2000.00|3300.00|3300.00|
+11|02|12|4202|Capital Outlay on Education, Sports, Art and Culture|04||101||0||02|Archaeology & Museums|||4202-04-101-0-02|HOA Total :|V|Total|Detailed-Head|2000.00|3300.00|3300.00|3300.00
+11|02|12|4202|Capital Outlay on Education, Sports, Art and Culture|04||106||0||01|Bengaluru Government Museum|||4202-04-106-0-01|Bengaluru Government Museum|V|Header|Detailed-Head||||
+11|02|12|4202|Capital Outlay on Education, Sports, Art and Culture|04||106||0||01|Bengaluru Government Museum|386|Purchase/Construction of Buildings|4202-04-106-0-01|Purchase/Construction of Buildings|V|Data|Object-Head||1400.00|1400.00|1400.00
+11|02|12|4202|Capital Outlay on Education, Sports, Art and Culture|04||106||0||01|Bengaluru Government Museum|||4202-04-106-0-01|HOA Total :|V|Total|Detailed-Head|0.00|1400.00|1400.00|1400.00
+11|02|12|4202|Capital Outlay on Education, Sports, Art and Culture|04||||||||||4202|4202 - Total :|V|Total|Major-Head|2000.00|4700.00|4700.00|4700.00

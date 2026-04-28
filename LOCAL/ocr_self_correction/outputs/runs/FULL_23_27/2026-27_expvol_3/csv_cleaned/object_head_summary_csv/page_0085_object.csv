@@ -1,0 +1,22 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+72|03|02|2405|Fisheries|00||001||0||50|Vacant Post Provision|||2405-00-001-0-50|Vacant Post Provision||Header|Detailed-Head||||
+72|03|02|2405|Fisheries|00||001||0||50|Vacant Post Provision|014|Other Allowance|2405-00-001-0-50|Other Allowance||Data|Object-Head||3527.61|3527.61|4328.61
+72|03|02|2405|Fisheries|00||001||0||50|Vacant Post Provision|||2405-00-001-0-50|HOA Total :||Total|Detailed-Head|0.00|3527.61|3527.61|4328.61
+72|03|02|2405|Fisheries|00||101||0||03|Comprehensive Fisheries Development Programs|||2405-00-101-0-03|Comprehensive Fisheries Development Programs||Header|Detailed-Head||||
+72|03|02|2405|Fisheries|00||101||0||03|Comprehensive Fisheries Development Programs|051|General Expenses|2405-00-101-0-03|General Expenses||Data|Object-Head|200.00|200.00|200.00|
+72|03|02|2405|Fisheries|00||101||0||03|Comprehensive Fisheries Development Programs|059|Other Expenses|2405-00-101-0-03|Other Expenses||Data|Object-Head|190.00|200.00|200.00|
+72|03|02|2405|Fisheries|00||101||0||03|Comprehensive Fisheries Development Programs|106|Subsidies|2405-00-101-0-03|Subsidies||Data|Object-Head|1284.55|980.00|980.00|
+72|03|02|2405|Fisheries|00||101||0||03|Comprehensive Fisheries Development Programs|422|Schedule Caste Sub Plan|2405-00-101-0-03|Schedule Caste Sub Plan||Data|Object-Head||250.00|250.00|
+72|03|02|2405|Fisheries|00||101||0||03|Comprehensive Fisheries Development Programs|423|Tribal Sub Plan|2405-00-101-0-03|Tribal Sub Plan||Data|Object-Head||150.00|150.00|
+72|03|02|2405|Fisheries|00||101||0||03|Comprehensive Fisheries Development Programs|||2405-00-101-0-03|HOA Total :||Total|Detailed-Head|1674.55|1780.00|1780.00|0.00
+72|03|02|2405|Fisheries|00||101||0||31|Share of Expenditure on Tunga Bhadra Board Fisheries|||2405-00-101-0-31|Share of Expenditure on Tunga Bhadra Board Fisheries||Header|Detailed-Head||||
+72|03|02|2405|Fisheries|00||101||0||31|Share of Expenditure on Tunga Bhadra Board Fisheries|001|Consolidated Salaries|2405-00-101-0-31|Consolidated Salaries||Data|Object-Head||1.00|1.00|1.00
+72|03|02|2405|Fisheries|00||101||0||31|Share of Expenditure on Tunga Bhadra Board Fisheries|||2405-00-101-0-31|HOA Total :||Total|Detailed-Head|0.00|1.00|1.00|1.00
+72|03|02|2405|Fisheries|00||101||0||58|CSS-Central Share-Pradhan Mantri Matsya Sampada Yojana (PMMSY)|||2405-00-101-0-58|CSS-Central Share-Pradhan Mantri Matsya Sampada Yojana (PMMSY)||Header|Detailed-Head||||
+72|03|02|2405|Fisheries|00||101||0||58|CSS-Central Share-Pradhan Mantri Matsya Sampada Yojana (PMMSY)|106|Subsidies|2405-00-101-0-58|Subsidies||Data|Object-Head|9421.70|4299.29|4299.29|5418.00
+72|03|02|2405|Fisheries|00||101||0||58|CSS-Central Share-Pradhan Mantri Matsya Sampada Yojana (PMMSY)|422|Schedule Caste Sub Plan|2405-00-101-0-58|Schedule Caste Sub Plan||Data|Object-Head|722.78|500.71|1000.00|630.00
+72|03|02|2405|Fisheries|00||101||0||58|CSS-Central Share-Pradhan Mantri Matsya Sampada Yojana (PMMSY)|423|Tribal Sub Plan|2405-00-101-0-58|Tribal Sub Plan||Data|Object-Head|424.83|200.00|1000.00|252.00
+72|03|02|2405|Fisheries|00||101||0||58|CSS-Central Share-Pradhan Mantri Matsya Sampada Yojana (PMMSY)|||2405-00-101-0-58|HOA Total :||Total|Detailed-Head|10569.31|5000.00|6299.29|6300.00
+72|03|02|2405|Fisheries|00||101||0||59|CSS-State Share-Pradhan Mantri Matsya Sampada Yojana (PMMSY)|||2405-00-101-0-59|CSS-State Share-Pradhan Mantri Matsya Sampada Yojana (PMMSY)||Header|Detailed-Head||||
+72|03|02|2405|Fisheries|00||101||0||59|CSS-State Share-Pradhan Mantri Matsya Sampada Yojana (PMMSY)|106|Subsidies|2405-00-101-0-59|Subsidies||Data|Object-Head|3448.05|2866.38|2866.38|3612.00
+72|03|02|2405|Fisheries|00||101||0||59|CSS-State Share-Pradhan Mantri Matsya Sampada Yojana (PMMSY)|422|Schedule Caste Sub Plan|2405-00-101-0-59|Schedule Caste Sub Plan||Data|Object-Head|481.86|333.30|666.97|420.00

@@ -1,0 +1,21 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+39|01|04|2014|Administration of Justice|00||116|Karnataka Administrative Tribunal|2|KAT-Kalaburagi|00||050|Office Expenses|2014-00-116-2-00|Office Expenses||Data|Object-Head||4.00|4.00|4.00
+39|01|04|2014|Administration of Justice|00||116|Karnataka Administrative Tribunal|2|KAT-Kalaburagi|00||051|General Expenses|2014-00-116-2-00|General Expenses||Data|Object-Head|5.10|10.00|10.00|7.00
+39|01|04|2014|Administration of Justice|00||116|Karnataka Administrative Tribunal|2|KAT-Kalaburagi|00||052|Telephone Charges|2014-00-116-2-00|Telephone Charges||Data|Object-Head|0.48|||
+39|01|04|2014|Administration of Justice|00||116|Karnataka Administrative Tribunal|2|KAT-Kalaburagi|00||071|Building Expenses|2014-00-116-2-00|Building Expenses||Data|Object-Head|24.58|30.00|30.00|30.00
+39|01|04|2014|Administration of Justice|00||116|Karnataka Administrative Tribunal|2|KAT-Kalaburagi|00||177|IT Expenditure|2014-00-116-2-00|IT Expenditure||Data|Object-Head||1.00|1.00|
+39|01|04|2014|Administration of Justice|00||116|Karnataka Administrative Tribunal|2|KAT-Kalaburagi|00||195|Transport Expenses|2014-00-116-2-00|Transport Expenses||Data|Object-Head|3.77|9.61|9.61|5.95
+39|01|04|2014|Administration of Justice|00||116|Karnataka Administrative Tribunal|2|KAT-Kalaburagi|00|||||HOA Total :||Total|Detailed-Head|35.90|59.68|59.68|52.13
+39|01|04|2014|Administration of Justice|00||116|Karnataka Administrative Tribunal|3|KAT-Belagavi|00||||2014-00-116-3-00|KAT-Belagavi||Header|Detailed-Head||||
+39|01|04|2014|Administration of Justice|00||116|Karnataka Administrative Tribunal|3|KAT-Belagavi|00||015|Subsidiary Expenses|2014-00-116-3-00|Subsidiary Expenses||Data|Object-Head|0.58|1.00|1.00|1.00
+39|01|04|2014|Administration of Justice|00||116|Karnataka Administrative Tribunal|3|KAT-Belagavi|00||034|Contract/Outsource|2014-00-116-3-00|Contract/Outsource||Data|Object-Head||3.07|3.07|3.18
+39|01|04|2014|Administration of Justice|00||116|Karnataka Administrative Tribunal|3|KAT-Belagavi|00||041|Travel Expenses|2014-00-116-3-00|Travel Expenses||Data|Object-Head|0.29|1.00|1.00|1.00
+39|01|04|2014|Administration of Justice|00||116|Karnataka Administrative Tribunal|3|KAT-Belagavi|00||050|Office Expenses|2014-00-116-3-00|Office Expenses||Data|Object-Head||4.00|4.00|4.00
+39|01|04|2014|Administration of Justice|00||116|Karnataka Administrative Tribunal|3|KAT-Belagavi|00||051|General Expenses|2014-00-116-3-00|General Expenses||Data|Object-Head|8.54|10.00|10.00|7.00
+39|01|04|2014|Administration of Justice|00||116|Karnataka Administrative Tribunal|3|KAT-Belagavi|00||052|Telephone Charges|2014-00-116-3-00|Telephone Charges||Data|Object-Head|0.35|||
+39|01|04|2014|Administration of Justice|00||116|Karnataka Administrative Tribunal|3|KAT-Belagavi|00||071|Building Expenses|2014-00-116-3-00|Building Expenses||Data|Object-Head|34.11|47.00|47.00|40.00
+39|01|04|2014|Administration of Justice|00||116|Karnataka Administrative Tribunal|3|KAT-Belagavi|00||177|IT Expenditure|2014-00-116-3-00|IT Expenditure||Data|Object-Head||1.00|1.00|
+39|01|04|2014|Administration of Justice|00||116|Karnataka Administrative Tribunal|3|KAT-Belagavi|00||195|Transport Expenses|2014-00-116-3-00|Transport Expenses||Data|Object-Head|4.78|9.61|9.61|5.33
+39|01|04|2014|Administration of Justice|00||116|Karnataka Administrative Tribunal|3|KAT-Belagavi|00||200|Maintenance Expenditure|2014-00-116-3-00|Maintenance Expenditure||Data|Object-Head||2.00|2.00|1.00
+39|01|04|2014|Administration of Justice|00||116|Karnataka Administrative Tribunal|3|KAT-Belagavi|00|||||HOA Total :||Total|Detailed-Head|48.65|78.68|78.68|62.51
+39|01|04|2014|Administration of Justice|00|||||||||||2014 - Total :||Total|Major-Head|2577.33|3123.77|3123.77|3112.73

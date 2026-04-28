@@ -1,0 +1,27 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+2|03|01|2401|Crop Husbandry|00|||||||||||Crop Husbandry||Header|Major-Head||||
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|||2401-00-001-1-01|Commissionerate of Agriculture||Header|Detailed-Head||||
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|002|Basic Pay|2401-00-001-1-01|Basic Pay||Data|Object-Head|4616.63|10373.00|10451.96|10690.00
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|003|Basic Pay-Staff|2401-00-001-1-01|Basic Pay-Staff||Data|Object-Head|2390.83|||
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|004|Interim Relief|2401-00-001-1-01|Interim Relief||Data|Object-Head|513.24|||
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|011|Dearness Allowance|2401-00-001-1-01|Dearness Allowance||Data|Object-Head|1762.81|2288.00|2301.84|2680.00
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|014|Other Allowance|2401-00-001-1-01|Other Allowance||Data|Object-Head|1033.92|1435.00|1448.05|1436.00
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|015|Subsidiary Expenses|2401-00-001-1-01|Subsidiary Expenses||Data|Object-Head|199.85|200.00|200.00|250.00
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|020|Medical Allowance|2401-00-001-1-01|Medical Allowance||Data|Object-Head|18.67|||
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|021|Reimbursement of Medical Expenses|2401-00-001-1-01|Reimbursement of Medical Expenses||Data|Object-Head|63.28|79.00|129.00|76.00
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|033|Daily-wages|2401-00-001-1-01|Daily-wages||Data|Object-Head|83.85|102.86|102.86|85.83
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|034|Contract/Outsource|2401-00-001-1-01|Contract/Outsource||Data|Object-Head|3954.27|4551.86|4613.86|4941.17
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|041|Travel Expenses|2401-00-001-1-01|Travel Expenses||Data|Object-Head|134.79|180.00|180.00|180.00
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|050|Office Expenses|2401-00-001-1-01|Office Expenses||Data|Object-Head||22.00|22.00|25.00
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|051|General Expenses|2401-00-001-1-01|General Expenses||Data|Object-Head|583.07|850.00|1350.00|880.00
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|052|Telephone Charges|2401-00-001-1-01|Telephone Charges||Data|Object-Head|19.52|||
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|059|Other Expenses|2401-00-001-1-01|Other Expenses||Data|Object-Head|369.62|370.00|370.00|250.00
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|071|Building Expenses|2401-00-001-1-01|Building Expenses||Data|Object-Head|239.16|284.00|284.00|295.00
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|103|Grants-in-Aid -General|2401-00-001-1-01|Grants-in-Aid -General||Data|Object-Head|219.80|570.00|570.00|240.00
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|177|IT Expenditure|2401-00-001-1-01|IT Expenditure||Data|Object-Head||200.00|200.00|30.00
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|180|Machinery and Equipments|2401-00-001-1-01|Machinery and Equipments||Data|Object-Head|19.93|||
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|195|Transport Expenses|2401-00-001-1-01|Transport Expenses||Data|Object-Head|789.15|936.20|936.20|1229.39
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|200|Maintenance Expenditure|2401-00-001-1-01|Maintenance Expenditure||Data|Object-Head|549.94|654.00|654.00|680.00
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|221|Materials and Supplies|2401-00-001-1-01|Materials and Supplies||Data|Object-Head||||120.00
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|251|Pension & Retirement Benefits|2401-00-001-1-01|Pension & Retirement Benefits||Data|Object-Head|16.95|34.04|34.04|22.93
+2|03|01|2401|Crop Husbandry|00||001||1||01|Commissionerate of Agriculture|||||HOA Total :|Total|Detailed-Head|17579.28|23129.96|23847.81|24111.32

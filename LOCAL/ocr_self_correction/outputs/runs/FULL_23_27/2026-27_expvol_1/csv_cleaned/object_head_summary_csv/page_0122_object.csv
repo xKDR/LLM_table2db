@@ -1,0 +1,8 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+108|01|05|4059|Capital Outlay on Public Works|80||||||||||4059|Capital Outlay on Public Works|V|Header|Major-Head||||
+108|01|05|4059|Capital Outlay on Public Works|80||051||0||34|RTO Buildings and Test Driving Track|||4059-80-051-0-34|RTO Buildings and Test Driving Track|V|Header|Detailed-Head||||
+108|01|05|4059|Capital Outlay on Public Works|80||051||0||34|RTO Buildings and Test Driving Track|053|Purchase of Furniture and Fixture for Office|4059-80-051-0-34|Purchase of Furniture and Fixture for Office|V|Data|Object-Head||20.00|20.00|21.00
+108|01|05|4059|Capital Outlay on Public Works|80||051||0||34|RTO Buildings and Test Driving Track|180|Machinery and Equipments|4059-80-051-0-34|Machinery and Equipments|V|Data|Object-Head||5.00|5.00|2.00
+108|01|05|4059|Capital Outlay on Public Works|80||051||0||34|RTO Buildings and Test Driving Track|386|Purchase/Construction of Buildings|4059-80-051-0-34|Purchase/Construction of Buildings|V|Data|Object-Head|2000.00|2000.00|2000.00|2000.00
+108|01|05|4059|Capital Outlay on Public Works|80||051||0||34|RTO Buildings and Test Driving Track|||4059-80-051-0-34|HOA Total :|V|Total|Detailed-Head|2000.00|2025.00|2025.00|2023.00
+108|01|05|4059|Capital Outlay on Public Works|80||||||||||4059|4059 - Total :|V|Total|Major-Head|2000.00|2025.00|2025.00|2023.00

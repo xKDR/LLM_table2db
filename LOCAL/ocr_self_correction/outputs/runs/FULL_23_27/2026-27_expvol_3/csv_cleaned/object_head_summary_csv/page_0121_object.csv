@@ -1,0 +1,26 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+108|03|09|3475|Other General Economic Services|00||107||0||01|Director of Agricultural Marketing|||3475-00-107-0-01|Director of Agricultural Marketing||Header|Detailed-Head||||
+108|03|09|3475|Other General Economic Services|00||107||0||01|Director of Agricultural Marketing|002|Basic Pay|3475-00-107-0-01|Basic Pay||Data|Object-Head|345.59|1063.00|1063.00|1121.00
+108|03|09|3475|Other General Economic Services|00||107||0||01|Director of Agricultural Marketing|003|Basic Pay-Staff|3475-00-107-0-01|Basic Pay-Staff||Data|Object-Head|517.40|||
+108|03|09|3475|Other General Economic Services|00||107||0||01|Director of Agricultural Marketing|004|Interim Relief|3475-00-107-0-01|Interim Relief||Data|Object-Head|59.73|||
+108|03|09|3475|Other General Economic Services|00||107||0||01|Director of Agricultural Marketing|011|Dearness Allowance|3475-00-107-0-01|Dearness Allowance||Data|Object-Head|214.62|234.00|234.00|287.00
+108|03|09|3475|Other General Economic Services|00||107||0||01|Director of Agricultural Marketing|014|Other Allowance|3475-00-107-0-01|Other Allowance||Data|Object-Head|142.29|167.00|167.00|174.00
+108|03|09|3475|Other General Economic Services|00||107||0||01|Director of Agricultural Marketing|020|Medical Allowance|3475-00-107-0-01|Medical Allowance||Data|Object-Head|3.93|||
+108|03|09|3475|Other General Economic Services|00||107||0||01|Director of Agricultural Marketing|021|Reimbursement of Medical Expenses|3475-00-107-0-01|Reimbursement of Medical Expenses||Data|Object-Head|1.67|15.00|15.00|15.00
+108|03|09|3475|Other General Economic Services|00||107||0||01|Director of Agricultural Marketing|041|Travel Expenses|3475-00-107-0-01|Travel Expenses||Data|Object-Head|5.58|7.00|7.00|7.00
+108|03|09|3475|Other General Economic Services|00||107||0||01|Director of Agricultural Marketing|050|Office Expenses|3475-00-107-0-01|Office Expenses||Data|Object-Head||6.00|6.00|10.00
+108|03|09|3475|Other General Economic Services|00||107||0||01|Director of Agricultural Marketing|051|General Expenses|3475-00-107-0-01|General Expenses||Data|Object-Head|7.93|8.00|8.00|
+108|03|09|3475|Other General Economic Services|00||107||0||01|Director of Agricultural Marketing|052|Telephone Charges|3475-00-107-0-01|Telephone Charges||Data|Object-Head|2.87|||
+108|03|09|3475|Other General Economic Services|00||107||0||01|Director of Agricultural Marketing|071|Building Expenses|3475-00-107-0-01|Building Expenses||Data|Object-Head|51.86|57.00|57.00|59.00
+108|03|09|3475|Other General Economic Services|00||107||0||01|Director of Agricultural Marketing|180|Machinery and Equipments|3475-00-107-0-01|Machinery and Equipments||Data|Object-Head|4.92|||
+108|03|09|3475|Other General Economic Services|00||107||0||01|Director of Agricultural Marketing|195|Transport Expenses|3475-00-107-0-01|Transport Expenses||Data|Object-Head|5.58|10.62|10.62|14.72
+108|03|09|3475|Other General Economic Services|00||107||0||01|Director of Agricultural Marketing||||3475-00-107-0-01|HOA Total :|Total|Detailed-Head|1363.97|1567.62|1567.62|1687.72
+108|03|09|3475|Other General Economic Services|00||107||0||02|Marketing Committees|||3475-00-107-0-02|Marketing Committees||Header|Detailed-Head||||
+108|03|09|3475|Other General Economic Services|00||107||0||02|Marketing Committees|002|Basic Pay|3475-00-107-0-02|Basic Pay||Data|Object-Head|1742.33|6835.00|6918.00|6761.00
+108|03|09|3475|Other General Economic Services|00||107||0||02|Marketing Committees|003|Basic Pay-Staff|3475-00-107-0-02|Basic Pay-Staff||Data|Object-Head|3705.42|||
+108|03|09|3475|Other General Economic Services|00||107||0||02|Marketing Committees|004|Interim Relief|3475-00-107-0-02|Interim Relief||Data|Object-Head|357.66|||
+108|03|09|3475|Other General Economic Services|00||107||0||02|Marketing Committees|011|Dearness Allowance|3475-00-107-0-02|Dearness Allowance||Data|Object-Head|1283.40|1504.00|1504.00|1691.00
+108|03|09|3475|Other General Economic Services|00||107||0||02|Marketing Committees|014|Other Allowance|3475-00-107-0-02|Other Allowance||Data|Object-Head|641.94|822.00|842.20|769.00
+108|03|09|3475|Other General Economic Services|00||107||0||02|Marketing Committees|020|Medical Allowance|3475-00-107-0-02|Medical Allowance||Data|Object-Head|28.15|||
+108|03|09|3475|Other General Economic Services|00||107||0||02|Marketing Committees|021|Reimbursement of Medical Expenses|3475-00-107-0-02|Reimbursement of Medical Expenses||Data|Object-Head|21.87|63.00|63.00|60.00
+108|03|09|3475|Other General Economic Services|00||107||0||02|Marketing Committees|035|Salary of Board/Corp.Staff working in State Government|3475-00-107-0-02|Salary of Board/Corp.Staff working in State Government||Data|Object-Head|7.61|8.12|31.32|30.00

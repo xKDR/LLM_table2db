@@ -1,0 +1,30 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+1|04|07|2059|Public Works|80||196||1||01||||2059-80-196-1-01|Grants to Panchayath Raj Engineering Department||Header|Detailed-Head||||
+1|04|07|2059|Public Works|80||196||1||01||300|Lumpsum - ZP|2059-80-196-1-01|Lumpsum - ZP||Data|Object-Head|1000.00|1550.00|1550.00|1550.00
+1|04|07|2059|Public Works|80||196||1||01||401|Bengaluru (Urban)|2059-80-196-1-01|Bengaluru (Urban)||Data|Object-Head|736.49|787.76|787.76|802.45
+1|04|07|2059|Public Works|80||196||1||01||402|Bengaluru (Rural)|2059-80-196-1-01|Bengaluru (Rural)||Data|Object-Head|552.46|514.47|514.47|496.26
+1|04|07|2059|Public Works|80||196||1||01||403|Chitradurga|2059-80-196-1-01|Chitradurga||Data|Object-Head|540.25|639.42|639.42|684.25
+1|04|07|2059|Public Works|80||196||1||01||404|Kolar|2059-80-196-1-01|Kolar||Data|Object-Head|505.60|469.64|469.64|522.88
+1|04|07|2059|Public Works|80||196||1||01||405|Shivamogga|2059-80-196-1-01|Shivamogga||Data|Object-Head|822.16|819.16|819.16|920.72
+1|04|07|2059|Public Works|80||196||1||01||406|Tumakuru|2059-80-196-1-01|Tumakuru||Data|Object-Head|1089.84|1026.33|1026.33|928.01
+1|04|07|2059|Public Works|80||196||1||01||407|Mysuru|2059-80-196-1-01|Mysuru||Data|Object-Head|915.43|979.28|979.28|982.49
+1|04|07|2059|Public Works|80||196||1||01||408|Chikkamagaluru|2059-80-196-1-01|Chikkamagaluru||Data|Object-Head|518.46|560.68|560.68|547.31
+1|04|07|2059|Public Works|80||196||1||01||409|Dakshina Kannada|2059-80-196-1-01|Dakshina Kannada||Data|Object-Head|595.23|599.80|599.80|624.74
+1|04|07|2059|Public Works|80||196||1||01||410|Hassan|2059-80-196-1-01|Hassan||Data|Object-Head|879.73|897.14|897.14|847.81
+1|04|07|2059|Public Works|80||196||1||01||411|Kodagu|2059-80-196-1-01|Kodagu||Data|Object-Head|359.25|405.36|405.36|446.61
+1|04|07|2059|Public Works|80||196||1||01||412|Mandya|2059-80-196-1-01|Mandya||Data|Object-Head|755.31|738.76|738.76|774.30
+1|04|07|2059|Public Works|80||196||1||01||413|Belagavi|2059-80-196-1-01|Belagavi||Data|Object-Head|1355.53|1339.62|1339.62|1371.11
+1|04|07|2059|Public Works|80||196||1||01||414|Vijayapura|2059-80-196-1-01|Vijayapura||Data|Object-Head|684.25|761.93|761.93|718.26
+1|04|07|2059|Public Works|80||196||1||01||415|Dharwad|2059-80-196-1-01|Dharwad||Data|Object-Head|480.88|532.39|532.39|586.62
+1|04|07|2059|Public Works|80||196||1||01||416|Uttara Kannada|2059-80-196-1-01|Uttara Kannada||Data|Object-Head|1059.73|1049.05|1049.05|1038.95
+1|04|07|2059|Public Works|80||196||1||01||417|Kalaburagi|2059-80-196-1-01|Kalaburagi||Data|Object-Head|1320.72|1819.47|1819.47|1838.48
+1|04|07|2059|Public Works|80||196||1||01||418|Ballari|2059-80-196-1-01|Ballari||Data|Object-Head|503.08|593.41|593.41|621.62
+1|04|07|2059|Public Works|80||196||1||01||419|Bidar|2059-80-196-1-01|Bidar||Data|Object-Head|1329.76|1002.25|1002.25|1044.21
+1|04|07|2059|Public Works|80||196||1||01||420|Raichur|2059-80-196-1-01|Raichur||Data|Object-Head|650.31|649.64|649.64|734.20
+1|04|07|2059|Public Works|80||196||1||01||421|Yadgiri|2059-80-196-1-01|Yadgiri||Data|Object-Head|491.58|488.80|488.80|497.53
+1|04|07|2059|Public Works|80||196||1||01||451|Davanagere|2059-80-196-1-01|Davanagere||Data|Object-Head|660.09|759.73|759.73|703.32
+1|04|07|2059|Public Works|80||196||1||01||452|Bengaluru South|2059-80-196-1-01|Bengaluru South||Data|Object-Head|516.46|507.57|507.57|493.38
+1|04|07|2059|Public Works|80||196||1||01||453|Chikkaballapura|2059-80-196-1-01|Chikkaballapura||Data|Object-Head|504.29|571.97|571.97|551.63
+1|04|07|2059|Public Works|80||196||1||01||456|Chamarajanagar|2059-80-196-1-01|Chamarajanagar||Data|Object-Head|435.18|515.15|515.15|579.52
+1|04|07|2059|Public Works|80||196||1||01||457|Udupi|2059-80-196-1-01|Udupi||Data|Object-Head|389.56|410.92|410.92|410.96
+1|04|07|2059|Public Works|80||196||1||01||461|Bagalkot|2059-80-196-1-01|Bagalkot||Data|Object-Head|584.64|636.67|636.67|737.66

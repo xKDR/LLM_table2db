@@ -1,0 +1,13 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+30|01|03|4217|Capital Outlay on Urban Development|60||||||||||4217|Capital Outlay on Urban Development|V|Header|Major-Head||||
+30|01|03|4217|Capital Outlay on Urban Development|60||190|Capital Outlay to BMRCL|||||||4217-60-190-2-02|Capital Outlay to BMRCL|V|Header|Minor-Head||||
+30|01|03|4217|Capital Outlay on Urban Development|60||190|Capital Outlay to BMRCL|2||||||4217-60-190-2-02||V|Header|Sub-Head||||
+30|01|03|4217|Capital Outlay on Urban Development|60||190|Capital Outlay to BMRCL|2||02||||4217-60-190-2-02||V|Header|Detailed-Head||||
+30|01|03|4217|Capital Outlay on Urban Development|60||190|Capital Outlay to BMRCL|2||02||132|Other Capital Expenses|4217-60-190-2-02|Other Capital Expenses|V|Data|Object-Head||200000.00|199250.00|300000.00
+30|01|03|4217|Capital Outlay on Urban Development|60||190|Capital Outlay to BMRCL|2||02|||||HOA Total :|V|Total|Detailed-Head|0.00|200000.00|199250.00|300000.00
+30|01|03|4217|Capital Outlay on Urban Development|60||902|Deduct-Amount met from BMRC Fund|||||||4217-60-902-0-04|Deduct-Amount met from BMRC Fund|V|Header|Minor-Head||||
+30|01|03|4217|Capital Outlay on Urban Development|60||902|Deduct-Amount met from BMRC Fund|0||||||4217-60-902-0-04||V|Header|Sub-Head||||
+30|01|03|4217|Capital Outlay on Urban Development|60||902|Deduct-Amount met from BMRC Fund|0||04||||4217-60-902-0-04||V|Header|Detailed-Head||||
+30|01|03|4217|Capital Outlay on Urban Development|60||902|Deduct-Amount met from BMRC Fund|0||04||261|Inter Account Transfers|4217-60-902-0-04|Inter Account Transfers|V|Data|Object-Head||-200000.00|-200000.00|-300000.00
+30|01|03|4217|Capital Outlay on Urban Development|60||902|Deduct-Amount met from BMRC Fund|0||04|||||HOA Total :|V|Total|Detailed-Head|0.00|-200000.00|-200000.00|-300000.00
+30|01|03|4217|Capital Outlay on Urban Development|60|||||||||||4217 - Total :|V|Total|Major-Head|0.00|0.00|-750.00|0.00

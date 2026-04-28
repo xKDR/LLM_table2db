@@ -1,0 +1,22 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+27|07|21|2701|Medium Irrigation|80||005||1||04|Suspense|293|M P W A Debits|2701-80-005-1-04|M P W A Debits|V|Data|Object-Head||1.00|1.00|
+27|07|21|2701|Medium Irrigation|80||005||1||04|Suspense|294|Stock Credits|2701-80-005-1-04|Stock Credits|V|Data|Object-Head||-1.00|-1.00|
+27|07|21|2701|Medium Irrigation|80||005||1||04|Suspense|295|M P W A Credits|2701-80-005-1-04|M P W A Credits|V|Data|Object-Head||-1.00|-1.00|
+27|07|21|2701|Medium Irrigation|80||005||1||04|Suspense|||2701-80-005-1-04|HOA Total :|V|Total|Detailed-Head|0.00|0.00|0.00|0.00
+27|07|21|2701|Medium Irrigation|80||190||0||01|Assistance to Krishna Bhagya Jala Nigam Ltd.|||2701-80-190-0-01|Assistance to Krishna Bhagya Jala Nigam Ltd.|V|Header|Detailed-Head||||
+27|07|21|2701|Medium Irrigation|80||190||0||01|Assistance to Krishna Bhagya Jala Nigam Ltd.|240|Repayment of Borrowings|2701-80-190-0-01|Repayment of Borrowings|C|Data|Object-Head|29954.46|||
+27|07|21|2701|Medium Irrigation|80||190||0||01|Assistance to Krishna Bhagya Jala Nigam Ltd.|241|Interest Payments|2701-80-190-0-01|Interest Payments|C|Data|Object-Head||24371.74|24371.74|14906.04
+27|07|21|2701|Medium Irrigation|80||190||0||01|Assistance to Krishna Bhagya Jala Nigam Ltd.|||2701-80-190-0-01|HOA Total :|C|Total|Detailed-Head|29954.46|24371.74|24371.74|14906.04
+27|07|21|2701|Medium Irrigation|80||190||0||02|Assistance to Karnataka Neeravari Nigama Limited|||2701-80-190-0-02|Assistance to Karnataka Neeravari Nigama Limited|V|Header|Detailed-Head||||
+27|07|21|2701|Medium Irrigation|80||190||0||02|Assistance to Karnataka Neeravari Nigama Limited|240|Repayment of Borrowings|2701-80-190-0-02|Repayment of Borrowings|C|Data|Object-Head|23062.25|||
+27|07|21|2701|Medium Irrigation|80||190||0||02|Assistance to Karnataka Neeravari Nigama Limited|241|Interest Payments|2701-80-190-0-02|Interest Payments|C|Data|Object-Head||13611.33|13611.33|7946.67
+27|07|21|2701|Medium Irrigation|80||190||0||02|Assistance to Karnataka Neeravari Nigama Limited|||2701-80-190-0-02|HOA Total :|C|Total|Detailed-Head|23062.25|13611.33|13611.33|7946.67
+27|07|21|2701|Medium Irrigation|80||190||0||03|Karnataka Neeravari Nigama Limited (KNNL)- Payment of Government Guarantee Commission|||2701-80-190-0-03|Karnataka Neeravari Nigama Limited (KNNL)- Payment of Government Guarantee Commission|V|Header|Detailed-Head||||
+27|07|21|2701|Medium Irrigation|80||190||0||03|Karnataka Neeravari Nigama Limited (KNNL)- Payment of Government Guarantee Commission|100|Financial Assistance/Relief|2701-80-190-0-03|Financial Assistance/Relief|V|Data|Object-Head|2588.18|1503.99|1503.99|910.22
+27|07|21|2701|Medium Irrigation|80||190||0||03|Karnataka Neeravari Nigama Limited (KNNL)- Payment of Government Guarantee Commission|||2701-80-190-0-03|HOA Total :|V|Total|Detailed-Head|2588.18|1503.99|1503.99|910.22
+27|07|21|2701|Medium Irrigation|80||190||0||04|Krishna Bhagya Jala Nigama - Payment of Government Guarantee|||2701-80-190-0-04|Krishna Bhagya Jala Nigama - Payment of Government Guarantee|V|Header|Detailed-Head||||
+27|07|21|2701|Medium Irrigation|80||190||0||04|Krishna Bhagya Jala Nigama - Payment of Government Guarantee|100|Financial Assistance/Relief|2701-80-190-0-04|Financial Assistance/Relief|V|Data|Object-Head|3725.90|2685.48|2685.48|1701.56
+27|07|21|2701|Medium Irrigation|80||190||0||04|Krishna Bhagya Jala Nigama - Payment of Government Guarantee|||2701-80-190-0-04|HOA Total :|V|Total|Detailed-Head|3725.90|2685.48|2685.48|1701.56
+27|07|21|2701|Medium Irrigation|80||190||0||06|Assistance to Cauvery Neeravari Nigam Limited|||2701-80-190-0-06|Assistance to Cauvery Neeravari Nigam Limited|V|Header|Detailed-Head||||
+27|07|21|2701|Medium Irrigation|80||190||0||06|Assistance to Cauvery Neeravari Nigam Limited|100|Financial Assistance/Relief|2701-80-190-0-06|Financial Assistance/Relief|V|Data|Object-Head|2061.47|1859.43|1859.43|709.85
+27|07|21|2701|Medium Irrigation|80||190||0||06|Assistance to Cauvery Neeravari Nigam Limited|||2701-80-190-0-06|HOA Total :|V|Total|Detailed-Head|2061.47|1859.43|1859.43|709.85

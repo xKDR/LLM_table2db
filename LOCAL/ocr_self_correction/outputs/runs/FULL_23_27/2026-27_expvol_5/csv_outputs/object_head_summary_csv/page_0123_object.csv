@@ -1,0 +1,10 @@
+110|05|13|5475|Capital Outlay on Other General Economic Services|00||||||||||5475-00-000-0-00|Capital Outlay on Other General Economic Services|V|Header|Major-Head||||
+110|05|13|5475|Capital Outlay on Other General Economic Services|00||115||0||01|Infrastructure for Weights and Measures|||5475-00-115-0-01|Infrastructure for Weights and Measures|V|Header|Detailed-Head||||
+110|05|13|5475|Capital Outlay on Other General Economic Services|00||115||0||01|Infrastructure for Weights and Measures|053|Purchase of Furniture and Fixture for Office|5475-00-115-0-01|Purchase of Furniture and Fixture for Office|V|Data|Object-Head||20.20|20.20|10.00
+110|05|13|5475|Capital Outlay on Other General Economic Services|00||115||0||01|Infrastructure for Weights and Measures|132|Other Capital Expenses|5475-00-115-0-01|Other Capital Expenses|V|Data|Object-Head|397.96|100.00|100.00|200.00
+110|05|13|5475|Capital Outlay on Other General Economic Services|00||115||0||01|Infrastructure for Weights and Measures|180|Machinery and Equipments|5475-00-115-0-01|Machinery and Equipments|V|Data|Object-Head|49.61|200.00|200.00|250.00
+110|05|13|5475|Capital Outlay on Other General Economic Services|00||115||0||01|Infrastructure for Weights and Measures|||5475-00-115-0-01|HOA Total :|V|Total|Detailed-Head|447.57|320.20|320.20|460.00
+110|05|13|5475|Capital Outlay on Other General Economic Services|00||115||0||90|Deduct-Receipts and Recoveries on Capital Account|||5475-00-115-0-90|Deduct-Receipts and Recoveries on Capital Account|V|Header|Detailed-Head||||
+110|05|13|5475|Capital Outlay on Other General Economic Services|00||115||0||90|Deduct-Receipts and Recoveries on Capital Account|364|Deduct - Recoveries|5475-00-115-0-90|Deduct - Recoveries|V|Data|Object-Head|-250.00|||
+110|05|13|5475|Capital Outlay on Other General Economic Services|00||115||0||90|Deduct-Receipts and Recoveries on Capital Account|||5475-00-115-0-90|HOA Total :|V|Total|Detailed-Head|-250.00|0.00|0.00|0.00
+110|05|13|5475|Capital Outlay on Other General Economic Services|00||||||||||5475-00-000-0-00|5475 - Total :|V|Total|Major-Head|197.57|320.20|320.20|460.00

@@ -1,0 +1,28 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||01|Director of Treasuries|||2054-00-095-0-01|Director of Treasuries|V|Header|Detailed-Head||||
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||01|Director of Treasuries|002|Basic Pay|2054-00-095-0-01|Basic Pay|V|Data|Object-Head|2753.12|13295.00|13895.00|13753.00
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||01|Director of Treasuries|003|Basic Pay-Staff|2054-00-095-0-01|Basic Pay-Staff|V|Data|Object-Head|8292.60|||
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||01|Director of Treasuries|004|Interim Relief|2054-00-095-0-01|Interim Relief|V|Data|Object-Head|659.91|||
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||01|Director of Treasuries|011|Dearness Allowance|2054-00-095-0-01|Dearness Allowance|V|Data|Object-Head|2495.42|2931.00|2131.00|3444.00
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||01|Director of Treasuries|014|Other Allowance|2054-00-095-0-01|Other Allowance|V|Data|Object-Head|1338.15|1623.00|1823.00|1588.00
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||01|Director of Treasuries|015|Subsidiary Expenses|2054-00-095-0-01|Subsidiary Expenses|V|Data|Object-Head|21.54|30.00|30.00|30.00
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||01|Director of Treasuries|020|Medical Allowance|2054-00-095-0-01|Medical Allowance|V|Data|Object-Head|68.16|||
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||01|Director of Treasuries|021|Reimbursement of Medical Expenses|2054-00-095-0-01|Reimbursement of Medical Expenses|V|Data|Object-Head|34.32|135.00|135.00|135.00
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||01|Director of Treasuries|034|Contract/Outsource|2054-00-095-0-01|Contract/Outsource|V|Data|Object-Head|895.56|919.66|919.66|835.75
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||01|Director of Treasuries|041|Travel Expenses|2054-00-095-0-01|Travel Expenses|V|Data|Object-Head|73.02|42.00|42.00|42.00
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||01|Director of Treasuries|050|Office Expenses|2054-00-095-0-01|Office Expenses|V|Data|Object-Head|294.00|320.00|320.00|325.00
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||01|Director of Treasuries|051|General Expenses|2054-00-095-0-01|General Expenses|V|Data|Object-Head|871.47|50.00|50.00|50.00
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||01|Director of Treasuries|052|Telephone Charges|2054-00-095-0-01|Telephone Charges|V|Data|Object-Head|15.51|||
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||01|Director of Treasuries|053|Purchase of Furniture and Fixture for Office|2054-00-095-0-01|Purchase of Furniture and Fixture for Office|V|Data|Object-Head|10.26|||
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||01|Director of Treasuries|071|Building Expenses|2054-00-095-0-01|Building Expenses|V|Data|Object-Head|955.62|1040.00|1040.00|1040.00
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||01|Director of Treasuries|177|IT Expenditure|2054-00-095-0-01|IT Expenditure|V|Data|Object-Head||1342.00|1342.00|1500.00
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||01|Director of Treasuries|195|Transport Expenses|2054-00-095-0-01|Transport Expenses|V|Data|Object-Head|211.38|244.93|244.93|268.28
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||01|Director of Treasuries|200|Maintenance Expenditure|2054-00-095-0-01|Maintenance Expenditure|V|Data|Object-Head|3396.32|2600.00|2600.00|2800.00
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||01|Director of Treasuries|||2054-00-095-0-01|HOA Total :|V|Total|Detailed-Head|22386.36|24572.59|24572.59|25811.03
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||06|Project Director HRMS-2|||2054-00-095-0-06|Project Director HRMS-2|V|Header|Detailed-Head||||
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||06|Project Director HRMS-2|002|Basic Pay|2054-00-095-0-06|Basic Pay|V|Data|Object-Head|56.99|103.00|103.00|96.00
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||06|Project Director HRMS-2|003|Basic Pay-Staff|2054-00-095-0-06|Basic Pay-Staff|V|Data|Object-Head|19.90|||
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||06|Project Director HRMS-2|004|Interim Relief|2054-00-095-0-06|Interim Relief|V|Data|Object-Head|5.14|||
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||06|Project Director HRMS-2|011|Dearness Allowance|2054-00-095-0-06|Dearness Allowance|V|Data|Object-Head|20.64|26.00|26.00|24.00
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||06|Project Director HRMS-2|014|Other Allowance|2054-00-095-0-06|Other Allowance|V|Data|Object-Head|18.70|24.00|24.00|20.00
+10|01|03|2054|Treasury and Accounts Administration|00||095||0||06|Project Director HRMS-2|015|Subsidiary Expenses|2054-00-095-0-06|Subsidiary Expenses|V|Data|Object-Head||15.00|15.00|10.00

@@ -1,0 +1,23 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+61|02|17|2202|General Education|02||001|Direction and Administration|0||09|Unspent SCSP-TSP Amount as per the SCSP-TSP Act 2013|||2202-02-001-0-09|Unspent SCSP-TSP Amount as per the SCSP-TSP Act 2013|V|Header|Detailed-Head||||
+61|02|17|2202|General Education|02||001|Direction and Administration|0||09|Unspent SCSP-TSP Amount as per the SCSP-TSP Act 2013|422|Schedule Caste Sub Plan|2202-02-001-0-09|Schedule Caste Sub Plan|V|Data|Object-Head|113.00|811.42|811.42|416.03
+61|02|17|2202|General Education|02||001|Direction and Administration|0||09|Unspent SCSP-TSP Amount as per the SCSP-TSP Act 2013|423|Tribal Sub Plan|2202-02-001-0-09|Tribal Sub Plan|V|Data|Object-Head|56.75|401.53|401.53|131.01
+61|02|17|2202|General Education|02||001|Direction and Administration|0||09|Unspent SCSP-TSP Amount as per the SCSP-TSP Act 2013|||2202-02-001-0-09|HOA Total :|V|Total|Detailed-Head|169.75|1212.95|1212.95|547.04
+61|02|17|2202|General Education|02||001|Direction and Administration|0||50|Vacant Post Provision|||2202-02-001-0-50|Vacant Post Provision|V|Header|Detailed-Head||||
+61|02|17|2202|General Education|02||001|Direction and Administration|0||50|Vacant Post Provision|014|Other Allowance|2202-02-001-0-50|Other Allowance|V|Data|Object-Head||280909.39|277817.20|403215.39
+61|02|17|2202|General Education|02||001|Direction and Administration|0||50|Vacant Post Provision|||2202-02-001-0-50|HOA Total :|V|Total|Detailed-Head|0.00|280909.39|277817.20|403215.39
+61|02|17|2202|General Education|02||107||0||06|Abhyudaya Scheme|||2202-02-107-0-06|Abhyudaya Scheme|V|Header|Detailed-Head||||
+61|02|17|2202|General Education|02||107||0||06|Abhyudaya Scheme|051|General Expenses|2202-02-107-0-06|General Expenses|V|Data|Object-Head|197.32|400.00|400.00|400.00
+61|02|17|2202|General Education|02||107||0||06|Abhyudaya Scheme|||2202-02-107-0-06|HOA Total :|V|Total|Detailed-Head|197.32|400.00|400.00|400.00
+61|02|17|2202|General Education|02||107||3||02|Reimbursement of fees to girl students studying in Government PU College|||2202-02-107-3-02|Reimbursement of fees to girl students studying in Government PU College|V|Header|Detailed-Head||||
+61|02|17|2202|General Education|02||107||3||02|Reimbursement of fees to girl students studying in Government PU College|106|Subsidies|2202-02-107-3-02|Subsidies|V|Data|Object-Head|679.68|692.22|692.22|692.22
+61|02|17|2202|General Education|02||107||3||02|Reimbursement of fees to girl students studying in Government PU College|422|Schedule Caste Sub Plan|2202-02-107-3-02|Schedule Caste Sub Plan|V|Data|Object-Head|157.51|156.40|156.40|156.40
+61|02|17|2202|General Education|02||107||3||02|Reimbursement of fees to girl students studying in Government PU College|423|Tribal Sub Plan|2202-02-107-3-02|Tribal Sub Plan|V|Data|Object-Head|60.12|63.38|63.38|63.38
+61|02|17|2202|General Education|02||107||3||02|Reimbursement of fees to girl students studying in Government PU College|||2202-02-107-3-02|HOA Total :|V|Total|Detailed-Head|897.31|912.00|912.00|912.00
+61|02|17|2202|General Education|02||109||0||13|Government PU Colleges|||2202-02-109-0-13|Government PU Colleges|V|Header|Detailed-Head||||
+61|02|17|2202|General Education|02||109||0||13|Government PU Colleges|002|Basic Pay|2202-02-109-0-13|Basic Pay|V|Data|Object-Head|96901.82|121628.00|121628.00|117839.00
+61|02|17|2202|General Education|02||109||0||13|Government PU Colleges|003|Basic Pay-Staff|2202-02-109-0-13|Basic Pay-Staff|V|Data|Object-Head|4315.17|||
+61|02|17|2202|General Education|02||109||0||13|Government PU Colleges|004|Interim Relief|2202-02-109-0-13|Interim Relief|V|Data|Object-Head|5671.87|||
+61|02|17|2202|General Education|02||109||0||13|Government PU Colleges|011|Dearness Allowance|2202-02-109-0-13|Dearness Allowance|V|Data|Object-Head|22182.44|26759.00|26759.00|29460.00
+61|02|17|2202|General Education|02||109||0||13|Government PU Colleges|014|Other Allowance|2202-02-109-0-13|Other Allowance|V|Data|Object-Head|10615.89|12729.00|12729.00|12342.00
+61|02|17|2202|General Education|02||109||0||13|Government PU Colleges|020|Medical Allowance|2202-02-109-0-13|Medical Allowance|V|Data|Object-Head|35.84|||

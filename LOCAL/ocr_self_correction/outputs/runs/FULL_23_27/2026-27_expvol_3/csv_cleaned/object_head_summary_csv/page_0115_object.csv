@@ -1,0 +1,24 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+102|03|09|2425|Co-operation|00||101||0||01|Co-operative Audit|||2425-00-101-0-01|Co-operative Audit|V|Header|Detailed-Head||||
+102|03|09|2425|Co-operation|00||101||0||01|Co-operative Audit|002|Basic Pay|2425-00-101-0-01|Basic Pay|V|Data|Object-Head|1239.51|3533.00|3533.00|3517.00
+102|03|09|2425|Co-operation|00||101||0||01|Co-operative Audit|003|Basic Pay-Staff|2425-00-101-0-01|Basic Pay-Staff|V|Data|Object-Head|1690.16|||
+102|03|09|2425|Co-operation|00||101||0||01|Co-operative Audit|004|Interim Relief|2425-00-101-0-01|Interim Relief|V|Data|Object-Head|193.83|||
+102|03|09|2425|Co-operation|00||101||0||01|Co-operative Audit|011|Dearness Allowance|2425-00-101-0-01|Dearness Allowance|V|Data|Object-Head|690.59|778.00|778.00|880.00
+102|03|09|2425|Co-operation|00||101||0||01|Co-operative Audit|014|Other Allowance|2425-00-101-0-01|Other Allowance|V|Data|Object-Head|412.28|430.00|430.00|387.00
+102|03|09|2425|Co-operation|00||101||0||01|Co-operative Audit|015|Subsidiary Expenses|2425-00-101-0-01|Subsidiary Expenses|V|Data|Object-Head|1.43|2.00|2.00|2.00
+102|03|09|2425|Co-operation|00||101||0||01|Co-operative Audit|020|Medical Allowance|2425-00-101-0-01|Medical Allowance|V|Data|Object-Head|13.49|||
+102|03|09|2425|Co-operation|00||101||0||01|Co-operative Audit|021|Reimbursement of Medical Expenses|2425-00-101-0-01|Reimbursement of Medical Expenses|V|Data|Object-Head|17.41|32.00|32.00|31.00
+102|03|09|2425|Co-operation|00||101||0||01|Co-operative Audit|034|Contract/Outsource|2425-00-101-0-01|Contract/Outsource|V|Data|Object-Head|408.92|473.41|473.41|488.08
+102|03|09|2425|Co-operation|00||101||0||01|Co-operative Audit|041|Travel Expenses|2425-00-101-0-01|Travel Expenses|V|Data|Object-Head|128.05|120.00|120.00|125.00
+102|03|09|2425|Co-operation|00||101||0||01|Co-operative Audit|050|Office Expenses|2425-00-101-0-01|Office Expenses|V|Data|Object-Head||7.00|7.00|27.00
+102|03|09|2425|Co-operation|00||101||0||01|Co-operative Audit|051|General Expenses|2425-00-101-0-01|General Expenses|V|Data|Object-Head|24.96|26.00|26.00|5.00
+102|03|09|2425|Co-operation|00||101||0||01|Co-operative Audit|052|Telephone Charges|2425-00-101-0-01|Telephone Charges|V|Data|Object-Head|5.51|||
+102|03|09|2425|Co-operation|00||101||0||01|Co-operative Audit|071|Building Expenses|2425-00-101-0-01|Building Expenses|V|Data|Object-Head|181.09|204.00|204.00|200.00
+102|03|09|2425|Co-operation|00||101||0||01|Co-operative Audit|180|Machinery and Equipments|2425-00-101-0-01|Machinery and Equipments|V|Data|Object-Head|27.39|||
+102|03|09|2425|Co-operation|00||101||0||01|Co-operative Audit|195|Transport Expenses|2425-00-101-0-01|Transport Expenses|V|Data|Object-Head|20.72|21.29|21.29|19.37
+102|03|09|2425|Co-operation|00||101||0||01|Co-operative Audit|||2425-00-101-0-01|HOA Total :|V|Total|Detailed-Head|5055.34|5626.70|5626.70|5681.45
+102|03|09|2425|Co-operation|00||107||2||41|Interest Subsidy for Crop Loan, Pledge Loan, SHGs|||2425-00-107-2-41|Interest Subsidy for Crop Loan, Pledge Loan, SHGs|V|Header|Detailed-Head||||
+102|03|09|2425|Co-operation|00||107||2||41|Interest Subsidy for Crop Loan, Pledge Loan, SHGs|106|Subsidies|2425-00-107-2-41|Subsidies|V|Data|Object-Head|140814.20|147900.00|104361.02|143400.00
+102|03|09|2425|Co-operation|00||107||2||41|Interest Subsidy for Crop Loan, Pledge Loan, SHGs|422|Schedule Caste Sub Plan|2425-00-107-2-41|Schedule Caste Sub Plan|V|Data|Object-Head|9838.16|11900.00|11900.00|11500.00
+102|03|09|2425|Co-operation|00||107||2||41|Interest Subsidy for Crop Loan, Pledge Loan, SHGs|423|Tribal Sub Plan|2425-00-107-2-41|Tribal Sub Plan|V|Data|Object-Head|4530.64|10200.00|10200.00|9900.00
+102|03|09|2425|Co-operation|00||107||2||41|Interest Subsidy for Crop Loan, Pledge Loan, SHGs|||2425-00-107-2-41|HOA Total :|V|Total|Detailed-Head|155183.00|170000.00|126461.02|164800.00

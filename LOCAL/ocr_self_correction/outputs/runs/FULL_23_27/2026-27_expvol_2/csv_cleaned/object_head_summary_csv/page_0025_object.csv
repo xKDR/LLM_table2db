@@ -1,0 +1,18 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+12|02|12|5452|Capital Outlay on Tourism|01||||||||||5452|Capital Outlay on Tourism|V|Header|Major-Head||||
+12|02|12|5452|Capital Outlay on Tourism|01||101||0||01|Tourist Infrastructure at Various Places|||5452-01-101-0-01|Tourist Infrastructure at Various Places|V|Header|Detailed-Head||||
+12|02|12|5452|Capital Outlay on Tourism|01||101||0||01|Tourist Infrastructure at Various Places|132|Other Capital Expenses|5452-01-101-0-01|Other Capital Expenses|V|Data|Object-Head|1999.58|2000.00|2000.00|1000.00
+12|02|12|5452|Capital Outlay on Tourism|01||101||0||01|Tourist Infrastructure at Various Places|133|Regional Imbalance Redressal Program|5452-01-101-0-01|Regional Imbalance Redressal Program|V|Data|Object-Head||||1000.00
+12|02|12|5452|Capital Outlay on Tourism|01||101||0||01|Tourist Infrastructure at Various Places|180|Machinery and Equipments|5452-01-101-0-01|Machinery and Equipments|V|Data|Object-Head||1.00|1.00|1.00
+12|02|12|5452|Capital Outlay on Tourism|01||101||0||01|Tourist Infrastructure at Various Places|||5452-01-101-0-01|HOA Total :|V|Total|Detailed-Head|1999.58|2001.00|2001.00|2001.00
+12|02|12|5452|Capital Outlay on Tourism|01||101||0||05|Major Infrastructure Works of Tourism Department in Tourist Locations|||5452-01-101-0-05|Major Infrastructure Works of Tourism Department in Tourist Locations|V|Header|Detailed-Head||||
+12|02|12|5452|Capital Outlay on Tourism|01||101||0||05|Major Infrastructure Works of Tourism Department in Tourist Locations|132|Other Capital Expenses|5452-01-101-0-05|Other Capital Expenses|V|Data|Object-Head|18145.22|5200.00|5200.00|2200.00
+12|02|12|5452|Capital Outlay on Tourism|01||101||0||05|Major Infrastructure Works of Tourism Department in Tourist Locations|133|Regional Imbalance Redressal Program|5452-01-101-0-05|Regional Imbalance Redressal Program|V|Data|Object-Head||||3000.00
+12|02|12|5452|Capital Outlay on Tourism|01||101||0||05|Major Infrastructure Works of Tourism Department in Tourist Locations|||5452-01-101-0-05|HOA Total :|V|Total|Detailed-Head|18145.22|5200.00|5200.00|5200.00
+12|02|12|5452|Capital Outlay on Tourism|01||101||0||08|Sri Renuka Yellamma Tourism Development Board|||5452-01-101-0-08|Sri Renuka Yellamma Tourism Development Board|V|Header|Detailed-Head||||
+12|02|12|5452|Capital Outlay on Tourism|01||101||0||08|Sri Renuka Yellamma Tourism Development Board|103|Grants-in-Aid -General|5452-01-101-0-08|Grants-in-Aid -General|V|Data|Object-Head|50.00|||
+12|02|12|5452|Capital Outlay on Tourism|01||101||0||08|Sri Renuka Yellamma Tourism Development Board|132|Other Capital Expenses|5452-01-101-0-08|Other Capital Expenses|V|Data|Object-Head||50.00|50.00|1.00
+12|02|12|5452|Capital Outlay on Tourism|01||101||0||08|Sri Renuka Yellamma Tourism Development Board|||5452-01-101-0-08|HOA Total :|V|Total|Detailed-Head|50.00|50.00|50.00|1.00
+12|02|12|5452|Capital Outlay on Tourism|01||800||0||10|Roads to Tourist Places under RIDF|||5452-01-800-0-10|Roads to Tourist Places under RIDF|V|Header|Detailed-Head||||
+12|02|12|5452|Capital Outlay on Tourism|01||800||0||10|Roads to Tourist Places under RIDF|436|NABARD Works|5452-01-800-0-10|NABARD Works|V|Data|Object-Head|440.00|460.00|460.00|
+12|02|12|5452|Capital Outlay on Tourism|01||800||0||10|Roads to Tourist Places under RIDF|||5452-01-800-0-10|HOA Total :|V|Total|Detailed-Head|440.00|460.00|460.00|0.00

@@ -1,0 +1,11 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+42|03|01|4401|Capital Outlay on Crop Husbandry|00||||||||||4401|Capital Outlay on Crop Husbandry||Header|Major-Head||||
+42|03|01|4401|Capital Outlay on Crop Husbandry|00||001||2||01|Infrastructure Works- Horticulture Development|||4401-00-001-2-01|Infrastructure Works- Horticulture Development||Header|Detailed-Head||||
+42|03|01|4401|Capital Outlay on Crop Husbandry|00||001||2||01|Infrastructure Works- Horticulture Development|132|Other Capital Expenses|4401-00-001-2-01|Other Capital Expenses||Data|Object-Head||||100.00
+42|03|01|4401|Capital Outlay on Crop Husbandry|00||001||2||01|Infrastructure Works- Horticulture Development|139|Major Works|4401-00-001-2-01|Major Works||Data|Object-Head||160.00|160.00|
+42|03|01|4401|Capital Outlay on Crop Husbandry|00||001||2||01|Infrastructure Works- Horticulture Development|180|Machinery and Equipments|4401-00-001-2-01|Machinery and Equipments||Data|Object-Head||7.00|7.00|
+42|03|01|4401|Capital Outlay on Crop Husbandry|00||001||2||01|Infrastructure Works- Horticulture Development||||4401-00-001-2-01|HOA Total :|Total|Detailed-Head|0.00|167.00|167.00|100.00
+42|03|01|4401|Capital Outlay on Crop Husbandry|00||800||1||07|Horticulture Infrastructure Development- NABARD Works|||4401-00-800-1-07|Horticulture Infrastructure Development- NABARD Works||Header|Detailed-Head||||
+42|03|01|4401|Capital Outlay on Crop Husbandry|00||800||1||07|Horticulture Infrastructure Development- NABARD Works|436|NABARD Works|4401-00-800-1-07|NABARD Works||Data|Object-Head|1536.73|3000.00|3000.00|5585.00
+42|03|01|4401|Capital Outlay on Crop Husbandry|00||800||1||07|Horticulture Infrastructure Development- NABARD Works||||4401-00-800-1-07|HOA Total :|Total|Detailed-Head|1536.73|3000.00|3000.00|5585.00
+42|03|01|4401|Capital Outlay on Crop Husbandry|00||||||||||4401|4401 - Total :||Total|Major-Head|1536.73|3167.00|3167.00|5685.00

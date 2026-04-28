@@ -1,0 +1,24 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||101||0||16|Computer Grants to New MLAs|||2011-02-101-0-16|Computer Grants to New MLAs||Header|Detailed-Head||||
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||101||0||16|Computer Grants to New MLAs|051|General Expenses|2011-02-101-0-16|General Expenses|V|Data|Object-Head|6.00|50.00|50.00|10.00
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||101||0||16|Computer Grants to New MLAs|||2011-02-101-0-16|HOA Total :|V|Total|Detailed-Head|6.00|50.00|50.00|10.00
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||102||0||01|Chairman|||2011-02-102-0-01|Chairman|C|Header|Detailed-Head||||
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||102||0||01|Chairman|001|Consolidated Salaries|2011-02-102-0-01|Consolidated Salaries|C|Data|Object-Head|9.00|32.20|32.20|53.00
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||102||0||01|Chairman|021|Reimbursement of Medical Expenses|2011-02-102-0-01|Reimbursement of Medical Expenses|C|Data|Object-Head|14.66|10.00|10.00|10.00
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||102||0||01|Chairman|041|Travel Expenses|2011-02-102-0-01|Travel Expenses|C|Data|Object-Head|99.95|100.00|200.00|120.00
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||102||0||01|Chairman|050|Office Expenses|2011-02-102-0-01|Office Expenses|C|Data|Object-Head||1.00|1.00|1.00
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||102||0||01|Chairman|051|General Expenses|2011-02-102-0-01|General Expenses|C|Data|Object-Head|7.95|6.00|11.00|6.00
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||102||0||01|Chairman|052|Telephone Charges|2011-02-102-0-01|Telephone Charges|C|Data|Object-Head|0.80|||
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||102||0||01|Chairman|||2011-02-102-0-01|HOA Total :|C|Total|Detailed-Head|132.36|149.20|254.20|190.00
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||102||0||02|Deputy Chairman|||2011-02-102-0-02|Deputy Chairman|C|Header|Detailed-Head||||
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||102||0||02|Deputy Chairman|001|Consolidated Salaries|2011-02-102-0-02|Consolidated Salaries|C|Data|Object-Head|26.40|28.90|38.90|42.60
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||102||0||02|Deputy Chairman|021|Reimbursement of Medical Expenses|2011-02-102-0-02|Reimbursement of Medical Expenses|C|Data|Object-Head|3.31|5.00|5.00|5.00
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||102||0||02|Deputy Chairman|041|Travel Expenses|2011-02-102-0-02|Travel Expenses|C|Data|Object-Head|55.03|50.00|92.00|52.00
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||102||0||02|Deputy Chairman|050|Office Expenses|2011-02-102-0-02|Office Expenses|C|Data|Object-Head||1.00|1.00|1.00
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||102||0||02|Deputy Chairman|051|General Expenses|2011-02-102-0-02|General Expenses|C|Data|Object-Head|2.86|3.00|5.00|4.00
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||102||0||02|Deputy Chairman|052|Telephone Charges|2011-02-102-0-02|Telephone Charges|C|Data|Object-Head|0.09|||
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||102||0||02|Deputy Chairman|||2011-02-102-0-02|HOA Total :|C|Total|Detailed-Head|87.69|87.90|141.90|104.60
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||102||0||03|Leader of Opposition - LC|||2011-02-102-0-03|Leader of Opposition - LC||Header|Detailed-Head||||
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||102||0||03|Leader of Opposition - LC|001|Consolidated Salaries|2011-02-102-0-03|Consolidated Salaries|V|Data|Object-Head|23.67|28.90|38.90|42.60
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||102||0||03|Leader of Opposition - LC|021|Reimbursement of Medical Expenses|2011-02-102-0-03|Reimbursement of Medical Expenses|V|Data|Object-Head||5.00|5.00|5.00
+131|01|28|2011|Parliament/State/Union Territory Legislatures|02||102||0||03|Leader of Opposition - LC|041|Travel Expenses|2011-02-102-0-03|Travel Expenses|V|Data|Object-Head|45.92|60.00|60.00|62.00

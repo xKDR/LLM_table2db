@@ -1,0 +1,26 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+33|01|03|7610|Loans to Government Servants, etc.,|00||||||||||7610|Loans to Government Servants, etc.,|V|Header|Major-Head||||
+33|01|03|7610|Loans to Government Servants, etc.,|00||201|House Building Advance to All India Service Officers|||||||7610-00-201-0-02|House Building Advance to All India Service Officers|V|Header|Minor-Head||||
+33|01|03|7610|Loans to Government Servants, etc.,|00||201|House Building Advance to All India Service Officers|0||||||7610-00-201-0-02||V|Header|Sub-Head||||
+33|01|03|7610|Loans to Government Servants, etc.,|00||201|House Building Advance to All India Service Officers|0||02||||7610-00-201-0-02||V|Header|Detailed-Head||||
+33|01|03|7610|Loans to Government Servants, etc.,|00||201|House Building Advance to All India Service Officers|0||02||393|Advances|7610-00-201-0-02|Advances|V|Data|Object-Head|245.00|350.00|350.00|350.00
+33|01|03|7610|Loans to Government Servants, etc.,|00||201|House Building Advance to All India Service Officers|0||02|||||HOA Total :|V|Total|Detailed-Head|245.00|350.00|350.00|350.00
+33|01|03|7610|Loans to Government Servants, etc.,|00||201|House Building Advance to All India Service Officers|0||03|HBA to Others|||7610-00-201-0-03|HBA to Others|V|Header|Detailed-Head||||
+33|01|03|7610|Loans to Government Servants, etc.,|00||201|House Building Advance to All India Service Officers|0||03|HBA to Others|393|Advances|7610-00-201-0-03|Advances|V|Data|Object-Head|184.15|300.00|300.00|300.00
+33|01|03|7610|Loans to Government Servants, etc.,|00||201|House Building Advance to All India Service Officers|0||03|HBA to Others||||HOA Total :|V|Total|Detailed-Head|184.15|300.00|300.00|300.00
+33|01|03|7610|Loans to Government Servants, etc.,|00||202|Motor Conveyance Advance to Govt.Servants including AIS Officers|||||||7610-00-202-0-01|Motor Conveyance Advance to Govt.Servants including AIS Officers|V|Header|Minor-Head||||
+33|01|03|7610|Loans to Government Servants, etc.,|00||202|Motor Conveyance Advance to Govt.Servants including AIS Officers|0||||||7610-00-202-0-01||V|Header|Sub-Head||||
+33|01|03|7610|Loans to Government Servants, etc.,|00||202|Motor Conveyance Advance to Govt.Servants including AIS Officers|0||01||||7610-00-202-0-01||V|Header|Detailed-Head||||
+33|01|03|7610|Loans to Government Servants, etc.,|00||202|Motor Conveyance Advance to Govt.Servants including AIS Officers|0||01||393|Advances|7610-00-202-0-01|Advances|V|Data|Object-Head||50.00|50.00|100.00
+33|01|03|7610|Loans to Government Servants, etc.,|00||202|Motor Conveyance Advance to Govt.Servants including AIS Officers|0||01|||||HOA Total :|V|Total|Detailed-Head|0.00|50.00|50.00|100.00
+33|01|03|7610|Loans to Government Servants, etc.,|00||202|Motor Conveyance Advance to Govt.Servants including AIS Officers|0||02|Motor Conveyance to MLAs|||7610-00-202-0-02|Motor Conveyance to MLAs|V|Header|Detailed-Head||||
+33|01|03|7610|Loans to Government Servants, etc.,|00||202|Motor Conveyance Advance to Govt.Servants including AIS Officers|0||02|Motor Conveyance to MLAs|393|Advances|7610-00-202-0-02|Advances|V|Data|Object-Head|600.00|120.00|440.00|250.00
+33|01|03|7610|Loans to Government Servants, etc.,|00||202|Motor Conveyance Advance to Govt.Servants including AIS Officers|0||02|Motor Conveyance to MLAs||||HOA Total :|V|Total|Detailed-Head|600.00|120.00|440.00|250.00
+33|01|03|7610|Loans to Government Servants, etc.,|00||202|Motor Conveyance Advance to Govt.Servants including AIS Officers|0||03|Motor Conveyance to MLCs|||7610-00-202-0-03|Motor Conveyance to MLCs|V|Header|Detailed-Head||||
+33|01|03|7610|Loans to Government Servants, etc.,|00||202|Motor Conveyance Advance to Govt.Servants including AIS Officers|0||03|Motor Conveyance to MLCs|393|Advances|7610-00-202-0-03|Advances|V|Data|Object-Head|840.00|300.00|300.00|300.00
+33|01|03|7610|Loans to Government Servants, etc.,|00||202|Motor Conveyance Advance to Govt.Servants including AIS Officers|0||03|Motor Conveyance to MLCs||||HOA Total :|V|Total|Detailed-Head|840.00|300.00|300.00|300.00
+33|01|03|7610|Loans to Government Servants, etc.,|00||203|Government Department|||||||7610-00-203-0-01|Government Department|V|Header|Minor-Head||||
+33|01|03|7610|Loans to Government Servants, etc.,|00||203|Government Department|0||||||7610-00-203-0-01||V|Header|Sub-Head||||
+33|01|03|7610|Loans to Government Servants, etc.,|00||203|Government Department|0||01||||7610-00-203-0-01||V|Header|Detailed-Head||||
+33|01|03|7610|Loans to Government Servants, etc.,|00||203|Government Department|0||01||393|Advances|7610-00-203-0-01|Advances|V|Data|Object-Head||1.00|1.00|
+33|01|03|7610|Loans to Government Servants, etc.,|00||203|Government Department|0||01|||||HOA Total :|V|Total|Detailed-Head|0.00|1.00|1.00|0.00

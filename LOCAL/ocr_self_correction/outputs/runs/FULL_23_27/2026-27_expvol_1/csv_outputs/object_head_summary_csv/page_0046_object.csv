@@ -1,0 +1,12 @@
+32|01|03|5475|Capital Outlay on Other General Economic Services|00||||||||||5475|Capital Outlay on Other General Economic Services|V|Header|Major-Head||||
+32|01|03|5475|Capital Outlay on Other General Economic Services|00||115|Capital Outlay to Bengaluru Infrastructure Projects|||||||5475-00-115-0-08|Capital Outlay to Bengaluru Infrastructure Projects|V|Header|Minor-Head||||
+32|01|03|5475|Capital Outlay on Other General Economic Services|00||115|Capital Outlay to Bengaluru Infrastructure Projects|0||||||5475-00-115-0-08||V|Header|Sub-Head||||
+32|01|03|5475|Capital Outlay on Other General Economic Services|00||115|Capital Outlay to Bengaluru Infrastructure Projects|0||08||||5475-00-115-0-08||V|Header|Detailed-Head||||
+32|01|03|5475|Capital Outlay on Other General Economic Services|00||115|Capital Outlay to Bengaluru Infrastructure Projects|0||08||132|Other Capital Expenses|5475-00-115-0-08|Other Capital Expenses|V|Data|Object-Head||300000.00|300000.00|300000.00
+32|01|03|5475|Capital Outlay on Other General Economic Services|00||115|Capital Outlay to Bengaluru Infrastructure Projects|0||08|||||HOA Total :|V|Total|Detailed-Head|0.00|300000.00|300000.00|300000.00
+32|01|03|5475|Capital Outlay on Other General Economic Services|00||902|Deduct-Amount met from Infrastructure Fund|||||||5475-00-902-0-01|Deduct-Amount met from Infrastructure Fund|V|Header|Minor-Head||||
+32|01|03|5475|Capital Outlay on Other General Economic Services|00||902|Deduct-Amount met from Infrastructure Fund|0||||||5475-00-902-0-01||V|Header|Sub-Head||||
+32|01|03|5475|Capital Outlay on Other General Economic Services|00||902|Deduct-Amount met from Infrastructure Fund|0||01||||5475-00-902-0-01||V|Header|Detailed-Head||||
+32|01|03|5475|Capital Outlay on Other General Economic Services|00||902|Deduct-Amount met from Infrastructure Fund|0||01||261|Inter Account Transfers|5475-00-902-0-01|Inter Account Transfers|V|Data|Object-Head||-300000.00|-300000.00|-300000.00
+32|01|03|5475|Capital Outlay on Other General Economic Services|00||902|Deduct-Amount met from Infrastructure Fund|0||01|||||HOA Total :|V|Total|Detailed-Head|0.00|-300000.00|-300000.00|-300000.00
+32|01|03|5475|Capital Outlay on Other General Economic Services|00||||||||||5475 - Total :|V|Total|Major-Head|0.00|0.00|0.00|0.00

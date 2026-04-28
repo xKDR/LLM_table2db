@@ -1,0 +1,8 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+59|01|04|2205|Art and Culture|00||||||||||2205|Art and Culture|V|Header|Major-Head||||
+59|01|04|2205|Art and Culture|00||101||0||14|Centre for Non-Resident Kannadigas|||2205-00-101-0-14|Centre for Non-Resident Kannadigas|V|Header|Detailed-Head||||
+59|01|04|2205|Art and Culture|00||101||0||14|Centre for Non-Resident Kannadigas|101|Grants-in-Aid-Salaries|2205-00-101-0-14|Grants-in-Aid-Salaries|V|Data|Object-Head|47.60|46.97|46.97|56.41
+59|01|04|2205|Art and Culture|00||101||0||14|Centre for Non-Resident Kannadigas|103|Grants-in-Aid -General|2205-00-101-0-14|Grants-in-Aid -General|V|Data|Object-Head|150.00|100.00|100.00|105.00
+59|01|04|2205|Art and Culture|00||101||0||14|Centre for Non-Resident Kannadigas|115|GIA Contract /Outsource|2205-00-101-0-14|GIA Contract /Outsource|V|Data|Object-Head|41.67|40.40|40.40|41.21
+59|01|04|2205|Art and Culture|00||101||0||14|Centre for Non-Resident Kannadigas||||HOA Total :|V|Total|Detailed-Head|239.27|187.37|187.37|202.62
+59|01|04|2205|Art and Culture|00||||||||||2205|2205 - Total :|V|Total|Major-Head|239.27|187.37|187.37|202.62

@@ -1,0 +1,7 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+24|06|18|6852|Loans for Iron and Steel Industries|02||||||||||6852|Loans for Iron and Steel Industries|V|Header|Major-Head||||
+24|06|18|6852|Loans for Iron and Steel Industries|02||800||0||01|Loan against VAT Payment to Industrial Units|||6852-02-800-0-01|Loan against VAT Payment to Industrial Units|V|Header|Detailed-Head||||
+24|06|18|6852|Loans for Iron and Steel Industries|02||800||0||01|Loan against VAT Payment to Industrial Units|133|Regional Imbalance Redressal Program|6852-02-800-0-01|Regional Imbalance Redressal Program|V|Data|Object-Head||||20000.00
+24|06|18|6852|Loans for Iron and Steel Industries|02||800||0||01|Loan against VAT Payment to Industrial Units|394|Loans|6852-02-800-0-01|Loans|V|Data|Object-Head|90000.00|99000.00|89000.00|60000.00
+24|06|18|6852|Loans for Iron and Steel Industries|02||800||0||01|Loan against VAT Payment to Industrial Units||||HOA Total :|V|Total|Detailed-Head|90000.00|99000.00|89000.00|80000.00
+24|06|18|6852|Loans for Iron and Steel Industries|02|||||||||||6852 - Total :|V|Total|Major-Head|90000.00|99000.00|89000.00|80000.00

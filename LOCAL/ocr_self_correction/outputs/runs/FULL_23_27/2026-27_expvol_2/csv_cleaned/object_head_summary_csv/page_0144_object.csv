@@ -1,0 +1,24 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+131|02|22|2211|Family Welfare|00||196||6||06|Rural Sub-Centres under Family Welfare|419|Bidar|2211-00-196-6-06|Bidar|V|Data|Object-Head|984.08|1128.08|1128.08|1081.95
+131|02|22|2211|Family Welfare|00||196||6||06|Rural Sub-Centres under Family Welfare|420|Raichur|2211-00-196-6-06|Raichur|V|Data|Object-Head|1406.33|1576.87|1576.87|1621.34
+131|02|22|2211|Family Welfare|00||196||6||06|Rural Sub-Centres under Family Welfare|421|Yadgiri|2211-00-196-6-06|Yadgiri|V|Data|Object-Head|372.11|401.20|401.20|381.41
+131|02|22|2211|Family Welfare|00||196||6||06|Rural Sub-Centres under Family Welfare|451|Davanagere|2211-00-196-6-06|Davanagere|V|Data|Object-Head|1353.19|1567.01|1567.01|1559.88
+131|02|22|2211|Family Welfare|00||196||6||06|Rural Sub-Centres under Family Welfare|452|Bengaluru South|2211-00-196-6-06|Bengaluru South|V|Data|Object-Head|965.17|1131.49|1131.49|1148.71
+131|02|22|2211|Family Welfare|00||196||6||06|Rural Sub-Centres under Family Welfare|453|Chikkaballapura|2211-00-196-6-06|Chikkaballapura|V|Data|Object-Head|265.63|287.99|287.99|281.05
+131|02|22|2211|Family Welfare|00||196||6||06|Rural Sub-Centres under Family Welfare|456|Chamarajanagar|2211-00-196-6-06|Chamarajanagar|V|Data|Object-Head|635.83|775.64|775.64|758.59
+131|02|22|2211|Family Welfare|00||196||6||06|Rural Sub-Centres under Family Welfare|457|Udupi|2211-00-196-6-06|Udupi|V|Data|Object-Head|1357.12|1596.55|1596.55|1485.03
+131|02|22|2211|Family Welfare|00||196||6||06|Rural Sub-Centres under Family Welfare|461|Bagalkot|2211-00-196-6-06|Bagalkot|V|Data|Object-Head|1209.05|1382.76|1382.76|1403.56
+131|02|22|2211|Family Welfare|00||196||6||06|Rural Sub-Centres under Family Welfare|462|Gadag|2211-00-196-6-06|Gadag|V|Data|Object-Head|1121.49|1273.68|1273.68|1296.80
+131|02|22|2211|Family Welfare|00||196||6||06|Rural Sub-Centres under Family Welfare|463|Haveri|2211-00-196-6-06|Haveri|V|Data|Object-Head|1396.23|1660.27|1660.27|1635.62
+131|02|22|2211|Family Welfare|00||196||6||06|Rural Sub-Centres under Family Welfare|466|Koppal|2211-00-196-6-06|Koppal|V|Data|Object-Head|1059.67|1285.62|1285.62|1266.33
+131|02|22|2211|Family Welfare|00||196||6||06|Rural Sub-Centres under Family Welfare|467|Vijayanagara|2211-00-196-6-06|Vijayanagara|V|Data|Object-Head|627.61|757.25|757.25|724.66
+131|02|22|2211|Family Welfare|00||196||6||06|Rural Sub-Centres under Family Welfare|||2211-00-196-6-06|HOA Total :|V|Total|Detailed-Head|38480.01|43995.83|43995.83|43760.71
+131|02|22|2211|Family Welfare|00||911||0||01|Deduct Recovery of Over Payments of Current Year||||2211-00-911-0-01|Deduct Recovery of Over Payments of Current Year|Header|Detailed-Head||||
+131|02|22|2211|Family Welfare|00||911||0||01|Deduct Recovery of Over Payments of Current Year|364|Deduct - Recoveries|2211-00-911-0-01|Deduct - Recoveries|V|Data|Object-Head|-30.53|||
+131|02|22|2211|Family Welfare|00||911||0||01|Deduct Recovery of Over Payments of Current Year|||2211-00-911-0-01|HOA Total :|V|Total|Detailed-Head|-30.53|0.00|0.00|0.00
+131|02|22|2211|Family Welfare|00||911||0||02|Deduct-Recovery of Overpayments||||2211-00-911-0-02|Deduct-Recovery of Overpayments|Header|Detailed-Head||||
+131|02|22|2211|Family Welfare|00||911||0||02|Deduct-Recovery of Overpayments|364|Deduct - Recoveries|2211-00-911-0-02|Deduct - Recoveries|V|Data|Object-Head|-25.41|||
+131|02|22|2211|Family Welfare|00||911||0||02|Deduct-Recovery of Overpayments|||2211-00-911-0-02|HOA Total :|V|Total|Detailed-Head|-25.41|0.00|0.00|0.00
+131|02|22|2211|Family Welfare|00||911||0||03|Deduct-Recovery of Overpayments||||2211-00-911-0-03|Deduct-Recovery of Overpayments|Header|Detailed-Head||||
+131|02|22|2211|Family Welfare|00||911||0||03|Deduct-Recovery of Overpayments|364|Deduct - Recoveries|2211-00-911-0-03|Deduct - Recoveries|V|Data|Object-Head|-0.46|||
+131|02|22|2211|Family Welfare|00||911||0||03|Deduct-Recovery of Overpayments|||2211-00-911-0-03|HOA Total :|V|Total|Detailed-Head|-0.46|0.00|0.00|0.00

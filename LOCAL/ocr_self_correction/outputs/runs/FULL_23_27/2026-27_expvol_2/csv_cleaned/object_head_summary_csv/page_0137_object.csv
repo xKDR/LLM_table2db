@@ -1,0 +1,28 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+124|02|22|2211|Family Welfare|00||||||||||2211|Family Welfare|V|Header|Major-Head||||
+124|02|22|2211|Family Welfare|00||001||0||01|State Family Welfare Bureau|||2211-00-001-0-01|State Family Welfare Bureau|V|Header|Detailed-Head||||
+124|02|22|2211|Family Welfare|00||001||0||01|State Family Welfare Bureau|002|Basic Pay|2211-00-001-0-01|Basic Pay|V|Data|Object-Head|117.81|414.00|414.00|329.00
+124|02|22|2211|Family Welfare|00||001||0||01|State Family Welfare Bureau|003|Basic Pay-Staff|2211-00-001-0-01|Basic Pay-Staff|V|Data|Object-Head|228.43|||
+124|02|22|2211|Family Welfare|00||001||0||01|State Family Welfare Bureau|004|Interim Relief|2211-00-001-0-01|Interim Relief|V|Data|Object-Head|23.66|||
+124|02|22|2211|Family Welfare|00||001||0||01|State Family Welfare Bureau|011|Dearness Allowance|2211-00-001-0-01|Dearness Allowance|V|Data|Object-Head|83.87|91.00|91.00|83.00
+124|02|22|2211|Family Welfare|00||001||0||01|State Family Welfare Bureau|014|Other Allowance|2211-00-001-0-01|Other Allowance|V|Data|Object-Head|127.26|134.00|134.00|111.00
+124|02|22|2211|Family Welfare|00||001||0||01|State Family Welfare Bureau|020|Medical Allowance|2211-00-001-0-01|Medical Allowance|V|Data|Object-Head|1.88|||
+124|02|22|2211|Family Welfare|00||001||0||01|State Family Welfare Bureau|021|Reimbursement of Medical Expenses|2211-00-001-0-01|Reimbursement of Medical Expenses|V|Data|Object-Head|4.53|15.00|15.00|15.00
+124|02|22|2211|Family Welfare|00||001||0||01|State Family Welfare Bureau|041|Travel Expenses|2211-00-001-0-01|Travel Expenses|V|Data|Object-Head|0.05|1.00|1.00|1.00
+124|02|22|2211|Family Welfare|00||001||0||01|State Family Welfare Bureau|051|General Expenses|2211-00-001-0-01|General Expenses|V|Data|Object-Head|9.19|10.00|10.00|10.00
+124|02|22|2211|Family Welfare|00||001||0||01|State Family Welfare Bureau|071|Building Expenses|2211-00-001-0-01|Building Expenses|V|Data|Object-Head|0.91|5.00|5.00|5.00
+124|02|22|2211|Family Welfare|00||001||0||01|State Family Welfare Bureau|195|Transport Expenses|2211-00-001-0-01|Transport Expenses|V|Data|Object-Head|12.34|25.00|25.00|
+124|02|22|2211|Family Welfare|00||001||0||01|State Family Welfare Bureau||||HOA Total :|V|Total|Detailed-Head|609.93|695.00|695.00|554.00
+124|02|22|2211|Family Welfare|00||003||0||01|Regional Health and Family Welfare Training Centres|||2211-00-003-0-01|Regional Health and Family Welfare Training Centres|V|Header|Detailed-Head||||
+124|02|22|2211|Family Welfare|00||003||0||01|Regional Health and Family Welfare Training Centres|002|Basic Pay|2211-00-003-0-01|Basic Pay|V|Data|Object-Head|160.07|1079.00|1079.00|431.00
+124|02|22|2211|Family Welfare|00||003||0||01|Regional Health and Family Welfare Training Centres|003|Basic Pay-Staff|2211-00-003-0-01|Basic Pay-Staff|V|Data|Object-Head|841.73|||
+124|02|22|2211|Family Welfare|00||003||0||01|Regional Health and Family Welfare Training Centres|004|Interim Relief|2211-00-003-0-01|Interim Relief|V|Data|Object-Head|58.85|||
+124|02|22|2211|Family Welfare|00||003||0||01|Regional Health and Family Welfare Training Centres|011|Dearness Allowance|2211-00-003-0-01|Dearness Allowance|V|Data|Object-Head|222.98|238.00|238.00|108.00
+124|02|22|2211|Family Welfare|00||003||0||01|Regional Health and Family Welfare Training Centres|014|Other Allowance|2211-00-003-0-01|Other Allowance|V|Data|Object-Head|220.81|238.00|238.00|149.00
+124|02|22|2211|Family Welfare|00||003||0||01|Regional Health and Family Welfare Training Centres|020|Medical Allowance|2211-00-003-0-01|Medical Allowance|V|Data|Object-Head|4.90|||
+124|02|22|2211|Family Welfare|00||003||0||01|Regional Health and Family Welfare Training Centres|021|Reimbursement of Medical Expenses|2211-00-003-0-01|Reimbursement of Medical Expenses|V|Data|Object-Head|2.77|15.00|15.00|15.00
+124|02|22|2211|Family Welfare|00||003||0||01|Regional Health and Family Welfare Training Centres|034|Contract/Outsource|2211-00-003-0-01|Contract/Outsource|V|Data|Object-Head|59.22|101.28|101.28|106.15
+124|02|22|2211|Family Welfare|00||003||0||01|Regional Health and Family Welfare Training Centres|041|Travel Expenses|2211-00-003-0-01|Travel Expenses|V|Data|Object-Head|1.62|3.00|3.00|3.00
+124|02|22|2211|Family Welfare|00||003||0||01|Regional Health and Family Welfare Training Centres|051|General Expenses|2211-00-003-0-01|General Expenses|V|Data|Object-Head|9.37|10.00|10.00|10.00
+124|02|22|2211|Family Welfare|00||003||0||01|Regional Health and Family Welfare Training Centres|071|Building Expenses|2211-00-003-0-01|Building Expenses|V|Data|Object-Head|10.46|15.00|15.00|15.00
+124|02|22|2211|Family Welfare|00||003||0||01|Regional Health and Family Welfare Training Centres|117|Scholarships & Incentives|2211-00-003-0-01|Scholarships & Incentives|V|Data|Object-Head|13.58|65.00|65.00|

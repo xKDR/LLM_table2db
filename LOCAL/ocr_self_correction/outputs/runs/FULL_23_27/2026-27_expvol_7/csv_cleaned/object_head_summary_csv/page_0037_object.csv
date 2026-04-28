@@ -1,0 +1,28 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+26|07|21|2701|Medium Irrigation|80||004||1||04|Suspense|294|Stock Credits|2701-80-004-1-04|Stock Credits||Data|Object-Head||-1.00|-1.00|
+26|07|21|2701|Medium Irrigation|80||004||1||04|Suspense|295|M P W A Credits|2701-80-004-1-04|M P W A Credits||Data|Object-Head||-1.00|-1.00|
+26|07|21|2701|Medium Irrigation|80||004||1||04|Suspense|||||HOA Total :|Total|Detailed-Head|0.00|0.00|0.00|0.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|||2701-80-005-1-01|Executive Establishment - WRDO||Header|Detailed-Head||||
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|002|Basic Pay|2701-80-005-1-01|Basic Pay||Data|Object-Head|1742.85|3974.00|3974.00|3962.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|003|Basic Pay-Staff|2701-80-005-1-01|Basic Pay-Staff||Data|Object-Head|1519.22|||
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|004|Interim Relief|2701-80-005-1-01|Interim Relief||Data|Object-Head|183.63|||
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|011|Dearness Allowance|2701-80-005-1-01|Dearness Allowance||Data|Object-Head|728.08|875.00|875.00|991.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|014|Other Allowance|2701-80-005-1-01|Other Allowance||Data|Object-Head|728.04|829.00|829.00|826.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|015|Subsidiary Expenses|2701-80-005-1-01|Subsidiary Expenses||Data|Object-Head|498.86|300.00|300.00|500.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|020|Medical Allowance|2701-80-005-1-01|Medical Allowance||Data|Object-Head|12.21|||
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|021|Reimbursement of Medical Expenses|2701-80-005-1-01|Reimbursement of Medical Expenses||Data|Object-Head|28.78|35.00|35.00|34.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|033|Daily-wages|2701-80-005-1-01|Daily-wages||Data|Object-Head|64.18|30.73|30.73|39.31
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|034|Contract/Outsource|2701-80-005-1-01|Contract/Outsource||Data|Object-Head|236.98|223.80|223.80|231.65
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|041|Travel Expenses|2701-80-005-1-01|Travel Expenses||Data|Object-Head|49.02|50.00|50.00|52.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|050|Office Expenses|2701-80-005-1-01|Office Expenses||Data|Object-Head||10.00|10.00|10.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|051|General Expenses|2701-80-005-1-01|General Expenses||Data|Object-Head|98.59|100.00|100.00|104.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|052|Telephone Charges|2701-80-005-1-01|Telephone Charges||Data|Object-Head|8.42|||
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|071|Building Expenses|2701-80-005-1-01|Building Expenses||Data|Object-Head|68.87|75.00|75.00|75.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|140|Minor Works|2701-80-005-1-01|Minor Works||Data|Object-Head|149.53|150.00|150.00|200.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|182|Repairs and Carriages|2701-80-005-1-01|Repairs and Carriages||Data|Object-Head|2.54|||
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|195|Transport Expenses|2701-80-005-1-01|Transport Expenses||Data|Object-Head|79.71|144.92|144.92|93.38
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|200|Maintenance Expenditure|2701-80-005-1-01|Maintenance Expenditure||Data|Object-Head||5.00|5.00|6.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|251|Pension & Retirement Benefits|2701-80-005-1-01|Pension & Retirement Benefits||Data|Object-Head|38.54|54.00|59.07|35.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|||||HOA Total :|Total|Detailed-Head|6238.05|6856.45|6861.52|7159.34
+26|07|21|2701|Medium Irrigation|80||005||1||04|Suspense|||2701-80-005-1-04|Suspense||Header|Detailed-Head||||
+26|07|21|2701|Medium Irrigation|80||005||1||04|Suspense|292|Stock Debits|2701-80-005-1-04|Stock Debits||Data|Object-Head||1.00|1.00|

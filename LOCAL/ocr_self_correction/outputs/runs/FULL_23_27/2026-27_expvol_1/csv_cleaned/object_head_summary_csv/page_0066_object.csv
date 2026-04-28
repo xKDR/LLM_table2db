@@ -1,0 +1,20 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+52|01|04|2062|Vigilance|00||103||0||03|Director General - Bureau of Investigation|015|Subsidiary Expenses|2062-00-103-0-03|Subsidiary Expenses|C|Data|Object-Head|654.22|500.00|700.00|700.00
+52|01|04|2062|Vigilance|00||103||0||03|Director General - Bureau of Investigation|020|Medical Allowance|2062-00-103-0-03|Medical Allowance|C|Data|Object-Head|34.55|||
+52|01|04|2062|Vigilance|00||103||0||03|Director General - Bureau of Investigation|021|Reimbursement of Medical Expenses|2062-00-103-0-03|Reimbursement of Medical Expenses|C|Data|Object-Head|55.51|71.00|71.00|74.00
+52|01|04|2062|Vigilance|00||103||0||03|Director General - Bureau of Investigation|034|Contract/Outsource|2062-00-103-0-03|Contract/Outsource|C|Data|Object-Head|69.32|74.20|74.20|73.67
+52|01|04|2062|Vigilance|00||103||0||03|Director General - Bureau of Investigation|041|Travel Expenses|2062-00-103-0-03|Travel Expenses|C|Data|Object-Head|92.88|62.00|102.00|80.00
+52|01|04|2062|Vigilance|00||103||0||03|Director General - Bureau of Investigation|050|Office Expenses|2062-00-103-0-03|Office Expenses|C|Data|Object-Head|9.66|35.00|85.00|35.00
+52|01|04|2062|Vigilance|00||103||0||03|Director General - Bureau of Investigation|051|General Expenses|2062-00-103-0-03|General Expenses|C|Data|Object-Head|335.27|208.00|258.00|220.00
+52|01|04|2062|Vigilance|00||103||0||03|Director General - Bureau of Investigation|052|Telephone Charges|2062-00-103-0-03|Telephone Charges|C|Data|Object-Head|16.92|||
+52|01|04|2062|Vigilance|00||103||0||03|Director General - Bureau of Investigation|053|Purchase of Furniture and Fixture for Office|2062-00-103-0-03|Purchase of Furniture and Fixture for Office|C|Data|Object-Head|2.08|||
+52|01|04|2062|Vigilance|00||103||0||03|Director General - Bureau of Investigation|071|Building Expenses|2062-00-103-0-03|Building Expenses|C|Data|Object-Head|42.36|400.00|400.00|1496.00
+52|01|04|2062|Vigilance|00||103||0||03|Director General - Bureau of Investigation|131|Secret Service Expenses|2062-00-103-0-03|Secret Service Expenses|C|Data|Object-Head|150.00|100.00|100.00|100.00
+52|01|04|2062|Vigilance|00||103||0||03|Director General - Bureau of Investigation|180|Machinery and Equipments|2062-00-103-0-03|Machinery and Equipments|C|Data|Object-Head|185.77|||
+52|01|04|2062|Vigilance|00||103||0||03|Director General - Bureau of Investigation|195|Transport Expenses|2062-00-103-0-03|Transport Expenses|C|Data|Object-Head|474.59|482.00|482.00|653.09
+52|01|04|2062|Vigilance|00||103||0||03|Director General - Bureau of Investigation|200|Maintenance Expenditure|2062-00-103-0-03|Maintenance Expenditure|C|Data|Object-Head|4.97|10.00|10.00|5.00
+52|01|04|2062|Vigilance|00||103||0||03|Director General - Bureau of Investigation||||HOA Total :|C|Total|Detailed-Head|11577.89|13005.20|13386.84|15641.76
+52|01|04|2062|Vigilance|00||911|Deduct Recovery of Over Payments of Current Year|0||01|Deduct Recovery of Over Payments of Current Year|||2062-00-911-0-01|Deduct Recovery of Over Payments of Current Year|C|Header|Detailed-Head||||
+52|01|04|2062|Vigilance|00||911|Deduct Recovery of Over Payments of Current Year|0||01|Deduct Recovery of Over Payments of Current Year|364|Deduct - Recoveries|2062-00-911-0-01|Deduct - Recoveries|C|Data|Object-Head|-8.85|||
+52|01|04|2062|Vigilance|00||911|Deduct Recovery of Over Payments of Current Year|0||01|Deduct Recovery of Over Payments of Current Year||||HOA Total :|C|Total|Detailed-Head|-8.85|0.00|0.00|0.00
+52|01|04|2062|Vigilance|00|||||||||||2062 - Total :|C|Total|Major-Head|15436.04|16811.25|17793.90|19993.16

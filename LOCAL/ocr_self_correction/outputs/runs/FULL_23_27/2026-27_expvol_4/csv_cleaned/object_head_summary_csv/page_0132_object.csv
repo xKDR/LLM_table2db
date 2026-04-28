@@ -1,0 +1,16 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+121|04|19|6217|Loans for Urban Development.|60||||||||||6217|Loans for Urban Development.|V|Header|Major-Head||||
+121|04|19|6217|Loans for Urban Development.|60||190||0||01|Loans for BMRCL|||6217-60-190-0-01|Loans for BMRCL|V|Header|Detailed-Head||||
+121|04|19|6217|Loans for Urban Development.|60||190||0||01|Loans for BMRCL|394|Loans|6217-60-190-0-01|Loans|V|Data|Object-Head|62205.00|50000.00|50000.00|50000.00
+121|04|19|6217|Loans for Urban Development.|60||190||0||01|Loans for BMRCL|||6217-60-190-0-01|HOA Total :|V|Total|Detailed-Head|62205.00|50000.00|50000.00|50000.00
+121|04|19|6217|Loans for Urban Development.|60||190||0||03|Support to BMRCL for Debt Repayment|||6217-60-190-0-03|Support to BMRCL for Debt Repayment|V|Header|Detailed-Head||||
+121|04|19|6217|Loans for Urban Development.|60||190||0||03|Support to BMRCL for Debt Repayment|394|Loans|6217-60-190-0-03|Loans|V|Data|Object-Head|105250.00|108000.00|108000.00|100000.00
+121|04|19|6217|Loans for Urban Development.|60||190||0||03|Support to BMRCL for Debt Repayment|||6217-60-190-0-03|HOA Total :|V|Total|Detailed-Head|105250.00|108000.00|108000.00|100000.00
+121|04|19|6217|Loans for Urban Development.|60||190||0||04|Support to BSRP for Debt Repayment|||6217-60-190-0-04|Support to BSRP for Debt Repayment|V|Header|Detailed-Head||||
+121|04|19|6217|Loans for Urban Development.|60||190||0||04|Support to BSRP for Debt Repayment|394|Loans|6217-60-190-0-04|Loans|V|Data|Object-Head||25000.00|25000.00|25000.00
+121|04|19|6217|Loans for Urban Development.|60||190||0||04|Support to BSRP for Debt Repayment|||6217-60-190-0-04|HOA Total :|V|Total|Detailed-Head|0.00|25000.00|25000.00|25000.00
+121|04|19|6217|Loans for Urban Development.|60||902||||||||6217-60-902|Deduct Amount met from BMRC Fund|V|Header|Minor-Head||||
+121|04|19|6217|Loans for Urban Development.|60||902||0||01|Deduct Amount met from BMRC Fund|||6217-60-902-0-01|Deduct Amount met from BMRC Fund|V|Header|Detailed-Head||||
+121|04|19|6217|Loans for Urban Development.|60||902||0||01|Deduct Amount met from BMRC Fund|261|Inter Account Transfers|6217-60-902-0-01|Inter Account Transfers|V|Data|Object-Head|-100000.00|-50000.00|-50000.00|-32200.00
+121|04|19|6217|Loans for Urban Development.|60||902||0||01|Deduct Amount met from BMRC Fund|||6217-60-902-0-01|HOA Total :|V|Total|Detailed-Head|-100000.00|-50000.00|-50000.00|-32200.00
+121|04|19|6217|Loans for Urban Development.|60||||||||||6217|6217 - Total :|V|Total|Major-Head|67455.00|133000.00|133000.00|142800.00

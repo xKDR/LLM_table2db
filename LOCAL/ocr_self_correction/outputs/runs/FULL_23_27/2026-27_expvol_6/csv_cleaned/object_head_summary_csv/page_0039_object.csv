@@ -1,0 +1,6 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+26|06|18|6860|Loans for Consumer Industries|04||||||||||6860|Loans for Consumer Industries|V|Header|Major-Head||||
+26|06|18|6860|Loans for Consumer Industries|04||190||2||01|Loans to Mysore Sugar(MYSUGAR) Company|||6860-04-190-2-01|Loans to Mysore Sugar(MYSUGAR) Company|V|Header|Detailed-Head||||
+26|06|18|6860|Loans for Consumer Industries|04||190||2||01|Loans to Mysore Sugar(MYSUGAR) Company|394|Loans|6860-04-190-2-01|Loans|V|Data|Object-Head||1888.00|2888.00|
+26|06|18|6860|Loans for Consumer Industries|04||190||2||01|Loans to Mysore Sugar(MYSUGAR) Company||||HOA Total :|V|Total|Detailed-Head|0.00|1888.00|2888.00|0.00
+26|06|18|6860|Loans for Consumer Industries|04|||||||||||6860 - Total :|V|Total|Major-Head|0.00|1888.00|2888.00|0.00

@@ -1,0 +1,8 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+52|04|19|2217|Urban Development|80|General|800||0||41|CSS-State Share-Capacity Building(SBM-U. 2.0)|||2217-80-800-0-41|CSS-State Share-Capacity Building(SBM-U. 2.0)|V|Header|Detailed-Head||||
+52|04|19|2217|Urban Development|80|General|800||0||41|CSS-State Share-Capacity Building(SBM-U. 2.0)|051|General Expenses|2217-80-800-0-41|General Expenses|V|Data|Object-Head|125.57|654.00|654.00|649.00
+52|04|19|2217|Urban Development|80|General|800||0||41|CSS-State Share-Capacity Building(SBM-U. 2.0)|||2217-80-800-0-41|HOA Total :|V|Total|Detailed-Head|125.57|654.00|654.00|649.00
+52|04|19|2217|Urban Development|80|General|911||0||01|Deduct Recovery of Over Payments of Current Year|||2217-80-911-0-01|Deduct Recovery of Over Payments of Current Year|V|Header|Detailed-Head||||
+52|04|19|2217|Urban Development|80|General|911||0||01|Deduct Recovery of Over Payments of Current Year|364|Deduct - Recoveries|2217-80-911-0-01|Deduct - Recoveries|V|Data|Object-Head|-0.37|||
+52|04|19|2217|Urban Development|80|General|911||0||01|Deduct Recovery of Over Payments of Current Year|||2217-80-911-0-01|HOA Total :|V|Total|Detailed-Head|-0.37|0.00|0.00|0.00
+52|04|19|2217|Urban Development|80|General|||||||||2217|2217 - Total :|V|Total|Major-Head|63713.36|55093.39|41789.39|64117.03

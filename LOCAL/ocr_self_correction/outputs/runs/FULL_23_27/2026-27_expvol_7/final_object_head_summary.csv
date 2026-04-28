@@ -1,0 +1,963 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+1|07|20|2059|Public Works|01||911||0||01|Deduct Recovery of Over Payments of Current Year|||2059-01-911-0-01|Deduct Recovery of Over Payments of Current Year|V|Header|Detailed-Head||||
+1|07|20|2059|Public Works|01||911||0||01|Deduct Recovery of Over Payments of Current Year|364|Deduct - Recoveries|2059-01-911-0-01|Deduct - Recoveries|V|Data|Object-Head|-8.13|||
+1|07|20|2059|Public Works|01||911||0||01|Deduct Recovery of Over Payments of Current Year|||2059-01-911-0-01|HOA Total :|V|Total|Detailed-Head|-8.13|0.00|0.00|0.00
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|||2059-80-001-0-01|Chief Engineer (C&B) , Public Works Department|V|Header|Detailed-Head||||
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|002|Basic Pay|2059-80-001-0-01|Basic Pay|V|Data|Object-Head|13297.02|32591.00|32591.00|31353.00
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|003|Basic Pay-Staff|2059-80-001-0-01|Basic Pay-Staff|V|Data|Object-Head|13956.04|||
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|004|Interim Relief|2059-80-001-0-01|Interim Relief|V|Data|Object-Head|1575.22|||
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|011|Dearness Allowance|2059-80-001-0-01|Dearness Allowance|V|Data|Object-Head|6033.33|7170.00|7170.00|7839.00
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|014|Other Allowance|2059-80-001-0-01|Other Allowance|V|Data|Object-Head|3423.10|4273.00|4273.00|4017.00
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|020|Medical Allowance|2059-80-001-0-01|Medical Allowance|V|Data|Object-Head|110.93|||
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|021|Reimbursement of Medical Expenses|2059-80-001-0-01|Reimbursement of Medical Expenses|V|Data|Object-Head|276.60|295.00|295.00|273.00
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|033|Daily-wages|2059-80-001-0-01|Daily-wages|V|Data|Object-Head|1467.91|1641.61|1641.61|1398.53
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|034|Contract/Outsource|2059-80-001-0-01|Contract/Outsource|V|Data|Object-Head|5.23|12.67|12.67|9.60
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|035|Salary of Board/Corp.Staff working in State Government|2059-80-001-0-01|Salary of Board/Corp.Staff working in State Government|V|Data|Object-Head|380.63|324.82|599.27|324.82
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|041|Travel Expenses|2059-80-001-0-01|Travel Expenses|V|Data|Object-Head|55.77|76.00|76.00|76.00
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|050|Office Expenses|2059-80-001-0-01|Office Expenses|V|Data|Object-Head||140.00|140.00|150.00
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|051|General Expenses|2059-80-001-0-01|General Expenses|V|Data|Object-Head|439.35|245.00|245.00|275.00
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|052|Telephone Charges|2059-80-001-0-01|Telephone Charges|V|Data|Object-Head|53.15|||
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|071|Building Expenses|2059-80-001-0-01|Building Expenses|V|Data|Object-Head|918.17|980.00|980.00|1060.00
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|182|Repairs and Carriages|2059-80-001-0-01|Repairs and Carriages|V|Data|Object-Head|59.36|||
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|195|Transport Expenses|2059-80-001-0-01|Transport Expenses|V|Data|Object-Head|1102.58|674.93|674.93|761.21
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|200|Maintenance Expenditure|2059-80-001-0-01|Maintenance Expenditure|V|Data|Object-Head||55.00|55.00|57.00
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|251|Pension & Retirement Benefits|2059-80-001-0-01|Pension & Retirement Benefits|V|Data|Object-Head|368.77|1.00|1.00|282.25
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|||2059-80-001-0-01|HOA Total :|V|Total|Detailed-Head|43523.16|48480.03|48754.48|47876.41
+2|07|20|2059|Public Works|80||001||0||03|Government Architect & Other Public Works Offices|||2059-80-001-0-03|Government Architect & Other Public Works Offices|V|Header|Detailed-Head||||
+2|07|20|2059|Public Works|80||001||0||03|Government Architect & Other Public Works Offices|002|Basic Pay|2059-80-001-0-03|Basic Pay|V|Data|Object-Head|124.55|179.00|179.00|150.00
+2|07|20|2059|Public Works|80||001||0||03|Government Architect & Other Public Works Offices|003|Basic Pay-Staff|2059-80-001-0-03|Basic Pay-Staff|V|Data|Object-Head|53.62|||
+2|07|20|2059|Public Works|80||001||0||03|Government Architect & Other Public Works Offices|004|Interim Relief|2059-80-001-0-03|Interim Relief|V|Data|Object-Head|14.88|||
+2|07|20|2059|Public Works|80||001||0||03|Government Architect & Other Public Works Offices|011|Dearness Allowance|2059-80-001-0-03|Dearness Allowance|V|Data|Object-Head|48.85|40.00|40.00|38.00
+2|07|20|2059|Public Works|80||001||0||03|Government Architect & Other Public Works Offices|014|Other Allowance|2059-80-001-0-03|Other Allowance|V|Data|Object-Head|42.84|38.00|38.00|34.00
+2|07|20|2059|Public Works|80||001||0||03|Government Architect & Other Public Works Offices|020|Medical Allowance|2059-80-001-0-03|Medical Allowance|V|Data|Object-Head|0.42|||
+2|07|20|2059|Public Works|80||001||0||03|Government Architect & Other Public Works Offices|021|Reimbursement of Medical Expenses|2059-80-001-0-03|Reimbursement of Medical Expenses|V|Data|Object-Head|0.23|9.00|9.00|9.00
+2|07|20|2059|Public Works|80||001||0||03|Government Architect & Other Public Works Offices|034|Contract/Outsource|2059-80-001-0-03|Contract/Outsource|V|Data|Object-Head|2.79|3.39|3.39|3.42
+2|07|20|2059|Public Works|80||001||0||03|Government Architect & Other Public Works Offices|041|Travel Expenses|2059-80-001-0-03|Travel Expenses|V|Data|Object-Head|1.31|2.50|2.50|2.75
+2|07|20|2059|Public Works|80||001||0||03|Government Architect & Other Public Works Offices|050|Office Expenses|2059-80-001-0-03|Office Expenses|V|Data|Object-Head||1.00|1.00|10.00
+2|07|20|2059|Public Works|80||001||0||03|Government Architect & Other Public Works Offices|051|General Expenses|2059-80-001-0-03|General Expenses|V|Data|Object-Head|5.58|10.00|10.00|2.00
+2|07|20|2059|Public Works|80||001||0||03|Government Architect & Other Public Works Offices|052|Telephone Charges|2059-80-001-0-03|Telephone Charges|V|Data|Object-Head|0.41|||
+2|07|20|2059|Public Works|80||001||0||03|Government Architect & Other Public Works Offices|071|Building Expenses|2059-80-001-0-03|Building Expenses|V|Data|Object-Head|3.29|5.00|5.00|5.00
+2|07|20|2059|Public Works|80||001||0||03|Government Architect & Other Public Works Offices|195|Transport Expenses|2059-80-001-0-03|Transport Expenses|V|Data|Object-Head||5.47|5.47|2.45
+2|07|20|2059|Public Works|80||001||0||03|Government Architect & Other Public Works Offices|||2059-80-001-0-03|HOA Total :|V|Total|Detailed-Head|298.77|293.36|293.36|256.62
+2|07|20|2059|Public Works|80||001||0||19|Quality Assurance Unit|||2059-80-001-0-19|Quality Assurance Unit|V|Header|Detailed-Head||||
+2|07|20|2059|Public Works|80||001||0||19|Quality Assurance Unit|002|Basic Pay|2059-80-001-0-19|Basic Pay|V|Data|Object-Head|1259.67|2609.00|2609.00|2531.00
+2|07|20|2059|Public Works|80||001||0||19|Quality Assurance Unit|003|Basic Pay-Staff|2059-80-001-0-19|Basic Pay-Staff|V|Data|Object-Head|862.14|||
+2|07|20|2059|Public Works|80||001||0||19|Quality Assurance Unit|004|Interim Relief|2059-80-001-0-19|Interim Relief|V|Data|Object-Head|122.84|||
+2|07|20|2059|Public Works|80||001||0||19|Quality Assurance Unit|011|Dearness Allowance|2059-80-001-0-19|Dearness Allowance|V|Data|Object-Head|469.47|574.00|574.00|633.00
+2|07|20|2059|Public Works|80||001||0||19|Quality Assurance Unit|014|Other Allowance|2059-80-001-0-19|Other Allowance|V|Data|Object-Head|338.42|399.00|399.00|397.00
+2|07|20|2059|Public Works|80||001||0||19|Quality Assurance Unit|020|Medical Allowance|2059-80-001-0-19|Medical Allowance|V|Data|Object-Head|6.70|||
+2|07|20|2059|Public Works|80||001||0||19|Quality Assurance Unit|021|Reimbursement of Medical Expenses|2059-80-001-0-19|Reimbursement of Medical Expenses|V|Data|Object-Head|35.90|21.00|21.00|20.00
+2|07|20|2059|Public Works|80||001||0||19|Quality Assurance Unit|033|Daily-wages|2059-80-001-0-19|Daily-wages|V|Data|Object-Head|8.14|8.64|8.64|8.64
+2|07|20|2059|Public Works|80||001||0||19|Quality Assurance Unit|034|Contract/Outsource|2059-80-001-0-19|Contract/Outsource|V|Data|Object-Head|251.47|250.95|250.95|259.92
+3|07|20|2059|Public Works|80||001||0||19|Quality Assurance Unit|035|Salary of Board/Corp.Staff working in State Government|2059-80-001-0-19|Salary of Board/Corp.Staff working in State Government|V|Data|Object-Head|40.38|41.13|41.13|43.71
+3|07|20|2059|Public Works|80||001||0||19|Quality Assurance Unit|041|Travel Expenses|2059-80-001-0-19|Travel Expenses|V|Data|Object-Head|11.23|18.00|18.00|20.00
+3|07|20|2059|Public Works|80||001||0||19|Quality Assurance Unit|050|Office Expenses|2059-80-001-0-19|Office Expenses|V|Data|Object-Head||8.00|8.00|20.00
+3|07|20|2059|Public Works|80||001||0||19|Quality Assurance Unit|051|General Expenses|2059-80-001-0-19|General Expenses|V|Data|Object-Head|41.71|22.00|22.00|25.00
+3|07|20|2059|Public Works|80||001||0||19|Quality Assurance Unit|052|Telephone Charges|2059-80-001-0-19|Telephone Charges|V|Data|Object-Head|3.53|||
+3|07|20|2059|Public Works|80||001||0||19|Quality Assurance Unit|071|Building Expenses|2059-80-001-0-19|Building Expenses|V|Data|Object-Head|12.40|16.00|16.00|16.00
+3|07|20|2059|Public Works|80||001||0||19|Quality Assurance Unit|182|Repairs and Carriages|2059-80-001-0-19|Repairs and Carriages|V|Data|Object-Head|34.91|||
+3|07|20|2059|Public Works|80||001||0||19|Quality Assurance Unit|195|Transport Expenses|2059-80-001-0-19|Transport Expenses|V|Data|Object-Head|96.36|142.83|142.83|132.22
+3|07|20|2059|Public Works|80||001||0||19|Quality Assurance Unit|200|Maintenance Expenditure|2059-80-001-0-19|Maintenance Expenditure|V|Data|Object-Head||40.00|40.00|42.00
+3|07|20|2059|Public Works|80||001||0||19|Quality Assurance Unit|251|Pension & Retirement Benefits|2059-80-001-0-19|Pension & Retirement Benefits|V|Data|Object-Head||1.00|1.00|1.00
+3|07|20|2059|Public Works|80||001||0||19|Quality Assurance Unit||||HOA Total :|V|Total|Detailed-Head|3595.27|4151.55|4151.55|4149.49
+3|07|20|2059|Public Works|80||001||0||50|Vacant Post Provision|||2059-80-001-0-50|Vacant Post Provision|V|Header|Detailed-Head||||
+3|07|20|2059|Public Works|80||001||0||50|Vacant Post Provision|014|Other Allowance|2059-80-001-0-50|Other Allowance|V|Data|Object-Head||9936.41|9604.34|12203.41
+3|07|20|2059|Public Works|80||001||0||50|Vacant Post Provision||||HOA Total :|V|Total|Detailed-Head|0.00|9936.41|9604.34|12203.41
+3|07|20|2059|Public Works|80||053||1||09|Legislative Assembly Building Works|||2059-80-053-1-09|Legislative Assembly Building Works|V|Header|Detailed-Head||||
+3|07|20|2059|Public Works|80||053||1||09|Legislative Assembly Building Works|200|Maintenance Expenditure|2059-80-053-1-09|Maintenance Expenditure|V|Data|Object-Head|299.33|300.00|300.00|350.00
+3|07|20|2059|Public Works|80||053||1||09|Legislative Assembly Building Works||||HOA Total :|V|Total|Detailed-Head|299.33|300.00|300.00|350.00
+3|07|20|2059|Public Works|80||053||1||10|Legislative Council Building Works|||2059-80-053-1-10|Legislative Council Building Works|V|Header|Detailed-Head||||
+3|07|20|2059|Public Works|80||053||1||10|Legislative Council Building Works|200|Maintenance Expenditure|2059-80-053-1-10|Maintenance Expenditure|V|Data|Object-Head|35.00|35.00|35.00|50.00
+3|07|20|2059|Public Works|80||053||1||10|Legislative Council Building Works||||HOA Total :|V|Total|Detailed-Head|35.00|35.00|35.00|50.00
+4|7|20|2059|Public Works|80||053|Maintenance and Repairs|1||11|Vidhana Soudha, Vikasa Soudha, MS Building, VV Towers and Suvarna Soudha,Belgavi - Building Maintenance Works|||2059-80-053-1-11|Vidhana Soudha, Vikasa Soudha, MS Building, VV Towers and Suvarna Soudha,Belgavi - Building Maintenance Works||Header|Detailed-Head||||
+4|7|20|2059|Public Works|80||053|Maintenance and Repairs|1||11|Vidhana Soudha, Vikasa Soudha, MS Building, VV Towers and Suvarna Soudha,Belgavi - Building Maintenance Works|071|Building Expenses|2059-80-053-1-11|Building Expenses||Data|Object-Head||145.00|145.00|145.00
+4|7|20|2059|Public Works|80||053|Maintenance and Repairs|1||11|Vidhana Soudha, Vikasa Soudha, MS Building, VV Towers and Suvarna Soudha,Belgavi - Building Maintenance Works|200|Maintenance Expenditure|2059-80-053-1-11|Maintenance Expenditure||Data|Object-Head|2000.00|1855.00|1855.00|1855.00
+4|7|20|2059|Public Works|80||053|Maintenance and Repairs|1||11|Vidhana Soudha, Vikasa Soudha, MS Building, VV Towers and Suvarna Soudha,Belgavi - Building Maintenance Works|||2059-80-053-1-11|HOA Total :||Total|Detailed-Head|2000.00|2000.00|2000.00|2000.00
+4|7|20|2059|Public Works|80||053|Maintenance and Repairs|4||00|Repairs, Maintenance & Minor Alterations to Various Departmental Buildings|||2059-80-053-4-00|Repairs, Maintenance & Minor Alterations to Various Departmental Buildings||Header|Detailed-Head||||
+4|7|20|2059|Public Works|80||053|Maintenance and Repairs|4||00|Repairs, Maintenance & Minor Alterations to Various Departmental Buildings|071|Building Expenses|2059-80-053-4-00|Building Expenses||Data|Object-Head||135.00|135.00|135.00
+4|7|20|2059|Public Works|80||053|Maintenance and Repairs|4||00|Repairs, Maintenance & Minor Alterations to Various Departmental Buildings|200|Maintenance Expenditure|2059-80-053-4-00|Maintenance Expenditure||Data|Object-Head|25284.51|25365.00|25365.00|25365.00
+4|7|20|2059|Public Works|80||053|Maintenance and Repairs|4||00|Repairs, Maintenance & Minor Alterations to Various Departmental Buildings|||2059-80-053-4-00|HOA Total :||Total|Detailed-Head|25284.51|25500.00|25500.00|25500.00
+4|7|20|2059|Public Works|80||800|Other Expenditure|0||06|Administration of Sand Mining|||2059-80-800-0-06|Administration of Sand Mining||Header|Detailed-Head||||
+4|7|20|2059|Public Works|80||800|Other Expenditure|0||06|Administration of Sand Mining|051|General Expenses|2059-80-800-0-06|General Expenses||Data|Object-Head|50.00|50.00|50.00|
+4|7|20|2059|Public Works|80||800|Other Expenditure|0||06|Administration of Sand Mining|||2059-80-800-0-06|HOA Total :||Total|Detailed-Head|50.00|50.00|50.00|0.00
+4|7|20|2059|Public Works|80||911|Deduct Recoveries of Overpayments|0||00|Deduct - Recoveries of Overpayments|||2059-80-911-0-00|Deduct - Recoveries of Overpayments||Header|Detailed-Head||||
+4|7|20|2059|Public Works|80||911|Deduct Recoveries of Overpayments|0||00|Deduct - Recoveries of Overpayments|364|Deduct - Recoveries|2059-80-911-0-00|Deduct - Recoveries||Data|Object-Head|-3.82|||
+4|7|20|2059|Public Works|80||911|Deduct Recoveries of Overpayments|0||00|Deduct - Recoveries of Overpayments|||2059-80-911-0-00|HOA Total :||Total|Detailed-Head|-3.82|0.00|0.00|0.00
+4|7|20|2059|Public Works|80||911|Deduct Recoveries of Overpayments|0||01|Deduct Recovery of Over Payments of Current Year|||2059-80-911-0-01|Deduct Recovery of Over Payments of Current Year||Header|Detailed-Head||||
+4|7|20|2059|Public Works|80||911|Deduct Recoveries of Overpayments|0||01|Deduct Recovery of Over Payments of Current Year|364|Deduct - Recoveries|2059-80-911-0-01|Deduct - Recoveries||Data|Object-Head|-28.36|||
+4|7|20|2059|Public Works|80||911|Deduct Recoveries of Overpayments|0||01|Deduct Recovery of Over Payments of Current Year|||2059-80-911-0-01|HOA Total :||Total|Detailed-Head|-28.36|0.00|0.00|0.00
+5|07|20|2059|Public Works|80||911|Deduct Recoveries of Overpayments|0||02|Deduct-Recovery of Overpayments|||2059-80-911-0-02|Deduct-Recovery of Overpayments||Header|Detailed-Head||||
+5|07|20|2059|Public Works|80||911|Deduct Recoveries of Overpayments|0||02|Deduct-Recovery of Overpayments|364|Deduct - Recoveries|2059-80-911-0-02|Deduct - Recoveries||Data|Object-Head|-6.41|||
+5|07|20|2059|Public Works|80||911|Deduct Recoveries of Overpayments|0||02|Deduct-Recovery of Overpayments|||2059-80-911-0-02|HOA Total :||Total|Detailed-Head|-6.41|0.00|0.00|0.00
+5|07|20|2059|Public Works|80||911|Deduct Recoveries of Overpayments|0||03|Deduct- Recoveries|||2059-80-911-0-03|Deduct- Recoveries||Header|Detailed-Head||||
+5|07|20|2059|Public Works|80||911|Deduct Recoveries of Overpayments|0||03|Deduct- Recoveries|364|Deduct - Recoveries|2059-80-911-0-03|Deduct - Recoveries||Data|Object-Head|-1.07|||
+5|07|20|2059|Public Works|80||911|Deduct Recoveries of Overpayments|0||03|Deduct- Recoveries|||2059-80-911-0-03|HOA Total :||Total|Detailed-Head|-1.07|0.00|0.00|0.00
+5|07|20|2059|Public Works|80||||||||||2059|2059 - Total :||Total|Major-Head|75038.25|90746.35|90688.73|92385.93
+6|07|20|2216|Housing|07||053||0||01|Repairs to PWD Quarters|||2216-07-053-0-01|Repairs to PWD Quarters||Header|Detailed-Head||||
+6|07|20|2216|Housing|07||053||0||01|Repairs to PWD Quarters|071|Building Expenses|2216-07-053-0-01|Building Expenses||Data|Object-Head||166.00|166.00|166.00
+6|07|20|2216|Housing|07||053||0||01|Repairs to PWD Quarters|200|Maintenance Expenditure|2216-07-053-0-01|Maintenance Expenditure||Data|Object-Head|12999.99|13834.00|13834.00|10334.00
+6|07|20|2216|Housing|07||053||0||01|Repairs to PWD Quarters||||HOA Total :||Total|Detailed-Head|12999.99|14000.00|14000.00|10500.00
+6|07|20|2216|Housing|07||||||||||2216|2216 - Total :||Total|Major-Head|12999.99|14000.00|14000.00|10500.00
+7|07|20|3054|Roads and Bridges|||||||||||3054|Roads and Bridges||Header|Major-Head||||
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|||3054-01-001-1-01|Chief Engineer National Highways||Header|Detailed-Head||||
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|002|Basic Pay|3054-01-001-1-01|Basic Pay||Data|Object-Head|1863.26|4157.00|4157.00|4099.00
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|003|Basic Pay-Staff|3054-01-001-1-01|Basic Pay-Staff||Data|Object-Head|1505.02|||
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|004|Interim Relief|3054-01-001-1-01|Interim Relief||Data|Object-Head|206.24|||
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|011|Dearness Allowance|3054-01-001-1-01|Dearness Allowance||Data|Object-Head|764.95|915.00|915.00|1025.00
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|014|Other Allowance|3054-01-001-1-01|Other Allowance||Data|Object-Head|516.10|647.00|647.00|631.00
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|020|Medical Allowance|3054-01-001-1-01|Medical Allowance||Data|Object-Head|11.60|||
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|021|Reimbursement of Medical Expenses|3054-01-001-1-01|Reimbursement of Medical Expenses||Data|Object-Head|18.26|35.00|35.00|34.00
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|033|Daily-wages|3054-01-001-1-01|Daily-wages||Data|Object-Head|45.64|41.32|50.32|47.11
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|041|Travel Expenses|3054-01-001-1-01|Travel Expenses||Data|Object-Head|25.25|30.00|30.00|30.00
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|050|Office Expenses|3054-01-001-1-01|Office Expenses||Data|Object-Head||10.00|10.00|50.00
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|051|General Expenses|3054-01-001-1-01|General Expenses||Data|Object-Head|32.18|35.00|35.00|25.00
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|052|Telephone Charges|3054-01-001-1-01|Telephone Charges||Data|Object-Head|6.34|||
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|071|Building Expenses|3054-01-001-1-01|Building Expenses||Data|Object-Head|32.79|40.00|40.00|40.00
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|195|Transport Expenses|3054-01-001-1-01|Transport Expenses||Data|Object-Head|158.37|160.97|160.97|115.27
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|251|Pension & Retirement Benefits|3054-01-001-1-01|Pension & Retirement Benefits||Data|Object-Head|18.62|1.00|7.21|30.00
+7|07|20|3054|Roads and Bridges|01||001||1||01|Chief Engineer National Highways|||||HOA Total :|Total|Detailed-Head|5204.62|6072.29|6087.50|6126.38
+7|07|20|3054|Roads and Bridges|01||911|Deduct- Recovery of Overpayments|||||||3054-01-911|Deduct- Recovery of Overpayments||Header|Minor-Head||||
+7|07|20|3054|Roads and Bridges|01||911|Deduct- Recovery of Overpayments|0||00|Deduct- Recovery of Overpayments|||3054-01-911-0-00|Deduct- Recovery of Overpayments||Header|Detailed-Head||||
+7|07|20|3054|Roads and Bridges|01||911|Deduct- Recovery of Overpayments|0||00|Deduct- Recovery of Overpayments|364|Deduct - Recoveries|3054-01-911-0-00|Deduct - Recoveries||Data|Object-Head|-0.03|||
+7|07|20|3054|Roads and Bridges|01||911|Deduct- Recovery of Overpayments|0||00|Deduct- Recovery of Overpayments|||||HOA Total :|Total|Detailed-Head|-0.03|0.00|0.00|0.00
+7|07|20|3054|Roads and Bridges|01||911|Deduct- Recovery of Overpayments|0||01|Deduct-Recovery of Overpayments|||3054-01-911-0-01|Deduct-Recovery of Overpayments||Header|Detailed-Head||||
+7|07|20|3054|Roads and Bridges|01||911|Deduct- Recovery of Overpayments|0||01|Deduct-Recovery of Overpayments|364|Deduct - Recoveries|3054-01-911-0-01|Deduct - Recoveries||Data|Object-Head|-2.22|||
+7|07|20|3054|Roads and Bridges|01||911|Deduct- Recovery of Overpayments|0||01|Deduct-Recovery of Overpayments|||||HOA Total :|Total|Detailed-Head|-2.22|0.00|0.00|0.00
+8|07|20|3054|Roads and Bridges|03||001||1||02|Plan Monitoring Unit - State Highway Development Project|||3054-03-001-1-02|Plan Monitoring Unit - State Highway Development Project||Header|Detailed-Head||||
+8|07|20|3054|Roads and Bridges|03||001||1||02|Plan Monitoring Unit - State Highway Development Project|002|Basic Pay|3054-03-001-1-02|Basic Pay||Data|Object-Head|352.02|632.00|632.00|503.00
+8|07|20|3054|Roads and Bridges|03||001||1||02|Plan Monitoring Unit - State Highway Development Project|003|Basic Pay-Staff|3054-03-001-1-02|Basic Pay-Staff||Data|Object-Head|64.37|||
+8|07|20|3054|Roads and Bridges|03||001||1||02|Plan Monitoring Unit - State Highway Development Project|004|Interim Relief|3054-03-001-1-02|Interim Relief||Data|Object-Head|33.12|||
+8|07|20|3054|Roads and Bridges|03||001||1||02|Plan Monitoring Unit - State Highway Development Project|011|Dearness Allowance|3054-03-001-1-02|Dearness Allowance||Data|Object-Head|108.20|139.00|139.00|126.00
+8|07|20|3054|Roads and Bridges|03||001||1||02|Plan Monitoring Unit - State Highway Development Project|014|Other Allowance|3054-03-001-1-02|Other Allowance||Data|Object-Head|102.37|148.00|148.00|118.00
+8|07|20|3054|Roads and Bridges|03||001||1||02|Plan Monitoring Unit - State Highway Development Project|020|Medical Allowance|3054-03-001-1-02|Medical Allowance||Data|Object-Head|0.42|||
+8|07|20|3054|Roads and Bridges|03||001||1||02|Plan Monitoring Unit - State Highway Development Project|021|Reimbursement of Medical Expenses|3054-03-001-1-02|Reimbursement of Medical Expenses||Data|Object-Head|1.41|15.00|15.00|15.00
+8|07|20|3054|Roads and Bridges|03||001||1||02|Plan Monitoring Unit - State Highway Development Project|034|Contract/Outsource|3054-03-001-1-02|Contract/Outsource||Data|Object-Head|78.99|89.18|89.18|90.84
+8|07|20|3054|Roads and Bridges|03||001||1||02|Plan Monitoring Unit - State Highway Development Project|035|Salary of Board/Corp.Staff working in State Government|3054-03-001-1-02|Salary of Board/Corp.Staff working in State Government||Data|Object-Head|12.16|16.16|16.16|16.46
+8|07|20|3054|Roads and Bridges|03||001||1||02|Plan Monitoring Unit - State Highway Development Project|041|Travel Expenses|3054-03-001-1-02|Travel Expenses||Data|Object-Head||1.00|1.00|1.00
+8|07|20|3054|Roads and Bridges|03||001||1||02|Plan Monitoring Unit - State Highway Development Project|050|Office Expenses|3054-03-001-1-02|Office Expenses||Data|Object-Head||2.00|2.00|2.50
+8|07|20|3054|Roads and Bridges|03||001||1||02|Plan Monitoring Unit - State Highway Development Project|051|General Expenses|3054-03-001-1-02|General Expenses||Data|Object-Head|21.50|20.00|20.00|22.00
+8|07|20|3054|Roads and Bridges|03||001||1||02|Plan Monitoring Unit - State Highway Development Project|052|Telephone Charges|3054-03-001-1-02|Telephone Charges||Data|Object-Head|0.48|||
+8|07|20|3054|Roads and Bridges|03||001||1||02|Plan Monitoring Unit - State Highway Development Project|071|Building Expenses|3054-03-001-1-02|Building Expenses||Data|Object-Head|2.94|4.00|4.00|4.50
+8|07|20|3054|Roads and Bridges|03||001||1||02|Plan Monitoring Unit - State Highway Development Project|182|Repairs and Carriages|3054-03-001-1-02|Repairs and Carriages||Data|Object-Head|34.05|||
+8|07|20|3054|Roads and Bridges|03||001||1||02|Plan Monitoring Unit - State Highway Development Project|195|Transport Expenses|3054-03-001-1-02|Transport Expenses||Data|Object-Head|17.66|36.76|36.76|15.89
+8|07|20|3054|Roads and Bridges|03||001||1||02|Plan Monitoring Unit - State Highway Development Project|200|Maintenance Expenditure|3054-03-001-1-02|Maintenance Expenditure||Data|Object-Head||40.00|40.00|20.00
+8|07|20|3054|Roads and Bridges|03||001||1||02|Plan Monitoring Unit - State Highway Development Project|||||HOA Total :|Total|Detailed-Head|829.69|1143.10|1143.10|935.19
+8|07|20|3054|Roads and Bridges|03||001||1||03|Planning and Road Asset Management Center [PRAMC]|||3054-03-001-1-03|Planning and Road Asset Management Center [PRAMC]||Header|Detailed-Head||||
+8|07|20|3054|Roads and Bridges|03||001||1||03|Planning and Road Asset Management Center [PRAMC]|002|Basic Pay|3054-03-001-1-03|Basic Pay||Data|Object-Head|169.34|286.00|315.04|370.00
+8|07|20|3054|Roads and Bridges|03||001||1||03|Planning and Road Asset Management Center [PRAMC]|003|Basic Pay-Staff|3054-03-001-1-03|Basic Pay-Staff||Data|Object-Head|66.78|||
+8|07|20|3054|Roads and Bridges|03||001||1||03|Planning and Road Asset Management Center [PRAMC]|004|Interim Relief|3054-03-001-1-03|Interim Relief||Data|Object-Head|15.08|||
+8|07|20|3054|Roads and Bridges|03||001||1||03|Planning and Road Asset Management Center [PRAMC]|011|Dearness Allowance|3054-03-001-1-03|Dearness Allowance||Data|Object-Head|55.10|63.00|63.00|93.00
+8|07|20|3054|Roads and Bridges|03||001||1||03|Planning and Road Asset Management Center [PRAMC]|014|Other Allowance|3054-03-001-1-03|Other Allowance||Data|Object-Head|54.40|64.00|77.37|83.00
+9|07|20|3054|Roads and Bridges|03|State Highways|001|Direction and Administration|1||03|Planning and Road Asset Management Center [PRAMC]|015|Subsidiary Expenses|3054-03-001-1-03|Subsidiary Expenses||Data|Object-Head|9.00|9.00|9.00|
+9|07|20|3054|Roads and Bridges|03|State Highways|001|Direction and Administration|1||03|Planning and Road Asset Management Center [PRAMC]|020|Medical Allowance|3054-03-001-1-03|Medical Allowance||Data|Object-Head|0.49|||
+9|07|20|3054|Roads and Bridges|03|State Highways|001|Direction and Administration|1||03|Planning and Road Asset Management Center [PRAMC]|021|Reimbursement of Medical Expenses|3054-03-001-1-03|Reimbursement of Medical Expenses||Data|Object-Head|6.86|12.00|12.00|15.00
+9|07|20|3054|Roads and Bridges|03|State Highways|001|Direction and Administration|1||03|Planning and Road Asset Management Center [PRAMC]|034|Contract/Outsource|3054-03-001-1-03|Contract/Outsource||Data|Object-Head|18.15|29.64|29.64|
+9|07|20|3054|Roads and Bridges|03|State Highways|001|Direction and Administration|1||03|Planning and Road Asset Management Center [PRAMC]|035|Salary of Board/Corp.Staff working in State Government|3054-03-001-1-03|Salary of Board/Corp.Staff working in State Government||Data|Object-Head|6.03|||
+9|07|20|3054|Roads and Bridges|03|State Highways|001|Direction and Administration|1||03|Planning and Road Asset Management Center [PRAMC]|041|Travel Expenses|3054-03-001-1-03|Travel Expenses||Data|Object-Head|1.17|2.00|2.00|
+9|07|20|3054|Roads and Bridges|03|State Highways|001|Direction and Administration|1||03|Planning and Road Asset Management Center [PRAMC]|050|Office Expenses|3054-03-001-1-03|Office Expenses||Data|Object-Head||1.00|1.00|
+9|07|20|3054|Roads and Bridges|03|State Highways|001|Direction and Administration|1||03|Planning and Road Asset Management Center [PRAMC]|051|General Expenses|3054-03-001-1-03|General Expenses||Data|Object-Head|3.96|4.00|4.00|
+9|07|20|3054|Roads and Bridges|03|State Highways|001|Direction and Administration|1||03|Planning and Road Asset Management Center [PRAMC]|052|Telephone Charges|3054-03-001-1-03|Telephone Charges||Data|Object-Head|0.29|||
+9|07|20|3054|Roads and Bridges|03|State Highways|001|Direction and Administration|1||03|Planning and Road Asset Management Center [PRAMC]|071|Building Expenses|3054-03-001-1-03|Building Expenses||Data|Object-Head||1.00|1.00|
+9|07|20|3054|Roads and Bridges|03|State Highways|001|Direction and Administration|1||03|Planning and Road Asset Management Center [PRAMC]|195|Transport Expenses|3054-03-001-1-03|Transport Expenses||Data|Object-Head|25.71|51.43|51.43|22.14
+9|07|20|3054|Roads and Bridges|03|State Highways|001|Direction and Administration|1||03|Planning and Road Asset Management Center [PRAMC]|||||HOA Total :|Total|Detailed-Head|432.36|523.07|565.48|583.14
+9|07|20|3054|Roads and Bridges|03|State Highways|102||0||01|Maintenance of State Highway Bridges|||3054-03-102-0-01|Maintenance of State Highway Bridges||Header|Detailed-Head||||
+9|07|20|3054|Roads and Bridges|03|State Highways|102||0||01|Maintenance of State Highway Bridges|200|Maintenance Expenditure|3054-03-102-0-01|Maintenance Expenditure||Data|Object-Head|5499.59|6000.00|6000.00|6000.00
+9|07|20|3054|Roads and Bridges|03|State Highways|102||0||01|Maintenance of State Highway Bridges|||||HOA Total :|Total|Detailed-Head|5499.59|6000.00|6000.00|6000.00
+9|07|20|3054|Roads and Bridges|03|State Highways|337||0||05|State Highway Maintenance|||3054-03-337-0-05|State Highway Maintenance||Header|Detailed-Head||||
+9|07|20|3054|Roads and Bridges|03|State Highways|337||0||05|State Highway Maintenance|200|Maintenance Expenditure|3054-03-337-0-05|Maintenance Expenditure||Data|Object-Head|39190.71|42000.00|42000.00|46000.00
+9|07|20|3054|Roads and Bridges|03|State Highways|337||0||05|State Highway Maintenance|||||HOA Total :|Total|Detailed-Head|39190.71|42000.00|42000.00|46000.00
+9|07|20|3054|Roads and Bridges|03|State Highways|337||0||08|Karnataka State Highway Improvement Project (KSHIP) - Establishment|||3054-03-337-0-08|Karnataka State Highway Improvement Project (KSHIP) - Establishment||Header|Detailed-Head||||
+9|07|20|3054|Roads and Bridges|03|State Highways|337||0||08|Karnataka State Highway Improvement Project (KSHIP) - Establishment|002|Basic Pay|3054-03-337-0-08|Basic Pay||Data|Object-Head|480.81|885.00|885.00|817.00
+9|07|20|3054|Roads and Bridges|03|State Highways|337||0||08|Karnataka State Highway Improvement Project (KSHIP) - Establishment|003|Basic Pay-Staff|3054-03-337-0-08|Basic Pay-Staff||Data|Object-Head|200.21|||
+9|07|20|3054|Roads and Bridges|03|State Highways|337||0||08|Karnataka State Highway Improvement Project (KSHIP) - Establishment|004|Interim Relief|3054-03-337-0-08|Interim Relief||Data|Object-Head|50.18|||
+9|07|20|3054|Roads and Bridges|03|State Highways|337||0||08|Karnataka State Highway Improvement Project (KSHIP) - Establishment|011|Dearness Allowance|3054-03-337-0-08|Dearness Allowance||Data|Object-Head|169.58|195.00|195.00|204.00
+9|07|20|3054|Roads and Bridges|03|State Highways|337||0||08|Karnataka State Highway Improvement Project (KSHIP) - Establishment|014|Other Allowance|3054-03-337-0-08|Other Allowance||Data|Object-Head|145.70|179.00|179.00|163.00
+10|07|20|3054|Roads and Bridges|03|State Highways|337|Road Works|0||08|Karnataka State Highway Improvement Project (KSHIP) - Establishment|020|Medical Allowance|3054-03-337-0-08|Medical Allowance|V|Data|Object-Head|1.39|||
+10|07|20|3054|Roads and Bridges|03|State Highways|337|Road Works|0||08|Karnataka State Highway Improvement Project (KSHIP) - Establishment|021|Reimbursement of Medical Expenses|3054-03-337-0-08|Reimbursement of Medical Expenses|V|Data|Object-Head|0.73|15.00|15.00|15.00
+10|07|20|3054|Roads and Bridges|03|State Highways|337|Road Works|0||08|Karnataka State Highway Improvement Project (KSHIP) - Establishment|034|Contract/Outsource|3054-03-337-0-08|Contract/Outsource|V|Data|Object-Head|442.26|290.72|290.72|296.85
+10|07|20|3054|Roads and Bridges|03|State Highways|337|Road Works|0||08|Karnataka State Highway Improvement Project (KSHIP) - Establishment|035|Salary of Board/Corp.Staff working in State Government|3054-03-337-0-08|Salary of Board/Corp.Staff working in State Government|V|Data|Object-Head|51.13|45.07|45.07|25.11
+10|07|20|3054|Roads and Bridges|03|State Highways|337|Road Works|0||08|Karnataka State Highway Improvement Project (KSHIP) - Establishment|041|Travel Expenses|3054-03-337-0-08|Travel Expenses|V|Data|Object-Head|5.26|5.00|5.00|6.00
+10|07|20|3054|Roads and Bridges|03|State Highways|337|Road Works|0||08|Karnataka State Highway Improvement Project (KSHIP) - Establishment|050|Office Expenses|3054-03-337-0-08|Office Expenses|V|Data|Object-Head||2.00|2.00|3.00
+10|07|20|3054|Roads and Bridges|03|State Highways|337|Road Works|0||08|Karnataka State Highway Improvement Project (KSHIP) - Establishment|051|General Expenses|3054-03-337-0-08|General Expenses|V|Data|Object-Head|88.52|84.00|84.00|84.00
+10|07|20|3054|Roads and Bridges|03|State Highways|337|Road Works|0||08|Karnataka State Highway Improvement Project (KSHIP) - Establishment|052|Telephone Charges|3054-03-337-0-08|Telephone Charges|V|Data|Object-Head|1.41|||
+10|07|20|3054|Roads and Bridges|03|State Highways|337|Road Works|0||08|Karnataka State Highway Improvement Project (KSHIP) - Establishment|071|Building Expenses|3054-03-337-0-08|Building Expenses|V|Data|Object-Head|103.64|90.00|90.00|93.00
+10|07|20|3054|Roads and Bridges|03|State Highways|337|Road Works|0||08|Karnataka State Highway Improvement Project (KSHIP) - Establishment|195|Transport Expenses|3054-03-337-0-08|Transport Expenses|V|Data|Object-Head|86.78|89.08|89.08|73.29
+10|07|20|3054|Roads and Bridges|03|State Highways|337|Road Works|0||08|Karnataka State Highway Improvement Project (KSHIP) - Establishment||||HOA Total :|V|Total|Detailed-Head|1827.60|1879.87|1879.87|1780.25
+10|07|20|3054|Roads and Bridges|03|State Highways|337|Road Works|0||09|Grants from Karnataka State Road Safety Fund|||3054-03-337-0-09|Grants from Karnataka State Road Safety Fund|V|Header|Detailed-Head||||
+10|07|20|3054|Roads and Bridges|03|State Highways|337|Road Works|0||09|Grants from Karnataka State Road Safety Fund|200|Maintenance Expenditure|3054-03-337-0-09|Maintenance Expenditure|V|Data|Object-Head|47499.99|||
+10|07|20|3054|Roads and Bridges|03|State Highways|337|Road Works|0||09|Grants from Karnataka State Road Safety Fund||||HOA Total :|V|Total|Detailed-Head|47499.99|0.00|0.00|0.00
+10|07|20|3054|Roads and Bridges|03|State Highways|902|Deduct - Amount met from Road Safety Fund|0||01|Deduct-Amount Met from Karnataka State Road Safety Fund|||3054-03-902-0-01|Deduct-Amount Met from Karnataka State Road Safety Fund|V|Header|Detailed-Head||||
+10|07|20|3054|Roads and Bridges|03|State Highways|902|Deduct - Amount met from Road Safety Fund|0||01|Deduct-Amount Met from Karnataka State Road Safety Fund|261|Inter Account Transfers|3054-03-902-0-01|Inter Account Transfers|V|Data|Object-Head|-47499.99|||
+10|07|20|3054|Roads and Bridges|03|State Highways|902|Deduct - Amount met from Road Safety Fund|0||01|Deduct-Amount Met from Karnataka State Road Safety Fund||||HOA Total :|V|Total|Detailed-Head|-47499.99|0.00|0.00|0.00
+10|07|20|3054|Roads and Bridges|03|State Highways|911|Deduct - Recoveries of Overpayments|0||00|Deduct - Recoveries of Overpayments|||3054-03-911-0-00|Deduct - Recoveries of Overpayments|V|Header|Detailed-Head||||
+10|07|20|3054|Roads and Bridges|03|State Highways|911|Deduct - Recoveries of Overpayments|0||00|Deduct - Recoveries of Overpayments|364|Deduct - Recoveries|3054-03-911-0-00|Deduct - Recoveries|V|Data|Object-Head|-4.77|||
+10|07|20|3054|Roads and Bridges|03|State Highways|911|Deduct - Recoveries of Overpayments|0||00|Deduct - Recoveries of Overpayments||||HOA Total :|V|Total|Detailed-Head|-4.77|0.00|0.00|0.00
+11|07|20|3054|Roads and Bridges|03|State Highways|911|Deduct - Recoveries of Overpayments|0||01|Deduct-Recovery of Overpayments|||3054-03-911-0-01|Deduct-Recovery of Overpayments|V|Header|Detailed-Head||||
+11|07|20|3054|Roads and Bridges|03|State Highways|911|Deduct - Recoveries of Overpayments|0||01|Deduct-Recovery of Overpayments|364|Deduct - Recoveries|3054-03-911-0-01|Deduct - Recoveries|V|Data|Object-Head|-70.45|||
+11|07|20|3054|Roads and Bridges|03|State Highways|911|Deduct - Recoveries of Overpayments|0||01|Deduct-Recovery of Overpayments||||HOA Total :|V|Total|Detailed-Head|-70.45|0.00|0.00|0.00
+11|07|20|3054|Roads and Bridges|03|State Highways|911|Deduct - Recoveries of Overpayments|0||02|Deduct-Recovery of Overpayments|||3054-03-911-0-02|Deduct-Recovery of Overpayments|V|Header|Detailed-Head||||
+11|07|20|3054|Roads and Bridges|03|State Highways|911|Deduct - Recoveries of Overpayments|0||02|Deduct-Recovery of Overpayments|364|Deduct - Recoveries|3054-03-911-0-02|Deduct - Recoveries|V|Data|Object-Head|-10.93|||
+11|07|20|3054|Roads and Bridges|03|State Highways|911|Deduct - Recoveries of Overpayments|0||02|Deduct-Recovery of Overpayments||||HOA Total :|V|Total|Detailed-Head|-10.93|0.00|0.00|0.00
+11|07|20|3054|Roads and Bridges|04|District and Other Roads|105|Maintenance and Repairs|0||01|District and Other Road Bridges|||3054-04-105-0-01|District and Other Road Bridges|V|Header|Detailed-Head||||
+11|07|20|3054|Roads and Bridges|04|District and Other Roads|105|Maintenance and Repairs|0||01|District and Other Road Bridges|200|Maintenance Expenditure|3054-04-105-0-01|Maintenance Expenditure|V|Data|Object-Head|4199.73|4500.00|4500.00|4500.00
+11|07|20|3054|Roads and Bridges|04|District and Other Roads|105|Maintenance and Repairs|0||01|District and Other Road Bridges||||HOA Total :|V|Total|Detailed-Head|4199.73|4500.00|4500.00|4500.00
+11|07|20|3054|Roads and Bridges|04|District and Other Roads|337|Road Works|1||10|District & Other Roads Maintenance|||3054-04-337-1-10|District & Other Roads Maintenance|V|Header|Detailed-Head||||
+11|07|20|3054|Roads and Bridges|04|District and Other Roads|337|Road Works|1||10|District & Other Roads Maintenance|200|Maintenance Expenditure|3054-04-337-1-10|Maintenance Expenditure|V|Data|Object-Head|48974.73|33000.00|33000.00|38000.00
+11|07|20|3054|Roads and Bridges|04|District and Other Roads|337|Road Works|1||10|District & Other Roads Maintenance||||HOA Total :|V|Total|Detailed-Head|48974.73|33000.00|33000.00|38000.00
+11|07|20|3054|Roads and Bridges|04|District and Other Roads|911|Deduct - Recoveries of Overpayments|0||00|Deduct - Recovery of Overpayments|||3054-04-911-0-00|Deduct - Recovery of Overpayments|V|Header|Detailed-Head||||
+11|07|20|3054|Roads and Bridges|04|District and Other Roads|911|Deduct - Recoveries of Overpayments|0||00|Deduct - Recovery of Overpayments|364|Deduct - Recoveries|3054-04-911-0-00|Deduct - Recoveries|V|Data|Object-Head|-5.78|||
+11|07|20|3054|Roads and Bridges|04|District and Other Roads|911|Deduct - Recoveries of Overpayments|0||00|Deduct - Recovery of Overpayments||||HOA Total :|V|Total|Detailed-Head|-5.78|0.00|0.00|0.00
+11|07|20|3054|Roads and Bridges|80|General|190|Assistance to Public Sector and Other Undertakings|0||01|KRDCL Debt Servicing - Interest|||3054-80-190-0-01|KRDCL Debt Servicing - Interest|C|Header|Detailed-Head||||
+11|07|20|3054|Roads and Bridges|80|General|190|Assistance to Public Sector and Other Undertakings|0||01|KRDCL Debt Servicing - Interest|240|Repayment of Borrowings|3054-80-190-0-01|Repayment of Borrowings|C|Data|Object-Head|9258.51|||
+11|07|20|3054|Roads and Bridges|80|General|190|Assistance to Public Sector and Other Undertakings|0||01|KRDCL Debt Servicing - Interest|241|Interest Payments|3054-80-190-0-01|Interest Payments|C|Data|Object-Head||8872.16|8872.16|20000.00
+11|07|20|3054|Roads and Bridges|80|General|190|Assistance to Public Sector and Other Undertakings|0||01|KRDCL Debt Servicing - Interest||||HOA Total :|C|Total|Detailed-Head|9258.51|8872.16|8872.16|20000.00
+12|07|20|3054|Roads and Bridges|80|General|797||0||02|Transfer of Grants from Central Road and Infrastructure Fund to Deposit Head Subventions|||3054-80-797-0-02|Transfer of Grants from Central Road and Infrastructure Fund to Deposit Head Subventions|V|Header|Detailed-Head||||
+12|07|20|3054|Roads and Bridges|80|General|797||0||02|Transfer of Grants from Central Road and Infrastructure Fund to Deposit Head Subventions|261|Inter Account Transfers|3054-80-797-0-02|Inter Account Transfers|V|Data|Object-Head|45385.00|50000.00||50000.00
+12|07|20|3054|Roads and Bridges|80|General|797||0||02|Transfer of Grants from Central Road and Infrastructure Fund to Deposit Head Subventions||||HOA Total :|V|Total|Detailed-Head|45385.00|50000.00|0.00|50000.00
+12|07|20|3054|Roads and Bridges|80|General|800||0||10|KRDCL-Payment of Government Guarantee Commission|||3054-80-800-0-10|KRDCL-Payment of Government Guarantee Commission|V|Header|Detailed-Head||||
+12|07|20|3054|Roads and Bridges|80|General|800||0||10|KRDCL-Payment of Government Guarantee Commission|100|Financial Assistance/Relief|3054-80-800-0-10|Financial Assistance/Relief|V|Data|Object-Head||987.33|987.33|1046.00
+12|07|20|3054|Roads and Bridges|80|General|800||0||10|KRDCL-Payment of Government Guarantee Commission||||HOA Total :|V|Total|Detailed-Head|0.00|987.33|987.33|1046.00
+12|07|20|3054|Roads and Bridges|80|General|902||0||00|Deduct - Amount met from CMRRF|||3054-80-902-0-00|Deduct - Amount met from CMRRF|V|Header|Detailed-Head||||
+12|07|20|3054|Roads and Bridges|80|General|902||0||00|Deduct - Amount met from CMRRF|261|Inter Account Transfers|3054-80-902-0-00|Inter Account Transfers|V|Data|Object-Head|-20000.00|-5170.06|-5170.06|
+12|07|20|3054|Roads and Bridges|80|General|902||0||00|Deduct - Amount met from CMRRF||||HOA Total :|V|Total|Detailed-Head|-20000.00|-5170.06|-5170.06|0.00
+12|07|20|3054|Roads and Bridges|80|General|911||0||00|Deduct Recoveries of Over Payments|||3054-80-911-0-00|Deduct Recoveries of Over Payments|V|Header|Detailed-Head||||
+12|07|20|3054|Roads and Bridges|80|General|911||0||00|Deduct Recoveries of Over Payments|364|Deduct - Recoveries|3054-80-911-0-00|Deduct - Recoveries|V|Data|Object-Head|-0.01|||
+12|07|20|3054|Roads and Bridges|80|General|911||0||00|Deduct Recoveries of Over Payments||||HOA Total :|V|Total|Detailed-Head|-0.01|0.00|0.00|0.00
+12|07|20|3054|Roads and Bridges|80|General|911||0||01|Deduct recovery of Over Payments of Current Year|||3054-80-911-0-01|Deduct recovery of Over Payments of Current Year|V|Header|Detailed-Head||||
+12|07|20|3054|Roads and Bridges|80|General|911||0||01|Deduct recovery of Over Payments of Current Year|364|Deduct - Recoveries|3054-80-911-0-01|Deduct - Recoveries|V|Data|Object-Head|-1.50|||
+12|07|20|3054|Roads and Bridges|80|General|911||0||01|Deduct recovery of Over Payments of Current Year||||HOA Total :|V|Total|Detailed-Head|-1.50|0.00|0.00|0.00
+13|07|20|3054|Roads and Bridges|80|General|911|Deduct Recoveries of Over Payments|0||02|Deduct Recoveries of Overpayment of Previous Years|||3054-80-911-0-02|Deduct Recoveries of Overpayment of Previous Years|V|Header|Detailed-Head||||
+13|07|20|3054|Roads and Bridges|80|General|911|Deduct Recoveries of Over Payments|0||02|Deduct Recoveries of Overpayment of Previous Years|364|Deduct - Recoveries|3054-80-911-0-02|Deduct - Recoveries|V|Data|Object-Head|-0.13|||
+13|07|20|3054|Roads and Bridges|80|General|911|Deduct Recoveries of Over Payments|0||02|Deduct Recoveries of Overpayment of Previous Years||||HOA Total :|V|Total|Detailed-Head|-0.13|0.00|0.00|0.00
+13|07|20|3054|Roads and Bridges|80|General|||||||||3054 - Total :|3054 - Total :|V|Total|Major-Head|140706.72|149807.76|99865.38|174970.96
+14|07|20|4059|Capital Outlay on Public Works|60||051||0||05|Construction of SC/ST Hostels|||4059|Capital Outlay on Public Works||Header|Major-Head||||
+14|07|20|4059|Capital Outlay on Public Works|60||051||0||05|Construction of SC/ST Hostels|||4059-60-051-0-05|Construction of SC/ST Hostels||Header|Detailed-Head||||
+14|07|20|4059|Capital Outlay on Public Works|60||051||0||05|Construction of SC/ST Hostels|422|Schedule Caste Sub Plan|4059-60-051-0-05|Schedule Caste Sub Plan||Data|Object-Head|41985.90|42000.00|42000.00|42000.00
+14|07|20|4059|Capital Outlay on Public Works|60||051||0||05|Construction of SC/ST Hostels|423|Tribal Sub Plan|4059-60-051-0-05|Tribal Sub Plan||Data|Object-Head|15000.00|18000.00|18000.00|18000.00
+14|07|20|4059|Capital Outlay on Public Works|60||051||0||05|Construction of SC/ST Hostels|||||HOA Total :|Total|Detailed-Head|56985.90|60000.00|60000.00|60000.00
+14|07|20|4059|Capital Outlay on Public Works|80||051||0||29|Departmental Buildings|||4059-80-051-0-29|Departmental Buildings||Header|Detailed-Head||||
+14|07|20|4059|Capital Outlay on Public Works|80||051||0||29|Departmental Buildings|386|Purchase/Construction of Buildings|4059-80-051-0-29|Purchase/Construction of Buildings||Data|Object-Head|18282.86|9783.00|9783.00|9783.00
+14|07|20|4059|Capital Outlay on Public Works|80||051||0||29|Departmental Buildings|422|Schedule Caste Sub Plan|4059-80-051-0-29|Schedule Caste Sub Plan||Data|Object-Head|3912.56|3913.00|3913.00|3913.00
+14|07|20|4059|Capital Outlay on Public Works|80||051||0||29|Departmental Buildings|423|Tribal Sub Plan|4059-80-051-0-29|Tribal Sub Plan||Data|Object-Head|1299.60|1304.00|1304.00|1304.00
+14|07|20|4059|Capital Outlay on Public Works|80||051||0||29|Departmental Buildings|||||HOA Total :|Total|Detailed-Head|23495.02|15000.00|15000.00|15000.00
+14|07|20|4059|Capital Outlay on Public Works|80||051||0||32|CSS-State Share- Constuction of Court Buildings and Judicial Officers Residential Buildings|||4059-80-051-0-32|CSS-State Share- Constuction of Court Buildings and Judicial Officers Residential Buildings||Header|Detailed-Head||||
+14|07|20|4059|Capital Outlay on Public Works|80||051||0||32|CSS-State Share- Constuction of Court Buildings and Judicial Officers Residential Buildings|386|Purchase/Construction of Buildings|4059-80-051-0-32|Purchase/Construction of Buildings||Data|Object-Head|6615.29|7000.00|7000.00|7000.00
+14|07|20|4059|Capital Outlay on Public Works|80||051||0||32|CSS-State Share- Constuction of Court Buildings and Judicial Officers Residential Buildings|||||HOA Total :|Total|Detailed-Head|6615.29|7000.00|7000.00|7000.00
+14|07|20|4059|Capital Outlay on Public Works|80||051||0||57|CSS-Central Share- Constuction of Court Buildings and Judicial Officers Residential Buildings|||4059-80-051-0-57|CSS-Central Share- Constuction of Court Buildings and Judicial Officers Residential Buildings||Header|Detailed-Head||||
+14|07|20|4059|Capital Outlay on Public Works|80||051||0||57|CSS-Central Share- Constuction of Court Buildings and Judicial Officers Residential Buildings|386|Purchase/Construction of Buildings|4059-80-051-0-57|Purchase/Construction of Buildings||Data|Object-Head|9922.94|10500.00|10500.00|10500.00
+14|07|20|4059|Capital Outlay on Public Works|80||051||0||57|CSS-Central Share- Constuction of Court Buildings and Judicial Officers Residential Buildings|||||HOA Total :|Total|Detailed-Head|9922.94|10500.00|10500.00|10500.00
+14|07|20|4059|Capital Outlay on Public Works|80||051||0||60|CM's Infrastructure Development Program(CMIDP)|||4059-80-051-0-60|CM's Infrastructure Development Program(CMIDP)||Header|Detailed-Head||||
+14|07|20|4059|Capital Outlay on Public Works|80||051||0||60|CM's Infrastructure Development Program(CMIDP)|132|Other Capital Expenses|4059-80-051-0-60|Other Capital Expenses||Data|Object-Head||127500.00|127500.00|153000.00
+15|07|20|4059|Capital Outlay on Public Works|80||051||0||60|CM's Infrastructure Development Program(CMIDP)|422|Schedule Caste Sub Plan|4059-80-051-0-60|Schedule Caste Sub Plan||Data|Object-Head||16500.00|16500.00|19800.00
+15|07|20|4059|Capital Outlay on Public Works|80||051||0||60|CM's Infrastructure Development Program(CMIDP)|423|Tribal Sub Plan|4059-80-051-0-60|Tribal Sub Plan||Data|Object-Head||6000.00|6000.00|7200.00
+15|07|20|4059|Capital Outlay on Public Works|80||051||0||60|CM's Infrastructure Development Program(CMIDP)||||HOA Total :||Total|Detailed-Head|0.00|150000.00|150000.00|180000.00
+15|07|20|4059|Capital Outlay on Public Works|80||051||0||90|Deduct- Receipts and Recoveries on Capital Account||||4059-80-051-0-90|Deduct- Receipts and Recoveries on Capital Account|Header|Detailed-Head||||
+15|07|20|4059|Capital Outlay on Public Works|80||051||0||90|Deduct- Receipts and Recoveries on Capital Account|364|Deduct - Recoveries|4059-80-051-0-90|Deduct - Recoveries||Data|Object-Head|-1.63|||
+15|07|20|4059|Capital Outlay on Public Works|80||051||0||90|Deduct- Receipts and Recoveries on Capital Account||||HOA Total :||Total|Detailed-Head|-1.63|0.00|0.00|0.00
+15|07|20|4059|Capital Outlay on Public Works|80||051||0||||||4059|4059 - Total :||Total|Major-Head|97017.52|242500.00|242500.00|272500.00
+16|07|20|4216|Capital Outlay on Housing|01||700||2||01|Residential Buildings|||4216-01-700-2-01|Residential Buildings||Header|Detailed-Head||||
+16|07|20|4216|Capital Outlay on Housing|01||700||2||01|Residential Buildings|386|Purchase/Construction of Buildings|4216-01-700-2-01|Purchase/Construction of Buildings||Data|Object-Head|3935.65|6500.00|6500.00|6500.00
+16|07|20|4216|Capital Outlay on Housing|01||700||2||01|Residential Buildings||||HOA Total :||Total|Detailed-Head|3935.65|6500.00|6500.00|6500.00
+16|07|20|4216|Capital Outlay on Housing|01||700||2||90|Deduct- Receipt and Recoveries from Capital Account|||4216-01-700-2-90|Deduct- Receipt and Recoveries from Capital Account||Header|Detailed-Head||||
+16|07|20|4216|Capital Outlay on Housing|01||700||2||90|Deduct- Receipt and Recoveries from Capital Account|364|Deduct - Recoveries|4216-01-700-2-90|Deduct - Recoveries||Data|Object-Head|-0.29|||
+16|07|20|4216|Capital Outlay on Housing|01||700||2||90|Deduct- Receipt and Recoveries from Capital Account||||HOA Total :||Total|Detailed-Head|-0.29|0.00|0.00|0.00
+16|07|20|4216|Capital Outlay on Housing|01||700||2||||||4216|4216 - Total :||Total|Major-Head|3935.36|6500.00|6500.00|6500.00
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||||||||||5054|Capital Outlay on Roads & Bridges||Header|Major-Head||||
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||101|Bridges|0||02|Major District Road - Bridges|||5054-03-101-0-02|Major District Road - Bridges||Header|Detailed-Head||||
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||101|Bridges|0||02|Major District Road - Bridges|132|Other Capital Expenses|5054-03-101-0-02|Other Capital Expenses||Data|Object-Head|13550.51|13000.00|13000.00|13000.00
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||101|Bridges|0||02|Major District Road - Bridges|||||HOA Total :|Total|Detailed-Head|13550.51|13000.00|13000.00|13000.00
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||101|Bridges|0||90|Deduct-Reciepts & Recoveries on Capital Account|||5054-03-101-0-90|Deduct-Reciepts & Recoveries on Capital Account||Header|Detailed-Head||||
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||101|Bridges|0||90|Deduct-Reciepts & Recoveries on Capital Account|364|Deduct - Recoveries|5054-03-101-0-90|Deduct - Recoveries||Data|Object-Head|-0.75|||
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||101|Bridges|0||90|Deduct-Reciepts & Recoveries on Capital Account|||||HOA Total :|Total|Detailed-Head|-0.75|0.00|0.00|0.00
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||09|Land Acquisition Cost- State Highway|||5054-03-337-0-09|Land Acquisition Cost- State Highway||Header|Detailed-Head||||
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||09|Land Acquisition Cost- State Highway|132|Other Capital Expenses|5054-03-337-0-09|Other Capital Expenses||Data|Object-Head|24999.98|||
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||09|Land Acquisition Cost- State Highway|145|Acquisition of Land|5054-03-337-0-09|Acquisition of Land||Data|Object-Head||25000.00|25000.00|35000.00
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||09|Land Acquisition Cost- State Highway|||||HOA Total :|Total|Detailed-Head|24999.98|25000.00|25000.00|35000.00
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||16|State Highways Bridges|||5054-03-337-0-16|State Highways Bridges||Header|Detailed-Head||||
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||16|State Highways Bridges|132|Other Capital Expenses|5054-03-337-0-16|Other Capital Expenses||Data|Object-Head||||3500.00
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||16|State Highways Bridges|154|Improvements|5054-03-337-0-16|Improvements||Data|Object-Head|3498.30|3500.00|3500.00|
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||16|State Highways Bridges|||||HOA Total :|Total|Detailed-Head|3498.30|3500.00|3500.00|3500.00
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||17|State Highways Road Works|||5054-03-337-0-17|State Highways Road Works||Header|Detailed-Head||||
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||17|State Highways Road Works|132|Other Capital Expenses|5054-03-337-0-17|Other Capital Expenses||Data|Object-Head||||15000.00
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||17|State Highways Road Works|133|Regional Imbalance Redressal Program|5054-03-337-0-17|Regional Imbalance Redressal Program||Data|Object-Head||||10000.00
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||17|State Highways Road Works|154|Improvements|5054-03-337-0-17|Improvements||Data|Object-Head|81000.00|21000.00|21000.00|
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||17|State Highways Road Works|160|Renewals|5054-03-337-0-17|Renewals||Data|Object-Head|13999.50|14000.00|14000.00|
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||17|State Highways Road Works|172|Roads|5054-03-337-0-17|Roads||Data|Object-Head||||10000.00
+17|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||17|State Highways Road Works|||||HOA Total :|Total|Detailed-Head|94999.50|35000.00|35000.00|35000.00
+18|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||18|State Highway Development Project|||5054-03-337-0-18|State Highway Development Project||Header|Detailed-Head||||
+18|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||18|State Highway Development Project|132|Other Capital Expenses|5054-03-337-0-18|Other Capital Expenses||Data|Object-Head||||75000.00
+18|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||18|State Highway Development Project|154|Improvements|5054-03-337-0-18|Improvements||Data|Object-Head|143400.00|70000.00|70000.00|
+18|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||18|State Highway Development Project|||||HOA Total :|Total|Detailed-Head|143400.00|70000.00|70000.00|75000.00
+18|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||19|KSHIP-IV: Karnataka State Highway Improvement Project-EAP|||5054-03-337-0-19|KSHIP-IV: Karnataka State Highway Improvement Project-EAP||Header|Detailed-Head||||
+18|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||19|KSHIP-IV: Karnataka State Highway Improvement Project-EAP|172|Roads|5054-03-337-0-19|Roads||Data|Object-Head||7500.00|7500.00|15000.00
+18|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||19|KSHIP-IV: Karnataka State Highway Improvement Project-EAP|||||HOA Total :|Total|Detailed-Head|0.00|7500.00|7500.00|15000.00
+18|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||84|Karnataka State Highway Improvement Project (KSHIP)-II -WB and ADB|||5054-03-337-0-84|Karnataka State Highway Improvement Project (KSHIP)-II -WB and ADB||Header|Detailed-Head||||
+18|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||84|Karnataka State Highway Improvement Project (KSHIP)-II -WB and ADB|172|Roads|5054-03-337-0-84|Roads||Data|Object-Head|51649.86|31800.00|31800.00|71500.00
+18|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||84|Karnataka State Highway Improvement Project (KSHIP)-II -WB and ADB|||||HOA Total :|Total|Detailed-Head|51649.86|31800.00|31800.00|71500.00
+18|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||86|Karnataka State Higways Improvement Project KSHIP -III (ADB 2nd Loan) - EAP (IND-3619)|||5054-03-337-0-86|Karnataka State Higways Improvement Project KSHIP -III (ADB 2nd Loan) - EAP (IND-3619)||Header|Detailed-Head||||
+18|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||86|Karnataka State Higways Improvement Project KSHIP -III (ADB 2nd Loan) - EAP (IND-3619)|172|Roads|5054-03-337-0-86|Roads||Data|Object-Head|45236.82|50000.00|50000.00|30000.00
+18|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||86|Karnataka State Higways Improvement Project KSHIP -III (ADB 2nd Loan) - EAP (IND-3619)|||||HOA Total :|Total|Detailed-Head|45236.82|50000.00|50000.00|30000.00
+18|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||90|Deduct-Receipt and Recoveries on Capital Account|||5054-03-337-0-90|Deduct-Receipt and Recoveries on Capital Account||Header|Detailed-Head||||
+18|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||90|Deduct-Receipt and Recoveries on Capital Account|364|Deduct - Recoveries|5054-03-337-0-90|Deduct - Recoveries||Data|Object-Head|-930.79|||
+18|07|20|5054|Capital Outlay on Roads & Bridges|03||337|Road Works|0||90|Deduct-Receipt and Recoveries on Capital Account|||||HOA Total :|Total|Detailed-Head|-930.79|0.00|0.00|0.00
+18|07|20|5054|Capital Outlay on Roads & Bridges|04||337|Road Works|0||01|District Roads|||5054-04-337-0-01|District Roads||Header|Detailed-Head||||
+18|07|20|5054|Capital Outlay on Roads & Bridges|04||337|Road Works|0||01|District Roads|132|Other Capital Expenses|5054-04-337-0-01|Other Capital Expenses||Data|Object-Head||||106000.00
+19|07|20|5054|Capital Outlay on Roads & Bridges|04||337|Road Works|0||01|District Roads|133|Regional Imbalance Redressal Program|5054-04-337-0-01|Regional Imbalance Redressal Program||Data|Object-Head||||40000.00
+19|07|20|5054|Capital Outlay on Roads & Bridges|04||337|Road Works|0||01|District Roads|154|Improvements|5054-04-337-0-01|Improvements||Data|Object-Head|283515.82|141000.00|141000.00|
+19|07|20|5054|Capital Outlay on Roads & Bridges|04||337|Road Works|0||01|District Roads|160|Renewals|5054-04-337-0-01|Renewals||Data|Object-Head|11999.99|9000.00|9000.00|
+19|07|20|5054|Capital Outlay on Roads & Bridges|04||337|Road Works|0||01|District Roads|172|Roads|5054-04-337-0-01|Roads||Data|Object-Head||||9000.00
+19|07|20|5054|Capital Outlay on Roads & Bridges|04||337|Road Works|0||01|District Roads|422|Schedule Caste Sub Plan|5054-04-337-0-01|Schedule Caste Sub Plan||Data|Object-Head|11798.98|||
+19|07|20|5054|Capital Outlay on Roads & Bridges|04||337|Road Works|0||01|District Roads|423|Tribal Sub Plan|5054-04-337-0-01|Tribal Sub Plan||Data|Object-Head|7499.81|||
+19|07|20|5054|Capital Outlay on Roads & Bridges|04||337|Road Works|0||01|District Roads|||||HOA Total :|Total|Detailed-Head|314814.60|150000.00|150000.00|155000.00
+19|07|20|5054|Capital Outlay on Roads & Bridges|04||337|Road Works|0||02|MDR Works Financed from NABARD|||5054-04-337-0-02|MDR Works Financed from NABARD||Header|Detailed-Head||||
+19|07|20|5054|Capital Outlay on Roads & Bridges|04||337|Road Works|0||02|MDR Works Financed from NABARD|436|NABARD Works|5054-04-337-0-02|NABARD Works||Data|Object-Head|12867.92|8500.00|8500.00|20000.00
+19|07|20|5054|Capital Outlay on Roads & Bridges|04||337|Road Works|0||02|MDR Works Financed from NABARD|||||HOA Total :|Total|Detailed-Head|12867.92|8500.00|8500.00|20000.00
+19|07|20|5054|Capital Outlay on Roads & Bridges|04||337|Road Works|0||05|CSS-Central Sector(100%GoI) Roads Financed from Central Road and Infrastructure Fund|||5054-04-337-0-05|CSS-Central Sector(100%GoI) Roads Financed from Central Road and Infrastructure Fund||Header|Detailed-Head||||
+19|07|20|5054|Capital Outlay on Roads & Bridges|04||337|Road Works|0||05|CSS-Central Sector(100%GoI) Roads Financed from Central Road and Infrastructure Fund|172|Roads|5054-04-337-0-05|Roads||Data|Object-Head|16846.47|50000.00|93309.00|50000.00
+19|07|20|5054|Capital Outlay on Roads & Bridges|04||337|Road Works|0||05|CSS-Central Sector(100%GoI) Roads Financed from Central Road and Infrastructure Fund|||||HOA Total :|Total|Detailed-Head|16846.47|50000.00|93309.00|50000.00
+19|07|20|5054|Capital Outlay on Roads & Bridges|04||337|Road Works|0||06|Unspent SCSP-TSP Amount as per the SCSP-TSPAct 2013|||5054-04-337-0-06|Unspent SCSP-TSP Amount as per the SCSP-TSPAct 2013||Header|Detailed-Head||||
+19|07|20|5054|Capital Outlay on Roads & Bridges|04||337|Road Works|0||06|Unspent SCSP-TSP Amount as per the SCSP-TSPAct 2013|422|Schedule Caste Sub Plan|5054-04-337-0-06|Schedule Caste Sub Plan||Data|Object-Head|965.13|0.39|0.39|10.37
+19|07|20|5054|Capital Outlay on Roads & Bridges|04||337|Road Works|0||06|Unspent SCSP-TSP Amount as per the SCSP-TSPAct 2013|423|Tribal Sub Plan|5054-04-337-0-06|Tribal Sub Plan||Data|Object-Head|285.63|0.12|0.12|3.06
+19|07|20|5054|Capital Outlay on Roads & Bridges|04||337|Road Works|0||06|Unspent SCSP-TSP Amount as per the SCSP-TSPAct 2013|||||HOA Total :|Total|Detailed-Head|1250.76|0.51|0.51|13.43
+19|07|20|5054|Capital Outlay on Roads & Bridges|04||337|Road Works|0||08|Land Acquisition Cost -District and Other Roads|||5054-04-337-0-08|Land Acquisition Cost -District and Other Roads||Header|Detailed-Head||||
+19|07|20|5054|Capital Outlay on Roads & Bridges|04||337|Road Works|0||08|Land Acquisition Cost -District and Other Roads|132|Other Capital Expenses|5054-04-337-0-08|Other Capital Expenses||Data|Object-Head|6999.28|||
+20|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|337|Road Works|0||08|Land Acquisition Cost -District and Other Roads|145|Acquisition of Land|5054-04-337-0-08|Acquisition of Land||Data|Object-Head||7000.00|7000.00|10000.00
+20|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|337|Road Works|0||08|Land Acquisition Cost -District and Other Roads|||||HOA Total :|Total|Detailed-Head|6999.28|7000.00|7000.00|10000.00
+20|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|337|Road Works|0||90|Deduct Recoveries on Capital Account||||5054-04-337-0-90|Deduct Recoveries on Capital Account|Header|Detailed-Head||||
+20|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|337|Road Works|0||90|Deduct Recoveries on Capital Account|364|Deduct - Recoveries|5054-04-337-0-90|Deduct - Recoveries||Data|Object-Head|-64.57|||
+20|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|337|Road Works|0||90|Deduct Recoveries on Capital Account|||||HOA Total :|Total|Detailed-Head|-64.57|0.00|0.00|0.00
+20|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|337|Road Works|7||90|Deduct - Receipts and Recoveries on Capital Account||||5054-04-337-7-90|Deduct - Receipts and Recoveries on Capital Account|Header|Detailed-Head||||
+20|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|337|Road Works|7||90|Deduct - Receipts and Recoveries on Capital Account|364|Deduct - Recoveries|5054-04-337-7-90|Deduct - Recoveries||Data|Object-Head|-0.22|||
+20|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|337|Road Works|7||90|Deduct - Receipts and Recoveries on Capital Account|||||HOA Total :|Total|Detailed-Head|-0.22|0.00|0.00|0.00
+20|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|800|Other Expenditure|1||90|Deduct - Receipts and Recoveries on Capital Account||||5054-04-800-1-90|Deduct - Receipts and Recoveries on Capital Account|Header|Detailed-Head||||
+20|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|800|Other Expenditure|1||90|Deduct - Receipts and Recoveries on Capital Account|364|Deduct - Recoveries|5054-04-800-1-90|Deduct - Recoveries||Data|Object-Head|-0.16|||
+20|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|800|Other Expenditure|1||90|Deduct - Receipts and Recoveries on Capital Account|||||HOA Total :|Total|Detailed-Head|-0.16|0.00|0.00|0.00
+20|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|800|Other Expenditure|2||90|Deduct Recoveries on Capital Account||||5054-04-800-2-90|Deduct Recoveries on Capital Account|Header|Detailed-Head||||
+20|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|800|Other Expenditure|2||90|Deduct Recoveries on Capital Account|364|Deduct - Recoveries|5054-04-800-2-90|Deduct - Recoveries||Data|Object-Head|-0.12|||
+20|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|800|Other Expenditure|2||90|Deduct Recoveries on Capital Account|||||HOA Total :|Total|Detailed-Head|-0.12|0.00|0.00|0.00
+20|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|902|Deduct - Amount met from Central Road and Infrastructure Fund|0||01|Deduct -Amount met from Central Road and Infrastructure Fund||||5054-04-902-0-01|Deduct -Amount met from Central Road and Infrastructure Fund|Header|Detailed-Head||||
+20|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|902|Deduct - Amount met from Central Road and Infrastructure Fund|0||01|Deduct -Amount met from Central Road and Infrastructure Fund|261|Inter Account Transfers|5054-04-902-0-01|Inter Account Transfers||Data|Object-Head|-16846.47|-50000.00|-50000.00|-50000.00
+20|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|902|Deduct - Amount met from Central Road and Infrastructure Fund|0||01|Deduct -Amount met from Central Road and Infrastructure Fund|||||HOA Total :|Total|Detailed-Head|-16846.47|-50000.00|-50000.00|-50000.00
+21|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|902|Deduct - Amount met from Central Road and Infrastructure Fund|0||03|Deduct-Amount met from CMRRF|||5054-04-902-0-03|Deduct-Amount met from CMRRF||Header|Detailed-Head||||
+21|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|902|Deduct - Amount met from Central Road and Infrastructure Fund|0||03|Deduct-Amount met from CMRRF|261|Inter Account Transfers|5054-04-902-0-03|Inter Account Transfers||Data|Object-Head|-80000.00|-122400.00|-122400.00|-34500.00
+21|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|902|Deduct - Amount met from Central Road and Infrastructure Fund|0||03|Deduct-Amount met from CMRRF|||||HOA Total :|Total|Detailed-Head|-80000.00|-122400.00|-122400.00|-34500.00
+21|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|902|Deduct - Amount met from Central Road and Infrastructure Fund|0||05|Deduct-Amount met from Infrastructure Fund|||5054-04-902-0-05|Deduct-Amount met from Infrastructure Fund||Header|Detailed-Head||||
+21|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|902|Deduct - Amount met from Central Road and Infrastructure Fund|0||05|Deduct-Amount met from Infrastructure Fund|261|Inter Account Transfers|5054-04-902-0-05|Inter Account Transfers||Data|Object-Head|-40000.00|||
+21|07|20|5054|Capital Outlay on Roads & Bridges|04|District & Other Roads|902|Deduct - Amount met from Central Road and Infrastructure Fund|0||05|Deduct-Amount met from Infrastructure Fund|||||HOA Total :|Total|Detailed-Head|-40000.00|0.00|0.00|0.00
+21|07|20|5054|Capital Outlay on Roads & Bridges|05||052||0||01|Grants from Karnataka State Road Safety Fund|||5054-05-052-0-01|Grants from Karnataka State Road Safety Fund||Header|Detailed-Head||||
+21|07|20|5054|Capital Outlay on Roads & Bridges|05||052||0||01|Grants from Karnataka State Road Safety Fund|132|Other Capital Expenses|5054-05-052-0-01|Other Capital Expenses||Data|Object-Head||22500.00|22500.00|22500.00
+21|07|20|5054|Capital Outlay on Roads & Bridges|05||052||0||01|Grants from Karnataka State Road Safety Fund|||||HOA Total :|Total|Detailed-Head|0.00|22500.00|22500.00|22500.00
+21|07|20|5054|Capital Outlay on Roads & Bridges|05||337||5||01|CSS-Central Scheme- Special Capital Assistance|||5054-05-337-5-01|CSS-Central Scheme- Special Capital Assistance||Header|Detailed-Head||||
+21|07|20|5054|Capital Outlay on Roads & Bridges|05||337||5||01|CSS-Central Scheme- Special Capital Assistance|132|Other Capital Expenses|5054-05-337-5-01|Other Capital Expenses||Data|Object-Head||150000.00|70018.00|
+21|07|20|5054|Capital Outlay on Roads & Bridges|05||337||5||01|CSS-Central Scheme- Special Capital Assistance|||||HOA Total :|Total|Detailed-Head|0.00|150000.00|70018.00|0.00
+21|07|20|5054|Capital Outlay on Roads & Bridges|05||902||0||01|Deduct-Amount Met from Karnataka State Road Safety Fund|||5054-05-902-0-01|Deduct-Amount Met from Karnataka State Road Safety Fund||Header|Detailed-Head||||
+21|07|20|5054|Capital Outlay on Roads & Bridges|05||902||0||01|Deduct-Amount Met from Karnataka State Road Safety Fund|261|Inter Account Transfers|5054-05-902-0-01|Inter Account Transfers||Data|Object-Head||-22500.00|-22500.00|-22500.00
+21|07|20|5054|Capital Outlay on Roads & Bridges|05||902||0||01|Deduct-Amount Met from Karnataka State Road Safety Fund|||||HOA Total :|Total|Detailed-Head|0.00|-22500.00|-22500.00|-22500.00
+21|07|20|5054|Capital Outlay on Roads & Bridges|80|General|190||0||01|Karnataka Road Development Corporation Limited|||5054-80-190-0-01|Karnataka Road Development Corporation Limited||Header|Detailed-Head||||
+21|07|20|5054|Capital Outlay on Roads & Bridges|80|General|190||0||01|Karnataka Road Development Corporation Limited|132|Other Capital Expenses|5054-80-190-0-01|Other Capital Expenses||Data|Object-Head|73800.00|50000.00|50000.00|50000.00
+21|07|20|5054|Capital Outlay on Roads & Bridges|80|General|190||0||01|Karnataka Road Development Corporation Limited|240|Repayment of Borrowings|5054-80-190-0-01|Repayment of Borrowings|C|Data|Object-Head|2553.57|1590.00|1590.00|
+21|07|20|5054|Capital Outlay on Roads & Bridges|80|General|190||0||01|Karnataka Road Development Corporation Limited|||||HOA Total :|Total|Detailed-Head|76353.57|51590.00|51590.00|50000.00
+21|07|20|5054|Capital Outlay on Roads & Bridges||||||||||||5054 - Total :||Total|Major-Head|668624.49|480490.51|443817.51|478513.43
+22|07|21|2700|Major Irrigation|03||001|Tungabhadra Project(Inter State Account of GoK - GoAP related)|0||03|Tungabhadra Project(Inter State Account of GoK - GoAP related)|||2700-03-001-0-03|Tungabhadra Project(Inter State Account of GoK - GoAP related)||Header|Detailed-Head||||
+22|07|21|2700|Major Irrigation|03||001|Tungabhadra Project(Inter State Account of GoK - GoAP related)|0||03|Tungabhadra Project(Inter State Account of GoK - GoAP related)|261|Inter Account Transfers|2700-03-001-0-03|Inter Account Transfers||Data|Object-Head|3708.43|1.00|1.00|1.00
+22|07|21|2700|Major Irrigation|03||001|Tungabhadra Project(Inter State Account of GoK - GoAP related)|0||03|Tungabhadra Project(Inter State Account of GoK - GoAP related)||||HOA Total :||Total|Detailed-Head|3708.43|1.00|1.00|1.00
+22|07|21|2700|Major Irrigation|05||001|Tungabhadra Board|0||01|Tungabhadra Board|||2700-05-001-0-01|Tungabhadra Board||Header|Detailed-Head||||
+22|07|21|2700|Major Irrigation|05||001|Tungabhadra Board|0||01|Tungabhadra Board|059|Other Expenses|2700-05-001-0-01|Other Expenses||Data|Object-Head||990.00|990.00|990.00
+22|07|21|2700|Major Irrigation|05||001|Tungabhadra Board|0||01|Tungabhadra Board||||HOA Total :||Total|Detailed-Head|0.00|990.00|990.00|990.00
+22|07|21|2700|Major Irrigation|05||911|Deduct Recovery of Overpayments|0||00|Deduct Recovery of Overpayments|||2700-05-911-0-00|Deduct Recovery of Overpayments||Header|Detailed-Head||||
+22|07|21|2700|Major Irrigation|05||911|Deduct Recovery of Overpayments|0||00|Deduct Recovery of Overpayments|364|Deduct - Recoveries|2700-05-911-0-00|Deduct - Recoveries||Data|Object-Head|-0.03|||
+22|07|21|2700|Major Irrigation|05||911|Deduct Recovery of Overpayments|0||00|Deduct Recovery of Overpayments||||HOA Total :||Total|Detailed-Head|-0.03|0.00|0.00|0.00
+22|07|21|2700|Major Irrigation|09||101|Maintenance and Repairs of Karnataka Neeravari Nigama Ltd.|0||01|Maintenance and Repairs of Karnataka Neeravari Nigama Ltd.|||2700-09-101-0-01|Maintenance and Repairs of Karnataka Neeravari Nigama Ltd.||Header|Detailed-Head||||
+22|07|21|2700|Major Irrigation|09||101|Maintenance and Repairs of Karnataka Neeravari Nigama Ltd.|0||01|Maintenance and Repairs of Karnataka Neeravari Nigama Ltd.|057|Electricity Charges for Water Supply|2700-09-101-0-01|Electricity Charges for Water Supply||Data|Object-Head|4155.00|4155.00|4155.00|4155.00
+22|07|21|2700|Major Irrigation|09||101|Maintenance and Repairs of Karnataka Neeravari Nigama Ltd.|0||01|Maintenance and Repairs of Karnataka Neeravari Nigama Ltd.|200|Maintenance Expenditure|2700-09-101-0-01|Maintenance Expenditure||Data|Object-Head|1712.00|1770.00|1770.00|1770.00
+22|07|21|2700|Major Irrigation|09||101|Maintenance and Repairs of Karnataka Neeravari Nigama Ltd.|0||01|Maintenance and Repairs of Karnataka Neeravari Nigama Ltd.||||HOA Total :||Total|Detailed-Head|5867.00|5925.00|5925.00|5925.00
+22|07|21|2700|Major Irrigation|10||101|Maintenance and Repairs of Krishna-Bhagya Jala Nigam Ltd.|0||01|Maintenance and Repairs of Krishna-Bhagya Jala Nigam Ltd.|||2700-10-101-0-01|Maintenance and Repairs of Krishna-Bhagya Jala Nigam Ltd.||Header|Detailed-Head||||
+22|07|21|2700|Major Irrigation|10||101|Maintenance and Repairs of Krishna-Bhagya Jala Nigam Ltd.|0||01|Maintenance and Repairs of Krishna-Bhagya Jala Nigam Ltd.|057|Electricity Charges for Water Supply|2700-10-101-0-01|Electricity Charges for Water Supply||Data|Object-Head|2700.00|2700.00|2700.00|2700.00
+22|07|21|2700|Major Irrigation|10||101|Maintenance and Repairs of Krishna-Bhagya Jala Nigam Ltd.|0||01|Maintenance and Repairs of Krishna-Bhagya Jala Nigam Ltd.|200|Maintenance Expenditure|2700-10-101-0-01|Maintenance Expenditure||Data|Object-Head|500.00|800.00|800.00|800.00
+22|07|21|2700|Major Irrigation|10||101|Maintenance and Repairs of Krishna-Bhagya Jala Nigam Ltd.|0||01|Maintenance and Repairs of Krishna-Bhagya Jala Nigam Ltd.||||HOA Total :||Total|Detailed-Head|3200.00|3500.00|3500.00|3500.00
+23|07|21|2700|Major Irrigation|11||101|Maintenance and Repairs of Visvesvaraya Jala Nigam Ltd.|0||01|Maintenance and Repairs of Visvesvaraya Jala Nigam Ltd.|||2700-11-101-0-01|Maintenance and Repairs of Visvesvaraya Jala Nigam Ltd.||Header|Detailed-Head||||
+23|07|21|2700|Major Irrigation|11||101|Maintenance and Repairs of Visvesvaraya Jala Nigam Ltd.|0||01|Maintenance and Repairs of Visvesvaraya Jala Nigam Ltd.|057|Electricity Charges for Water Supply|2700-11-101-0-01|Electricity Charges for Water Supply|V|Data|Object-Head|1028.80|1028.80|1028.80|1029.00
+23|07|21|2700|Major Irrigation|11||101|Maintenance and Repairs of Visvesvaraya Jala Nigam Ltd.|0||01|Maintenance and Repairs of Visvesvaraya Jala Nigam Ltd.|100|Financial Assistance/Relief|2700-11-101-0-01|Financial Assistance/Relief|V|Data|Object-Head|1551.03|1075.83|1075.83|1203.14
+23|07|21|2700|Major Irrigation|11||101|Maintenance and Repairs of Visvesvaraya Jala Nigam Ltd.|0||01|Maintenance and Repairs of Visvesvaraya Jala Nigam Ltd.|200|Maintenance Expenditure|2700-11-101-0-01|Maintenance Expenditure|V|Data|Object-Head|19.20|19.20|19.20|20.00
+23|07|21|2700|Major Irrigation|11||101|Maintenance and Repairs of Visvesvaraya Jala Nigam Ltd.|0||01|Maintenance and Repairs of Visvesvaraya Jala Nigam Ltd.|240|Repayment of Borrowings|2700-11-101-0-01|Repayment of Borrowings|C|Data|Object-Head|13631.67|||
+23|07|21|2700|Major Irrigation|11||101|Maintenance and Repairs of Visvesvaraya Jala Nigam Ltd.|0||01|Maintenance and Repairs of Visvesvaraya Jala Nigam Ltd.|241|Interest Payments|2700-11-101-0-01|Interest Payments|C|Data|Object-Head||9654.79|9654.79|4864.85
+23|07|21|2700|Major Irrigation|11||101|Maintenance and Repairs of Visvesvaraya Jala Nigam Ltd.|0||01|Maintenance and Repairs of Visvesvaraya Jala Nigam Ltd.|||||HOA Total :|Total|Detailed-Head|16230.70|11778.62|11778.62|7116.99
+23|07|21|2700|Major Irrigation|12||101|Maintenance Expenditure (CNNL)|0||01|Maintenance Expenditure (CNNL)|||2700-12-101-0-01|Maintenance Expenditure (CNNL)||Header|Detailed-Head||||
+23|07|21|2700|Major Irrigation|12||101|Maintenance Expenditure (CNNL)|0||01|Maintenance Expenditure (CNNL)|057|Electricity Charges for Water Supply|2700-12-101-0-01|Electricity Charges for Water Supply|V|Data|Object-Head|7099.80|7099.80|7099.80|7100.00
+23|07|21|2700|Major Irrigation|12||101|Maintenance Expenditure (CNNL)|0||01|Maintenance Expenditure (CNNL)|200|Maintenance Expenditure|2700-12-101-0-01|Maintenance Expenditure|V|Data|Object-Head|633.20|733.20|733.20|730.00
+23|07|21|2700|Major Irrigation|12||101|Maintenance Expenditure (CNNL)|0||01|Maintenance Expenditure (CNNL)|||||HOA Total :|Total|Detailed-Head|7733.00|7833.00|7833.00|7830.00
+23|07|21|2700|Major Irrigation|||||||||||2700|2700 - Total :||Total|Major-Head|36739.10|30027.62|30027.62|25362.99
+24|07|21|2701|Medium Irrigation|80||001||0||||||2701|Medium Irrigation||Header|Major-Head||||
+24|07|21|2701|Medium Irrigation|80||001||0||08|Chief Engineer, Dam Safety Organisation|||2701-80-001-0-08|Chief Engineer, Dam Safety Organisation||Header|Detailed-Head||||
+24|07|21|2701|Medium Irrigation|80||001||0||08|Chief Engineer, Dam Safety Organisation|002|Basic Pay|2701-80-001-0-08|Basic Pay||Data|Object-Head|869.02|1751.00|1751.00|1589.00
+24|07|21|2701|Medium Irrigation|80||001||0||08|Chief Engineer, Dam Safety Organisation|003|Basic Pay-Staff|2701-80-001-0-08|Basic Pay-Staff||Data|Object-Head|696.31|||
+24|07|21|2701|Medium Irrigation|80||001||0||08|Chief Engineer, Dam Safety Organisation|004|Interim Relief|2701-80-001-0-08|Interim Relief||Data|Object-Head|94.47|||
+24|07|21|2701|Medium Irrigation|80||001||0||08|Chief Engineer, Dam Safety Organisation|011|Dearness Allowance|2701-80-001-0-08|Dearness Allowance||Data|Object-Head|355.08|385.00|385.00|397.00
+24|07|21|2701|Medium Irrigation|80||001||0||08|Chief Engineer, Dam Safety Organisation|014|Other Allowance|2701-80-001-0-08|Other Allowance||Data|Object-Head|304.20|332.00|332.00|301.00
+24|07|21|2701|Medium Irrigation|80||001||0||08|Chief Engineer, Dam Safety Organisation|020|Medical Allowance|2701-80-001-0-08|Medical Allowance||Data|Object-Head|5.20|||
+24|07|21|2701|Medium Irrigation|80||001||0||08|Chief Engineer, Dam Safety Organisation|021|Reimbursement of Medical Expenses|2701-80-001-0-08|Reimbursement of Medical Expenses||Data|Object-Head|1.10|15.00|15.00|15.00
+24|07|21|2701|Medium Irrigation|80||001||0||08|Chief Engineer, Dam Safety Organisation|033|Daily-wages|2701-80-001-0-08|Daily-wages||Data|Object-Head|3.24|||
+24|07|21|2701|Medium Irrigation|80||001||0||08|Chief Engineer, Dam Safety Organisation|034|Contract/Outsource|2701-80-001-0-08|Contract/Outsource||Data|Object-Head|162.56|186.27|186.27|
+24|07|21|2701|Medium Irrigation|80||001||0||08|Chief Engineer, Dam Safety Organisation|041|Travel Expenses|2701-80-001-0-08|Travel Expenses||Data|Object-Head|5.90|1.00|1.00|1.00
+24|07|21|2701|Medium Irrigation|80||001||0||08|Chief Engineer, Dam Safety Organisation|050|Office Expenses|2701-80-001-0-08|Office Expenses||Data|Object-Head||1.00|1.00|1.00
+24|07|21|2701|Medium Irrigation|80||001||0||08|Chief Engineer, Dam Safety Organisation|051|General Expenses|2701-80-001-0-08|General Expenses||Data|Object-Head|23.01|1.00|4.60|1.00
+24|07|21|2701|Medium Irrigation|80||001||0||08|Chief Engineer, Dam Safety Organisation|052|Telephone Charges|2701-80-001-0-08|Telephone Charges||Data|Object-Head|1.83|||
+24|07|21|2701|Medium Irrigation|80||001||0||08|Chief Engineer, Dam Safety Organisation|071|Building Expenses|2701-80-001-0-08|Building Expenses||Data|Object-Head|5.80|1.00|1.00|1.00
+24|07|21|2701|Medium Irrigation|80||001||0||08|Chief Engineer, Dam Safety Organisation|182|Repairs and Carriages|2701-80-001-0-08|Repairs and Carriages||Data|Object-Head|132.95|||
+24|07|21|2701|Medium Irrigation|80||001||0||08|Chief Engineer, Dam Safety Organisation|195|Transport Expenses|2701-80-001-0-08|Transport Expenses||Data|Object-Head|77.33|1.00|1.00|39.50
+24|07|21|2701|Medium Irrigation|80||001||0||08|Chief Engineer, Dam Safety Organisation|200|Maintenance Expenditure|2701-80-001-0-08|Maintenance Expenditure||Data|Object-Head||1.00|1.00|1.00
+24|07|21|2701|Medium Irrigation|80||001||0||08|Chief Engineer, Dam Safety Organisation|251|Pension & Retirement Benefits|2701-80-001-0-08|Pension & Retirement Benefits||Data|Object-Head|11.40|1.00|8.18|1.00
+24|07|21|2701|Medium Irrigation|80||001||0||08|Chief Engineer, Dam Safety Organisation|||||HOA Total :|Total|Detailed-Head|2749.40|2676.27|2687.05|2347.50
+24|07|21|2701|Medium Irrigation|80||001||0||18|Central Board of Irrigation and Power|||2701-80-001-0-18|Central Board of Irrigation and Power||Header|Detailed-Head||||
+24|07|21|2701|Medium Irrigation|80||001||0||18|Central Board of Irrigation and Power|103|Grants-in-Aid -General|2701-80-001-0-18|Grants-in-Aid -General||Data|Object-Head|2.36|2.36|2.36|2.36
+24|07|21|2701|Medium Irrigation|80||001||0||18|Central Board of Irrigation and Power|||||HOA Total :|Total|Detailed-Head|2.36|2.36|2.36|2.36
+25|07|21|2701|Medium Irrigation|80||001||0||21|Vacant Post Provision|||2701-80-001-0-21|Vacant Post Provision||Header|Detailed-Head||||
+25|07|21|2701|Medium Irrigation|80||001||0||21|Vacant Post Provision|014|Other Allowance|2701-80-001-0-21|Other Allowance||Data|Object-Head||13023.75|12899.48|15981.75
+25|07|21|2701|Medium Irrigation|80||001||0||21|Vacant Post Provision|||||HOA Total :|Total|Detailed-Head|0.00|13023.75|12899.48|15981.75
+25|07|21|2701|Medium Irrigation|80||004||||||||2701-80-004|||Header|Minor-Head||||
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|||2701-80-004-1-02|Karnataka Engineering Research Station, Krishna Raja Sagar||Header|Detailed-Head||||
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|002|Basic Pay|2701-80-004-1-02|Basic Pay||Data|Object-Head|507.34|975.00|975.00|915.00
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|003|Basic Pay-Staff|2701-80-004-1-02|Basic Pay-Staff||Data|Object-Head|275.53|||
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|004|Interim Relief|2701-80-004-1-02|Interim Relief||Data|Object-Head|50.57|||
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|011|Dearness Allowance|2701-80-004-1-02|Dearness Allowance||Data|Object-Head|183.08|215.00|215.00|229.00
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|014|Other Allowance|2701-80-004-1-02|Other Allowance||Data|Object-Head|102.61|119.00|119.00|125.00
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|020|Medical Allowance|2701-80-004-1-02|Medical Allowance||Data|Object-Head|2.50|||
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|021|Reimbursement of Medical Expenses|2701-80-004-1-02|Reimbursement of Medical Expenses||Data|Object-Head|1.17|15.00|15.00|15.00
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|034|Contract/Outsource|2701-80-004-1-02|Contract/Outsource||Data|Object-Head|50.43|66.56|66.56|68.96
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|041|Travel Expenses|2701-80-004-1-02|Travel Expenses||Data|Object-Head|4.85|5.00|5.00|6.00
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|050|Office Expenses|2701-80-004-1-02|Office Expenses||Data|Object-Head||3.00|3.00|30.00
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|051|General Expenses|2701-80-004-1-02|General Expenses||Data|Object-Head|71.65|60.00|60.00|30.00
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|052|Telephone Charges|2701-80-004-1-02|Telephone Charges||Data|Object-Head|1.90|||
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|071|Building Expenses|2701-80-004-1-02|Building Expenses||Data|Object-Head|14.23|18.00|18.00|28.51
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|195|Transport Expenses|2701-80-004-1-02|Transport Expenses||Data|Object-Head|25.74|34.37|34.37|33.03
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|200|Maintenance Expenditure|2701-80-004-1-02|Maintenance Expenditure||Data|Object-Head|39.98|30.00|30.00|40.00
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|251|Pension & Retirement Benefits|2701-80-004-1-02|Pension & Retirement Benefits||Data|Object-Head||24.50|24.50|25.00
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|324|Honorarium|2701-80-004-1-02|Honorarium||Data|Object-Head||||3.00
+25|07|21|2701|Medium Irrigation|80||004||1||02|Karnataka Engineering Research Station, Krishna Raja Sagar|||||HOA Total :|Total|Detailed-Head|1331.58|1565.43|1565.43|1548.50
+25|07|21|2701|Medium Irrigation|80||004||1||04|Suspense|||2701-80-004-1-04|Suspense||Header|Detailed-Head||||
+25|07|21|2701|Medium Irrigation|80||004||1||04|Suspense|292|Stock Debits|2701-80-004-1-04|Stock Debits||Data|Object-Head||1.00|1.00|
+25|07|21|2701|Medium Irrigation|80||004||1||04|Suspense|293|M P W A Debits|2701-80-004-1-04|M P W A Debits||Data|Object-Head||1.00|1.00|
+26|07|21|2701|Medium Irrigation|80||004||1||04|Suspense|294|Stock Credits|2701-80-004-1-04|Stock Credits||Data|Object-Head||-1.00|-1.00|
+26|07|21|2701|Medium Irrigation|80||004||1||04|Suspense|295|M P W A Credits|2701-80-004-1-04|M P W A Credits||Data|Object-Head||-1.00|-1.00|
+26|07|21|2701|Medium Irrigation|80||004||1||04|Suspense|||||HOA Total :|Total|Detailed-Head|0.00|0.00|0.00|0.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|||2701-80-005-1-01|Executive Establishment - WRDO||Header|Detailed-Head||||
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|002|Basic Pay|2701-80-005-1-01|Basic Pay||Data|Object-Head|1742.85|3974.00|3974.00|3962.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|003|Basic Pay-Staff|2701-80-005-1-01|Basic Pay-Staff||Data|Object-Head|1519.22|||
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|004|Interim Relief|2701-80-005-1-01|Interim Relief||Data|Object-Head|183.63|||
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|011|Dearness Allowance|2701-80-005-1-01|Dearness Allowance||Data|Object-Head|728.08|875.00|875.00|991.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|014|Other Allowance|2701-80-005-1-01|Other Allowance||Data|Object-Head|728.04|829.00|829.00|826.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|015|Subsidiary Expenses|2701-80-005-1-01|Subsidiary Expenses||Data|Object-Head|498.86|300.00|300.00|500.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|020|Medical Allowance|2701-80-005-1-01|Medical Allowance||Data|Object-Head|12.21|||
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|021|Reimbursement of Medical Expenses|2701-80-005-1-01|Reimbursement of Medical Expenses||Data|Object-Head|28.78|35.00|35.00|34.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|033|Daily-wages|2701-80-005-1-01|Daily-wages||Data|Object-Head|64.18|30.73|30.73|39.31
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|034|Contract/Outsource|2701-80-005-1-01|Contract/Outsource||Data|Object-Head|236.98|223.80|223.80|231.65
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|041|Travel Expenses|2701-80-005-1-01|Travel Expenses||Data|Object-Head|49.02|50.00|50.00|52.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|050|Office Expenses|2701-80-005-1-01|Office Expenses||Data|Object-Head||10.00|10.00|10.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|051|General Expenses|2701-80-005-1-01|General Expenses||Data|Object-Head|98.59|100.00|100.00|104.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|052|Telephone Charges|2701-80-005-1-01|Telephone Charges||Data|Object-Head|8.42|||
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|071|Building Expenses|2701-80-005-1-01|Building Expenses||Data|Object-Head|68.87|75.00|75.00|75.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|140|Minor Works|2701-80-005-1-01|Minor Works||Data|Object-Head|149.53|150.00|150.00|200.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|182|Repairs and Carriages|2701-80-005-1-01|Repairs and Carriages||Data|Object-Head|2.54|||
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|195|Transport Expenses|2701-80-005-1-01|Transport Expenses||Data|Object-Head|79.71|144.92|144.92|93.38
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|200|Maintenance Expenditure|2701-80-005-1-01|Maintenance Expenditure||Data|Object-Head||5.00|5.00|6.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|251|Pension & Retirement Benefits|2701-80-005-1-01|Pension & Retirement Benefits||Data|Object-Head|38.54|54.00|59.07|35.00
+26|07|21|2701|Medium Irrigation|80||005||1||01|Executive Establishment - WRDO|||||HOA Total :|Total|Detailed-Head|6238.05|6856.45|6861.52|7159.34
+26|07|21|2701|Medium Irrigation|80||005||1||04|Suspense|||2701-80-005-1-04|Suspense||Header|Detailed-Head||||
+26|07|21|2701|Medium Irrigation|80||005||1||04|Suspense|292|Stock Debits|2701-80-005-1-04|Stock Debits||Data|Object-Head||1.00|1.00|
+27|07|21|2701|Medium Irrigation|80||005||1||04|Suspense|293|M P W A Debits|2701-80-005-1-04|M P W A Debits|V|Data|Object-Head||1.00|1.00|
+27|07|21|2701|Medium Irrigation|80||005||1||04|Suspense|294|Stock Credits|2701-80-005-1-04|Stock Credits|V|Data|Object-Head||-1.00|-1.00|
+27|07|21|2701|Medium Irrigation|80||005||1||04|Suspense|295|M P W A Credits|2701-80-005-1-04|M P W A Credits|V|Data|Object-Head||-1.00|-1.00|
+27|07|21|2701|Medium Irrigation|80||005||1||04|Suspense|||2701-80-005-1-04|HOA Total :|V|Total|Detailed-Head|0.00|0.00|0.00|0.00
+27|07|21|2701|Medium Irrigation|80||190||0||01|Assistance to Krishna Bhagya Jala Nigam Ltd.|||2701-80-190-0-01|Assistance to Krishna Bhagya Jala Nigam Ltd.|V|Header|Detailed-Head||||
+27|07|21|2701|Medium Irrigation|80||190||0||01|Assistance to Krishna Bhagya Jala Nigam Ltd.|240|Repayment of Borrowings|2701-80-190-0-01|Repayment of Borrowings|C|Data|Object-Head|29954.46|||
+27|07|21|2701|Medium Irrigation|80||190||0||01|Assistance to Krishna Bhagya Jala Nigam Ltd.|241|Interest Payments|2701-80-190-0-01|Interest Payments|C|Data|Object-Head||24371.74|24371.74|14906.04
+27|07|21|2701|Medium Irrigation|80||190||0||01|Assistance to Krishna Bhagya Jala Nigam Ltd.|||2701-80-190-0-01|HOA Total :|C|Total|Detailed-Head|29954.46|24371.74|24371.74|14906.04
+27|07|21|2701|Medium Irrigation|80||190||0||02|Assistance to Karnataka Neeravari Nigama Limited|||2701-80-190-0-02|Assistance to Karnataka Neeravari Nigama Limited|V|Header|Detailed-Head||||
+27|07|21|2701|Medium Irrigation|80||190||0||02|Assistance to Karnataka Neeravari Nigama Limited|240|Repayment of Borrowings|2701-80-190-0-02|Repayment of Borrowings|C|Data|Object-Head|23062.25|||
+27|07|21|2701|Medium Irrigation|80||190||0||02|Assistance to Karnataka Neeravari Nigama Limited|241|Interest Payments|2701-80-190-0-02|Interest Payments|C|Data|Object-Head||13611.33|13611.33|7946.67
+27|07|21|2701|Medium Irrigation|80||190||0||02|Assistance to Karnataka Neeravari Nigama Limited|||2701-80-190-0-02|HOA Total :|C|Total|Detailed-Head|23062.25|13611.33|13611.33|7946.67
+27|07|21|2701|Medium Irrigation|80||190||0||03|Karnataka Neeravari Nigama Limited (KNNL)- Payment of Government Guarantee Commission|||2701-80-190-0-03|Karnataka Neeravari Nigama Limited (KNNL)- Payment of Government Guarantee Commission|V|Header|Detailed-Head||||
+27|07|21|2701|Medium Irrigation|80||190||0||03|Karnataka Neeravari Nigama Limited (KNNL)- Payment of Government Guarantee Commission|100|Financial Assistance/Relief|2701-80-190-0-03|Financial Assistance/Relief|V|Data|Object-Head|2588.18|1503.99|1503.99|910.22
+27|07|21|2701|Medium Irrigation|80||190||0||03|Karnataka Neeravari Nigama Limited (KNNL)- Payment of Government Guarantee Commission|||2701-80-190-0-03|HOA Total :|V|Total|Detailed-Head|2588.18|1503.99|1503.99|910.22
+27|07|21|2701|Medium Irrigation|80||190||0||04|Krishna Bhagya Jala Nigama - Payment of Government Guarantee|||2701-80-190-0-04|Krishna Bhagya Jala Nigama - Payment of Government Guarantee|V|Header|Detailed-Head||||
+27|07|21|2701|Medium Irrigation|80||190||0||04|Krishna Bhagya Jala Nigama - Payment of Government Guarantee|100|Financial Assistance/Relief|2701-80-190-0-04|Financial Assistance/Relief|V|Data|Object-Head|3725.90|2685.48|2685.48|1701.56
+27|07|21|2701|Medium Irrigation|80||190||0||04|Krishna Bhagya Jala Nigama - Payment of Government Guarantee|||2701-80-190-0-04|HOA Total :|V|Total|Detailed-Head|3725.90|2685.48|2685.48|1701.56
+27|07|21|2701|Medium Irrigation|80||190||0||06|Assistance to Cauvery Neeravari Nigam Limited|||2701-80-190-0-06|Assistance to Cauvery Neeravari Nigam Limited|V|Header|Detailed-Head||||
+27|07|21|2701|Medium Irrigation|80||190||0||06|Assistance to Cauvery Neeravari Nigam Limited|100|Financial Assistance/Relief|2701-80-190-0-06|Financial Assistance/Relief|V|Data|Object-Head|2061.47|1859.43|1859.43|709.85
+27|07|21|2701|Medium Irrigation|80||190||0||06|Assistance to Cauvery Neeravari Nigam Limited|||2701-80-190-0-06|HOA Total :|V|Total|Detailed-Head|2061.47|1859.43|1859.43|709.85
+28|07|21|2701|Medium Irrigation|80|General|190|Assistance to Public Sector and Other Undertakings|0||06|Assistance to Cauvery Neeravari Nigam Limited|240|Repayment of Borrowings|2701-80-190-0-06|Repayment of Borrowings|C|Data|Object-Head|20206.58|||
+28|07|21|2701|Medium Irrigation|80|General|190|Assistance to Public Sector and Other Undertakings|0||06|Assistance to Cauvery Neeravari Nigam Limited|241|Interest Payments|2701-80-190-0-06|Interest Payments|C|Data|Object-Head||14087.32|14087.32|6676.16
+28|07|21|2701|Medium Irrigation|80|General|190|Assistance to Public Sector and Other Undertakings|0||06|Assistance to Cauvery Neeravari Nigam Limited|||2701-80-190-0-06|HOA Total :|C|Total|Detailed-Head|22268.05|15946.75|15946.75|7386.01
+28|07|21|2701|Medium Irrigation|80|General|911|Deduct Recoveries of Over Payments|||||||2701-80-911|Deduct Recoveries of Over Payments|V|Header|Minor-Head||||
+28|07|21|2701|Medium Irrigation|80|General|911|Deduct Recoveries of Over Payments|0||00|Deduct Recoveries of Over Payments|||2701-80-911-0-00|Deduct Recoveries of Over Payments|V|Header|Detailed-Head||||
+28|07|21|2701|Medium Irrigation|80|General|911|Deduct Recoveries of Over Payments|0||00|Deduct Recoveries of Over Payments|364|Deduct - Recoveries|2701-80-911-0-00|Deduct - Recoveries|V|Data|Object-Head|-3.77|||
+28|07|21|2701|Medium Irrigation|80|General|911|Deduct Recoveries of Over Payments|0||00|Deduct Recoveries of Over Payments|||2701-80-911-0-00|HOA Total :|V|Total|Detailed-Head|-3.77|0.00|0.00|0.00
+28|07|21|2701|Medium Irrigation|80|General|911|Deduct Recoveries of Over Payments|0||01|Deduct Recovery of Over Payments of Current Year|||2701-80-911-0-01|Deduct Recovery of Over Payments of Current Year|V|Header|Detailed-Head||||
+28|07|21|2701|Medium Irrigation|80|General|911|Deduct Recoveries of Over Payments|0||01|Deduct Recovery of Over Payments of Current Year|364|Deduct - Recoveries|2701-80-911-0-01|Deduct - Recoveries|V|Data|Object-Head|-4.26|||
+28|07|21|2701|Medium Irrigation|80|General|911|Deduct Recoveries of Over Payments|0||01|Deduct Recovery of Over Payments of Current Year|||2701-80-911-0-01|HOA Total :|V|Total|Detailed-Head|-4.26|0.00|0.00|0.00
+28|07|21|2701|Medium Irrigation|80|General|911|Deduct Recoveries of Over Payments|0||02|Deduct-Recovery of Overpayments|||2701-80-911-0-02|Deduct-Recovery of Overpayments|V|Header|Detailed-Head||||
+28|07|21|2701|Medium Irrigation|80|General|911|Deduct Recoveries of Over Payments|0||02|Deduct-Recovery of Overpayments|364|Deduct - Recoveries|2701-80-911-0-02|Deduct - Recoveries|V|Data|Object-Head|-0.03|||
+28|07|21|2701|Medium Irrigation|80|General|911|Deduct Recoveries of Over Payments|0||02|Deduct-Recovery of Overpayments|||2701-80-911-0-02|HOA Total :|V|Total|Detailed-Head|-0.03|0.00|0.00|0.00
+28|07|21|2701|Medium Irrigation|80|General|||||||||2701|2701 - Total :||Total|Major-Head|91912.17|82243.55|82135.13|59889.95
+29|07|21|2702|Minor Irrigation|02||911|Deduct Recoveries of Over Payments|0||01|Deduct Recovery of Over Payments of Current Year|||2702-02-911-0-01|Deduct Recovery of Over Payments of Current Year|V|Header|Detailed-Head||||
+29|07|21|2702|Minor Irrigation|02||911|Deduct Recoveries of Over Payments|0||01|Deduct Recovery of Over Payments of Current Year|364|Deduct - Recoveries|2702-02-911-0-01|Deduct - Recoveries|V|Data|Object-Head|-3.00|||
+29|07|21|2702|Minor Irrigation|02||911|Deduct Recoveries of Over Payments|0||01|Deduct Recovery of Over Payments of Current Year|||2702-02-911-0-01|HOA Total :|V|Total|Detailed-Head|-3.00|0.00|0.00|0.00
+29|07|21|2702|Minor Irrigation|02||||||||||2702|2702 - Total :|V|Total|Major-Head|-3.00|0.00|0.00|0.00
+30|07|21|2705|Command Area Development|00||||||||||2705|Command Area Development|V|Header|Major-Head||||
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|||2705-00-001-0-02|CADA Directorate|V|Header|Detailed-Head||||
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|002|Basic Pay|2705-00-001-0-02|Basic Pay|V|Data|Object-Head|68.21|146.00|191.50|141.00
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|003|Basic Pay-Staff|2705-00-001-0-02|Basic Pay-Staff|V|Data|Object-Head|56.85|||
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|004|Interim Relief|2705-00-001-0-02|Interim Relief|V|Data|Object-Head|8.58|||
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|011|Dearness Allowance|2705-00-001-0-02|Dearness Allowance|V|Data|Object-Head|30.26|32.00|32.00|35.00
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|014|Other Allowance|2705-00-001-0-02|Other Allowance|V|Data|Object-Head|33.87|37.00|49.50|36.00
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|020|Medical Allowance|2705-00-001-0-02|Medical Allowance|V|Data|Object-Head|0.46|||
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|021|Reimbursement of Medical Expenses|2705-00-001-0-02|Reimbursement of Medical Expenses|V|Data|Object-Head|1.22|9.00|9.00|9.00
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|034|Contract/Outsource|2705-00-001-0-02|Contract/Outsource|V|Data|Object-Head|33.10|35.83|35.83|37.05
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|041|Travel Expenses|2705-00-001-0-02|Travel Expenses|V|Data|Object-Head|1.90|1.00|1.00|4.00
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|050|Office Expenses|2705-00-001-0-02|Office Expenses|V|Data|Object-Head||1.00|1.00|10.00
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|051|General Expenses|2705-00-001-0-02|General Expenses|V|Data|Object-Head|6.50|8.00|8.00|1.00
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|052|Telephone Charges|2705-00-001-0-02|Telephone Charges|V|Data|Object-Head|0.33|||
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|071|Building Expenses|2705-00-001-0-02|Building Expenses|V|Data|Object-Head|53.98|54.00|54.00|57.00
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|195|Transport Expenses|2705-00-001-0-02|Transport Expenses|V|Data|Object-Head|12.29|17.23|17.23|11.14
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|251|Pension & Retirement Benefits|2705-00-001-0-02|Pension & Retirement Benefits|V|Data|Object-Head||1.00|1.00|
+30|07|21|2705|Command Area Development|00||001||0||02|CADA Directorate|||2705-00-001-0-02|HOA Total :|V|Total|Detailed-Head|307.55|342.06|400.06|341.19
+30|07|21|2705|Command Area Development|00||101||0||01|Water and Land Management Institute - WALMI|||2705-00-101-0-01|Water and Land Management Institute - WALMI|V|Header|Detailed-Head||||
+30|07|21|2705|Command Area Development|00||101||0||01|Water and Land Management Institute - WALMI|101|Grants-in-Aid-Salaries|2705-00-101-0-01|Grants-in-Aid-Salaries|V|Data|Object-Head|357.40|354.47|375.87|429.41
+30|07|21|2705|Command Area Development|00||101||0||01|Water and Land Management Institute - WALMI|103|Grants-in-Aid -General|2705-00-101-0-01|Grants-in-Aid -General|V|Data|Object-Head|525.00|525.00|525.00|525.00
+30|07|21|2705|Command Area Development|00||101||0||01|Water and Land Management Institute - WALMI|||2705-00-101-0-01|HOA Total :|V|Total|Detailed-Head|882.40|879.47|900.87|954.41
+30|07|21|2705|Command Area Development|00||201||0||01|Tungabhadra Project|||2705-00-201-0-01|Tungabhadra Project|V|Header|Detailed-Head||||
+30|07|21|2705|Command Area Development|00||201||0||01|Tungabhadra Project|101|Grants-in-Aid-Salaries|2705-00-201-0-01|Grants-in-Aid-Salaries|V|Data|Object-Head|572.10|664.67|664.67|656.08
+30|07|21|2705|Command Area Development|00||201||0||01|Tungabhadra Project|103|Grants-in-Aid -General|2705-00-201-0-01|Grants-in-Aid -General|V|Data|Object-Head|74.67|42.00|42.00|50.60
+31|07|21|2705|Command Area Development|00||201||0||01|Tungabhadra Project|115|GIA Contract /Outsource|2705-00-201-0-01|GIA Contract /Outsource|V|Data|Object-Head|17.28|17.98|17.98|18.59
+31|07|21|2705|Command Area Development|00||201||0||01|Tungabhadra Project||||HOA Total :|V|Total|Detailed-Head|664.05|724.65|724.65|725.27
+31|07|21|2705|Command Area Development|00||202||0||01|Malaprabha & Ghataprabha Projects-CADA|||2705-00-202-0-01|Malaprabha & Ghataprabha Projects-CADA|V|Header|Detailed-Head||||
+31|07|21|2705|Command Area Development|00||202||0||01|Malaprabha & Ghataprabha Projects-CADA|101|Grants-in-Aid-Salaries|2705-00-202-0-01|Grants-in-Aid-Salaries|V|Data|Object-Head|427.72|507.22|536.24|662.72
+31|07|21|2705|Command Area Development|00||202||0||01|Malaprabha & Ghataprabha Projects-CADA|103|Grants-in-Aid -General|2705-00-202-0-01|Grants-in-Aid -General|V|Data|Object-Head|115.55|29.00|29.00|36.60
+31|07|21|2705|Command Area Development|00||202||0||01|Malaprabha & Ghataprabha Projects-CADA|115|GIA Contract /Outsource|2705-00-202-0-01|GIA Contract /Outsource|V|Data|Object-Head|11.18|11.66|11.66|12.07
+31|07|21|2705|Command Area Development|00||202||0||01|Malaprabha & Ghataprabha Projects-CADA||||HOA Total :|V|Total|Detailed-Head|554.45|547.88|576.90|711.39
+31|07|21|2705|Command Area Development|00||203||0||01|Cauvery Basin Projects|||2705-00-203-0-01|Cauvery Basin Projects|V|Header|Detailed-Head||||
+31|07|21|2705|Command Area Development|00||203||0||01|Cauvery Basin Projects|101|Grants-in-Aid-Salaries|2705-00-203-0-01|Grants-in-Aid-Salaries|V|Data|Object-Head|790.89|1070.38|1070.38|1279.65
+31|07|21|2705|Command Area Development|00||203||0||01|Cauvery Basin Projects|103|Grants-in-Aid -General|2705-00-203-0-01|Grants-in-Aid -General|V|Data|Object-Head|39.96|40.00|40.00|48.60
+31|07|21|2705|Command Area Development|00||203||0||01|Cauvery Basin Projects|115|GIA Contract /Outsource|2705-00-203-0-01|GIA Contract /Outsource|V|Data|Object-Head|129.88|135.48|135.48|140.37
+31|07|21|2705|Command Area Development|00||203||0||01|Cauvery Basin Projects||||HOA Total :|V|Total|Detailed-Head|960.73|1245.86|1245.86|1468.62
+31|07|21|2705|Command Area Development|00||204||0||01|Upper Krishna Project|||2705-00-204-0-01|Upper Krishna Project|V|Header|Detailed-Head||||
+31|07|21|2705|Command Area Development|00||204||0||01|Upper Krishna Project|101|Grants-in-Aid-Salaries|2705-00-204-0-01|Grants-in-Aid-Salaries|V|Data|Object-Head|552.71|700.71|700.71|657.35
+31|07|21|2705|Command Area Development|00||204||0||01|Upper Krishna Project|103|Grants-in-Aid -General|2705-00-204-0-01|Grants-in-Aid -General|V|Data|Object-Head|0.96|30.00|30.00|37.60
+31|07|21|2705|Command Area Development|00||204||0||01|Upper Krishna Project|115|GIA Contract /Outsource|2705-00-204-0-01|GIA Contract /Outsource|V|Data|Object-Head|4.55|11.43|11.43|11.84
+31|07|21|2705|Command Area Development|00||204||0||01|Upper Krishna Project||||HOA Total :|V|Total|Detailed-Head|558.22|742.14|742.14|706.79
+31|07|21|2705|Command Area Development|00||205||0||01|Bhadra Project-CADA|||2705-00-205-0-01|Bhadra Project-CADA|V|Header|Detailed-Head||||
+31|07|21|2705|Command Area Development|00||205||0||01|Bhadra Project-CADA|101|Grants-in-Aid-Salaries|2705-00-205-0-01|Grants-in-Aid-Salaries|V|Data|Object-Head|505.55|572.63|572.63|637.18
+31|07|21|2705|Command Area Development|00||205||0||01|Bhadra Project-CADA|103|Grants-in-Aid -General|2705-00-205-0-01|Grants-in-Aid -General|V|Data|Object-Head|137.23|60.00|60.00|60.00
+32|07|21|2705|Command Area Development|00||205|Bhadra Project-CADA|0||01|Bhadra Project-CADA|115|GIA Contract /Outsource|2705-00-205-0-01|GIA Contract /Outsource|V|Data|Object-Head|81.09|84.59|84.59|87.65
+32|07|21|2705|Command Area Development|00||205|Bhadra Project-CADA|0||01|Bhadra Project-CADA||||HOA Total :|V|Total|Detailed-Head|723.87|717.22|717.22|784.83
+32|07|21|2705|Command Area Development|00||206|CADA Kalaburgi - GiA Salaries|0||01|CADA Kalaburgi - GiA Salaries|||2705-00-206-0-01|CADA Kalaburgi - GiA Salaries|V|Header|Detailed-Head||||
+32|07|21|2705|Command Area Development|00||206|CADA Kalaburgi - GiA Salaries|0||01|CADA Kalaburgi - GiA Salaries|101|Grants-in-Aid-Salaries|2705-00-206-0-01|Grants-in-Aid-Salaries|V|Data|Object-Head|758.17|1004.69|1004.69|988.88
+32|07|21|2705|Command Area Development|00||206|CADA Kalaburgi - GiA Salaries|0||01|CADA Kalaburgi - GiA Salaries|103|Grants-in-Aid -General|2705-00-206-0-01|Grants-in-Aid -General|V|Data|Object-Head|92.00|30.00|30.00|31.00
+32|07|21|2705|Command Area Development|00||206|CADA Kalaburgi - GiA Salaries|0||01|CADA Kalaburgi - GiA Salaries|115|GIA Contract /Outsource|2705-00-206-0-01|GIA Contract /Outsource|V|Data|Object-Head|20.92|21.86|21.86|22.68
+32|07|21|2705|Command Area Development|00||206|CADA Kalaburgi - GiA Salaries|0||01|CADA Kalaburgi - GiA Salaries||||HOA Total :|V|Total|Detailed-Head|871.09|1056.55|1056.55|1042.56
+32|07|21|2705|Command Area Development|00||911|Deduct-Recovery of Overpayments|0||01|Deduct-Recovery of Overpayments|||2705-00-911-0-01|Deduct-Recovery of Overpayments|V|Header|Detailed-Head||||
+32|07|21|2705|Command Area Development|00||911|Deduct-Recovery of Overpayments|0||01|Deduct-Recovery of Overpayments|364|Deduct - Recoveries|2705-00-911-0-01|Deduct - Recoveries|V|Data|Object-Head|-13.81|||
+32|07|21|2705|Command Area Development|00||911|Deduct-Recovery of Overpayments|0||01|Deduct-Recovery of Overpayments||||HOA Total :|V|Total|Detailed-Head|-13.81|0.00|0.00|0.00
+32|07|21|2705|Command Area Development|00||911|Deduct-Recovery of Overpayments|0||02|Deduct-Recovery of Overpayments|||2705-00-911-0-02|Deduct-Recovery of Overpayments|V|Header|Detailed-Head||||
+32|07|21|2705|Command Area Development|00||911|Deduct-Recovery of Overpayments|0||02|Deduct-Recovery of Overpayments|364|Deduct - Recoveries|2705-00-911-0-02|Deduct - Recoveries|V|Data|Object-Head|-11.86|||
+32|07|21|2705|Command Area Development|00||911|Deduct-Recovery of Overpayments|0||02|Deduct-Recovery of Overpayments||||HOA Total :|V|Total|Detailed-Head|-11.86|0.00|0.00|0.00
+32|07|21|2705|Command Area Development|00|||||||||||2705 - Total :|V|Total|Major-Head|5496.69|6255.83|6364.25|6735.06
+33|07|21|4700|Capital Outlay on Major Irrigation|03|||||||||||4700 - Capital Outlay on Major Irrigation|V|Header|Major-Head||||
+33|07|21|4700|Capital Outlay on Major Irrigation|03||001||0||03|Tungabhadra Project(Inter State Account of GoAP - GoK)|||4700-03-001-0-03|Tungabhadra Project(Inter State Account of GoAP - GoK)|V|Header|Detailed-Head||||
+33|07|21|4700|Capital Outlay on Major Irrigation|03||001||0||03|Tungabhadra Project(Inter State Account of GoAP - GoK)|261|Inter Account Transfers|4700-03-001-0-03|Inter Account Transfers|V|Data|Object-Head|3115.92|1.00|1.00|1.00
+33|07|21|4700|Capital Outlay on Major Irrigation|03||001||0||03|Tungabhadra Project(Inter State Account of GoAP - GoK)||||HOA Total :|V|Total|Detailed-Head|3115.92|1.00|1.00|1.00
+33|07|21|4700|Capital Outlay on Major Irrigation|03|||||||||||4700 - Total :|V|Total|Major-Head|3115.92|1.00|1.00|1.00
+34|07|21|4701|Capital Outlay on Medium Irrigation|01|||||||||||4701 - Capital Outlay on Medium Irrigation|V|Header|Major-Head||||
+34|07|21|4701|Capital Outlay on Medium Irrigation|01||800||0||01|Special Capital Assistance|||4701-01-800-0-01|Special Capital Assistance|V|Header|Detailed-Head||||
+34|07|21|4701|Capital Outlay on Medium Irrigation|01||800||0||01|Special Capital Assistance|132|Other Capital Expenses|4701-01-800-0-01|Other Capital Expenses|V|Data|Object-Head||50000.00|50000.00|
+34|07|21|4701|Capital Outlay on Medium Irrigation|01||800||0||01|Special Capital Assistance||||HOA Total :|V|Total|Detailed-Head|0.00|50000.00|50000.00|0.00
+34|07|21|4701|Capital Outlay on Medium Irrigation|76||800||0||01|CSS-Central Share Upper Bhadra - National Scheme|||4701-76-800-0-01|CSS-Central Share Upper Bhadra - National Scheme|V|Header|Detailed-Head||||
+34|07|21|4701|Capital Outlay on Medium Irrigation|76||800||0||01|CSS-Central Share Upper Bhadra - National Scheme|132|Other Capital Expenses|4701-76-800-0-01|Other Capital Expenses|V|Data|Object-Head||100000.00|72900.00|60000.00
+34|07|21|4701|Capital Outlay on Medium Irrigation|76||800||0||01|CSS-Central Share Upper Bhadra - National Scheme||||HOA Total :|V|Total|Detailed-Head|0.00|100000.00|72900.00|60000.00
+34|07|21|4701|Capital Outlay on Medium Irrigation|76||800||0||02|CSS-State Share Upper Bhadra - National Scheme|||4701-76-800-0-02|CSS-State Share Upper Bhadra - National Scheme|V|Header|Detailed-Head||||
+34|07|21|4701|Capital Outlay on Medium Irrigation|76||800||0||02|CSS-State Share Upper Bhadra - National Scheme|132|Other Capital Expenses|4701-76-800-0-02|Other Capital Expenses|V|Data|Object-Head|53196.00|25000.00|52100.00|15000.00
+34|07|21|4701|Capital Outlay on Medium Irrigation|76||800||0||02|CSS-State Share Upper Bhadra - National Scheme||||HOA Total :|V|Total|Detailed-Head|53196.00|25000.00|52100.00|15000.00
+34|07|21|4701|Capital Outlay on Medium Irrigation|77||800||0||01|CSS-Central Share-Accelerated Irrigation Benefit Programme-Irrigation Projects under various Nigamas|||4701-77-800-0-01|CSS-Central Share-Accelerated Irrigation Benefit Programme-Irrigation Projects under various Nigamas|V|Header|Detailed-Head||||
+34|07|21|4701|Capital Outlay on Medium Irrigation|77||800||0||01|CSS-Central Share-Accelerated Irrigation Benefit Programme-Irrigation Projects under various Nigamas|132|Other Capital Expenses|4701-77-800-0-01|Other Capital Expenses|V|Data|Object-Head||||33211.00
+34|07|21|4701|Capital Outlay on Medium Irrigation|77||800||0||01|CSS-Central Share-Accelerated Irrigation Benefit Programme-Irrigation Projects under various Nigamas|139|Major Works|4701-77-800-0-01|Major Works|V|Data|Object-Head||85739.00|85739.00|
+34|07|21|4701|Capital Outlay on Medium Irrigation|77||800||0||01|CSS-Central Share-Accelerated Irrigation Benefit Programme-Irrigation Projects under various Nigamas||||HOA Total :|V|Total|Detailed-Head|0.00|85739.00|85739.00|33211.00
+34|07|21|4701|Capital Outlay on Medium Irrigation|77||800||0||02|CSS-State Share-Accelerated Irrigation Benefit Programme-Irrigation Projects under various Nigamas|||4701-77-800-0-02|CSS-State Share-Accelerated Irrigation Benefit Programme-Irrigation Projects under various Nigamas|V|Header|Detailed-Head||||
+34|07|21|4701|Capital Outlay on Medium Irrigation|77||800||0||02|CSS-State Share-Accelerated Irrigation Benefit Programme-Irrigation Projects under various Nigamas|132|Other Capital Expenses|4701-77-800-0-02|Other Capital Expenses|V|Data|Object-Head||||16789.00
+34|07|21|4701|Capital Outlay on Medium Irrigation|77||800||0||02|CSS-State Share-Accelerated Irrigation Benefit Programme-Irrigation Projects under various Nigamas|139|Major Works|4701-77-800-0-02|Major Works|V|Data|Object-Head||54761.00|54761.00|
+34|07|21|4701|Capital Outlay on Medium Irrigation|77||800||0||02|CSS-State Share-Accelerated Irrigation Benefit Programme-Irrigation Projects under various Nigamas||||HOA Total :|V|Total|Detailed-Head|0.00|54761.00|54761.00|16789.00
+35|07|21|4701|Capital Outlay on Medium Irrigation|77||800||0||03|CSS-Central Share-PMKSY-Command Area Devpt and Water Management Scheme-Projects under various Authorities|||4701-77-800-0-03|CSS-Central Share-PMKSY-Command Area Devpt and Water Management Scheme-Projects under various Authorities|V|Header|Detailed-Head||||
+35|07|21|4701|Capital Outlay on Medium Irrigation|77||800||0||03|CSS-Central Share-PMKSY-Command Area Devpt and Water Management Scheme-Projects under various Authorities|132|Other Capital Expenses|4701-77-800-0-03|Other Capital Expenses|V|Data|Object-Head||||12000.00
+35|07|21|4701|Capital Outlay on Medium Irrigation|77||800||0||03|CSS-Central Share-PMKSY-Command Area Devpt and Water Management Scheme-Projects under various Authorities|139|Major Works|4701-77-800-0-03|Major Works|V|Data|Object-Head||1.00|1.00|
+35|07|21|4701|Capital Outlay on Medium Irrigation|77||800||0||03|CSS-Central Share-PMKSY-Command Area Devpt and Water Management Scheme-Projects under various Authorities||||HOA Total :|V|Total|Detailed-Head|0.00|1.00|1.00|12000.00
+35|07|21|4701|Capital Outlay on Medium Irrigation|77||800||0||04|CSS-State Share-PMKSY-Command Area Devpt and Water Management Scheme-Projects under various Authorities|||4701-77-800-0-04|CSS-State Share-PMKSY-Command Area Devpt and Water Management Scheme-Projects under various Authorities|V|Header|Detailed-Head||||
+35|07|21|4701|Capital Outlay on Medium Irrigation|77||800||0||04|CSS-State Share-PMKSY-Command Area Devpt and Water Management Scheme-Projects under various Authorities|132|Other Capital Expenses|4701-77-800-0-04|Other Capital Expenses|V|Data|Object-Head||||8000.00
+35|07|21|4701|Capital Outlay on Medium Irrigation|77||800||0||04|CSS-State Share-PMKSY-Command Area Devpt and Water Management Scheme-Projects under various Authorities|139|Major Works|4701-77-800-0-04|Major Works|V|Data|Object-Head||1.00|1.00|
+35|07|21|4701|Capital Outlay on Medium Irrigation|77||800||0||04|CSS-State Share-PMKSY-Command Area Devpt and Water Management Scheme-Projects under various Authorities||||HOA Total :|V|Total|Detailed-Head|0.00|1.00|1.00|8000.00
+35|07|21|4701|Capital Outlay on Medium Irrigation|77||800||0||90|Deduct Recovery of Capital Account|||4701-77-800-0-90|Deduct Recovery of Capital Account|V|Header|Detailed-Head||||
+35|07|21|4701|Capital Outlay on Medium Irrigation|77||800||0||90|Deduct Recovery of Capital Account|366|Refund from SNA bank account|4701-77-800-0-90|Refund from SNA bank account|V|Data|Object-Head|-0.45|||
+35|07|21|4701|Capital Outlay on Medium Irrigation|77||800||0||90|Deduct Recovery of Capital Account||||HOA Total :|V|Total|Detailed-Head|-0.45|0.00|0.00|0.00
+35|07|21|4701|Capital Outlay on Medium Irrigation|80||190||3||00|Krishna Bhagya Jala Nigam Ltd.,|||4701-80-190-3-00|Krishna Bhagya Jala Nigam Ltd.,|V|Header|Detailed-Head||||
+35|07|21|4701|Capital Outlay on Medium Irrigation|80||190||3||00|Krishna Bhagya Jala Nigam Ltd.,|132|Other Capital Expenses|4701-80-190-3-00|Other Capital Expenses|V|Data|Object-Head|167500.00|127500.00|127500.00|99750.00
+35|07|21|4701|Capital Outlay on Medium Irrigation|80||190||3||00|Krishna Bhagya Jala Nigam Ltd.,|133|Regional Imbalance Redressal Program|4701-80-190-3-00|Regional Imbalance Redressal Program|V|Data|Object-Head||||15000.00
+35|07|21|4701|Capital Outlay on Medium Irrigation|80||190||3||00|Krishna Bhagya Jala Nigam Ltd.,|240|Repayment of Borrowings|4701-80-190-3-00|Repayment of Borrowings|C|Data|Object-Head|140000.00|206848.91|206848.91|230575.69
+35|07|21|4701|Capital Outlay on Medium Irrigation|80||190||3||00|Krishna Bhagya Jala Nigam Ltd.,||||HOA Total :|V|Total|Detailed-Head|307500.00|334348.91|334348.91|345325.69
+36|07|21|4701|Capital Outlay on Medium Irrigation|80||190||3||01|Krishna Bhagya Jala Nigam Limited-Land Acquisition Charges and R&R|||4701-80-190-3-01|Krishna Bhagya Jala Nigam Limited-Land Acquisition Charges and R&R|V|Header|Detailed-Head||||
+36|07|21|4701|Capital Outlay on Medium Irrigation|80||190||3||01|Krishna Bhagya Jala Nigam Limited-Land Acquisition Charges and R&R|132|Other Capital Expenses|4701-80-190-3-01|Other Capital Expenses|V|Data|Object-Head|140000.00|||
+36|07|21|4701|Capital Outlay on Medium Irrigation|80||190||3||01|Krishna Bhagya Jala Nigam Limited-Land Acquisition Charges and R&R|133|Regional Imbalance Redressal Program|4701-80-190-3-01|Regional Imbalance Redressal Program|V|Data|Object-Head||||40000.00
+36|07|21|4701|Capital Outlay on Medium Irrigation|80||190||3||01|Krishna Bhagya Jala Nigam Limited-Land Acquisition Charges and R&R|145|Acquisition of Land|4701-80-190-3-01|Acquisition of Land|V|Data|Object-Head||170000.00|170000.00|260000.00
+36|07|21|4701|Capital Outlay on Medium Irrigation|80||190||3||01|Krishna Bhagya Jala Nigam Limited-Land Acquisition Charges and R&R||||HOA Total :|V|Total|Detailed-Head|140000.00|170000.00|170000.00|300000.00
+36|07|21|4701|Capital Outlay on Medium Irrigation|80||190||4||00|Karnataka Neeravari Nigama Ltd.|||4701-80-190-4-00|Karnataka Neeravari Nigama Ltd.|V|Header|Detailed-Head||||
+36|07|21|4701|Capital Outlay on Medium Irrigation|80||190||4||00|Karnataka Neeravari Nigama Ltd.|132|Other Capital Expenses|4701-80-190-4-00|Other Capital Expenses|V|Data|Object-Head|224000.00|164000.00|164000.00|124351.00
+36|07|21|4701|Capital Outlay on Medium Irrigation|80||190||4||00|Karnataka Neeravari Nigama Ltd.|133|Regional Imbalance Redressal Program|4701-80-190-4-00|Regional Imbalance Redressal Program|V|Data|Object-Head||||25000.00
+36|07|21|4701|Capital Outlay on Medium Irrigation|80||190||4||00|Karnataka Neeravari Nigama Ltd.|240|Repayment of Borrowings|4701-80-190-4-00|Repayment of Borrowings|C|Data|Object-Head|145644.00|132334.76|132334.76|154834.76
+36|07|21|4701|Capital Outlay on Medium Irrigation|80||190||4||00|Karnataka Neeravari Nigama Ltd.|436|NABARD Works|4701-80-190-4-00|NABARD Works|V|Data|Object-Head|30000.00|46390.00|46390.00|40000.00
+36|07|21|4701|Capital Outlay on Medium Irrigation|80||190||4||00|Karnataka Neeravari Nigama Ltd.||||HOA Total :|V|Total|Detailed-Head|399644.00|342724.76|342724.76|344185.76
+36|07|21|4701|Capital Outlay on Medium Irrigation|80||190||4||01|Karnataka Neeravari Nigama Ltd. - Land Acquisition Cost-|||4701-80-190-4-01|Karnataka Neeravari Nigama Ltd. - Land Acquisition Cost-|V|Header|Detailed-Head||||
+36|07|21|4701|Capital Outlay on Medium Irrigation|80||190||4||01|Karnataka Neeravari Nigama Ltd. - Land Acquisition Cost-|132|Other Capital Expenses|4701-80-190-4-01|Other Capital Expenses|V|Data|Object-Head|45000.00|||
+36|07|21|4701|Capital Outlay on Medium Irrigation|80||190||4||01|Karnataka Neeravari Nigama Ltd. - Land Acquisition Cost-|133|Regional Imbalance Redressal Program|4701-80-190-4-01|Regional Imbalance Redressal Program|V|Data|Object-Head||||5000.00
+36|07|21|4701|Capital Outlay on Medium Irrigation|80||190||4||01|Karnataka Neeravari Nigama Ltd. - Land Acquisition Cost-|145|Acquisition of Land|4701-80-190-4-01|Acquisition of Land|V|Data|Object-Head||45000.00|45000.00|40000.00
+36|07|21|4701|Capital Outlay on Medium Irrigation|80||190||4||01|Karnataka Neeravari Nigama Ltd. - Land Acquisition Cost-||||HOA Total :|V|Total|Detailed-Head|45000.00|45000.00|45000.00|45000.00
+36|07|21|4701|Capital Outlay on Medium Irrigation|80||190||5||00|Visvesvaraya Jala Nigama Ltd|||4701-80-190-5-00|Visvesvaraya Jala Nigama Ltd|V|Header|Detailed-Head||||
+36|07|21|4701|Capital Outlay on Medium Irrigation|80||190||5||00|Visvesvaraya Jala Nigama Ltd|132|Other Capital Expenses|4701-80-190-5-00|Other Capital Expenses|V|Data|Object-Head|208104.00|96000.00|96000.00|76400.00
+36|07|21|4701|Capital Outlay on Medium Irrigation|80||190||5||00|Visvesvaraya Jala Nigama Ltd|133|Regional Imbalance Redressal Program|4701-80-190-5-00|Regional Imbalance Redressal Program|V|Data|Object-Head||||10000.00
+37|07|21|4701|Capital Outlay on Medium Irrigation|80||190||5|Visvesvaraya Jala Nigama Ltd|00|Visvesvaraya Jala Nigama Ltd|240|Repayment of Borrowings|4701-80-190-5-00|Repayment of Borrowings|C|Data|Object-Head|73569.00|90263.97|90263.97|112763.97
+37|07|21|4701|Capital Outlay on Medium Irrigation|80||190||5|Visvesvaraya Jala Nigama Ltd|00|Visvesvaraya Jala Nigama Ltd||||HOA Total :|V|Total|Detailed-Head|281673.00|186263.97|186263.97|199163.97
+37|07|21|4701|Capital Outlay on Medium Irrigation|80||190||5|Visvesvaraya Jala Nigama Ltd|01|Land Acquisition Cost- Visvesvaraya Jala Nigama Ltd|||4701-80-190-5-01|Land Acquisition Cost- Visvesvaraya Jala Nigama Ltd|V|Header|Detailed-Head||||
+37|07|21|4701|Capital Outlay on Medium Irrigation|80||190||5|Visvesvaraya Jala Nigama Ltd|01|Land Acquisition Cost- Visvesvaraya Jala Nigama Ltd|132|Other Capital Expenses|4701-80-190-5-01|Other Capital Expenses|V|Data|Object-Head|60000.00|||
+37|07|21|4701|Capital Outlay on Medium Irrigation|80||190||5|Visvesvaraya Jala Nigama Ltd|01|Land Acquisition Cost- Visvesvaraya Jala Nigama Ltd|133|Regional Imbalance Redressal Program|4701-80-190-5-01|Regional Imbalance Redressal Program|V|Data|Object-Head||||5000.00
+37|07|21|4701|Capital Outlay on Medium Irrigation|80||190||5|Visvesvaraya Jala Nigama Ltd|01|Land Acquisition Cost- Visvesvaraya Jala Nigama Ltd|145|Acquisition of Land|4701-80-190-5-01|Acquisition of Land|V|Data|Object-Head||60000.00|60000.00|55000.00
+37|07|21|4701|Capital Outlay on Medium Irrigation|80||190||5|Visvesvaraya Jala Nigama Ltd|01|Land Acquisition Cost- Visvesvaraya Jala Nigama Ltd||||HOA Total :|V|Total|Detailed-Head|60000.00|60000.00|60000.00|60000.00
+37|07|21|4701|Capital Outlay on Medium Irrigation|80||190||6|Cauvery Neeravari Nigam Limited-Irrigation works|01|Cauvery Neeravari Nigam Limited-Irrigation works|||4701-80-190-6-01|Cauvery Neeravari Nigam Limited-Irrigation works|V|Header|Detailed-Head||||
+37|07|21|4701|Capital Outlay on Medium Irrigation|80||190||6|Cauvery Neeravari Nigam Limited-Irrigation works|01|Cauvery Neeravari Nigam Limited-Irrigation works|132|Other Capital Expenses|4701-80-190-6-01|Other Capital Expenses|V|Data|Object-Head|200000.00|117000.00|127000.00|83300.00
+37|07|21|4701|Capital Outlay on Medium Irrigation|80||190||6|Cauvery Neeravari Nigam Limited-Irrigation works|01|Cauvery Neeravari Nigam Limited-Irrigation works|133|Regional Imbalance Redressal Program|4701-80-190-6-01|Regional Imbalance Redressal Program|V|Data|Object-Head||||10000.00
+37|07|21|4701|Capital Outlay on Medium Irrigation|80||190||6|Cauvery Neeravari Nigam Limited-Irrigation works|01|Cauvery Neeravari Nigam Limited-Irrigation works|240|Repayment of Borrowings|4701-80-190-6-01|Repayment of Borrowings|C|Data|Object-Head|82500.00|126325.58|126325.58|148825.58
+37|07|21|4701|Capital Outlay on Medium Irrigation|80||190||6|Cauvery Neeravari Nigam Limited-Irrigation works|01|Cauvery Neeravari Nigam Limited-Irrigation works|436|NABARD Works|4701-80-190-6-01|NABARD Works|V|Data|Object-Head|30000.00|20000.00|20000.00|30000.00
+37|07|21|4701|Capital Outlay on Medium Irrigation|80||190||6|Cauvery Neeravari Nigam Limited-Irrigation works|01|Cauvery Neeravari Nigam Limited-Irrigation works||||HOA Total :|V|Total|Detailed-Head|312500.00|263325.58|273325.58|272125.58
+37|07|21|4701|Capital Outlay on Medium Irrigation|80||190||6|Cauvery Neeravari Nigam Limited-Irrigation works|02|Land Acquisition Cost - Cauvery Neeravari Nigam Limited|||4701-80-190-6-02|Land Acquisition Cost - Cauvery Neeravari Nigam Limited|V|Header|Detailed-Head||||
+37|07|21|4701|Capital Outlay on Medium Irrigation|80||190||6|Cauvery Neeravari Nigam Limited-Irrigation works|02|Land Acquisition Cost - Cauvery Neeravari Nigam Limited|132|Other Capital Expenses|4701-80-190-6-02|Other Capital Expenses|V|Data|Object-Head|5000.00|||
+37|07|21|4701|Capital Outlay on Medium Irrigation|80||190||6|Cauvery Neeravari Nigam Limited-Irrigation works|02|Land Acquisition Cost - Cauvery Neeravari Nigam Limited|145|Acquisition of Land|4701-80-190-6-02|Acquisition of Land|V|Data|Object-Head||30000.00|20000.00|30000.00
+37|07|21|4701|Capital Outlay on Medium Irrigation|80||190||6|Cauvery Neeravari Nigam Limited-Irrigation works|02|Land Acquisition Cost - Cauvery Neeravari Nigam Limited||||HOA Total :|V|Total|Detailed-Head|5000.00|30000.00|20000.00|30000.00
+37|07|21|4701|Capital Outlay on Medium Irrigation|80||799|Central Mechanical Organisation - Debits|0||01|Central Mechanical Organisation - Debits|||4701-80-799-0-01|Central Mechanical Organisation - Debits|V|Header|Detailed-Head||||
+37|07|21|4701|Capital Outlay on Medium Irrigation|80||799|Central Mechanical Organisation - Debits|0||01|Central Mechanical Organisation - Debits|296|Stock|4701-80-799-0-01|Stock|V|Data|Object-Head||1.00|1.00|
+38|07|21|4701|Capital Outlay on Medium Irrigation|80||799|Central Mechanical Organisation - Debits|0||01|Central Mechanical Organisation - Debits|297|Miscellaneous Works Advances|4701-80-799-0-01|Miscellaneous Works Advances|V|Data|Object-Head||1.00|1.00|
+38|07|21|4701|Capital Outlay on Medium Irrigation|80||799|Central Mechanical Organisation - Debits|0||01|Central Mechanical Organisation - Debits|||4701-80-799-0-01|HOA Total :|V|Total|Detailed-Head|0.00|2.00|2.00|0.00
+38|07|21|4701|Capital Outlay on Medium Irrigation|80||799|Central Mechanical Organisation - Debits|0||02|Central Mechanical Organisation - Credits|||4701-80-799-0-02|Central Mechanical Organisation - Credits|V|Header|Detailed-Head||||
+38|07|21|4701|Capital Outlay on Medium Irrigation|80||799|Central Mechanical Organisation - Debits|0||02|Central Mechanical Organisation - Credits|296|Stock|4701-80-799-0-02|Stock|V|Data|Object-Head||-1.00|-1.00|
+38|07|21|4701|Capital Outlay on Medium Irrigation|80||799|Central Mechanical Organisation - Debits|0||02|Central Mechanical Organisation - Credits|297|Miscellaneous Works Advances|4701-80-799-0-02|Miscellaneous Works Advances|V|Data|Object-Head||-1.00|-1.00|
+38|07|21|4701|Capital Outlay on Medium Irrigation|80||799|Central Mechanical Organisation - Debits|0||02|Central Mechanical Organisation - Credits|||4701-80-799-0-02|HOA Total :|V|Total|Detailed-Head|0.00|-2.00|-2.00|0.00
+38|07|21|4701|Capital Outlay on Medium Irrigation|80||800|Other Expenditure|0||10|Karnataka Integrated and Sustainable Water Resources Management - EAP (IND-3836)|||4701-80-800-0-10|Karnataka Integrated and Sustainable Water Resources Management - EAP (IND-3836)|V|Header|Detailed-Head||||
+38|07|21|4701|Capital Outlay on Medium Irrigation|80||800|Other Expenditure|0||10|Karnataka Integrated and Sustainable Water Resources Management - EAP (IND-3836)|059|Other Expenses|4701-80-800-0-10|Other Expenses|V|Data|Object-Head|24600.00|||
+38|07|21|4701|Capital Outlay on Medium Irrigation|80||800|Other Expenditure|0||10|Karnataka Integrated and Sustainable Water Resources Management - EAP (IND-3836)|||4701-80-800-0-10|HOA Total :|V|Total|Detailed-Head|24600.00|0.00|0.00|0.00
+38|07|21|4701|Capital Outlay on Medium Irrigation|80||800|Other Expenditure|0||80|DAM Rehabilitation & Improvement Project - EAP (IND-9181)|||4701-80-800-0-80|DAM Rehabilitation & Improvement Project - EAP (IND-9181)|V|Header|Detailed-Head||||
+38|07|21|4701|Capital Outlay on Medium Irrigation|80||800|Other Expenditure|0||80|DAM Rehabilitation & Improvement Project - EAP (IND-9181)|059|Other Expenses|4701-80-800-0-80|Other Expenses|V|Data|Object-Head|10908.85|||
+38|07|21|4701|Capital Outlay on Medium Irrigation|80||800|Other Expenditure|0||80|DAM Rehabilitation & Improvement Project - EAP (IND-9181)|132|Other Capital Expenses|4701-80-800-0-80|Other Capital Expenses|V|Data|Object-Head||10000.00|10000.00|15000.00
+38|07|21|4701|Capital Outlay on Medium Irrigation|80||800|Other Expenditure|0||80|DAM Rehabilitation & Improvement Project - EAP (IND-9181)|||4701-80-800-0-80|HOA Total :|V|Total|Detailed-Head|10908.85|10000.00|10000.00|15000.00
+38|07|21|4701|Capital Outlay on Medium Irrigation|80||||||||||4701|4701 - Total :|V|Total|Major-Head|1640021.40|1757165.22|1757165.22|1755801.00
+39|07|21|4702|Capital Outlay on Minor Irrigation|00||800|Other Expenditure|8||90|Deduct Recovery of Capital Account|||4702-00-800-8-90|Deduct Recovery of Capital Account|V|Header|Detailed-Head||||
+39|07|21|4702|Capital Outlay on Minor Irrigation|00||800|Other Expenditure|8||90|Deduct Recovery of Capital Account|364|Deduct - Recoveries|4702-00-800-8-90|Deduct - Recoveries|V|Data|Object-Head|-0.94|||
+39|07|21|4702|Capital Outlay on Minor Irrigation|00||800|Other Expenditure|8||90|Deduct Recovery of Capital Account|||4702-00-800-8-90|HOA Total :|V|Total|Detailed-Head|-0.94|0.00|0.00|0.00
+39|07|21|4702|Capital Outlay on Minor Irrigation|00||||||||||4702|4702 - Total :|V|Total|Major-Head|-0.94|0.00|0.00|0.00
+40|07|21|4705|Capital Outlay on Command Area Development|00||||||||||4705|Capital Outlay on Command Area Development|V|Header|Major-Head||||
+40|07|21|4705|Capital Outlay on Command Area Development|00||111||0||01|CSS-Central Share-Modernisation of Command Area Development (MCAD)-SAMRIDHI|||4705-00-111-0-01|CSS-Central Share-Modernisation of Command Area Development (MCAD)-SAMRIDHI|V|Header|Detailed-Head||||
+40|07|21|4705|Capital Outlay on Command Area Development|00||111||0||01|CSS-Central Share-Modernisation of Command Area Development (MCAD)-SAMRIDHI|132|Other Capital Expenses|4705-00-111-0-01|Other Capital Expenses|V|Data|Object-Head||||30000.00
+40|07|21|4705|Capital Outlay on Command Area Development|00||111||0||01|CSS-Central Share-Modernisation of Command Area Development (MCAD)-SAMRIDHI|||4705-00-111-0-01|HOA Total :|V|Total|Detailed-Head|0.00|0.00|0.00|30000.00
+40|07|21|4705|Capital Outlay on Command Area Development|00||111||0||02|CSS-State Share-Modernisation of Command Area Development (MCAD)-SAMRIDHI|||4705-00-111-0-02|CSS-State Share-Modernisation of Command Area Development (MCAD)-SAMRIDHI|V|Header|Detailed-Head||||
+40|07|21|4705|Capital Outlay on Command Area Development|00||111||0||02|CSS-State Share-Modernisation of Command Area Development (MCAD)-SAMRIDHI|132|Other Capital Expenses|4705-00-111-0-02|Other Capital Expenses|V|Data|Object-Head||||20000.00
+40|07|21|4705|Capital Outlay on Command Area Development|00||111||0||02|CSS-State Share-Modernisation of Command Area Development (MCAD)-SAMRIDHI|||4705-00-111-0-02|HOA Total :|V|Total|Detailed-Head|0.00|0.00|0.00|20000.00
+40|07|21|4705|Capital Outlay on Command Area Development|00||800||0||01|CADA|||4705-00-800-0-01|CADA|V|Header|Detailed-Head||||
+40|07|21|4705|Capital Outlay on Command Area Development|00||800||0||01|CADA|132|Other Capital Expenses|4705-00-800-0-01|Other Capital Expenses|V|Data|Object-Head|7000.00|7000.00|7000.00|7000.00
+40|07|21|4705|Capital Outlay on Command Area Development|00||800||0||01|CADA|||4705-00-800-0-01|HOA Total :|V|Total|Detailed-Head|7000.00|7000.00|7000.00|7000.00
+40|07|21|4705|Capital Outlay on Command Area Development|00||800||0||90|Deduct - Receipts and Recoveries on Capital Account|||4705-00-800-0-90|Deduct - Receipts and Recoveries on Capital Account|V|Header|Detailed-Head||||
+40|07|21|4705|Capital Outlay on Command Area Development|00||800||0||90|Deduct - Receipts and Recoveries on Capital Account|364|Deduct - Recoveries|4705-00-800-0-90|Deduct - Recoveries|V|Data|Object-Head|-200.71|||
+40|07|21|4705|Capital Outlay on Command Area Development|00||800||0||90|Deduct - Receipts and Recoveries on Capital Account|||4705-00-800-0-90|HOA Total :|V|Total|Detailed-Head|-200.71|0.00|0.00|0.00
+40|07|21|4705|Capital Outlay on Command Area Development|00||||||||||4705|4705 - Total :|V|Total|Major-Head|6799.29|7000.00|7000.00|57000.00
+41|07|21|2702|Minor Irrigation|01|Surface Water|||||||||2702|Minor Irrigation|V|Header|Major-Head||||
+41|07|21|2702|Minor Irrigation|01|Surface Water|911|Deduct Recoveries of Over Payments|0||00||||2702-01-911-0-00|Deduct Recoveries of Over Payments|V|Header|Detailed-Head||||
+41|07|21|2702|Minor Irrigation|01|Surface Water|911|Deduct Recoveries of Over Payments|0||00||364|Deduct - Recoveries|2702-01-911-0-00|Deduct - Recoveries|V|Data|Object-Head|-0.03|||
+41|07|21|2702|Minor Irrigation|01|Surface Water|911|Deduct Recoveries of Over Payments|0||00||||2702-01-911-0-00|HOA Total :|V|Total|Detailed-Head|-0.03|0.00|0.00|0.00
+41|07|21|2702|Minor Irrigation|02|Ground Water|005|Investigation|0||15|Survey & Strengthening of Surface & Ground Water Organisation|||2702-02-005-0-15|Survey & Strengthening of Surface & Ground Water Organisation|V|Header|Detailed-Head||||
+41|07|21|2702|Minor Irrigation|02|Ground Water|005|Investigation|0||15|Survey & Strengthening of Surface & Ground Water Organisation|002|Basic Pay|2702-02-005-0-15|Basic Pay|V|Data|Object-Head|319.10|578.00|578.00|562.00
+41|07|21|2702|Minor Irrigation|02|Ground Water|005|Investigation|0||15|Survey & Strengthening of Surface & Ground Water Organisation|003|Basic Pay-Staff|2702-02-005-0-15|Basic Pay-Staff|V|Data|Object-Head|145.28|||
+41|07|21|2702|Minor Irrigation|02|Ground Water|005|Investigation|0||15|Survey & Strengthening of Surface & Ground Water Organisation|004|Interim Relief|2702-02-005-0-15|Interim Relief|V|Data|Object-Head|36.79|||
+41|07|21|2702|Minor Irrigation|02|Ground Water|005|Investigation|0||15|Survey & Strengthening of Surface & Ground Water Organisation|011|Dearness Allowance|2702-02-005-0-15|Dearness Allowance|V|Data|Object-Head|121.51|127.00|127.00|141.00
+41|07|21|2702|Minor Irrigation|02|Ground Water|005|Investigation|0||15|Survey & Strengthening of Surface & Ground Water Organisation|014|Other Allowance|2702-02-005-0-15|Other Allowance|V|Data|Object-Head|81.50|77.00|77.00|69.00
+41|07|21|2702|Minor Irrigation|02|Ground Water|005|Investigation|0||15|Survey & Strengthening of Surface & Ground Water Organisation|015|Subsidiary Expenses|2702-02-005-0-15|Subsidiary Expenses|V|Data|Object-Head|0.20|2.00|2.00|2.00
+41|07|21|2702|Minor Irrigation|02|Ground Water|005|Investigation|0||15|Survey & Strengthening of Surface & Ground Water Organisation|020|Medical Allowance|2702-02-005-0-15|Medical Allowance|V|Data|Object-Head|1.18|||
+41|07|21|2702|Minor Irrigation|02|Ground Water|005|Investigation|0||15|Survey & Strengthening of Surface & Ground Water Organisation|021|Reimbursement of Medical Expenses|2702-02-005-0-15|Reimbursement of Medical Expenses|V|Data|Object-Head|0.95|15.00|15.00|15.00
+41|07|21|2702|Minor Irrigation|02|Ground Water|005|Investigation|0||15|Survey & Strengthening of Surface & Ground Water Organisation|034|Contract/Outsource|2702-02-005-0-15|Contract/Outsource|V|Data|Object-Head|439.25|469.71|469.71|481.03
+41|07|21|2702|Minor Irrigation|02|Ground Water|005|Investigation|0||15|Survey & Strengthening of Surface & Ground Water Organisation|041|Travel Expenses|2702-02-005-0-15|Travel Expenses|V|Data|Object-Head|7.98|8.00|8.00|9.00
+41|07|21|2702|Minor Irrigation|02|Ground Water|005|Investigation|0||15|Survey & Strengthening of Surface & Ground Water Organisation|050|Office Expenses|2702-02-005-0-15|Office Expenses|V|Data|Object-Head|8.00|17.00|17.00|18.00
+41|07|21|2702|Minor Irrigation|02|Ground Water|005|Investigation|0||15|Survey & Strengthening of Surface & Ground Water Organisation|051|General Expenses|2702-02-005-0-15|General Expenses|V|Data|Object-Head|44.79|45.00|45.00|45.00
+41|07|21|2702|Minor Irrigation|02|Ground Water|005|Investigation|0||15|Survey & Strengthening of Surface & Ground Water Organisation|052|Telephone Charges|2702-02-005-0-15|Telephone Charges|V|Data|Object-Head|5.10|||
+41|07|21|2702|Minor Irrigation|02|Ground Water|005|Investigation|0||15|Survey & Strengthening of Surface & Ground Water Organisation|053|Purchase of Furniture and Fixture for Office|2702-02-005-0-15|Purchase of Furniture and Fixture for Office|V|Data|Object-Head|8.50|||
+41|07|21|2702|Minor Irrigation|02|Ground Water|005|Investigation|0||15|Survey & Strengthening of Surface & Ground Water Organisation|071|Building Expenses|2702-02-005-0-15|Building Expenses|V|Data|Object-Head|87.99|90.00|90.00|93.00
+41|07|21|2702|Minor Irrigation|02|Ground Water|005|Investigation|0||15|Survey & Strengthening of Surface & Ground Water Organisation|180|Machinery and Equipments|2702-02-005-0-15|Machinery and Equipments|V|Data|Object-Head|13.79|||
+41|07|21|2702|Minor Irrigation|02|Ground Water|005|Investigation|0||15|Survey & Strengthening of Surface & Ground Water Organisation|195|Transport Expenses|2702-02-005-0-15|Transport Expenses|V|Data|Object-Head|70.58|52.58|52.58|65.52
+41|07|21|2702|Minor Irrigation|02|Ground Water|005|Investigation|0||15|Survey & Strengthening of Surface & Ground Water Organisation|200|Maintenance Expenditure|2702-02-005-0-15|Maintenance Expenditure|V|Data|Object-Head|9.71|10.00|10.00|10.00
+41|07|21|2702|Minor Irrigation|02|Ground Water|005|Investigation|0||15|Survey & Strengthening of Surface & Ground Water Organisation|221|Materials and Supplies|2702-02-005-0-15|Materials and Supplies|V|Data|Object-Head||20.00|20.00|20.00
+42|07|21|2702|Minor Irrigation|02|Ground Water|005|Investigation|0||15|Survey & Strengthening of Surface & Ground Water Organisation|251|Pension & Retirement Benefits|2702-02-005-0-15|Pension & Retirement Benefits|V|Data|Object-Head||1.00|1.00|1.00
+42|07|21|2702|Minor Irrigation|02|Ground Water|005|Investigation|0||15|Survey & Strengthening of Surface & Ground Water Organisation||||HOA Total :|V|Total|Detailed-Head|1402.20|1512.29|1512.29|1531.55
+42|07|21|2702|Minor Irrigation|02|Ground Water|911|Deduct Recoveries of Over Payments|0||00||||2702-02-911-0-00|Deduct Recoveries of Over Payments|V|Header|Detailed-Head||||
+42|07|21|2702|Minor Irrigation|02|Ground Water|911|Deduct Recoveries of Over Payments|0||00||364|Deduct - Recoveries|2702-02-911-0-00|Deduct - Recoveries|V|Data|Object-Head|-0.01|||
+42|07|21|2702|Minor Irrigation|02|Ground Water|911|Deduct Recoveries of Over Payments|0||00|||||HOA Total :|V|Total|Detailed-Head|-0.01|0.00|0.00|0.00
+42|07|21|2702|Minor Irrigation|03|Maintenance and Repairs|101|Maintenance and Repairs|0||02|Maintenance of Minor Tanks and Irrigation Projects|||2702-03-101-0-02|Maintenance of Minor Tanks and Irrigation Projects|V|Header|Detailed-Head||||
+42|07|21|2702|Minor Irrigation|03|Maintenance and Repairs|101|Maintenance and Repairs|0||02|Maintenance of Minor Tanks and Irrigation Projects|057|Electricity Charges for Water Supply|2702-03-101-0-02|Electricity Charges for Water Supply|V|Data|Object-Head|10999.91|11500.00|11500.00|12500.00
+42|07|21|2702|Minor Irrigation|03|Maintenance and Repairs|101|Maintenance and Repairs|0||02|Maintenance of Minor Tanks and Irrigation Projects|200|Maintenance Expenditure|2702-03-101-0-02|Maintenance Expenditure|V|Data|Object-Head|7999.60|8500.00|8500.00|9500.00
+42|07|21|2702|Minor Irrigation|03|Maintenance and Repairs|101|Maintenance and Repairs|0||02|Maintenance of Minor Tanks and Irrigation Projects||||HOA Total :|V|Total|Detailed-Head|18999.51|20000.00|20000.00|22000.00
+42|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||01|Chief Engineer, Minor Irrigation|||2702-80-001-1-01|Chief Engineer, Minor Irrigation|V|Header|Detailed-Head||||
+42|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||01|Chief Engineer, Minor Irrigation|002|Basic Pay|2702-80-001-1-01|Basic Pay|V|Data|Object-Head|3569.12|9197.00|9197.00|9621.00
+42|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||01|Chief Engineer, Minor Irrigation|003|Basic Pay-Staff|2702-80-001-1-01|Basic Pay-Staff|V|Data|Object-Head|4045.00|||
+42|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||01|Chief Engineer, Minor Irrigation|004|Interim Relief|2702-80-001-1-01|Interim Relief|V|Data|Object-Head|435.70|||
+42|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||01|Chief Engineer, Minor Irrigation|011|Dearness Allowance|2702-80-001-1-01|Dearness Allowance|V|Data|Object-Head|1677.95|2024.00|2024.00|2406.00
+42|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||01|Chief Engineer, Minor Irrigation|014|Other Allowance|2702-80-001-1-01|Other Allowance|V|Data|Object-Head|1061.60|1286.00|1286.00|1350.00
+42|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||01|Chief Engineer, Minor Irrigation|020|Medical Allowance|2702-80-001-1-01|Medical Allowance|V|Data|Object-Head|32.12|||
+42|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||01|Chief Engineer, Minor Irrigation|021|Reimbursement of Medical Expenses|2702-80-001-1-01|Reimbursement of Medical Expenses|V|Data|Object-Head|60.56|84.00|84.00|83.00
+42|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||01|Chief Engineer, Minor Irrigation|033|Daily-wages|2702-80-001-1-01|Daily-wages|V|Data|Object-Head|1225.86|1102.32|1301.78|898.63
+42|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||01|Chief Engineer, Minor Irrigation|041|Travel Expenses|2702-80-001-1-01|Travel Expenses|V|Data|Object-Head|31.87|40.00|40.00|35.00
+42|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||01|Chief Engineer, Minor Irrigation|050|Office Expenses|2702-80-001-1-01|Office Expenses|V|Data|Object-Head||16.00|16.00|25.00
+42|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||01|Chief Engineer, Minor Irrigation|051|General Expenses|2702-80-001-1-01|General Expenses|V|Data|Object-Head|51.92|50.00|50.00|50.00
+42|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||01|Chief Engineer, Minor Irrigation|052|Telephone Charges|2702-80-001-1-01|Telephone Charges|V|Data|Object-Head|7.58|||
+43|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||01|Chief Engineer, Minor Irrigation|071|Building Expenses|2702-80-001-1-01|Building Expenses|V|Data|Object-Head|130.51|170.00|170.00|175.00
+43|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||01|Chief Engineer, Minor Irrigation|195|Transport Expenses|2702-80-001-1-01|Transport Expenses|V|Data|Object-Head|290.87|233.41|233.41|211.45
+43|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||01|Chief Engineer, Minor Irrigation|251|Pension & Retirement Benefits|2702-80-001-1-01|Pension & Retirement Benefits|V|Data|Object-Head|52.57|1.00|131.84|264.37
+43|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||01|Chief Engineer, Minor Irrigation||||HOA Total :|V|Total|Detailed-Head|12673.23|14203.73|14534.03|15119.45
+43|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||04|CSS-Central Share(100% GoI)-Rationalisation of Minor Irrigation Statistics (RMIS)||||2702-80-001-1-04|CSS-Central Share(100% GoI)-Rationalisation of Minor Irrigation Statistics (RMIS)|Header|Detailed-Head||||
+43|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||04|CSS-Central Share(100% GoI)-Rationalisation of Minor Irrigation Statistics (RMIS)|009|Transfer of Salary-Honorarium to SNA/SPARSH Salary Grants|2702-80-001-1-04|Transfer of Salary-Honorarium to SNA/SPARSH Salary Grants|V|Data|Object-Head|70.00|100.00||
+43|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||04|CSS-Central Share(100% GoI)-Rationalisation of Minor Irrigation Statistics (RMIS)|051|General Expenses|2702-80-001-1-04|General Expenses|V|Data|Object-Head||300.00|300.00|800.00
+43|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||04|CSS-Central Share(100% GoI)-Rationalisation of Minor Irrigation Statistics (RMIS)||||HOA Total :|V|Total|Detailed-Head|70.00|400.00|300.00|800.00
+43|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||05|CSS-Central Share(100% GoI)-Minor Irrigation Census-Salary Grants||||2702-80-001-1-05|CSS-Central Share(100% GoI)-Minor Irrigation Census-Salary Grants|Header|Detailed-Head||||
+43|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||05|CSS-Central Share(100% GoI)-Minor Irrigation Census-Salary Grants|009|Transfer of Salary-Honorarium to SNA/SPARSH Salary Grants|2702-80-001-1-05|Transfer of Salary-Honorarium to SNA/SPARSH Salary Grants|V|Data|Object-Head||||100.00
+43|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||05|CSS-Central Share(100% GoI)-Minor Irrigation Census-Salary Grants||||HOA Total :|V|Total|Detailed-Head|0.00|0.00|0.00|100.00
+43|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||50|Vacant Post Provision||||2702-80-001-1-50|Vacant Post Provision|Header|Detailed-Head||||
+43|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||50|Vacant Post Provision|014|Other Allowance|2702-80-001-1-50|Other Allowance|V|Data|Object-Head||2591.91|2261.61|3175.91
+43|07|21|2702|Minor Irrigation|80|General|001|Direction and Administration|1||50|Vacant Post Provision||||HOA Total :|V|Total|Detailed-Head|0.00|2591.91|2261.61|3175.91
+43|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation||||2702-80-196-1-01|Survey Works-Minor Irrigation|Header|Detailed-Head||||
+43|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|402|Bengaluru (Rural)|2702-80-196-1-01|Bengaluru (Rural)|V|Data|Object-Head|8.32|8.00|8.00|
+43|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|403|Chitradurga|2702-80-196-1-01|Chitradurga|V|Data|Object-Head|11.44|11.00|11.00|
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|404|Kolar|2702-80-196-1-01|Kolar|V|Data|Object-Head|6.24|6.24|6.24|
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|405|Shivamogga|2702-80-196-1-01|Shivamogga|V|Data|Object-Head|8.32|8.32|8.32|
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|406|Tumakuru|2702-80-196-1-01|Tumakuru|V|Data|Object-Head|15.60|15.60|15.60|
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|407|Mysuru|2702-80-196-1-01|Mysuru|V|Data|Object-Head|9.36|9.00|9.00|
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|408|Chikkamagaluru|2702-80-196-1-01|Chikkamagaluru|V|Data|Object-Head|11.44|11.44|11.44|
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|409|Dakshina Kannada|2702-80-196-1-01|Dakshina Kannada|V|Data|Object-Head|5.20|5.00|5.00|
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|410|Hassan|2702-80-196-1-01|Hassan|V|Data|Object-Head|5.20|5.00|5.00|
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|411|Kodagu|2702-80-196-1-01|Kodagu|V|Data|Object-Head|6.24|6.00|6.00|
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|412|Mandya|2702-80-196-1-01|Mandya|V|Data|Object-Head|11.44|11.44|11.44|
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|413|Belagavi|2702-80-196-1-01|Belagavi|V|Data|Object-Head|8.32|8.32|8.32|
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|414|Vijayapura|2702-80-196-1-01|Vijayapura|V|Data|Object-Head|12.48|12.48|12.48|
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|416|Uttara Kannada|2702-80-196-1-01|Uttara Kannada|V|Data|Object-Head|7.28|7.00|7.00|
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|417|Kalaburagi|2702-80-196-1-01|Kalaburagi|V|Data|Object-Head|7.28|7.28|7.28|
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|418|Ballari|2702-80-196-1-01|Ballari|V|Data|Object-Head|13.52|14.00|14.00|
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|419|Bidar|2702-80-196-1-01|Bidar|V|Data|Object-Head|5.20|5.20|5.20|
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|420|Raichur|2702-80-196-1-01|Raichur|V|Data|Object-Head|6.24|6.24|6.24|
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|421|Yadgiri|2702-80-196-1-01|Yadgiri|V|Data|Object-Head|2.08|2.08|2.08|
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|451|Davanagere|2702-80-196-1-01|Davanagere|V|Data|Object-Head|7.28|7.00|7.00|
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|452|Bengaluru South|2702-80-196-1-01|Bengaluru South|V|Data|Object-Head|45.76|45.76|45.76|
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|453|Chikkaballapura|2702-80-196-1-01|Chikkaballapura|V|Data|Object-Head|17.68|17.00|17.00|
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation|467|Vijayanagara|2702-80-196-1-01|Vijayanagara|V|Data|Object-Head|20.80|20.00|20.00|
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||01|Survey Works-Minor Irrigation||||HOA Total :|V|Total|Detailed-Head|252.72|249.40|249.40|0.00
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||02|Grants for Maintenence and Survey Works under Minor Irrigation|||2702-80-196-1-02|Grants for Maintenence and Survey Works under Minor Irrigation|V|Header|Detailed-Head||||
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||02|Grants for Maintenence and Survey Works under Minor Irrigation|401|Bengaluru (Urban)|2702-80-196-1-02|Bengaluru (Urban)|V|Data|Object-Head|55.04|56.00|56.00|56.00
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||02|Grants for Maintenence and Survey Works under Minor Irrigation|402|Bengaluru (Rural)|2702-80-196-1-02|Bengaluru (Rural)|V|Data|Object-Head|52.08|54.00|54.00|74.00
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||02|Grants for Maintenence and Survey Works under Minor Irrigation|403|Chitradurga|2702-80-196-1-02|Chitradurga|V|Data|Object-Head|48.84|48.84|48.84|59.00
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||02|Grants for Maintenence and Survey Works under Minor Irrigation|404|Kolar|2702-80-196-1-02|Kolar|V|Data|Object-Head|85.92|91.12|91.12|104.00
+44|07|21|2702|Minor Irrigation|80|General|196|Assistance to Zilla Panchayats|1||02|Grants for Maintenence and Survey Works under Minor Irrigation|405|Shivamogga|2702-80-196-1-02|Shivamogga|V|Data|Object-Head|177.84|183.00|183.00|184.00
+45|07|21|2702|Minor Irrigation|80|||||||||||Minor Irrigation||Header|Major-Head||||
+45|07|21|2702|Minor Irrigation|80||||||||406|Tumakuru||Tumakuru||Data|Object-Head|108.24|113.24|113.24|119.00
+45|07|21|2702|Minor Irrigation|80||||||||407|Mysuru||Mysuru||Data|Object-Head|42.60|42.60|42.60|59.00
+45|07|21|2702|Minor Irrigation|80||||||||408|Chikkamagaluru||Chikkamagaluru||Data|Object-Head|111.28|117.28|117.28|114.00
+45|07|21|2702|Minor Irrigation|80||||||||409|Dakshina Kannada||Dakshina Kannada||Data|Object-Head|72.36|73.00|73.00|69.00
+45|07|21|2702|Minor Irrigation|80||||||||410|Hassan||Hassan||Data|Object-Head|157.04|157.04|157.04|124.00
+45|07|21|2702|Minor Irrigation|80||||||||411|Kodagu||Kodagu||Data|Object-Head|66.04|71.00|71.00|84.00
+45|07|21|2702|Minor Irrigation|80||||||||412|Mandya||Mandya||Data|Object-Head|70.16|71.36|71.36|84.00
+45|07|21|2702|Minor Irrigation|80||||||||413|Belagavi||Belagavi||Data|Object-Head|73.04|73.04|73.04|64.00
+45|07|21|2702|Minor Irrigation|80||||||||414|Vijayapura||Vijayapura||Data|Object-Head|14.20|14.20|14.20|44.00
+45|07|21|2702|Minor Irrigation|80||||||||415|Dharwad||Dharwad||Data|Object-Head|37.52|39.12|39.12|59.00
+45|07|21|2702|Minor Irrigation|80||||||||416|Uttara Kannada||Uttara Kannada||Data|Object-Head|59.64|59.64|59.64|74.00
+45|07|21|2702|Minor Irrigation|80||||||||417|Kalaburagi||Kalaburagi||Data|Object-Head|33.36|33.36|33.36|50.00
+45|07|21|2702|Minor Irrigation|80||||||||418|Ballari||Ballari||Data|Object-Head|38.92|38.60|38.60|39.00
+45|07|21|2702|Minor Irrigation|80||||||||419|Bidar||Bidar||Data|Object-Head|24.80|24.80|24.80|40.00
+45|07|21|2702|Minor Irrigation|80||||||||420|Raichur||Raichur||Data|Object-Head|21.12|21.12|21.12|39.00
+45|07|21|2702|Minor Irrigation|80||||||||421|Yadgiri||Yadgiri||Data|Object-Head|26.88|26.88|26.88|44.00
+45|07|21|2702|Minor Irrigation|80||||||||451|Davanagere||Davanagere||Data|Object-Head|24.44|25.24|25.24|44.00
+45|07|21|2702|Minor Irrigation|80||||||||453|Chikkaballapura||Chikkaballapura||Data|Object-Head|106.52|114.00|114.00|124.00
+45|07|21|2702|Minor Irrigation|80||||||||456|Chamarajanagar||Chamarajanagar||Data|Object-Head|52.84|55.24|55.24|62.00
+45|07|21|2702|Minor Irrigation|80||||||||457|Udupi||Udupi||Data|Object-Head|59.52|59.60|59.60|74.00
+45|07|21|2702|Minor Irrigation|80||||||||461|Bagalkot||Bagalkot||Data|Object-Head|41.20|41.20|41.20|54.00
+45|07|21|2702|Minor Irrigation|80||||||||462|Gadag||Gadag||Data|Object-Head|41.72|41.72|41.72|64.00
+45|07|21|2702|Minor Irrigation|80||||||||463|Haveri||Haveri||Data|Object-Head|71.92|71.92|71.92|74.00
+45|07|21|2702|Minor Irrigation|80||||||||466|Koppal||Koppal||Data|Object-Head|39.32|39.20|39.20|54.00
+45|07|21|2702|Minor Irrigation|80||||||||467|Vijayanagara||Vijayanagara||Data|Object-Head|90.64|89.20|89.20|74.00
+45|07|21|2702|Minor Irrigation|80|||||||||||HOA Total :||Total|Detailed-Head|1905.04|1946.56|1946.56|2207.00
+45|07|21|2702|Minor Irrigation|80|General|799|Suspense|1|Debits|01|Debits|||2702-80-799-1-01|Debits||Header|Detailed-Head||||
+45|07|21|2702|Minor Irrigation|80|General|799|Suspense|1|Debits|01|Debits|292|Stock Debits||Stock Debits||Data|Object-Head||1.00|1.00|
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|1|Debits|01|Debits|293|M P W A Debits|2702-80-799-1-01|M P W A Debits||Data|Object-Head||1.00|1.00|
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|1|Debits|01|Debits|||2702-80-799-1-01|HOA Total :||Total|Detailed-Head|0.00|2.00|2.00|0.00
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|1|Debits|02|Credits|||2702-80-799-1-02|Credits||Header|Detailed-Head||||
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|1|Debits|02|Credits|294|Stock Credits|2702-80-799-1-02|Stock Credits||Data|Object-Head||-1.00|-1.00|
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|1|Debits|02|Credits|295|M P W A Credits|2702-80-799-1-02|M P W A Credits||Data|Object-Head||-1.00|-1.00|
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|1|Debits|02|Credits|||2702-80-799-1-02|HOA Total :||Total|Detailed-Head|0.00|-2.00|-2.00|0.00
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|2|Debits|01|Debits|||2702-80-799-2-01|Debits||Header|Detailed-Head||||
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|2|Debits|01|Debits|292|Stock Debits|2702-80-799-2-01|Stock Debits||Data|Object-Head||1.00|1.00|
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|2|Debits|01|Debits|293|M P W A Debits|2702-80-799-2-01|M P W A Debits||Data|Object-Head||1.00|1.00|
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|2|Debits|01|Debits|||2702-80-799-2-01|HOA Total :||Total|Detailed-Head|0.00|2.00|2.00|0.00
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|2|Debits|02|Credits|||2702-80-799-2-02|Credits||Header|Detailed-Head||||
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|2|Debits|02|Credits|294|Stock Credits|2702-80-799-2-02|Stock Credits||Data|Object-Head||-1.00|-1.00|
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|2|Debits|02|Credits|295|M P W A Credits|2702-80-799-2-02|M P W A Credits||Data|Object-Head||-1.00|-1.00|
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|2|Debits|02|Credits|||2702-80-799-2-02|HOA Total :||Total|Detailed-Head|0.00|-2.00|-2.00|0.00
+46|07|21|2702|Minor Irrigation|80|General|911|Deduct-Recovery of Overpayments|0||00|Deduct-Recovery of Overpayments|||2702-80-911-0-00|Deduct-Recovery of Overpayments||Header|Detailed-Head||||
+46|07|21|2702|Minor Irrigation|80|General|911|Deduct-Recovery of Overpayments|0||00|Deduct-Recovery of Overpayments|364|Deduct - Recoveries|2702-80-911-0-00|Deduct - Recoveries||Data|Object-Head|-11.91|||
+46|07|21|2702|Minor Irrigation|80|General|911|Deduct-Recovery of Overpayments|0||00|Deduct-Recovery of Overpayments|||2702-80-911-0-00|HOA Total :||Total|Detailed-Head|-11.91|0.00|0.00|0.00
+46|07|21|2702|Minor Irrigation|80|General|911|Deduct-Recovery of Overpayments|0||01|Deduct-Recovery of Overpayments|||2702-80-911-0-01|Deduct-Recovery of Overpayments||Header|Detailed-Head||||
+46|07|21|2702|Minor Irrigation|80|General|911|Deduct-Recovery of Overpayments|0||01|Deduct-Recovery of Overpayments|364|Deduct - Recoveries|2702-80-911-0-01|Deduct - Recoveries||Data|Object-Head|-3.24|||
+46|07|21|2702|Minor Irrigation|80|General|911|Deduct-Recovery of Overpayments|0||01|Deduct-Recovery of Overpayments|||2702-80-911-0-01|HOA Total :||Total|Detailed-Head|-3.24|0.00|0.00|0.00
+47|07|21|2702|Minor Irrigation|80|General|911|Deduct-Recovery of Overpayments|0||02|Deduct Recoveries of Overpayment of Previous Years|||2702-80-911-0-02|Deduct Recoveries of Overpayment of Previous Years||Header|Detailed-Head||||
+47|07|21|2702|Minor Irrigation|80|General|911|Deduct-Recovery of Overpayments|0||02|Deduct Recoveries of Overpayment of Previous Years|364|Deduct - Recoveries|2702-80-911-0-02|Deduct - Recoveries||Data|Object-Head|-31.75|||
+47|07|21|2702|Minor Irrigation|80|General|911|Deduct-Recovery of Overpayments|0||02|Deduct Recoveries of Overpayment of Previous Years|||2702-80-911-0-02|HOA Total :||Total|Detailed-Head|-31.75|0.00|0.00|0.00
+47|07|21|2702|Minor Irrigation|80|General|911|Deduct-Recovery of Overpayments|0||04|Deduct Recovery of Over Payment of Previous years-ZP|||2702-80-911-0-04|Deduct Recovery of Over Payment of Previous years-ZP||Header|Detailed-Head||||
+47|07|21|2702|Minor Irrigation|80|General|911|Deduct-Recovery of Overpayments|0||04|Deduct Recovery of Over Payment of Previous years-ZP|261|Inter Account Transfers|2702-80-911-0-04|Inter Account Transfers||Data|Object-Head||-1010.60|-1010.60|-2035.67
+47|07|21|2702|Minor Irrigation|80|General|911|Deduct-Recovery of Overpayments|0||04|Deduct Recovery of Over Payment of Previous years-ZP|||2702-80-911-0-04|HOA Total :||Total|Detailed-Head|0.00|-1010.60|-1010.60|-2035.67
+47|07|21|2702|Minor Irrigation|80|General|||||||||2702|2702 - Total :||Total|Major-Head|35255.76|39893.29|39793.29|42898.24
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||||||||||4702|Capital Outlay on Minor Irrigation||Header|Major-Head||||
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||0||10|Unspent SCSP-TSP Amount as per the SCSP-TSPACT 2013|||4702-00-101-0-10|Unspent SCSP-TSP Amount as per the SCSP-TSPACT 2013||Header|Detailed-Head||||
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||0||10|Unspent SCSP-TSP Amount as per the SCSP-TSPACT 2013|422|Schedule Caste Sub Plan|4702-00-101-0-10|Schedule Caste Sub Plan||Data|Object-Head|50.35|0.09|0.09|1.76
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||0||10|Unspent SCSP-TSP Amount as per the SCSP-TSPACT 2013|423|Tribal Sub Plan|4702-00-101-0-10|Tribal Sub Plan||Data|Object-Head||0.78|0.78|328.56
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||0||10|Unspent SCSP-TSP Amount as per the SCSP-TSPACT 2013|||4702-00-101-0-10|HOA Total :||Total|Detailed-Head|50.35|0.87|0.87|330.32
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||0||90|Deduct Refunds|||4702-00-101-0-90|Deduct Refunds||Header|Detailed-Head||||
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||0||90|Deduct Refunds|364|Deduct - Recoveries|4702-00-101-0-90|Deduct - Recoveries||Data|Object-Head|-3.94|||
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||0||90|Deduct Refunds|||4702-00-101-0-90|HOA Total :||Total|Detailed-Head|-3.94|0.00|0.00|0.00
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||02|Construction of New Tanks,Pick ups etc|||4702-00-101-1-02|Construction of New Tanks,Pick ups etc||Header|Detailed-Head||||
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||02|Construction of New Tanks,Pick ups etc|132|Other Capital Expenses|4702-00-101-1-02|Other Capital Expenses||Data|Object-Head||||4500.00
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||02|Construction of New Tanks,Pick ups etc|139|Major Works|4702-00-101-1-02|Major Works||Data|Object-Head|1995.85|4500.00|4500.00|
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||02|Construction of New Tanks,Pick ups etc|||4702-00-101-1-02|HOA Total :||Total|Detailed-Head|1995.85|4500.00|4500.00|4500.00
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||07|Modernisation of Tanks|||4702-00-101-1-07|Modernisation of Tanks||Header|Detailed-Head||||
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||07|Modernisation of Tanks|132|Other Capital Expenses|4702-00-101-1-07|Other Capital Expenses||Data|Object-Head||||13000.00
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||07|Modernisation of Tanks|139|Major Works|4702-00-101-1-07|Major Works||Data|Object-Head|30992.88|13000.00|14000.00|
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||07|Modernisation of Tanks|436|NABARD Works|4702-00-101-1-07|NABARD Works||Data|Object-Head|5823.27|5220.00|4860.00|
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||07|Modernisation of Tanks|||4702-00-101-1-07|HOA Total :||Total|Detailed-Head|36816.15|18220.00|18860.00|13000.00
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||16|Tank Development Authority|||4702-00-101-1-16|Tank Development Authority||Header|Detailed-Head||||
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||16|Tank Development Authority|132|Other Capital Expenses|4702-00-101-1-16|Other Capital Expenses||Data|Object-Head||1.00|1.00|1.00
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||16|Tank Development Authority|||4702-00-101-1-16|HOA Total :||Total|Detailed-Head|0.00|1.00|1.00|1.00
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||17|CSS-Central Share-HKKP-Repair Restoration and Renovation of Water Bodies|||4702-00-101-1-17|CSS-Central Share-HKKP-Repair Restoration and Renovation of Water Bodies||Header|Detailed-Head||||
+48|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||17|CSS-Central Share-HKKP-Repair Restoration and Renovation of Water Bodies|132|Other Capital Expenses|4702-00-101-1-17|Other Capital Expenses||Data|Object-Head||||33500.00
+49|07|21|4702|Capital Outlay on Minor Irrigation|00||||||||||4702|Capital Outlay on Minor Irrigation||Header|Major-Head||||
+49|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||17|CSS-Central Share-HKKP-Repair Restoration and Renovation of Water Bodies|139|Major Works|4702-00-101-1-17|Major Works||Data|Object-Head||33500.00|33500.00|
+49|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||17|CSS-Central Share-HKKP-Repair Restoration and Renovation of Water Bodies|||4702-00-101-1-17|HOA Total :||Total|Detailed-Head|0.00|33500.00|33500.00|33500.00
+49|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||18|CSS-State Share-HKKP-Repair Restoration and Renovation of Water Bodies|||4702-00-101-1-18|CSS-State Share-HKKP-Repair Restoration and Renovation of Water Bodies||Header|Detailed-Head||||
+49|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||18|CSS-State Share-HKKP-Repair Restoration and Renovation of Water Bodies|132|Other Capital Expenses|4702-00-101-1-18|Other Capital Expenses||Data|Object-Head||||23000.00
+49|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||18|CSS-State Share-HKKP-Repair Restoration and Renovation of Water Bodies|139|Major Works|4702-00-101-1-18|Major Works||Data|Object-Head||23000.00|8000.00|
+49|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||18|CSS-State Share-HKKP-Repair Restoration and Renovation of Water Bodies|||4702-00-101-1-18|HOA Total :||Total|Detailed-Head|0.00|23000.00|8000.00|23000.00
+49|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||19|CSS-Central Share-HKKP-Surface Minor Irrigation (Barrages, Pick-ups and other works)|||4702-00-101-1-19|CSS-Central Share-HKKP-Surface Minor Irrigation (Barrages, Pick-ups and other works)||Header|Detailed-Head||||
+49|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||19|CSS-Central Share-HKKP-Surface Minor Irrigation (Barrages, Pick-ups and other works)|132|Other Capital Expenses|4702-00-101-1-19|Other Capital Expenses||Data|Object-Head||||34500.00
+49|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||19|CSS-Central Share-HKKP-Surface Minor Irrigation (Barrages, Pick-ups and other works)|139|Major Works|4702-00-101-1-19|Major Works||Data|Object-Head|3750.00|34500.00|34500.00|
+49|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||19|CSS-Central Share-HKKP-Surface Minor Irrigation (Barrages, Pick-ups and other works)|||4702-00-101-1-19|HOA Total :||Total|Detailed-Head|3750.00|34500.00|34500.00|34500.00
+49|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||20|CSS-State Share-HKKP-Surface Minor Irrigation (Barrages, Pick-ups and other works)|||4702-00-101-1-20|CSS-State Share-HKKP-Surface Minor Irrigation (Barrages, Pick-ups and other works)||Header|Detailed-Head||||
+49|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||20|CSS-State Share-HKKP-Surface Minor Irrigation (Barrages, Pick-ups and other works)|132|Other Capital Expenses|4702-00-101-1-20|Other Capital Expenses||Data|Object-Head||||23000.00
+49|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||20|CSS-State Share-HKKP-Surface Minor Irrigation (Barrages, Pick-ups and other works)|139|Major Works|4702-00-101-1-20|Major Works||Data|Object-Head|2500.00|23000.00|23000.00|
+49|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||20|CSS-State Share-HKKP-Surface Minor Irrigation (Barrages, Pick-ups and other works)|||4702-00-101-1-20|HOA Total :||Total|Detailed-Head|2500.00|23000.00|23000.00|23000.00
+49|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||90|Deduct-Receipts and Recoveries on Capital Account|||4702-00-101-1-90|Deduct-Receipts and Recoveries on Capital Account||Header|Detailed-Head||||
+49|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||90|Deduct-Receipts and Recoveries on Capital Account|364|Deduct - Recoveries|4702-00-101-1-90|Deduct - Recoveries||Data|Object-Head|-0.96|||
+49|07|21|4702|Capital Outlay on Minor Irrigation|00||101||1||90|Deduct-Receipts and Recoveries on Capital Account|||4702-00-101-1-90|HOA Total :||Total|Detailed-Head|-0.96|0.00|0.00|0.00
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||3|Lift Irrigation Schemes|01|Lift Irrigation Schemes|||4702-00-101-3-01|Lift Irrigation Schemes|V|Header|Detailed-Head||||
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||3|Lift Irrigation Schemes|01|Lift Irrigation Schemes|132|Other Capital Expenses|4702-00-101-3-01|Other Capital Expenses|V|Data|Object-Head||||65000.00
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||3|Lift Irrigation Schemes|01|Lift Irrigation Schemes|139|Major Works|4702-00-101-3-01|Major Works|V|Data|Object-Head|80249.81|65000.00|78000.00|
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||3|Lift Irrigation Schemes|01|Lift Irrigation Schemes|436|NABARD Works|4702-00-101-3-01|NABARD Works|V|Data|Object-Head|176.70|180.00|540.00|
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||3|Lift Irrigation Schemes|01|Lift Irrigation Schemes|||4702-00-101-3-01|HOA Total :|V|Total|Detailed-Head|80426.51|65180.00|78540.00|65000.00
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||3|Lift Irrigation Schemes|90|Deduct Recoveries|||4702-00-101-3-90|Deduct Recoveries|V|Header|Detailed-Head||||
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||3|Lift Irrigation Schemes|90|Deduct Recoveries|364|Deduct - Recoveries|4702-00-101-3-90|Deduct - Recoveries|V|Data|Object-Head|-3.46|||
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||3|Lift Irrigation Schemes|90|Deduct Recoveries|||4702-00-101-3-90|HOA Total :|V|Total|Detailed-Head|-3.46|0.00|0.00|0.00
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||5|Construction of Barrages|01|Construction of Barrages|||4702-00-101-5-01|Construction of Barrages|V|Header|Detailed-Head||||
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||5|Construction of Barrages|01|Construction of Barrages|132|Other Capital Expenses|4702-00-101-5-01|Other Capital Expenses|V|Data|Object-Head||||12000.00
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||5|Construction of Barrages|01|Construction of Barrages|139|Major Works|4702-00-101-5-01|Major Works|V|Data|Object-Head|45498.42|12000.00|13000.00|
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||5|Construction of Barrages|01|Construction of Barrages|436|NABARD Works|4702-00-101-5-01|NABARD Works|V|Data|Object-Head|3999.76|3600.00|3600.00|8000.00
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||5|Construction of Barrages|01|Construction of Barrages|||4702-00-101-5-01|HOA Total :|V|Total|Detailed-Head|49498.18|15600.00|16600.00|20000.00
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||5|Construction of Barrages|02|Pashchima Vahini|||4702-00-101-5-02|Pashchima Vahini|V|Header|Detailed-Head||||
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||5|Construction of Barrages|02|Pashchima Vahini|132|Other Capital Expenses|4702-00-101-5-02|Other Capital Expenses|V|Data|Object-Head||||10000.00
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||5|Construction of Barrages|02|Pashchima Vahini|139|Major Works|4702-00-101-5-02|Major Works|V|Data|Object-Head|10000.00|10000.00|10000.00|
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||5|Construction of Barrages|02|Pashchima Vahini|||4702-00-101-5-02|HOA Total :|V|Total|Detailed-Head|10000.00|10000.00|10000.00|10000.00
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||5|Construction of Barrages|90|Deduct-Reciepts & Recoveries on Capital Account|||4702-00-101-5-90|Deduct-Reciepts & Recoveries on Capital Account|V|Header|Detailed-Head||||
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||5|Construction of Barrages|90|Deduct-Reciepts & Recoveries on Capital Account|364|Deduct - Recoveries|4702-00-101-5-90|Deduct - Recoveries|V|Data|Object-Head|-2.28|||
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||5|Construction of Barrages|90|Deduct-Reciepts & Recoveries on Capital Account|||4702-00-101-5-90|HOA Total :|V|Total|Detailed-Head|-2.28|0.00|0.00|0.00
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||9|Deduct Recoveries|90|Deduct Recoveries|||4702-00-101-9-90|Deduct Recoveries|V|Header|Detailed-Head||||
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||9|Deduct Recoveries|90|Deduct Recoveries|364|Deduct - Recoveries|4702-00-101-9-90|Deduct - Recoveries|V|Data|Object-Head|-0.07|||
+50|07|21|4702|Capital Outlay on Minor Irrigation|00||101||9|Deduct Recoveries|90|Deduct Recoveries|||4702-00-101-9-90|HOA Total :|V|Total|Detailed-Head|-0.07|0.00|0.00|0.00
+51|07|21|4702|Capital Outlay on Minor Irrigation|00||102|Deduct Recovery of Capital Account|1|Deduct Recovery of Capital Account|90|Deduct Recovery of Capital Account|||4702-00-102-1-90|Deduct Recovery of Capital Account|V|Header|Detailed-Head||||
+51|07|21|4702|Capital Outlay on Minor Irrigation|00||102|Deduct Recovery of Capital Account|1|Deduct Recovery of Capital Account|90|Deduct Recovery of Capital Account|364|Deduct - Recoveries|4702-00-102-1-90|Deduct - Recoveries|V|Data|Object-Head|-0.02|||
+51|07|21|4702|Capital Outlay on Minor Irrigation|00||102|Deduct Recovery of Capital Account|1|Deduct Recovery of Capital Account|90|Deduct Recovery of Capital Account|||4702-00-102-1-90|HOA Total :|V|Total|Detailed-Head|-0.02|0.00|0.00|0.00
+51|07|21|4702|Capital Outlay on Minor Irrigation|00||789|Development Action Plan for Scheduled Castes under Minor Irrigation|0|Development Action Plan for Scheduled Castes under Minor Irrigation|01|Development Action Plan for Scheduled Castes under Minor Irrigation|||4702-00-789-0-01|Development Action Plan for Scheduled Castes under Minor Irrigation|V|Header|Detailed-Head||||
+51|07|21|4702|Capital Outlay on Minor Irrigation|00||789|Development Action Plan for Scheduled Castes under Minor Irrigation|0|Development Action Plan for Scheduled Castes under Minor Irrigation|01|Development Action Plan for Scheduled Castes under Minor Irrigation|422|Schedule Caste Sub Plan|4702-00-789-0-01|Schedule Caste Sub Plan|V|Data|Object-Head|29997.36|35000.00|35000.00|35000.00
+51|07|21|4702|Capital Outlay on Minor Irrigation|00||789|Development Action Plan for Scheduled Castes under Minor Irrigation|0|Development Action Plan for Scheduled Castes under Minor Irrigation|01|Development Action Plan for Scheduled Castes under Minor Irrigation|||4702-00-789-0-01|HOA Total :|V|Total|Detailed-Head|29997.36|35000.00|35000.00|35000.00
+51|07|21|4702|Capital Outlay on Minor Irrigation|00||796|Development Action Plan for Scheduled Tribes under Minor Irrigation|0|Development Action Plan for Scheduled Tribes under Minor Irrigation|01|Development Action Plan for Scheduled Tribes under Minor Irrigation|||4702-00-796-0-01|Development Action Plan for Scheduled Tribes under Minor Irrigation|V|Header|Detailed-Head||||
+51|07|21|4702|Capital Outlay on Minor Irrigation|00||796|Development Action Plan for Scheduled Tribes under Minor Irrigation|0|Development Action Plan for Scheduled Tribes under Minor Irrigation|01|Development Action Plan for Scheduled Tribes under Minor Irrigation|423|Tribal Sub Plan|4702-00-796-0-01|Tribal Sub Plan|V|Data|Object-Head|11517.16|17010.00|17010.00|17010.00
+51|07|21|4702|Capital Outlay on Minor Irrigation|00||796|Development Action Plan for Scheduled Tribes under Minor Irrigation|0|Development Action Plan for Scheduled Tribes under Minor Irrigation|01|Development Action Plan for Scheduled Tribes under Minor Irrigation|||4702-00-796-0-01|HOA Total :|V|Total|Detailed-Head|11517.16|17010.00|17010.00|17010.00
+51|07|21|4702|Capital Outlay on Minor Irrigation|00||800|Land Acquisition Charges & Settlement of Claims|0|Land Acquisition Charges & Settlement of Claims|01|Land Acquisition Charges & Settlement of Claims|||4702-00-800-0-01|Land Acquisition Charges & Settlement of Claims|V|Header|Detailed-Head||||
+51|07|21|4702|Capital Outlay on Minor Irrigation|00||800|Land Acquisition Charges & Settlement of Claims|0|Land Acquisition Charges & Settlement of Claims|01|Land Acquisition Charges & Settlement of Claims|132|Other Capital Expenses|4702-00-800-0-01|Other Capital Expenses|V|Data|Object-Head|10000.00|||
+51|07|21|4702|Capital Outlay on Minor Irrigation|00||800|Land Acquisition Charges & Settlement of Claims|0|Land Acquisition Charges & Settlement of Claims|01|Land Acquisition Charges & Settlement of Claims|145|Acquisition of Land|4702-00-800-0-01|Acquisition of Land|V|Data|Object-Head||10000.00|10000.00|10000.00
+51|07|21|4702|Capital Outlay on Minor Irrigation|00||800|Land Acquisition Charges & Settlement of Claims|0|Land Acquisition Charges & Settlement of Claims|01|Land Acquisition Charges & Settlement of Claims|||4702-00-800-0-01|HOA Total :|V|Total|Detailed-Head|10000.00|10000.00|10000.00|10000.00
+51|07|21|4702|Capital Outlay on Minor Irrigation|00||||||||||4702|4702 - Total :|V|Total|Major-Head|236540.83|289511.87|289511.87|288841.32
+52|07|21|4711|Capital Outlay on Flood Control Projects|01||103||1|Other Flood Control Works|00|Other Flood Control Works|||4711-01-103-1-00|Other Flood Control Works|V|Header|Detailed-Head||||
+52|07|21|4711|Capital Outlay on Flood Control Projects|01||103||1|Other Flood Control Works|00|Other Flood Control Works|132|Other Capital Expenses|4711-01-103-1-00|Other Capital Expenses|V|Data|Object-Head||||5000.00
+52|07|21|4711|Capital Outlay on Flood Control Projects|01||103||1|Other Flood Control Works|00|Other Flood Control Works|139|Major Works|4711-01-103-1-00|Major Works|V|Data|Object-Head||5000.00|5000.00|
+52|07|21|4711|Capital Outlay on Flood Control Projects|01||103||1|Other Flood Control Works|00|Other Flood Control Works|140|Minor Works|4711-01-103-1-00|Minor Works|V|Data|Object-Head|5999.53|||
+52|07|21|4711|Capital Outlay on Flood Control Projects|01||103||1|Other Flood Control Works|00|Other Flood Control Works||||HOA Total :|V|Total|Detailed-Head|5999.53|5000.00|5000.00|5000.00
+52|07|21|4711|Capital Outlay on Flood Control Projects|01||||||||||4711|4711 - Total :|V|Total|Major-Head|5999.53|5000.00|5000.00|5000.00
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||||||||||2045|Other Taxes & Duties on Commodities and Services|V|Header|Major-Head||||
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|||2045-00-103-0-01|Electrical Inspectorate|V|Header|Detailed-Head||||
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|002|Basic Pay|2045-00-103-0-01|Basic Pay|V|Data|Object-Head|1508.00|2342.00|2342.00|2457.00
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|003|Basic Pay-Staff|2045-00-103-0-01|Basic Pay-Staff|V|Data|Object-Head|422.64|||
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|004|Interim Relief|2045-00-103-0-01|Interim Relief|V|Data|Object-Head|117.95|||
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|011|Dearness Allowance|2045-00-103-0-01|Dearness Allowance|V|Data|Object-Head|428.73|516.00|516.00|615.00
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|014|Other Allowance|2045-00-103-0-01|Other Allowance|V|Data|Object-Head|318.03|383.00|383.00|397.00
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|020|Medical Allowance|2045-00-103-0-01|Medical Allowance|V|Data|Object-Head|3.41|||
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|021|Reimbursement of Medical Expenses|2045-00-103-0-01|Reimbursement of Medical Expenses|V|Data|Object-Head|3.67|17.00|17.00|17.00
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|034|Contract/Outsource|2045-00-103-0-01|Contract/Outsource|V|Data|Object-Head|111.86|137.60|137.60|151.07
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|037|Payment on Service Contract|2045-00-103-0-01|Payment on Service Contract|V|Data|Object-Head||3.80|3.80|3.80
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|041|Travel Expenses|2045-00-103-0-01|Travel Expenses|V|Data|Object-Head|10.91|10.00|10.00|10.00
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|050|Office Expenses|2045-00-103-0-01|Office Expenses|V|Data|Object-Head||100.00|100.00|100.00
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|051|General Expenses|2045-00-103-0-01|General Expenses|V|Data|Object-Head|115.39|3.00|3.00|3.00
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|052|Telephone Charges|2045-00-103-0-01|Telephone Charges|V|Data|Object-Head|2.08|||
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|071|Building Expenses|2045-00-103-0-01|Building Expenses|V|Data|Object-Head|227.25|311.00|311.00|320.00
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|195|Transport Expenses|2045-00-103-0-01|Transport Expenses|V|Data|Object-Head|335.19|452.58|452.58|444.73
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|200|Maintenance Expenditure|2045-00-103-0-01|Maintenance Expenditure|V|Data|Object-Head||15.00|15.00|7.00
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate|433|Examination Expenses|2045-00-103-0-01|Examination Expenses|V|Data|Object-Head||5.00|5.00|2.00
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||103||0||01|Electrical Inspectorate||||HOA Total :|V|Total|Detailed-Head|3605.11|4295.98|4295.98|4527.60
+53|07|24|2045|Other Taxes & Duties on Commodities and Services|00||||||||||2045|2045 - Total :|V|Total|Major-Head|3605.11|4295.98|4295.98|4527.60
+54|07|24|2801|Power|80|General|||||||||2801|Power|V|Header|Major-Head||||
+54|07|24|2801|Power|80|General|001||0||01|Vacant Post Provision|||2801-80-001-0-01|Vacant Post Provision|V|Header|Detailed-Head||||
+54|07|24|2801|Power|80|General|001||0||01|Vacant Post Provision|014|Other Allowance|2801-80-001-0-01|Other Allowance|V|Data|Object-Head||722.38|722.38|886.38
+54|07|24|2801|Power|80|General|001||0||01|Vacant Post Provision||||HOA Total :|V|Total|Detailed-Head|0.00|722.38|722.38|886.38
+54|07|24|2801|Power|80|General|101||1||04|Subsidy for Supply of free Power to Irrigation Pumpsets|||2801-80-101-1-04|Subsidy for Supply of free Power to Irrigation Pumpsets|V|Header|Detailed-Head||||
+54|07|24|2801|Power|80|General|101||1||04|Subsidy for Supply of free Power to Irrigation Pumpsets|106|Subsidies|2801-80-101-1-04|Subsidies|V|Data|Object-Head|1512647.44|1361750.00|1361750.00|1668585.00
+54|07|24|2801|Power|80|General|101||1||04|Subsidy for Supply of free Power to Irrigation Pumpsets|422|Schedule Caste Sub Plan|2801-80-101-1-04|Schedule Caste Sub Plan|V|Data|Object-Head|183771.00|192277.00|192277.00|210261.00
+54|07|24|2801|Power|80|General|101||1||04|Subsidy for Supply of free Power to Irrigation Pumpsets|423|Tribal Sub Plan|2801-80-101-1-04|Tribal Sub Plan|V|Data|Object-Head|57945.00|48073.00|48073.00|50154.00
+54|07|24|2801|Power|80|General|101||1||04|Subsidy for Supply of free Power to Irrigation Pumpsets||||HOA Total :|V|Total|Detailed-Head|1754363.44|1602100.00|1602100.00|1929000.00
+54|07|24|2801|Power|80|General|101||1||16|Gruha Jyothi|||2801-80-101-1-16|Gruha Jyothi|V|Header|Detailed-Head||||
+54|07|24|2801|Power|80|General|101||1||16|Gruha Jyothi|106|Subsidies|2801-80-101-1-16|Subsidies|V|Data|Object-Head|670545.00|747400.00|747400.00|798639.00
+54|07|24|2801|Power|80|General|101||1||16|Gruha Jyothi|422|Schedule Caste Sub Plan|2801-80-101-1-16|Schedule Caste Sub Plan|V|Data|Object-Head|167890.00|181800.00|181800.00|190404.00
+54|07|24|2801|Power|80|General|101||1||16|Gruha Jyothi|423|Tribal Sub Plan|2801-80-101-1-16|Tribal Sub Plan|V|Data|Object-Head|77331.00|80800.00|80800.00|68757.00
+54|07|24|2801|Power|80|General|101||1||16|Gruha Jyothi||||HOA Total :|V|Total|Detailed-Head|915766.00|1010000.00|1010000.00|1057800.00
+54|07|24|2801|Power|80|General|||||||||2801|2801 - Total :|V|Total|Major-Head|2670129.44|2612822.38|2612822.38|2987686.38
+55|07|24|2810|New and Renewable Energy|00||||||||||2810|New and Renewable Energy|V|Header|Major-Head||||
+55|07|24|2810|New and Renewable Energy|00||102||0||01|PM-KUSUM: Component B|||2810-00-102-0-01|PM-KUSUM: Component B|V|Header|Detailed-Head||||
+55|07|24|2810|New and Renewable Energy|00||102||0||01|PM-KUSUM: Component B|106|Subsidies|2810-00-102-0-01|Subsidies|V|Data|Object-Head||1898.00|1898.00|1898.00
+55|07|24|2810|New and Renewable Energy|00||102||0||01|PM-KUSUM: Component B|422|Schedule Caste Sub Plan|2810-00-102-0-01|Schedule Caste Sub Plan|V|Data|Object-Head||428.00|428.00|428.00
+55|07|24|2810|New and Renewable Energy|00||102||0||01|PM-KUSUM: Component B|423|Tribal Sub Plan|2810-00-102-0-01|Tribal Sub Plan|V|Data|Object-Head||174.00|174.00|174.00
+55|07|24|2810|New and Renewable Energy|00||102||0||01|PM-KUSUM: Component B||||HOA Total :|V|Total|Detailed-Head|0.00|2500.00|2500.00|2500.00
+55|07|24|2810|New and Renewable Energy|00||||||||||2810|2810 - Total :|V|Total|Major-Head|0.00|2500.00|2500.00|2500.00
+56|07|24|4801|Capital Outlay on Power Projects|01||||||||||4801|Capital Outlay on Power Projects|V|Header|Major-Head||||
+56|07|24|4801|Capital Outlay on Power Projects|01||190||0||09|Investment in Power Utility|||4801-01-190-0-09|Investment in Power Utility|V|Header|Detailed-Head||||
+56|07|24|4801|Capital Outlay on Power Projects|01||190||0||09|Investment in Power Utility|211|Investment|4801-01-190-0-09|Investment|V|Data|Object-Head|43896.00|55540.00|55540.00|
+56|07|24|4801|Capital Outlay on Power Projects|01||190||0||09|Investment in Power Utility|422|Schedule Caste Sub Plan|4801-01-190-0-09|Schedule Caste Sub Plan|V|Data|Object-Head|10290.00|10290.00|10290.00|
+56|07|24|4801|Capital Outlay on Power Projects|01||190||0||09|Investment in Power Utility|423|Tribal Sub Plan|4801-01-190-0-09|Tribal Sub Plan|V|Data|Object-Head|4170.00|4170.00|4170.00|
+56|07|24|4801|Capital Outlay on Power Projects|01||190||0||09|Investment in Power Utility||||HOA Total :|V|Total|Detailed-Head|58356.00|70000.00|70000.00|0.00
+56|07|24|4801|Capital Outlay on Power Projects|01||||||||||4801|4801 - Total :|V|Total|Major-Head|58356.00|70000.00|70000.00|0.00
+57|07|24|6801|Loans for Power Projects|00||||||||||6801|Loans for Power Projects|V|Header|Major-Head||||
+57|07|24|6801|Loans for Power Projects|00||205||1||05|Bengaluru Smart Energy Efficient Power Distribution Project(ADB)-EAP (IND-4028)|||6801-00-205-1-05|Bengaluru Smart Energy Efficient Power Distribution Project(ADB)-EAP (IND-4028)|V|Header|Detailed-Head||||
+57|07|24|6801|Loans for Power Projects|00||205||1||05|Bengaluru Smart Energy Efficient Power Distribution Project(ADB)-EAP (IND-4028)|394|Loans|6801-00-205-1-05|Loans|V|Data|Object-Head|11677.00||1400.00|
+57|07|24|6801|Loans for Power Projects|00||205||1||05|Bengaluru Smart Energy Efficient Power Distribution Project(ADB)-EAP (IND-4028)||||HOA Total :|V|Total|Detailed-Head|11677.00|0.00|1400.00|0.00
+57|07|24|6801|Loans for Power Projects|00||||||||||6801|6801 - Total :|V|Total|Major-Head|11677.00|0.00|1400.00|0.00
+58|07|24|6810|Loans for New and Renewable Energy|00||||||||||6810|Loans for New and Renewable Energy|V|Header|Major-Head||||
+58|07|24|6810|Loans for New and Renewable Energy|00||800||0||01|Financial Support for Repayment of Power Purchase Dues|||6810-00-800-0-01|Financial Support for Repayment of Power Purchase Dues|V|Header|Detailed-Head||||
+58|07|24|6810|Loans for New and Renewable Energy|00||800||0||01|Financial Support for Repayment of Power Purchase Dues|240|Repayment of Borrowings|6810-00-800-0-01|Repayment of Borrowings|V|Data|Object-Head|400000.00|||
+58|07|24|6810|Loans for New and Renewable Energy|00||800||0||01|Financial Support for Repayment of Power Purchase Dues|||6810-00-800-0-01|HOA Total :|V|Total|Detailed-Head|400000.00|0.00|0.00|0.00
+58|07|24|6810|Loans for New and Renewable Energy|00||||||||||6810|6810 - Total :|V|Total|Major-Head|400000.00|0.00|0.00|0.00

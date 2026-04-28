@@ -1,0 +1,25 @@
+3|03|01|2401|Crop Husbandry|00|||||||||||Crop Husbandry|V|Header|Major-Head||||
+3|03|01|2401|Crop Husbandry|00||001||1||14|Secondary Agriculture Directorate|||2401-00-001-1-14|Secondary Agriculture Directorate|V|Header|Detailed-Head||||
+3|03|01|2401|Crop Husbandry|00||001||1||14|Secondary Agriculture Directorate|002|Basic Pay|2401-00-001-1-14|Basic Pay|V|Data|Object-Head|19.93|3.00|23.90|23.00
+3|03|01|2401|Crop Husbandry|00||001||1||14|Secondary Agriculture Directorate|004|Interim Relief|2401-00-001-1-14|Interim Relief|V|Data|Object-Head|2.41|||
+3|03|01|2401|Crop Husbandry|00||001||1||14|Secondary Agriculture Directorate|011|Dearness Allowance|2401-00-001-1-14|Dearness Allowance|V|Data|Object-Head|6.36|1.00|3.25|6.00
+3|03|01|2401|Crop Husbandry|00||001||1||14|Secondary Agriculture Directorate|014|Other Allowance|2401-00-001-1-14|Other Allowance|V|Data|Object-Head|5.01|1.00|5.29|5.00
+3|03|01|2401|Crop Husbandry|00||001||1||14|Secondary Agriculture Directorate|021|Reimbursement of Medical Expenses|2401-00-001-1-14|Reimbursement of Medical Expenses|V|Data|Object-Head||3.00|3.00|3.00
+3|03|01|2401|Crop Husbandry|00||001||1||14|Secondary Agriculture Directorate|034|Contract/Outsource|2401-00-001-1-14|Contract/Outsource|V|Data|Object-Head||3.22|3.22|3.32
+3|03|01|2401|Crop Husbandry|00||001||1||14|Secondary Agriculture Directorate|041|Travel Expenses|2401-00-001-1-14|Travel Expenses|V|Data|Object-Head|0.62|1.00|1.00|1.00
+3|03|01|2401|Crop Husbandry|00||001||1||14|Secondary Agriculture Directorate|050|Office Expenses|2401-00-001-1-14|Office Expenses|V|Data|Object-Head||5.00|5.00|3.00
+3|03|01|2401|Crop Husbandry|00||001||1||14|Secondary Agriculture Directorate|051|General Expenses|2401-00-001-1-14|General Expenses|V|Data|Object-Head|9.98|2.00|2.00|3.00
+3|03|01|2401|Crop Husbandry|00||001||1||14|Secondary Agriculture Directorate|052|Telephone Charges|2401-00-001-1-14|Telephone Charges|V|Data|Object-Head|0.20|||
+3|03|01|2401|Crop Husbandry|00||001||1||14|Secondary Agriculture Directorate|071|Building Expenses|2401-00-001-1-14|Building Expenses|V|Data|Object-Head|40.00|40.00|40.00|40.00
+3|03|01|2401|Crop Husbandry|00||001||1||14|Secondary Agriculture Directorate|106|Subsidies|2401-00-001-1-14|Subsidies|V|Data|Object-Head|75.76|75.90|75.90|2380.00
+3|03|01|2401|Crop Husbandry|00||001||1||14|Secondary Agriculture Directorate|195|Transport Expenses|2401-00-001-1-14|Transport Expenses|V|Data|Object-Head|5.00|5.00|5.00|1.00
+3|03|01|2401|Crop Husbandry|00||001||1||14|Secondary Agriculture Directorate|422|Schedule Caste Sub Plan|2401-00-001-1-14|Schedule Caste Sub Plan|V|Data|Object-Head|17.19|17.15|17.15|460.00
+3|03|01|2401|Crop Husbandry|00||001||1||14|Secondary Agriculture Directorate|423|Tribal Sub Plan|2401-00-001-1-14|Tribal Sub Plan|V|Data|Object-Head|6.99|6.95|6.95|160.00
+3|03|01|2401|Crop Husbandry|00||001||1||14|Secondary Agriculture Directorate|||||HOA Total :|V|Total|Detailed-Head|189.45|164.22|191.66|3088.32
+3|03|01|2401|Crop Husbandry|00||001||1||50|Vacant Post Provision|||2401-00-001-1-50|Vacant Post Provision|V|Header|Detailed-Head||||
+3|03|01|2401|Crop Husbandry|00||001||1||50|Vacant Post Provision|014|Other Allowance|2401-00-001-1-50|Other Allowance|V|Data|Object-Head||60848.20|60352.69|77403.20
+3|03|01|2401|Crop Husbandry|00||001||1||50|Vacant Post Provision|||||HOA Total :|V|Total|Detailed-Head|0.00|60848.20|60352.69|77403.20
+3|03|01|2401|Crop Husbandry|00||001||1||75|Unspent SCSP-TSP Amount as per the SCSP-TSP Act 2013|||2401-00-001-1-75|Unspent SCSP-TSP Amount as per the SCSP-TSP Act 2013|V|Header|Detailed-Head||||
+3|03|01|2401|Crop Husbandry|00||001||1||75|Unspent SCSP-TSP Amount as per the SCSP-TSP Act 2013|422|Schedule Caste Sub Plan|2401-00-001-1-75|Schedule Caste Sub Plan|V|Data|Object-Head|120.42|28.38|28.38|0.57
+3|03|01|2401|Crop Husbandry|00||001||1||75|Unspent SCSP-TSP Amount as per the SCSP-TSP Act 2013|423|Tribal Sub Plan|2401-00-001-1-75|Tribal Sub Plan|V|Data|Object-Head|319.03|14.45|14.45|0.47
+3|03|01|2401|Crop Husbandry|00||001||1||75|Unspent SCSP-TSP Amount as per the SCSP-TSP Act 2013|||||HOA Total :|V|Total|Detailed-Head|439.45|42.83|42.83|1.04

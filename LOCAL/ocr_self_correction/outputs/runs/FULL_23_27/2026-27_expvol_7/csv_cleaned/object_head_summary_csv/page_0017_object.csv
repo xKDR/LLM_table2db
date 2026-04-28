@@ -1,0 +1,6 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+6|07|20|2216|Housing|07||053||0||01|Repairs to PWD Quarters|||2216-07-053-0-01|Repairs to PWD Quarters||Header|Detailed-Head||||
+6|07|20|2216|Housing|07||053||0||01|Repairs to PWD Quarters|071|Building Expenses|2216-07-053-0-01|Building Expenses||Data|Object-Head||166.00|166.00|166.00
+6|07|20|2216|Housing|07||053||0||01|Repairs to PWD Quarters|200|Maintenance Expenditure|2216-07-053-0-01|Maintenance Expenditure||Data|Object-Head|12999.99|13834.00|13834.00|10334.00
+6|07|20|2216|Housing|07||053||0||01|Repairs to PWD Quarters||||HOA Total :||Total|Detailed-Head|12999.99|14000.00|14000.00|10500.00
+6|07|20|2216|Housing|07||||||||||2216|2216 - Total :||Total|Major-Head|12999.99|14000.00|14000.00|10500.00

@@ -1,0 +1,25 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+1|07|20|2059|Public Works|01||911||0||01|Deduct Recovery of Over Payments of Current Year|||2059-01-911-0-01|Deduct Recovery of Over Payments of Current Year|V|Header|Detailed-Head||||
+1|07|20|2059|Public Works|01||911||0||01|Deduct Recovery of Over Payments of Current Year|364|Deduct - Recoveries|2059-01-911-0-01|Deduct - Recoveries|V|Data|Object-Head|-8.13|||
+1|07|20|2059|Public Works|01||911||0||01|Deduct Recovery of Over Payments of Current Year|||2059-01-911-0-01|HOA Total :|V|Total|Detailed-Head|-8.13|0.00|0.00|0.00
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|||2059-80-001-0-01|Chief Engineer (C&B) , Public Works Department|V|Header|Detailed-Head||||
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|002|Basic Pay|2059-80-001-0-01|Basic Pay|V|Data|Object-Head|13297.02|32591.00|32591.00|31353.00
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|003|Basic Pay-Staff|2059-80-001-0-01|Basic Pay-Staff|V|Data|Object-Head|13956.04|||
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|004|Interim Relief|2059-80-001-0-01|Interim Relief|V|Data|Object-Head|1575.22|||
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|011|Dearness Allowance|2059-80-001-0-01|Dearness Allowance|V|Data|Object-Head|6033.33|7170.00|7170.00|7839.00
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|014|Other Allowance|2059-80-001-0-01|Other Allowance|V|Data|Object-Head|3423.10|4273.00|4273.00|4017.00
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|020|Medical Allowance|2059-80-001-0-01|Medical Allowance|V|Data|Object-Head|110.93|||
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|021|Reimbursement of Medical Expenses|2059-80-001-0-01|Reimbursement of Medical Expenses|V|Data|Object-Head|276.60|295.00|295.00|273.00
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|033|Daily-wages|2059-80-001-0-01|Daily-wages|V|Data|Object-Head|1467.91|1641.61|1641.61|1398.53
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|034|Contract/Outsource|2059-80-001-0-01|Contract/Outsource|V|Data|Object-Head|5.23|12.67|12.67|9.60
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|035|Salary of Board/Corp.Staff working in State Government|2059-80-001-0-01|Salary of Board/Corp.Staff working in State Government|V|Data|Object-Head|380.63|324.82|599.27|324.82
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|041|Travel Expenses|2059-80-001-0-01|Travel Expenses|V|Data|Object-Head|55.77|76.00|76.00|76.00
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|050|Office Expenses|2059-80-001-0-01|Office Expenses|V|Data|Object-Head||140.00|140.00|150.00
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|051|General Expenses|2059-80-001-0-01|General Expenses|V|Data|Object-Head|439.35|245.00|245.00|275.00
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|052|Telephone Charges|2059-80-001-0-01|Telephone Charges|V|Data|Object-Head|53.15|||
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|071|Building Expenses|2059-80-001-0-01|Building Expenses|V|Data|Object-Head|918.17|980.00|980.00|1060.00
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|182|Repairs and Carriages|2059-80-001-0-01|Repairs and Carriages|V|Data|Object-Head|59.36|||
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|195|Transport Expenses|2059-80-001-0-01|Transport Expenses|V|Data|Object-Head|1102.58|674.93|674.93|761.21
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|200|Maintenance Expenditure|2059-80-001-0-01|Maintenance Expenditure|V|Data|Object-Head||55.00|55.00|57.00
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|251|Pension & Retirement Benefits|2059-80-001-0-01|Pension & Retirement Benefits|V|Data|Object-Head|368.77|1.00|1.00|282.25
+1|07|20|2059|Public Works|80||001||0||01|Chief Engineer (C&B) , Public Works Department|||2059-80-001-0-01|HOA Total :|V|Total|Detailed-Head|43523.16|48480.03|48754.48|47876.41

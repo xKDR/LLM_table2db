@@ -1,0 +1,27 @@
+37|01|04|2013|Council of Ministers|00||||||||||2013|Council of Ministers||Header|Major-Head||||
+37|01|04|2013|Council of Ministers|00||101|Salary of Ministers & Deputy Ministers|||||||2013-00-101-0-01|Salary of Ministers & Deputy Ministers||Header|Minor-Head||||
+37|01|04|2013|Council of Ministers|00||101|Salary of Ministers & Deputy Ministers|0||||||2013-00-101-0-01|||Header|Sub-Head||||
+37|01|04|2013|Council of Ministers|00||101|Salary of Ministers & Deputy Ministers|0||01||||2013-00-101-0-01|||Header|Detailed-Head||||
+37|01|04|2013|Council of Ministers|00||101|Salary of Ministers & Deputy Ministers|0||01||001|Consolidated Salaries|2013-00-101-0-01|Consolidated Salaries||Data|Object-Head|1860.78|2252.00|2252.00|3232.00
+37|01|04|2013|Council of Ministers|00||101|Salary of Ministers & Deputy Ministers|0||01||021|Reimbursement of Medical Expenses|2013-00-101-0-01|Reimbursement of Medical Expenses||Data|Object-Head||3.00|68.00|28.00
+37|01|04|2013|Council of Ministers|00||101|Salary of Ministers & Deputy Ministers|0||01|||||HOA Total :||Total|Detailed-Head|1860.78|2255.00|2320.00|3260.00
+37|01|04|2013|Council of Ministers|00||108|Tour Expenses - Council of Ministers|||||||2013-00-108-0-01|Tour Expenses - Council of Ministers||Header|Minor-Head||||
+37|01|04|2013|Council of Ministers|00||108|Tour Expenses - Council of Ministers|0||||||2013-00-108-0-01|||Header|Sub-Head||||
+37|01|04|2013|Council of Ministers|00||108|Tour Expenses - Council of Ministers|0||01||||2013-00-108-0-01|||Header|Detailed-Head||||
+37|01|04|2013|Council of Ministers|00||108|Tour Expenses - Council of Ministers|0||01||041|Travel Expenses|2013-00-108-0-01|Travel Expenses||Data|Object-Head|439.69|591.00|591.00|595.00
+37|01|04|2013|Council of Ministers|00||108|Tour Expenses - Council of Ministers|0||01|||||HOA Total :||Total|Detailed-Head|439.69|591.00|591.00|595.00
+37|01|04|2013|Council of Ministers|00||800|Expenses of Council of Ministers|||||||2013-00-800-0-01|Expenses of Council of Ministers||Header|Minor-Head||||
+37|01|04|2013|Council of Ministers|00||800|Expenses of Council of Ministers|0||||||2013-00-800-0-01|||Header|Sub-Head||||
+37|01|04|2013|Council of Ministers|00||800|Expenses of Council of Ministers|0||01||||2013-00-800-0-01|||Header|Detailed-Head||||
+37|01|04|2013|Council of Ministers|00||800|Expenses of Council of Ministers|0||01||050|Office Expenses|2013-00-800-0-01|Office Expenses||Data|Object-Head||15.00|15.00|15.00
+37|01|04|2013|Council of Ministers|00||800|Expenses of Council of Ministers|0||01||051|General Expenses|2013-00-800-0-01|General Expenses||Data|Object-Head|279.46|225.00|225.00|234.00
+37|01|04|2013|Council of Ministers|00||800|Expenses of Council of Ministers|0||01||052|Telephone Charges|2013-00-800-0-01|Telephone Charges||Data|Object-Head|11.03||||
+37|01|04|2013|Council of Ministers|00||800|Expenses of Council of Ministers|0||01||071|Building Expenses|2013-00-800-0-01|Building Expenses||Data|Object-Head|233.90|150.00|150.00|150.00
+37|01|04|2013|Council of Ministers|00||800|Expenses of Council of Ministers|0||01||195|Transport Expenses|2013-00-800-0-01|Transport Expenses||Data|Object-Head|45.22|60.00|60.00|1.00
+37|01|04|2013|Council of Ministers|00||800|Expenses of Council of Ministers|0||01|||||HOA Total :||Total|Detailed-Head|569.61|450.00|450.00|400.00
+37|01|04|2013|Council of Ministers|00||911|Deduct Recovery of Over Payments of Current Year|||||||2013-00-911-0-01|Deduct Recovery of Over Payments of Current Year||Header|Minor-Head||||
+37|01|04|2013|Council of Ministers|00||911|Deduct Recovery of Over Payments of Current Year|0||||||2013-00-911-0-01|||Header|Sub-Head||||
+37|01|04|2013|Council of Ministers|00||911|Deduct Recovery of Over Payments of Current Year|0||01||||2013-00-911-0-01|||Header|Detailed-Head||||
+37|01|04|2013|Council of Ministers|00||911|Deduct Recovery of Over Payments of Current Year|0||01||364|Deduct - Recoveries|2013-00-911-0-01|Deduct - Recoveries||Data|Object-Head|-6.64||||
+37|01|04|2013|Council of Ministers|00||911|Deduct Recovery of Over Payments of Current Year|0||01|||||HOA Total :||Total|Detailed-Head|-6.64|0.00|0.00|0.00
+37|01|04|2013|Council of Ministers|00||||||||||2013 - Total :||Total|Major-Head|2863.44|3296.00|3361.00|4255.00

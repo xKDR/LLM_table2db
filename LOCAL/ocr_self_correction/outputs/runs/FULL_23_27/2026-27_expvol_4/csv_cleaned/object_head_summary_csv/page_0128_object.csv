@@ -1,0 +1,15 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+117|04|19|4217|Capital Outlay on Urban Development|60||800||0||16|CSS-State Share: AMRUT 1.0|||4217-60-800-0-16|CSS-State Share: AMRUT 1.0|V|Header|Detailed-Head||||
+117|04|19|4217|Capital Outlay on Urban Development|60||800||0||16|CSS-State Share: AMRUT 1.0|132|Other Capital Expenses|4217-60-800-0-16|Other Capital Expenses|V|Data|Object-Head|2523.27||2400.00|1.00
+117|04|19|4217|Capital Outlay on Urban Development|60||800||0||16|CSS-State Share: AMRUT 1.0|||4217-60-800-0-16|HOA Total :|V|Total|Detailed-Head|2523.27|0.00|2400.00|1.00
+117|04|19|4217|Capital Outlay on Urban Development|60||800||6||01|State Urban Transport Fund|||4217-60-800-6-01|State Urban Transport Fund|V|Header|Detailed-Head||||
+117|04|19|4217|Capital Outlay on Urban Development|60||800||6||01|State Urban Transport Fund|059|Other Expenses|4217-60-800-6-01|Other Expenses|V|Data|Object-Head|9996.19|||
+117|04|19|4217|Capital Outlay on Urban Development|60||800||6||01|State Urban Transport Fund|132|Other Capital Expenses|4217-60-800-6-01|Other Capital Expenses|V|Data|Object-Head||10000.00|10000.00|10000.00
+117|04|19|4217|Capital Outlay on Urban Development|60||800||6||01|State Urban Transport Fund|||4217-60-800-6-01|HOA Total :|V|Total|Detailed-Head|9996.19|10000.00|10000.00|10000.00
+117|04|19|4217|Capital Outlay on Urban Development|60||902||0||01|Deduct Amount met from BMRC Fund|||4217-60-902-0-01|Deduct Amount met from BMRC Fund|V|Header|Detailed-Head||||
+117|04|19|4217|Capital Outlay on Urban Development|60||902||0||01|Deduct Amount met from BMRC Fund|261|Inter Account Transfers|4217-60-902-0-01|Inter Account Transfers|V|Data|Object-Head|-15000.00|-50000.00|-50000.00|-32200.00
+117|04|19|4217|Capital Outlay on Urban Development|60||902||0||01|Deduct Amount met from BMRC Fund|||4217-60-902-0-01|HOA Total :|V|Total|Detailed-Head|-15000.00|-50000.00|-50000.00|-32200.00
+117|04|19|4217|Capital Outlay on Urban Development|60||902||0||03|Deduct Amount met from State Urban Transport (SUT) Fund|||4217-60-902-0-03|Deduct Amount met from State Urban Transport (SUT) Fund|V|Header|Detailed-Head||||
+117|04|19|4217|Capital Outlay on Urban Development|60||902||0||03|Deduct Amount met from State Urban Transport (SUT) Fund|261|Inter Account Transfers|4217-60-902-0-03|Inter Account Transfers|V|Data|Object-Head|-9996.19|-70000.00|-70000.00|-10000.00
+117|04|19|4217|Capital Outlay on Urban Development|60||902||0||03|Deduct Amount met from State Urban Transport (SUT) Fund|||4217-60-902-0-03|HOA Total :|V|Total|Detailed-Head|-9996.19|-70000.00|-70000.00|-10000.00
+117|04|19|4217|Capital Outlay on Urban Development|60||||||||||4217|4217 - Total :|V|Total|Major-Head|120880.14|233488.00|364750.41|318196.00

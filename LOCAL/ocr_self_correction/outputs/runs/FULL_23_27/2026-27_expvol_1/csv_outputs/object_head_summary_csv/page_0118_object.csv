@@ -1,0 +1,22 @@
+104|01|05|3055|Road Transport|00||||||||||3055-00-000-0-00|Road Transport|V|Header|Major-Head||||
+104|01|05|3055|Road Transport|00||001||0||02|Special Assistance from the State Government|||3055-00-001-0-02|Special Assistance from the State Government|V|Header|Detailed-Head||||
+104|01|05|3055|Road Transport|00||001||0||02|Special Assistance from the State Government|100|Financial Assistance/Relief|3055-00-001-0-02|Financial Assistance/Relief|V|Data|Object-Head||||62000.00
+104|01|05|3055|Road Transport|00||001||0||02|Special Assistance from the State Government|422|Schedule Caste Sub Plan|3055-00-001-0-02|Schedule Caste Sub Plan|V|Data|Object-Head||||21700.00
+104|01|05|3055|Road Transport|00||001||0||02|Special Assistance from the State Government|423|Tribal Sub Plan|3055-00-001-0-02|Tribal Sub Plan|V|Data|Object-Head||||6300.00
+104|01|05|3055|Road Transport|00||001||0||02|Special Assistance from the State Government|||3055-00-001-0-02|HOA Total :|V|Total|Detailed-Head|0.00|0.00|0.00|90000.00
+104|01|05|3055|Road Transport|00||001||0||50|Vacant Post Provision|||3055-00-001-0-50|Vacant Post Provision|V|Header|Detailed-Head||||
+104|01|05|3055|Road Transport|00||001||0||50|Vacant Post Provision|014|Other Allowance|3055-00-001-0-50|Other Allowance|V|Data|Object-Head||8817.80|8815.30|10809.80
+104|01|05|3055|Road Transport|00||001||0||50|Vacant Post Provision|||3055-00-001-0-50|HOA Total :|V|Total|Detailed-Head|0.00|8817.80|8815.30|10809.80
+104|01|05|3055|Road Transport|00||190||0||02|Free Bus Pass Facility to Freedom Fighters|||3055-00-190-0-02|Free Bus Pass Facility to Freedom Fighters|V|Header|Detailed-Head||||
+104|01|05|3055|Road Transport|00||190||0||02|Free Bus Pass Facility to Freedom Fighters|106|Subsidies|3055-00-190-0-02|Subsidies|V|Data|Object-Head|43.50|44.00|44.00|46.00
+104|01|05|3055|Road Transport|00||190||0||02|Free Bus Pass Facility to Freedom Fighters|||3055-00-190-0-02|HOA Total :|V|Total|Detailed-Head|43.50|44.00|44.00|46.00
+104|01|05|3055|Road Transport|00||190||0||03|Bangalore Metropolitan Transport Corporation(BMTC)|||3055-00-190-0-03|Bangalore Metropolitan Transport Corporation(BMTC)|V|Header|Detailed-Head||||
+104|01|05|3055|Road Transport|00||190||0||03|Bangalore Metropolitan Transport Corporation(BMTC)|100|Financial Assistance/Relief|3055-00-190-0-03|Financial Assistance/Relief|V|Data|Object-Head|12488.49|||
+104|01|05|3055|Road Transport|00||190||0||03|Bangalore Metropolitan Transport Corporation(BMTC)|103|Grants-in-Aid -General|3055-00-190-0-03|Grants-in-Aid -General|V|Data|Object-Head||15000.00|15000.00|20000.00
+104|01|05|3055|Road Transport|00||190||0||03|Bangalore Metropolitan Transport Corporation(BMTC)|106|Subsidies|3055-00-190-0-03|Subsidies|V|Data|Object-Head|17653.72|7663.00|7663.00|7778.00
+104|01|05|3055|Road Transport|00||190||0||03|Bangalore Metropolitan Transport Corporation(BMTC)|422|Schedule Caste Sub Plan|3055-00-190-0-03|Schedule Caste Sub Plan|V|Data|Object-Head|3668.17|3425.00|3425.00|3476.00
+104|01|05|3055|Road Transport|00||190||0||03|Bangalore Metropolitan Transport Corporation(BMTC)|423|Tribal Sub Plan|3055-00-190-0-03|Tribal Sub Plan|V|Data|Object-Head|518.62|484.00|484.00|491.00
+104|01|05|3055|Road Transport|00||190||0||03|Bangalore Metropolitan Transport Corporation(BMTC)|||3055-00-190-0-03|HOA Total :|V|Total|Detailed-Head|34329.00|26572.00|26572.00|31745.00
+104|01|05|3055|Road Transport|00||190||0||04|North West Karnataka Road Transport Corporation(NWKRTC)|||3055-00-190-0-04|North West Karnataka Road Transport Corporation(NWKRTC)|V|Header|Detailed-Head||||
+104|01|05|3055|Road Transport|00||190||0||04|North West Karnataka Road Transport Corporation(NWKRTC)|106|Subsidies|3055-00-190-0-04|Subsidies|V|Data|Object-Head|23233.44|9929.00|9929.00|10078.00
+104|01|05|3055|Road Transport|00||190||0||04|North West Karnataka Road Transport Corporation(NWKRTC)|422|Schedule Caste Sub Plan|3055-00-190-0-04|Schedule Caste Sub Plan|V|Data|Object-Head|3039.04|2837.00|2837.00|2880.00

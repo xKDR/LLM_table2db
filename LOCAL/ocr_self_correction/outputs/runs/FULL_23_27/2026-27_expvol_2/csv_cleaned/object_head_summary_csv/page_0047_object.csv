@@ -1,0 +1,29 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+34|02|17|2203|Technical Education|00||||||||||2203|Technical Education|V|Header|Major-Head||||
+34|02|17|2203|Technical Education|00||001||0||01|Director of Technical Education|||2203-00-001-0-01|ತಾಂತ್ರಿಕ ಶಿಕ್ಷಣ ಇಲಾಖೆಯ ನಿರ್ದೇಶಕರು / Director of Technical Education|V|Header|Detailed-Head||||
+34|02|17|2203|Technical Education|00||001||0||01|Director of Technical Education|002|Basic Pay|2203-00-001-0-01|Basic Pay|V|Data|Object-Head|376.46|1076.00|1076.00|1022.00
+34|02|17|2203|Technical Education|00||001||0||01|Director of Technical Education|003|Basic Pay-Staff|2203-00-001-0-01|Basic Pay-Staff|V|Data|Object-Head|529.82|||
+34|02|17|2203|Technical Education|00||001||0||01|Director of Technical Education|004|Interim Relief|2203-00-001-0-01|Interim Relief|V|Data|Object-Head|44.41|||
+34|02|17|2203|Technical Education|00||001||0||01|Director of Technical Education|011|Dearness Allowance|2203-00-001-0-01|Dearness Allowance|V|Data|Object-Head|296.96|346.00|346.00|342.00
+34|02|17|2203|Technical Education|00||001||0||01|Director of Technical Education|014|Other Allowance|2203-00-001-0-01|Other Allowance|V|Data|Object-Head|222.31|254.00|254.00|236.00
+34|02|17|2203|Technical Education|00||001||0||01|Director of Technical Education|020|Medical Allowance|2203-00-001-0-01|Medical Allowance|V|Data|Object-Head|4.45|||
+34|02|17|2203|Technical Education|00||001||0||01|Director of Technical Education|021|Reimbursement of Medical Expenses|2203-00-001-0-01|Reimbursement of Medical Expenses|V|Data|Object-Head|0.42|15.00|15.00|15.00
+34|02|17|2203|Technical Education|00||001||0||01|Director of Technical Education|041|Travel Expenses|2203-00-001-0-01|Travel Expenses|V|Data|Object-Head|2.08|3.00|3.00|2.50
+34|02|17|2203|Technical Education|00||001||0||01|Director of Technical Education|050|Office Expenses|2203-00-001-0-01|Office Expenses|V|Data|Object-Head|1.50|30.00|30.00|30.00
+34|02|17|2203|Technical Education|00||001||0||01|Director of Technical Education|051|General Expenses|2203-00-001-0-01|General Expenses|V|Data|Object-Head|131.14|105.00|105.00|260.00
+34|02|17|2203|Technical Education|00||001||0||01|Director of Technical Education|052|Telephone Charges|2203-00-001-0-01|Telephone Charges|V|Data|Object-Head|1.93|||
+34|02|17|2203|Technical Education|00||001||0||01|Director of Technical Education|071|Building Expenses|2203-00-001-0-01|Building Expenses|V|Data|Object-Head|18.14|32.00|32.00|30.00
+34|02|17|2203|Technical Education|00||001||0||01|Director of Technical Education|195|Transport Expenses|2203-00-001-0-01|Transport Expenses|V|Data|Object-Head|31.19|32.76|32.76|26.73
+34|02|17|2203|Technical Education|00||001||0||01|Director of Technical Education|||2203-00-001-0-01|ಜುಮ್ಲಾ HOA Total :|V|Total|Detailed-Head|1660.81|1893.76|1893.76|1964.23
+34|02|17|2203|Technical Education|00||103||0||01|Junior Technical Schools|||2203-00-103-0-01|ಕಿರಿಯ ತಾಂತ್ರಿಕ ಶಾಲೆಗಳು / Junior Technical Schools|V|Header|Detailed-Head||||
+34|02|17|2203|Technical Education|00||103||0||01|Junior Technical Schools|002|Basic Pay|2203-00-103-0-01|Basic Pay|V|Data|Object-Head|196.29|487.00|487.00|486.00
+34|02|17|2203|Technical Education|00||103||0||01|Junior Technical Schools|003|Basic Pay-Staff|2203-00-103-0-01|Basic Pay-Staff|V|Data|Object-Head|191.21|||
+34|02|17|2203|Technical Education|00||103||0||01|Junior Technical Schools|004|Interim Relief|2203-00-103-0-01|Interim Relief|V|Data|Object-Head|20.22|||
+34|02|17|2203|Technical Education|00||103||0||01|Junior Technical Schools|011|Dearness Allowance|2203-00-103-0-01|Dearness Allowance|V|Data|Object-Head|81.69|107.00|107.00|122.00
+34|02|17|2203|Technical Education|00||103||0||01|Junior Technical Schools|014|Other Allowance|2203-00-103-0-01|Other Allowance|V|Data|Object-Head|48.39|65.00|65.00|61.00
+34|02|17|2203|Technical Education|00||103||0||01|Junior Technical Schools|020|Medical Allowance|2203-00-103-0-01|Medical Allowance|V|Data|Object-Head|1.54|||
+34|02|17|2203|Technical Education|00||103||0||01|Junior Technical Schools|021|Reimbursement of Medical Expenses|2203-00-103-0-01|Reimbursement of Medical Expenses|V|Data|Object-Head|3.73|15.00|15.00|15.00
+34|02|17|2203|Technical Education|00||103||0||01|Junior Technical Schools|041|Travel Expenses|2203-00-103-0-01|Travel Expenses|V|Data|Object-Head|0.38|1.00|1.00|1.00
+34|02|17|2203|Technical Education|00||103||0||01|Junior Technical Schools|050|Office Expenses|2203-00-103-0-01|Office Expenses|V|Data|Object-Head||5.00|5.00|3.00
+34|02|17|2203|Technical Education|00||103||0||01|Junior Technical Schools|051|General Expenses|2203-00-103-0-01|General Expenses|V|Data|Object-Head|1.40|1.00|1.00|1.20
+34|02|17|2203|Technical Education|00||103||0||01|Junior Technical Schools|052|Telephone Charges|2203-00-103-0-01|Telephone Charges|V|Data|Object-Head|0.58|||

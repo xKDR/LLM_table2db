@@ -1,0 +1,10 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+111|01|05|5055|Capital Outlay on Road Transport|00||190||4||00|Kalyana Karnataka Road Transport Corporation(KKRTC)|423|Tribal Sub Plan|5055-00-190-4-00|Tribal Sub Plan|V|Data|Object-Head|104.25|||
+111|01|05|5055|Capital Outlay on Road Transport|00||190||4||00|Kalyana Karnataka Road Transport Corporation(KKRTC)|||5055-00-190-4-00|HOA Total :|V|Total|Detailed-Head|1500.00|3200.00|3200.00|4154.30
+111|01|05|5055|Capital Outlay on Road Transport|00||902||0||02|Deduct-Amount Met from Karnataka State Road Safety Fund|||5055-00-902-0-02|Deduct-Amount Met from Karnataka State Road Safety Fund|V|Header|Detailed-Head||||
+111|01|05|5055|Capital Outlay on Road Transport|00||902||0||02|Deduct-Amount Met from Karnataka State Road Safety Fund|261|Inter Account Transfers|5055-00-902-0-02|Inter Account Transfers|V|Data|Object-Head||-9000.00|-9000.00|-9000.00
+111|01|05|5055|Capital Outlay on Road Transport|00||902||0||02|Deduct-Amount Met from Karnataka State Road Safety Fund|||5055-00-902-0-02|HOA Total :|V|Total|Detailed-Head|0.00|-9000.00|-9000.00|-9000.00
+111|01|05|5055|Capital Outlay on Road Transport|00||902||0||03|Deduct-Amount met from SUTF|||5055-00-902-0-03|Deduct-Amount met from SUTF|V|Header|Detailed-Head||||
+111|01|05|5055|Capital Outlay on Road Transport|00||902||0||03|Deduct-Amount met from SUTF|261|Inter Account Transfers|5055-00-902-0-03|Inter Account Transfers|V|Data|Object-Head||||-25000.00
+111|01|05|5055|Capital Outlay on Road Transport|00||902||0||03|Deduct-Amount met from SUTF|||5055-00-902-0-03|HOA Total :|V|Total|Detailed-Head|0.00|0.00|0.00|-25000.00
+111|01|05|5055|Capital Outlay on Road Transport|00||||||||||5055|5055 - Total :|V|Total|Major-Head|28957.00|56587.77|55087.77|88882.76

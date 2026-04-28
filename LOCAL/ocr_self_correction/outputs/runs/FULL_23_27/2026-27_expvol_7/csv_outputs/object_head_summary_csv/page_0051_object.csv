@@ -1,0 +1,14 @@
+40|07|21|4705|Capital Outlay on Command Area Development|00||||||||||4705|Capital Outlay on Command Area Development|V|Header|Major-Head||||
+40|07|21|4705|Capital Outlay on Command Area Development|00||111||0||01|CSS-Central Share-Modernisation of Command Area Development (MCAD)-SAMRIDHI|||4705-00-111-0-01|CSS-Central Share-Modernisation of Command Area Development (MCAD)-SAMRIDHI|V|Header|Detailed-Head||||
+40|07|21|4705|Capital Outlay on Command Area Development|00||111||0||01|CSS-Central Share-Modernisation of Command Area Development (MCAD)-SAMRIDHI|132|Other Capital Expenses|4705-00-111-0-01|Other Capital Expenses|V|Data|Object-Head||||30000.00
+40|07|21|4705|Capital Outlay on Command Area Development|00||111||0||01|CSS-Central Share-Modernisation of Command Area Development (MCAD)-SAMRIDHI|||4705-00-111-0-01|HOA Total :|V|Total|Detailed-Head|0.00|0.00|0.00|30000.00
+40|07|21|4705|Capital Outlay on Command Area Development|00||111||0||02|CSS-State Share-Modernisation of Command Area Development (MCAD)-SAMRIDHI|||4705-00-111-0-02|CSS-State Share-Modernisation of Command Area Development (MCAD)-SAMRIDHI|V|Header|Detailed-Head||||
+40|07|21|4705|Capital Outlay on Command Area Development|00||111||0||02|CSS-State Share-Modernisation of Command Area Development (MCAD)-SAMRIDHI|132|Other Capital Expenses|4705-00-111-0-02|Other Capital Expenses|V|Data|Object-Head||||20000.00
+40|07|21|4705|Capital Outlay on Command Area Development|00||111||0||02|CSS-State Share-Modernisation of Command Area Development (MCAD)-SAMRIDHI|||4705-00-111-0-02|HOA Total :|V|Total|Detailed-Head|0.00|0.00|0.00|20000.00
+40|07|21|4705|Capital Outlay on Command Area Development|00||800||0||01|CADA|||4705-00-800-0-01|CADA|V|Header|Detailed-Head||||
+40|07|21|4705|Capital Outlay on Command Area Development|00||800||0||01|CADA|132|Other Capital Expenses|4705-00-800-0-01|Other Capital Expenses|V|Data|Object-Head|7000.00|7000.00|7000.00|7000.00
+40|07|21|4705|Capital Outlay on Command Area Development|00||800||0||01|CADA|||4705-00-800-0-01|HOA Total :|V|Total|Detailed-Head|7000.00|7000.00|7000.00|7000.00
+40|07|21|4705|Capital Outlay on Command Area Development|00||800||0||90|Deduct - Receipts and Recoveries on Capital Account|||4705-00-800-0-90|Deduct - Receipts and Recoveries on Capital Account|V|Header|Detailed-Head||||
+40|07|21|4705|Capital Outlay on Command Area Development|00||800||0||90|Deduct - Receipts and Recoveries on Capital Account|364|Deduct - Recoveries|4705-00-800-0-90|Deduct - Recoveries|V|Data|Object-Head|-200.71||||
+40|07|21|4705|Capital Outlay on Command Area Development|00||800||0||90|Deduct - Receipts and Recoveries on Capital Account|||4705-00-800-0-90|HOA Total :|V|Total|Detailed-Head|-200.71|0.00|0.00|0.00
+40|07|21|4705|Capital Outlay on Command Area Development|00||||||||||4705|4705 - Total :|V|Total|Major-Head|6799.29|7000.00|7000.00|57000.00

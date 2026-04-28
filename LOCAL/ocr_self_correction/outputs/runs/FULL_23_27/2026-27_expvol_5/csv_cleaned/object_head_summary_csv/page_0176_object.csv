@@ -1,0 +1,8 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+163|Volume 5|23|4250|Capital Outlay on Other Social Services|00||201||0||04|Construction of Karmika Bhavan|||4250-00-201-0-04|Construction of Karmika Bhavan||Header|Detailed-Head||||
+163|Volume 5|23|4250|Capital Outlay on Other Social Services|00||201||0||04|Construction of Karmika Bhavan|386|Purchase/Construction of Buildings|4250-00-201-0-04|Purchase/Construction of Buildings||Data|Object-Head|387.50|400.00|400.00|400.00
+163|Volume 5|23|4250|Capital Outlay on Other Social Services|00||201||0||04|Construction of Karmika Bhavan|||4250-00-201-0-04|HOA Total :||Total|Detailed-Head|387.50|400.00|400.00|400.00
+163|Volume 5|23|4250|Capital Outlay on Other Social Services|00||203||0||12|Purchase of Vehicles|||4250-00-203-0-12|Purchase of Vehicles||Header|Detailed-Head||||
+163|Volume 5|23|4250|Capital Outlay on Other Social Services|00||203||0||12|Purchase of Vehicles|199|Transportation Assets|4250-00-203-0-12|Transportation Assets||Data|Object-Head|12.15|1.00|1.00|1.00
+163|Volume 5|23|4250|Capital Outlay on Other Social Services|00||203||0||12|Purchase of Vehicles|||4250-00-203-0-12|HOA Total :||Total|Detailed-Head|12.15|1.00|1.00|1.00
+163|Volume 5|23|4250|Capital Outlay on Other Social Services|00||||||||||4250|4250 - Total :||Total|Major-Head|399.65|401.00|401.00|401.00

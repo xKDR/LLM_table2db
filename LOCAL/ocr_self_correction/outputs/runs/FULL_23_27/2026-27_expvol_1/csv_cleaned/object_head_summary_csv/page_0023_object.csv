@@ -1,0 +1,16 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+9|01|03|2052|Secretariat-General Services|00||090|Secretariat|0||12|Fiscal Policy Institute|200|Maintenance Expenditure|2052-00-090-0-12|Maintenance Expenditure|V|Data|Object-Head|130.61|180.00|210.00|180.00
+9|01|03|2052|Secretariat-General Services|00||090|Secretariat|0||12|Fiscal Policy Institute|234|Diet Expenses|2052-00-090-0-12|Diet Expenses|V|Data|Object-Head|36.89|50.00|50.00|52.00
+9|01|03|2052|Secretariat-General Services|00||090|Secretariat|0||12|Fiscal Policy Institute|||2052-00-090-0-12|HOA Total :|V|Total|Detailed-Head|940.84|1260.37|1260.37|1304.24
+9|01|03|2052|Secretariat-General Services|00||092|Other Offices|||||||2052-00-092|Other Offices|V|Header|Minor-Head||||
+9|01|03|2052|Secretariat-General Services|00||092|Other Offices|0||||||2052-00-092-0||V|Header|Sub-Head||||
+9|01|03|2052|Secretariat-General Services|00||092|Other Offices|0||07|Karnataka Pay Commission|||2052-00-092-0-07|Karnataka Pay Commission|V|Header|Detailed-Head||||
+9|01|03|2052|Secretariat-General Services|00||092|Other Offices|0||07|Karnataka Pay Commission|103|Grants-in-Aid -General|2052-00-092-0-07|Grants-in-Aid -General|V|Data|Object-Head|100.00|||
+9|01|03|2052|Secretariat-General Services|00||092|Other Offices|0||07|Karnataka Pay Commission|||2052-00-092-0-07|HOA Total :|V|Total|Detailed-Head|100.00|0.00|0.00|0.00
+9|01|03|2052|Secretariat-General Services|00||092|Other Offices|0||18|State Finance Commission|||2052-00-092-0-18|State Finance Commission|V|Header|Detailed-Head||||
+9|01|03|2052|Secretariat-General Services|00||092|Other Offices|0||18|State Finance Commission|103|Grants-in-Aid -General|2052-00-092-0-18|Grants-in-Aid -General|V|Data|Object-Head|340.90|100.00|330.00|1.00
+9|01|03|2052|Secretariat-General Services|00||092|Other Offices|0||18|State Finance Commission|||2052-00-092-0-18|HOA Total :|V|Total|Detailed-Head|340.90|100.00|330.00|1.00
+9|01|03|2052|Secretariat-General Services|00||092|Other Offices|0||50|Vacant Post Provision|||2052-00-092-0-50|Vacant Post Provision|V|Header|Detailed-Head||||
+9|01|03|2052|Secretariat-General Services|00||092|Other Offices|0||50|Vacant Post Provision|014|Other Allowance|2052-00-092-0-50|Other Allowance|V|Data|Object-Head||10266.99|8699.69|11754.99
+9|01|03|2052|Secretariat-General Services|00||092|Other Offices|0||50|Vacant Post Provision|||2052-00-092-0-50|HOA Total :|V|Total|Detailed-Head|0.00|10266.99|8699.69|11754.99
+9|01|03|2052|Secretariat-General Services|00||||||||||2052|2052 - Total :|V|Total|Major-Head|2595.26|11908.64|10571.34|13301.03

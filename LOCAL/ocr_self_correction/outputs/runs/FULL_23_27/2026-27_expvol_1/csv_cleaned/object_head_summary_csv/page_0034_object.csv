@@ -1,0 +1,5 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+20|01|03|2075|Miscellaneous General Services|00||797||0||01|Transfer to Guarantee Redemption Fund|||2075-00-797-0-01|Transfer to Guarantee Redemption Fund|V|Header|Detailed-Head||||
+20|01|03|2075|Miscellaneous General Services|00||797||0||01|Transfer to Guarantee Redemption Fund|261|Inter Account Transfers|2075-00-797-0-01|Inter Account Transfers|V|Data|Object-Head|19130.00|22200.00|172200.00|100000.00
+20|01|03|2075|Miscellaneous General Services|00||797||0||01|Transfer to Guarantee Redemption Fund||||HOA Total :|V|Total|Detailed-Head|19130.00|22200.00|172200.00|100000.00
+20|01|03|2075|Miscellaneous General Services|00||||||||||2075|2075 - Total :|V|Total|Major-Head|19130.00|22200.00|172200.00|100000.00

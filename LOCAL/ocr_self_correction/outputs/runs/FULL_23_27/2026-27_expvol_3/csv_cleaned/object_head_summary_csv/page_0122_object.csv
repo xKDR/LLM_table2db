@@ -1,0 +1,29 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+109|03|09|3475|Other General Economic Services|00||107||0||02|Marketing Committees|041|Travel Expenses|3475-00-107-0-02|Travel Expenses|V|Data|Object-Head|9.22|11.00|11.00|11.00
+109|03|09|3475|Other General Economic Services|00||107||0||02|Marketing Committees|050|Office Expenses|3475-00-107-0-02|Office Expenses|V|Data|Object-Head||2.00|2.00|10.00
+109|03|09|3475|Other General Economic Services|00||107||0||02|Marketing Committees|051|General Expenses|3475-00-107-0-02|General Expenses|V|Data|Object-Head|17.29|30.00|30.00|
+109|03|09|3475|Other General Economic Services|00||107||0||02|Marketing Committees|052|Telephone Charges|3475-00-107-0-02|Telephone Charges|V|Data|Object-Head|0.51|||
+109|03|09|3475|Other General Economic Services|00||107||0||02|Marketing Committees|071|Building Expenses|3475-00-107-0-02|Building Expenses|V|Data|Object-Head|5.92|5.00|5.00|5.00
+109|03|09|3475|Other General Economic Services|00||107||0||02|Marketing Committees|195|Transport Expenses|3475-00-107-0-02|Transport Expenses|V|Data|Object-Head|5.45|10.80|10.80|10.80
+109|03|09|3475|Other General Economic Services|00||107||0||02|Marketing Committees|||3475-00-107-0-02|HOA Total :|V|Total|Detailed-Head|7826.77|9290.92|9417.32|9347.80
+109|03|09|3475|Other General Economic Services|00||107||0||20|Minimum Floor Price Scheme|||3475-00-107-0-20|Minimum Floor Price Scheme|V|Header|Detailed-Head||||
+109|03|09|3475|Other General Economic Services|00||107||0||20|Minimum Floor Price Scheme|059|Other Expenses|3475-00-107-0-20|Other Expenses|V|Data|Object-Head|5000.00|||
+109|03|09|3475|Other General Economic Services|00||107||0||20|Minimum Floor Price Scheme|106|Subsidies|3475-00-107-0-20|Subsidies|V|Data|Object-Head||5000.00|5000.00|5000.00
+109|03|09|3475|Other General Economic Services|00||107||0||20|Minimum Floor Price Scheme|||3475-00-107-0-20|HOA Total :|V|Total|Detailed-Head|5000.00|5000.00|5000.00|5000.00
+109|03|09|3475|Other General Economic Services|00||196||1||01|Rural Market Infrastructure Scheme|||3475-00-196-1-01|Rural Market Infrastructure Scheme|V|Header|Detailed-Head||||
+109|03|09|3475|Other General Economic Services|00||196||1||01|Rural Market Infrastructure Scheme|402|Bengaluru (Rural)|3475-00-196-1-01|Bengaluru (Rural)|V|Data|Object-Head|14.00|14.00|14.00|16.00
+109|03|09|3475|Other General Economic Services|00||196||1||01|Rural Market Infrastructure Scheme|403|Chitradurga|3475-00-196-1-01|Chitradurga|V|Data|Object-Head|5.00|12.00|12.00|15.00
+109|03|09|3475|Other General Economic Services|00||196||1||01|Rural Market Infrastructure Scheme|404|Kolar|3475-00-196-1-01|Kolar|V|Data|Object-Head|17.00|20.00|20.00|20.00
+109|03|09|3475|Other General Economic Services|00||196||1||01|Rural Market Infrastructure Scheme|405|Shivamogga|3475-00-196-1-01|Shivamogga|V|Data|Object-Head|29.00|29.00|29.00|29.00
+109|03|09|3475|Other General Economic Services|00||196||1||01|Rural Market Infrastructure Scheme|406|Tumakuru|3475-00-196-1-01|Tumakuru|V|Data|Object-Head|5.00|5.00|5.00|5.00
+109|03|09|3475|Other General Economic Services|00||196||1||01|Rural Market Infrastructure Scheme|407|Mysuru|3475-00-196-1-01|Mysuru|V|Data|Object-Head|17.00|20.00|20.00|20.00
+109|03|09|3475|Other General Economic Services|00||196||1||01|Rural Market Infrastructure Scheme|409|Dakshina Kannada|3475-00-196-1-01|Dakshina Kannada|V|Data|Object-Head|53.00|53.00|53.00|53.00
+109|03|09|3475|Other General Economic Services|00||196||1||01|Rural Market Infrastructure Scheme|410|Hassan|3475-00-196-1-01|Hassan|V|Data|Object-Head|3.50|3.50|3.50|3.50
+109|03|09|3475|Other General Economic Services|00||196||1||01|Rural Market Infrastructure Scheme|411|Kodagu|3475-00-196-1-01|Kodagu|V|Data|Object-Head|17.00|17.00|17.00|18.00
+109|03|09|3475|Other General Economic Services|00||196||1||01|Rural Market Infrastructure Scheme|412|Mandya|3475-00-196-1-01|Mandya|V|Data|Object-Head|15.00|15.00|15.00|18.00
+109|03|09|3475|Other General Economic Services|00||196||1||01|Rural Market Infrastructure Scheme|413|Belagavi|3475-00-196-1-01|Belagavi|V|Data|Object-Head|21.00|21.00|21.00|25.00
+109|03|09|3475|Other General Economic Services|00||196||1||01|Rural Market Infrastructure Scheme|414|Vijayapura|3475-00-196-1-01|Vijayapura|V|Data|Object-Head|7.00|7.00|7.00|10.00
+109|03|09|3475|Other General Economic Services|00||196||1||01|Rural Market Infrastructure Scheme|415|Dharwad|3475-00-196-1-01|Dharwad|V|Data|Object-Head|21.00|21.00|21.00|21.00
+109|03|09|3475|Other General Economic Services|00||196||1||01|Rural Market Infrastructure Scheme|416|Uttara Kannada|3475-00-196-1-01|Uttara Kannada|V|Data|Object-Head|16.00|16.00|16.00|12.00
+109|03|09|3475|Other General Economic Services|00||196||1||01|Rural Market Infrastructure Scheme|417|Kalaburagi|3475-00-196-1-01|Kalaburagi|V|Data|Object-Head|11.00|11.00|11.00|11.00
+109|03|09|3475|Other General Economic Services|00||196||1||01|Rural Market Infrastructure Scheme|419|Bidar|3475-00-196-1-01|Bidar|V|Data|Object-Head|13.00|14.00|14.00|15.00

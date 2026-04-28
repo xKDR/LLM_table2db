@@ -1,0 +1,3865 @@
+========================================================================
+CSV CLEANUP LOG
+========================================================================
+Input location : /usr/local/google/home/viki/xkdr/PRJ-India-s-state-budgets-with-LLMs/LOCAL/ocr_self_correction/outputs/runs/FULL_23_27/2026-27_expvol_5/csv_outputs
+Output location: /usr/local/google/home/viki/xkdr/PRJ-India-s-state-budgets-with-LLMs/LOCAL/ocr_self_correction/outputs/runs/FULL_23_27/2026-27_expvol_5/csv_cleaned
+
+Processing sub_major_head (sub_major_head_summary_csv)
+  Skipping: no CSV files found
+
+Processing minor_head (minor_head_summary_csv)
+  Skipping: no CSV files found
+
+Processing sub_head (sub_head_summary_csv)
+  Skipping: no CSV files found
+
+Processing detailed_head (detailed_head_summary_csv)
+  Skipping: no CSV files found
+
+Processing object_head (object_head_summary_csv)
+Processing: page_0014_object.csv
+object_head :: page_0014_object.csv
+  Total rows           : 28
+  Rows without errors  : 28
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0015_object.csv
+object_head :: page_0015_object.csv
+  Total rows           : 26
+  Rows without errors  : 26
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0016_object.csv
+object_head :: page_0016_object.csv
+  Total rows           : 22
+  Rows without errors  : 22
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0017_object.csv
+object_head :: page_0017_object.csv
+  Total rows           : 17
+  Rows without errors  : 17
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0018_object.csv
+object_head :: page_0018_object.csv
+  Total rows           : 15
+  Rows without errors  : 15
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0019_object.csv
+object_head :: page_0019_object.csv
+  Total rows           : 25
+  Rows without errors  : 25
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0020_object.csv
+object_head :: page_0020_object.csv
+  Total rows           : 29
+  Rows without errors  : 29
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0021_object.csv
+object_head :: page_0021_object.csv
+  Total rows           : 26
+  Rows without errors  : 24
+  Rows with errors     : 2
+    - Errors corrected : 3
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 3
+  ⚠️  Rows with issues: 2
+  ⚠️  Avg issues per row: 1.5
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 2
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 16:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (15,).
+    Row 19:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (15,).
+
+Processing: page_0022_object.csv
+object_head :: page_0022_object.csv
+  Total rows           : 27
+  Rows without errors  : 27
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0023_object.csv
+object_head :: page_0023_object.csv
+  Total rows           : 28
+  Rows without errors  : 28
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0024_object.csv
+object_head :: page_0024_object.csv
+  Total rows           : 30
+  Rows without errors  : 30
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0025_object.csv
+object_head :: page_0025_object.csv
+  Total rows           : 20
+  Rows without errors  : 17
+  Rows with errors     : 3
+    - Errors corrected : 4
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 4
+  ⚠️  Rows with issues: 3
+  ⚠️  Avg issues per row: 1.33
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 3
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 16:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 17:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0026_object.csv
+object_head :: page_0026_object.csv
+  Total rows           : 21
+  Rows without errors  : 20
+  Rows with errors     : 1
+    - Errors corrected : 2
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 2
+  ⚠️  Rows with issues: 1
+  ⚠️  Avg issues per row: 2.0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+    - EXTRA_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 9:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0027_object.csv
+object_head :: page_0027_object.csv
+  Total rows           : 21
+  Rows without errors  : 21
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0028_object.csv
+object_head :: page_0028_object.csv
+  Total rows           : 16
+  Rows without errors  : 15
+  Rows with errors     : 1
+    - Errors corrected : 2
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 2
+  ⚠️  Rows with issues: 1
+  ⚠️  Avg issues per row: 2.0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+    - EXTRA_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 8:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0029_object.csv
+object_head :: page_0029_object.csv
+  Total rows           : 15
+  Rows without errors  : 8
+  Rows with errors     : 7
+    - Errors corrected : 8
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 8
+  ⚠️  Rows with issues: 7
+  ⚠️  Avg issues per row: 1.14
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 7
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+    Row 6:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+
+Processing: page_0030_object.csv
+object_head :: page_0030_object.csv
+  Total rows           : 12
+  Rows without errors  : 6
+  Rows with errors     : 6
+    - Errors corrected : 7
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 7
+  ⚠️  Rows with issues: 6
+  ⚠️  Avg issues per row: 1.17
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 6
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 2:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+
+Processing: page_0031_object.csv
+object_head :: page_0031_object.csv
+  Total rows           : 18
+  Rows without errors  : 14
+  Rows with errors     : 4
+    - Errors corrected : 5
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 5
+  ⚠️  Rows with issues: 4
+  ⚠️  Avg issues per row: 1.25
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 4
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 8:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+    Row 11:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+
+Processing: page_0032_object.csv
+object_head :: page_0032_object.csv
+  Total rows           : 17
+  Rows without errors  : 11
+  Rows with errors     : 6
+    - Errors corrected : 7
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 7
+  ⚠️  Rows with issues: 6
+  ⚠️  Avg issues per row: 1.17
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 6
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 4:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+    Row 7:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+
+Processing: page_0033_object.csv
+object_head :: page_0033_object.csv
+  Total rows           : 25
+  Rows without errors  : 17
+  Rows with errors     : 8
+    - Errors corrected : 9
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 9
+  ⚠️  Rows with issues: 8
+  ⚠️  Avg issues per row: 1.12
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 8
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 4:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0034_object.csv
+object_head :: page_0034_object.csv
+  Total rows           : 19
+  Rows without errors  : 14
+  Rows with errors     : 5
+    - Errors corrected : 6
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 6
+  ⚠️  Rows with issues: 5
+  ⚠️  Avg issues per row: 1.2
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 5
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 7:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+    Row 10:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+
+Processing: page_0035_object.csv
+object_head :: page_0035_object.csv
+  Total rows           : 19
+  Rows without errors  : 19
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0036_object.csv
+object_head :: page_0036_object.csv
+  Total rows           : 29
+  Rows without errors  : 29
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0037_object.csv
+object_head :: page_0037_object.csv
+  Total rows           : 27
+  Rows without errors  : 27
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0038_object.csv
+object_head :: page_0038_object.csv
+  Total rows           : 29
+  Rows without errors  : 29
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0039_object.csv
+object_head :: page_0039_object.csv
+  Total rows           : 19
+  Rows without errors  : 15
+  Rows with errors     : 4
+    - Errors corrected : 5
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 5
+  ⚠️  Rows with issues: 4
+  ⚠️  Avg issues per row: 1.25
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 4
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 10:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+    Row 13:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+
+Processing: page_0040_object.csv
+object_head :: page_0040_object.csv
+  Total rows           : 13
+  Rows without errors  : 9
+  Rows with errors     : 4
+    - Errors corrected : 5
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 5
+  ⚠️  Rows with issues: 4
+  ⚠️  Avg issues per row: 1.25
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 4
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+    Row 6:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+
+Processing: page_0041_object.csv
+object_head :: page_0041_object.csv
+  Total rows           : 15
+  Rows without errors  : 10
+  Rows with errors     : 5
+    - Errors corrected : 6
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 6
+  ⚠️  Rows with issues: 5
+  ⚠️  Avg issues per row: 1.2
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 5
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+    Row 6:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+
+Processing: page_0042_object.csv
+object_head :: page_0042_object.csv
+  Total rows           : 13
+  Rows without errors  : 7
+  Rows with errors     : 6
+    - Errors corrected : 7
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 7
+  ⚠️  Rows with issues: 6
+  ⚠️  Avg issues per row: 1.17
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 6
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 2:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+
+Processing: page_0043_object.csv
+object_head :: page_0043_object.csv
+  Total rows           : 15
+  Rows without errors  : 10
+  Rows with errors     : 5
+    - Errors corrected : 6
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 6
+  ⚠️  Rows with issues: 5
+  ⚠️  Avg issues per row: 1.2
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 5
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 1:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 4:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+
+Processing: page_0044_object.csv
+object_head :: page_0044_object.csv
+  Total rows           : 16
+  Rows without errors  : 11
+  Rows with errors     : 5
+    - Errors corrected : 6
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 6
+  ⚠️  Rows with issues: 5
+  ⚠️  Avg issues per row: 1.2
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 5
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+    Row 7:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+
+Processing: page_0045_object.csv
+object_head :: page_0045_object.csv
+  Total rows           : 4
+  Rows without errors  : 2
+  Rows with errors     : 2
+    - Errors corrected : 3
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 3
+  ⚠️  Rows with issues: 2
+  ⚠️  Avg issues per row: 1.5
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+    - EXTRA_COLUMNS_FIXED: 1
+    - MISSING_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+    Row 4:
+      - [MISSING_COLUMNS_FIXED] ALL: Row had 23 columns, expected 24. Inserted 1 empty field(s) at position 14.
+
+Processing: page_0046_object.csv
+object_head :: page_0046_object.csv
+  Total rows           : 23
+  Rows without errors  : 20
+  Rows with errors     : 3
+    - Errors corrected : 4
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 4
+  ⚠️  Rows with issues: 3
+  ⚠️  Avg issues per row: 1.33
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 3
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 17:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (18,).
+    Row 20:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (18,).
+
+Processing: page_0047_object.csv
+object_head :: page_0047_object.csv
+  Total rows           : 23
+  Rows without errors  : 20
+  Rows with errors     : 3
+    - Errors corrected : 4
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 4
+  ⚠️  Rows with issues: 3
+  ⚠️  Avg issues per row: 1.33
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 3
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 4:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0048_object.csv
+object_head :: page_0048_object.csv
+  Total rows           : 18
+  Rows without errors  : 18
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0049_object.csv
+object_head :: page_0049_object.csv
+  Total rows           : 21
+  Rows without errors  : 21
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0050_object.csv
+object_head :: page_0050_object.csv
+  Total rows           : 28
+  Rows without errors  : 28
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0051_object.csv
+object_head :: page_0051_object.csv
+  Total rows           : 28
+  Rows without errors  : 28
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0052_object.csv
+object_head :: page_0052_object.csv
+  Total rows           : 28
+  Rows without errors  : 28
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0053_object.csv
+object_head :: page_0053_object.csv
+  Total rows           : 29
+  Rows without errors  : 29
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0055_object.csv
+object_head :: page_0055_object.csv
+  Total rows           : 29
+  Rows without errors  : 29
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0056_object.csv
+object_head :: page_0056_object.csv
+  Total rows           : 27
+  Rows without errors  : 27
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0057_object.csv
+object_head :: page_0057_object.csv
+  Total rows           : 16
+  Rows without errors  : 16
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0058_object.csv
+object_head :: page_0058_object.csv
+  Total rows           : 18
+  Rows without errors  : 18
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0059_object.csv
+object_head :: page_0059_object.csv
+  Total rows           : 20
+  Rows without errors  : 20
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0060_object.csv
+object_head :: page_0060_object.csv
+  Total rows           : 16
+  Rows without errors  : 11
+  Rows with errors     : 5
+    - Errors corrected : 6
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 6
+  ⚠️  Rows with issues: 5
+  ⚠️  Avg issues per row: 1.2
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 5
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 2:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 5:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0061_object.csv
+object_head :: page_0061_object.csv
+  Total rows           : 4
+  Rows without errors  : 4
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0062_object.csv
+object_head :: page_0062_object.csv
+  Total rows           : 17
+  Rows without errors  : 17
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0063_object.csv
+object_head :: page_0063_object.csv
+  Total rows           : 17
+  Rows without errors  : 17
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0064_object.csv
+object_head :: page_0064_object.csv
+  Total rows           : 25
+  Rows without errors  : 22
+  Rows with errors     : 3
+    - Errors corrected : 4
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 4
+  ⚠️  Rows with issues: 3
+  ⚠️  Avg issues per row: 1.33
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 3
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 17:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 18:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0065_object.csv
+object_head :: page_0065_object.csv
+  Total rows           : 22
+  Rows without errors  : 22
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0066_object.csv
+object_head :: page_0066_object.csv
+  Total rows           : 17
+  Rows without errors  : 17
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0067_object.csv
+object_head :: page_0067_object.csv
+  Total rows           : 25
+  Rows without errors  : 25
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0068_object.csv
+object_head :: page_0068_object.csv
+  Total rows           : 29
+  Rows without errors  : 29
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0069_object.csv
+object_head :: page_0069_object.csv
+  Total rows           : 29
+  Rows without errors  : 29
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0070_object.csv
+object_head :: page_0070_object.csv
+  Total rows           : 29
+  Rows without errors  : 29
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0071_object.csv
+object_head :: page_0071_object.csv
+  Total rows           : 23
+  Rows without errors  : 20
+  Rows with errors     : 3
+    - Errors corrected : 4
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 4
+  ⚠️  Rows with issues: 3
+  ⚠️  Avg issues per row: 1.33
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 3
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 16:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+    Row 19:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+
+Processing: page_0072_object.csv
+object_head :: page_0072_object.csv
+  Total rows           : 21
+  Rows without errors  : 14
+  Rows with errors     : 7
+    - Errors corrected : 8
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 8
+  ⚠️  Rows with issues: 7
+  ⚠️  Avg issues per row: 1.14
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 7
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+    Row 6:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+
+Processing: page_0073_object.csv
+object_head :: page_0073_object.csv
+  Total rows           : 27
+  Rows without errors  : 25
+  Rows with errors     : 2
+    - Errors corrected : 3
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 3
+  ⚠️  Rows with issues: 2
+  ⚠️  Avg issues per row: 1.5
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 2
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 8:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+    Row 27:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+
+Processing: page_0074_object.csv
+object_head :: page_0074_object.csv
+  Total rows           : 13
+  Rows without errors  : 7
+  Rows with errors     : 6
+    - Errors corrected : 7
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 7
+  ⚠️  Rows with issues: 6
+  ⚠️  Avg issues per row: 1.17
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 6
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+    Row 5:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0075_object.csv
+object_head :: page_0075_object.csv
+  Total rows           : 17
+  Rows without errors  : 12
+  Rows with errors     : 5
+    - Errors corrected : 6
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 6
+  ⚠️  Rows with issues: 5
+  ⚠️  Avg issues per row: 1.2
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 5
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 5:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+    Row 8:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+
+Processing: page_0076_object.csv
+object_head :: page_0076_object.csv
+  Total rows           : 13
+  Rows without errors  : 10
+  Rows with errors     : 3
+    - Errors corrected : 3
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 3
+  ⚠️  Rows with issues: 3
+  ⚠️  Avg issues per row: 1.0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 3
+
+  Example rows with issues:
+    Row 5:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+    Row 9:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+    Row 13:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+
+Processing: page_0077_object.csv
+object_head :: page_0077_object.csv
+  Total rows           : 24
+  Rows without errors  : 16
+  Rows with errors     : 8
+    - Errors corrected : 8
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 8
+  ⚠️  Rows with issues: 8
+  ⚠️  Avg issues per row: 1.0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 8
+
+  Example rows with issues:
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 4:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (18,).
+    Row 10:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (18,).
+
+Processing: page_0078_object.csv
+object_head :: page_0078_object.csv
+  Total rows           : 27
+  Rows without errors  : 25
+  Rows with errors     : 2
+    - Errors corrected : 2
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 2
+  ⚠️  Rows with issues: 2
+  ⚠️  Avg issues per row: 1.0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 2
+
+  Example rows with issues:
+    Row 8:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+    Row 28:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+
+Processing: page_0079_object.csv
+object_head :: page_0079_object.csv
+  Total rows           : 24
+  Rows without errors  : 20
+  Rows with errors     : 4
+    - Errors corrected : 5
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 5
+  ⚠️  Rows with issues: 4
+  ⚠️  Avg issues per row: 1.25
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 4
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 16:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+    Row 21:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+
+Processing: page_0080_object.csv
+object_head :: page_0080_object.csv
+  Total rows           : 22
+  Rows without errors  : 22
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0081_object.csv
+object_head :: page_0081_object.csv
+  Total rows           : 23
+  Rows without errors  : 19
+  Rows with errors     : 4
+    - Errors corrected : 5
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 5
+  ⚠️  Rows with issues: 4
+  ⚠️  Avg issues per row: 1.25
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 4
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 12:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 13:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0082_object.csv
+object_head :: page_0082_object.csv
+  Total rows           : 21
+  Rows without errors  : 21
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0083_object.csv
+object_head :: page_0083_object.csv
+  Total rows           : 26
+  Rows without errors  : 20
+  Rows with errors     : 6
+    - Errors corrected : 7
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 7
+  ⚠️  Rows with issues: 6
+  ⚠️  Avg issues per row: 1.17
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 6
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 4:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0084_object.csv
+object_head :: page_0084_object.csv
+  Total rows           : 21
+  Rows without errors  : 21
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0085_object.csv
+object_head :: page_0085_object.csv
+  Total rows           : 23
+  Rows without errors  : 19
+  Rows with errors     : 4
+    - Errors corrected : 5
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 5
+  ⚠️  Rows with issues: 4
+  ⚠️  Avg issues per row: 1.25
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 4
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 9:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 16:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0086_object.csv
+object_head :: page_0086_object.csv
+  Total rows           : 24
+  Rows without errors  : 20
+  Rows with errors     : 4
+    - Errors corrected : 5
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 5
+  ⚠️  Rows with issues: 4
+  ⚠️  Avg issues per row: 1.25
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 4
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 20:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0087_object.csv
+object_head :: page_0087_object.csv
+  Total rows           : 23
+  Rows without errors  : 19
+  Rows with errors     : 4
+    - Errors corrected : 5
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 5
+  ⚠️  Rows with issues: 4
+  ⚠️  Avg issues per row: 1.25
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 4
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 6:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 7:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0088_object.csv
+object_head :: page_0088_object.csv
+  Total rows           : 15
+  Rows without errors  : 15
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0089_object.csv
+object_head :: page_0089_object.csv
+  Total rows           : 14
+  Rows without errors  : 14
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0090_object.csv
+object_head :: page_0090_object.csv
+  Total rows           : 15
+  Rows without errors  : 15
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0091_object.csv
+object_head :: page_0091_object.csv
+  Total rows           : 15
+  Rows without errors  : 15
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0092_object.csv
+object_head :: page_0092_object.csv
+  Total rows           : 14
+  Rows without errors  : 12
+  Rows with errors     : 2
+    - Errors corrected : 3
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 3
+  ⚠️  Rows with issues: 2
+  ⚠️  Avg issues per row: 1.5
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 2
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 13:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 14:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0093_object.csv
+object_head :: page_0093_object.csv
+  Total rows           : 20
+  Rows without errors  : 20
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0094_object.csv
+object_head :: page_0094_object.csv
+  Total rows           : 26
+  Rows without errors  : 26
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0095_object.csv
+object_head :: page_0095_object.csv
+  Total rows           : 19
+  Rows without errors  : 19
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0096_object.csv
+object_head :: page_0096_object.csv
+  Total rows           : 20
+  Rows without errors  : 17
+  Rows with errors     : 3
+    - Errors corrected : 4
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 4
+  ⚠️  Rows with issues: 3
+  ⚠️  Avg issues per row: 1.33
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 3
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 5:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 6:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0097_object.csv
+object_head :: page_0097_object.csv
+  Total rows           : 23
+  Rows without errors  : 23
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0098_object.csv
+object_head :: page_0098_object.csv
+  Total rows           : 22
+  Rows without errors  : 18
+  Rows with errors     : 4
+    - Errors corrected : 5
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 5
+  ⚠️  Rows with issues: 4
+  ⚠️  Avg issues per row: 1.25
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 4
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 6:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 7:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0099_object.csv
+object_head :: page_0099_object.csv
+  Total rows           : 29
+  Rows without errors  : 29
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0100_object.csv
+object_head :: page_0100_object.csv
+  Total rows           : 28
+  Rows without errors  : 28
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0101_object.csv
+object_head :: page_0101_object.csv
+  Total rows           : 29
+  Rows without errors  : 29
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0102_object.csv
+object_head :: page_0102_object.csv
+  Total rows           : 29
+  Rows without errors  : 29
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0103_object.csv
+object_head :: page_0103_object.csv
+  Total rows           : 25
+  Rows without errors  : 25
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0104_object.csv
+object_head :: page_0104_object.csv
+  Total rows           : 26
+  Rows without errors  : 26
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0105_object.csv
+object_head :: page_0105_object.csv
+  Total rows           : 20
+  Rows without errors  : 20
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0106_object.csv
+object_head :: page_0106_object.csv
+  Total rows           : 15
+  Rows without errors  : 12
+  Rows with errors     : 3
+    - Errors corrected : 4
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 4
+  ⚠️  Rows with issues: 3
+  ⚠️  Avg issues per row: 1.33
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 3
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 2:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 5:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0107_object.csv
+object_head :: page_0107_object.csv
+  Total rows           : 12
+  Rows without errors  : 10
+  Rows with errors     : 2
+    - Errors corrected : 3
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 3
+  ⚠️  Rows with issues: 2
+  ⚠️  Avg issues per row: 1.5
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 2
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 5:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 11:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0108_object.csv
+object_head :: page_0108_object.csv
+  Total rows           : 16
+  Rows without errors  : 16
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0109_object.csv
+object_head :: page_0109_object.csv
+  Total rows           : 10
+  Rows without errors  : 7
+  Rows with errors     : 3
+    - Errors corrected : 4
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 4
+  ⚠️  Rows with issues: 3
+  ⚠️  Avg issues per row: 1.33
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 3
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 2:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 5:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0110_object.csv
+object_head :: page_0110_object.csv
+  Total rows           : 28
+  Rows without errors  : 28
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0111_object.csv
+object_head :: page_0111_object.csv
+  Total rows           : 20
+  Rows without errors  : 19
+  Rows with errors     : 1
+    - Errors corrected : 2
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 2
+  ⚠️  Rows with issues: 1
+  ⚠️  Avg issues per row: 2.0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+    - MISSING_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 20:
+      - [MISSING_COLUMNS_FIXED] ALL: Row had 23 columns, expected 24. Inserted 1 empty field(s) at position 14.
+
+Processing: page_0112_object.csv
+object_head :: page_0112_object.csv
+  Total rows           : 16
+  Rows without errors  : 16
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0113_object.csv
+object_head :: page_0113_object.csv
+  Total rows           : 15
+  Rows without errors  : 13
+  Rows with errors     : 2
+    - Errors corrected : 3
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 3
+  ⚠️  Rows with issues: 2
+  ⚠️  Avg issues per row: 1.5
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 2
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 2:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 12:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0114_object.csv
+object_head :: page_0114_object.csv
+  Total rows           : 17
+  Rows without errors  : 16
+  Rows with errors     : 1
+    - Errors corrected : 2
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 2
+  ⚠️  Rows with issues: 1
+  ⚠️  Avg issues per row: 2.0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+    - MISSING_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 17:
+      - [MISSING_COLUMNS_FIXED] ALL: Row had 23 columns, expected 24. Inserted 1 empty field(s) at position 14.
+
+Processing: page_0115_object.csv
+object_head :: page_0115_object.csv
+  Total rows           : 26
+  Rows without errors  : 26
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0116_object.csv
+object_head :: page_0116_object.csv
+  Total rows           : 17
+  Rows without errors  : 17
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0117_object.csv
+object_head :: page_0117_object.csv
+  Total rows           : 18
+  Rows without errors  : 18
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0118_object.csv
+object_head :: page_0118_object.csv
+  Total rows           : 18
+  Rows without errors  : 11
+  Rows with errors     : 7
+    - Errors corrected : 8
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 8
+  ⚠️  Rows with issues: 7
+  ⚠️  Avg issues per row: 1.14
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 7
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 2:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0119_object.csv
+object_head :: page_0119_object.csv
+  Total rows           : 25
+  Rows without errors  : 25
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0120_object.csv
+object_head :: page_0120_object.csv
+  Total rows           : 17
+  Rows without errors  : 16
+  Rows with errors     : 1
+    - Errors corrected : 2
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 2
+  ⚠️  Rows with issues: 1
+  ⚠️  Avg issues per row: 2.0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+    - MISSING_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 17:
+      - [MISSING_COLUMNS_FIXED] ALL: Row had 23 columns, expected 24. Inserted 1 empty field(s) at position 14.
+
+Processing: page_0121_object.csv
+object_head :: page_0121_object.csv
+  Total rows           : 21
+  Rows without errors  : 19
+  Rows with errors     : 2
+    - Errors corrected : 3
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 3
+  ⚠️  Rows with issues: 2
+  ⚠️  Avg issues per row: 1.5
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - MISSING_COLUMNS_FIXED: 2
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 1:
+      - [MISSING_COLUMNS_FIXED] ALL: Row had 23 columns, expected 24. Inserted 1 empty field(s) at position 14.
+    Row 21:
+      - [MISSING_COLUMNS_FIXED] ALL: Row had 23 columns, expected 24. Inserted 1 empty field(s) at position 14.
+
+Processing: page_0122_object.csv
+object_head :: page_0122_object.csv
+  Total rows           : 6
+  Rows without errors  : 6
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0123_object.csv
+object_head :: page_0123_object.csv
+  Total rows           : 10
+  Rows without errors  : 10
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0124_object.csv
+object_head :: page_0124_object.csv
+  Total rows           : 28
+  Rows without errors  : 28
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0125_object.csv
+object_head :: page_0125_object.csv
+  Total rows           : 25
+  Rows without errors  : 22
+  Rows with errors     : 3
+    - Errors corrected : 4
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 4
+  ⚠️  Rows with issues: 3
+  ⚠️  Avg issues per row: 1.33
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 3
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 9:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (18,).
+    Row 10:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0126_object.csv
+object_head :: page_0126_object.csv
+  Total rows           : 21
+  Rows without errors  : 21
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0127_object.csv
+object_head :: page_0127_object.csv
+  Total rows           : 24
+  Rows without errors  : 24
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0128_object.csv
+object_head :: page_0128_object.csv
+  Total rows           : 23
+  Rows without errors  : 21
+  Rows with errors     : 2
+    - Errors corrected : 3
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 3
+  ⚠️  Rows with issues: 2
+  ⚠️  Avg issues per row: 1.5
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 2
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 19:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 21:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0129_object.csv
+object_head :: page_0129_object.csv
+  Total rows           : 22
+  Rows without errors  : 13
+  Rows with errors     : 9
+    - Errors corrected : 10
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 10
+  ⚠️  Rows with issues: 9
+  ⚠️  Avg issues per row: 1.11
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 9
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 4:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+    Row 7:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+
+Processing: page_0130_object.csv
+object_head :: page_0130_object.csv
+  Total rows           : 4
+  Rows without errors  : 2
+  Rows with errors     : 2
+    - Errors corrected : 3
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 3
+  ⚠️  Rows with issues: 2
+  ⚠️  Avg issues per row: 1.5
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 2
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 2:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (16,).
+
+Processing: page_0131_object.csv
+object_head :: page_0131_object.csv
+  Total rows           : 23
+  Rows without errors  : 15
+  Rows with errors     : 8
+    - Errors corrected : 9
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 9
+  ⚠️  Rows with issues: 8
+  ⚠️  Avg issues per row: 1.12
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 8
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 4:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0132_object.csv
+object_head :: page_0132_object.csv
+  Total rows           : 8
+  Rows without errors  : 6
+  Rows with errors     : 2
+    - Errors corrected : 3
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 3
+  ⚠️  Rows with issues: 2
+  ⚠️  Avg issues per row: 1.5
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 2
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 6:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0133_object.csv
+object_head :: page_0133_object.csv
+  Total rows           : 20
+  Rows without errors  : 19
+  Rows with errors     : 1
+    - Errors corrected : 2
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 2
+  ⚠️  Rows with issues: 1
+  ⚠️  Avg issues per row: 2.0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+    - MISSING_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 20:
+      - [MISSING_COLUMNS_FIXED] ALL: Row had 23 columns, expected 24. Inserted 1 empty field(s) at position 14.
+
+Processing: page_0134_object.csv
+object_head :: page_0134_object.csv
+  Total rows           : 23
+  Rows without errors  : 22
+  Rows with errors     : 1
+    - Errors corrected : 2
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 2
+  ⚠️  Rows with issues: 1
+  ⚠️  Avg issues per row: 2.0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+    - MISSING_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 1:
+      - [MISSING_COLUMNS_FIXED] ALL: Row had 23 columns, expected 24. Inserted 1 empty field(s) at position 14.
+
+Processing: page_0135_object.csv
+object_head :: page_0135_object.csv
+  Total rows           : 25
+  Rows without errors  : 25
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0136_object.csv
+object_head :: page_0136_object.csv
+  Total rows           : 26
+  Rows without errors  : 26
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0137_object.csv
+object_head :: page_0137_object.csv
+  Total rows           : 25
+  Rows without errors  : 25
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0138_object.csv
+object_head :: page_0138_object.csv
+  Total rows           : 24
+  Rows without errors  : 18
+  Rows with errors     : 6
+    - Errors corrected : 7
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 7
+  ⚠️  Rows with issues: 6
+  ⚠️  Avg issues per row: 1.17
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 6
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 6:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 7:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0139_object.csv
+object_head :: page_0139_object.csv
+  Total rows           : 27
+  Rows without errors  : 27
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0140_object.csv
+object_head :: page_0140_object.csv
+  Total rows           : 20
+  Rows without errors  : 20
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0141_object.csv
+object_head :: page_0141_object.csv
+  Total rows           : 10
+  Rows without errors  : 6
+  Rows with errors     : 4
+    - Errors corrected : 5
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 5
+  ⚠️  Rows with issues: 4
+  ⚠️  Avg issues per row: 1.25
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 3
+    - HEADER_PREPENDED: 1
+    - MISSING_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 2:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 5:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0142_object.csv
+object_head :: page_0142_object.csv
+  Total rows           : 21
+  Rows without errors  : 17
+  Rows with errors     : 4
+    - Errors corrected : 5
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 5
+  ⚠️  Rows with issues: 4
+  ⚠️  Avg issues per row: 1.25
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 4
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 9:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 14:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0143_object.csv
+object_head :: page_0143_object.csv
+  Total rows           : 11
+  Rows without errors  : 6
+  Rows with errors     : 5
+    - Errors corrected : 6
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 6
+  ⚠️  Rows with issues: 5
+  ⚠️  Avg issues per row: 1.2
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 4
+    - HEADER_PREPENDED: 1
+    - MISSING_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 4:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0144_object.csv
+object_head :: page_0144_object.csv
+  Total rows           : 13
+  Rows without errors  : 10
+  Rows with errors     : 3
+    - Errors corrected : 4
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 4
+  ⚠️  Rows with issues: 3
+  ⚠️  Avg issues per row: 1.33
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 2
+    - HEADER_PREPENDED: 1
+    - MISSING_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 1:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 11:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0145_object.csv
+object_head :: page_0145_object.csv
+  Total rows           : 22
+  Rows without errors  : 19
+  Rows with errors     : 3
+    - Errors corrected : 4
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 4
+  ⚠️  Rows with issues: 3
+  ⚠️  Avg issues per row: 1.33
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 3
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 1:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 20:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0146_object.csv
+object_head :: page_0146_object.csv
+  Total rows           : 23
+  Rows without errors  : 23
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0147_object.csv
+object_head :: page_0147_object.csv
+  Total rows           : 23
+  Rows without errors  : 23
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0148_object.csv
+object_head :: page_0148_object.csv
+  Total rows           : 20
+  Rows without errors  : 20
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0149_object.csv
+object_head :: page_0149_object.csv
+  Total rows           : 7
+  Rows without errors  : 6
+  Rows with errors     : 1
+    - Errors corrected : 2
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 2
+  ⚠️  Rows with issues: 1
+  ⚠️  Avg issues per row: 2.0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+    - MISSING_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 7:
+      - [MISSING_COLUMNS_FIXED] ALL: Row had 23 columns, expected 24. Inserted 1 empty field(s) at position 14.
+
+Processing: page_0150_object.csv
+object_head :: page_0150_object.csv
+  Total rows           : 18
+  Rows without errors  : 15
+  Rows with errors     : 3
+    - Errors corrected : 4
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 4
+  ⚠️  Rows with issues: 3
+  ⚠️  Avg issues per row: 1.33
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 3
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 5:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 8:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0151_object.csv
+object_head :: page_0151_object.csv
+  Total rows           : 18
+  Rows without errors  : 17
+  Rows with errors     : 1
+    - Errors corrected : 2
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 2
+  ⚠️  Rows with issues: 1
+  ⚠️  Avg issues per row: 2.0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+    - EXTRA_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 8:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0152_object.csv
+object_head :: page_0152_object.csv
+  Total rows           : 21
+  Rows without errors  : 21
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0153_object.csv
+object_head :: page_0153_object.csv
+  Total rows           : 17
+  Rows without errors  : 17
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0154_object.csv
+object_head :: page_0154_object.csv
+  Total rows           : 15
+  Rows without errors  : 15
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0155_object.csv
+object_head :: page_0155_object.csv
+  Total rows           : 26
+  Rows without errors  : 26
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0156_object.csv
+object_head :: page_0156_object.csv
+  Total rows           : 22
+  Rows without errors  : 22
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0157_object.csv
+object_head :: page_0157_object.csv
+  Total rows           : 20
+  Rows without errors  : 20
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0158_object.csv
+object_head :: page_0158_object.csv
+  Total rows           : 17
+  Rows without errors  : 17
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0159_object.csv
+object_head :: page_0159_object.csv
+  Total rows           : 20
+  Rows without errors  : 20
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0160_object.csv
+object_head :: page_0160_object.csv
+  Total rows           : 10
+  Rows without errors  : 6
+  Rows with errors     : 4
+    - Errors corrected : 5
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 5
+  ⚠️  Rows with issues: 4
+  ⚠️  Avg issues per row: 1.25
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 3
+    - HEADER_PREPENDED: 1
+    - MISSING_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 2:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 5:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0161_object.csv
+object_head :: page_0161_object.csv
+  Total rows           : 25
+  Rows without errors  : 20
+  Rows with errors     : 5
+    - Errors corrected : 6
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 6
+  ⚠️  Rows with issues: 5
+  ⚠️  Avg issues per row: 1.2
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 5
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 9:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 10:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0162_object.csv
+object_head :: page_0162_object.csv
+  Total rows           : 23
+  Rows without errors  : 20
+  Rows with errors     : 3
+    - Errors corrected : 4
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 4
+  ⚠️  Rows with issues: 3
+  ⚠️  Avg issues per row: 1.33
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 3
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 8:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (15,).
+    Row 12:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (15,).
+
+Processing: page_0163_object.csv
+object_head :: page_0163_object.csv
+  Total rows           : 14
+  Rows without errors  : 9
+  Rows with errors     : 5
+    - Errors corrected : 6
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 6
+  ⚠️  Rows with issues: 5
+  ⚠️  Avg issues per row: 1.2
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 5
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 4:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (15,).
+    Row 7:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (15,).
+
+Processing: page_0164_object.csv
+object_head :: page_0164_object.csv
+  Total rows           : 18
+  Rows without errors  : 12
+  Rows with errors     : 6
+    - Errors corrected : 7
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 7
+  ⚠️  Rows with issues: 6
+  ⚠️  Avg issues per row: 1.17
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 6
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 1:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (15,).
+
+Processing: page_0165_object.csv
+object_head :: page_0165_object.csv
+  Total rows           : 10
+  Rows without errors  : 10
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0166_object.csv
+object_head :: page_0166_object.csv
+  Total rows           : 17
+  Rows without errors  : 17
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0167_object.csv
+object_head :: page_0167_object.csv
+  Total rows           : 4
+  Rows without errors  : 3
+  Rows with errors     : 1
+    - Errors corrected : 2
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 2
+  ⚠️  Rows with issues: 1
+  ⚠️  Avg issues per row: 2.0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+    - MISSING_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 4:
+      - [MISSING_COLUMNS_FIXED] ALL: Row had 23 columns, expected 24. Inserted 1 empty field(s) at position 14.
+
+Processing: page_0168_object.csv
+object_head :: page_0168_object.csv
+  Total rows           : 8
+  Rows without errors  : 7
+  Rows with errors     : 1
+    - Errors corrected : 2
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 2
+  ⚠️  Rows with issues: 1
+  ⚠️  Avg issues per row: 2.0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+    - MISSING_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 8:
+      - [MISSING_COLUMNS_FIXED] ALL: Row had 23 columns, expected 24. Inserted 1 empty field(s) at position 14.
+
+Processing: page_0169_object.csv
+object_head :: page_0169_object.csv
+  Total rows           : 27
+  Rows without errors  : 27
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0170_object.csv
+object_head :: page_0170_object.csv
+  Total rows           : 10
+  Rows without errors  : 9
+  Rows with errors     : 1
+    - Errors corrected : 2
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 2
+  ⚠️  Rows with issues: 1
+  ⚠️  Avg issues per row: 2.0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+    - EXTRA_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0171_object.csv
+object_head :: page_0171_object.csv
+  Total rows           : 28
+  Rows without errors  : 21
+  Rows with errors     : 7
+    - Errors corrected : 8
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 8
+  ⚠️  Rows with issues: 7
+  ⚠️  Avg issues per row: 1.14
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 7
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 4:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 5:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0172_object.csv
+object_head :: page_0172_object.csv
+  Total rows           : 27
+  Rows without errors  : 27
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0173_object.csv
+object_head :: page_0173_object.csv
+  Total rows           : 20
+  Rows without errors  : 20
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0174_object.csv
+object_head :: page_0174_object.csv
+  Total rows           : 18
+  Rows without errors  : 13
+  Rows with errors     : 5
+    - Errors corrected : 6
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 6
+  ⚠️  Rows with issues: 5
+  ⚠️  Avg issues per row: 1.2
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 5
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 2:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 5:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0175_object.csv
+object_head :: page_0175_object.csv
+  Total rows           : 10
+  Rows without errors  : 7
+  Rows with errors     : 3
+    - Errors corrected : 4
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 4
+  ⚠️  Rows with issues: 3
+  ⚠️  Avg issues per row: 1.33
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 2
+    - HEADER_PREPENDED: 1
+    - MISSING_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 2:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 5:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0176_object.csv
+object_head :: page_0176_object.csv
+  Total rows           : 7
+  Rows without errors  : 6
+  Rows with errors     : 1
+    - Errors corrected : 2
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 2
+  ⚠️  Rows with issues: 1
+  ⚠️  Avg issues per row: 2.0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+    - MISSING_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 7:
+      - [MISSING_COLUMNS_FIXED] ALL: Row had 23 columns, expected 24. Inserted 1 empty field(s) at position 14.
+
+Processing: page_0177_object.csv
+object_head :: page_0177_object.csv
+  Total rows           : 25
+  Rows without errors  : 20
+  Rows with errors     : 5
+    - Errors corrected : 6
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 6
+  ⚠️  Rows with issues: 5
+  ⚠️  Avg issues per row: 1.2
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 5
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 4:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0178_object.csv
+object_head :: page_0178_object.csv
+  Total rows           : 23
+  Rows without errors  : 19
+  Rows with errors     : 4
+    - Errors corrected : 5
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 5
+  ⚠️  Rows with issues: 4
+  ⚠️  Avg issues per row: 1.25
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 4
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 11:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 12:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0179_object.csv
+object_head :: page_0179_object.csv
+  Total rows           : 27
+  Rows without errors  : 27
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0180_object.csv
+object_head :: page_0180_object.csv
+  Total rows           : 21
+  Rows without errors  : 17
+  Rows with errors     : 4
+    - Errors corrected : 5
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 5
+  ⚠️  Rows with issues: 4
+  ⚠️  Avg issues per row: 1.25
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 4
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 3:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 4:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0181_object.csv
+object_head :: page_0181_object.csv
+  Total rows           : 19
+  Rows without errors  : 19
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0182_object.csv
+object_head :: page_0182_object.csv
+  Total rows           : 19
+  Rows without errors  : 17
+  Rows with errors     : 2
+    - Errors corrected : 3
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 3
+  ⚠️  Rows with issues: 2
+  ⚠️  Avg issues per row: 1.5
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 2
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 17:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+    Row 18:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (24,).
+
+Processing: page_0183_object.csv
+object_head :: page_0183_object.csv
+  Total rows           : 15
+  Rows without errors  : 15
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0184_object.csv
+object_head :: page_0184_object.csv
+  Total rows           : 23
+  Rows without errors  : 23
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0185_object.csv
+object_head :: page_0185_object.csv
+  Total rows           : 6
+  Rows without errors  : 6
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0186_object.csv
+object_head :: page_0186_object.csv
+  Total rows           : 12
+  Rows without errors  : 12
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0187_object.csv
+object_head :: page_0187_object.csv
+  Total rows           : 21
+  Rows without errors  : 21
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0188_object.csv
+object_head :: page_0188_object.csv
+  Total rows           : 16
+  Rows without errors  : 16
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0189_object.csv
+object_head :: page_0189_object.csv
+  Total rows           : 6
+  Rows without errors  : 6
+  Rows with errors     : 0
+    - Errors corrected : 1
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 1
+  ⚠️  Rows with issues: 0
+  ⚠️  Avg issues per row: 0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+
+Processing: page_0190_object.csv
+object_head :: page_0190_object.csv
+  Total rows           : 6
+  Rows without errors  : 5
+  Rows with errors     : 1
+    - Errors corrected : 2
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 2
+  ⚠️  Rows with issues: 1
+  ⚠️  Avg issues per row: 2.0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+    - MISSING_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 6:
+      - [MISSING_COLUMNS_FIXED] ALL: Row had 23 columns, expected 24. Inserted 1 empty field(s) at position 14.
+
+Processing: page_0191_object.csv
+object_head :: page_0191_object.csv
+  Total rows           : 12
+  Rows without errors  : 10
+  Rows with errors     : 2
+    - Errors corrected : 3
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 3
+  ⚠️  Rows with issues: 2
+  ⚠️  Avg issues per row: 1.5
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - MISSING_COLUMNS_FIXED: 2
+    - HEADER_PREPENDED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 1:
+      - [MISSING_COLUMNS_FIXED] ALL: Row had 23 columns, expected 24. Inserted 1 empty field(s) at position 14.
+    Row 12:
+      - [MISSING_COLUMNS_FIXED] ALL: Row had 23 columns, expected 24. Inserted 1 empty field(s) at position 14.
+
+Processing: page_0192_object.csv
+object_head :: page_0192_object.csv
+  Total rows           : 16
+  Rows without errors  : 11
+  Rows with errors     : 5
+    - Errors corrected : 6
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 6
+  ⚠️  Rows with issues: 5
+  ⚠️  Avg issues per row: 1.2
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 4
+    - HEADER_PREPENDED: 1
+    - MISSING_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 1:
+      - [MISSING_COLUMNS_FIXED] ALL: Row had 23 columns, expected 24. Inserted 1 empty field(s) at position 14.
+    Row 7:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (15,).
+
+Processing: page_0193_object.csv
+object_head :: page_0193_object.csv
+  Total rows           : 11
+  Rows without errors  : 7
+  Rows with errors     : 4
+    - Errors corrected : 5
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 5
+  ⚠️  Rows with issues: 4
+  ⚠️  Avg issues per row: 1.25
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - EXTRA_COLUMNS_FIXED: 3
+    - HEADER_PREPENDED: 1
+    - MISSING_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 4:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (15,).
+    Row 7:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (15,).
+
+Processing: page_0194_object.csv
+object_head :: page_0194_object.csv
+  Total rows           : 13
+  Rows without errors  : 12
+  Rows with errors     : 1
+    - Errors corrected : 2
+    - Errors uncorrected: 0
+  ⚠️  Total issues: 2
+  ⚠️  Rows with issues: 1
+  ⚠️  Avg issues per row: 2.0
+  ⚠️  Max issues in a row: 1
+
+  Issue breakdown by code:
+    - HEADER_PREPENDED: 1
+    - EXTRA_COLUMNS_FIXED: 1
+
+  Example rows with issues:
+    Row 0:
+      - [HEADER_PREPENDED] HEADER: No header row found; prepended schema header (object_head) (info)
+    Row 12:
+      - [EXTRA_COLUMNS_FIXED] ALL: Row had 25 columns, expected 24. Removed empty fields at positions (15,).
+
+Summary for object_head (object_head_summary_csv):
+  files processed      : 180
+  total rows           : 3541
+  rows without errors  : 3232
+  rows with errors     : 309
+    - errors corrected : 486
+    - errors uncorrected: 0
+  total issues         : 486
+  issue breakdown      :
+    - EXTRA_COLUMNS_FIXED: 287
+    - HEADER_PREPENDED: 177
+    - MISSING_COLUMNS_FIXED: 22
+
+
+========================================================================
+OVERALL SUMMARY
+========================================================================
+Files processed      : 180
+Total rows           : 3541
+Rows without errors  : 3232
+Rows with errors     : 309
+  - Errors corrected : 486
+  - Errors uncorrected: 0
+Total issues         : 486
+Issue breakdown      :
+  - EXTRA_COLUMNS_FIXED: 287
+  - HEADER_PREPENDED: 177
+  - MISSING_COLUMNS_FIXED: 22

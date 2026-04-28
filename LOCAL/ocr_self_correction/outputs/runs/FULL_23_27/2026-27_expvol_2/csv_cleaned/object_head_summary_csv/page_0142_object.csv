@@ -1,0 +1,29 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+129|02|22|2211|Family Welfare|00||196||6||04||463|Haveri|2211-00-196-6-04|Haveri|V|Data|Object-Head|178.11|200.34|200.34|222.74
+129|02|22|2211|Family Welfare|00||196||6||04||466|Koppal|2211-00-196-6-04|Koppal|V|Data|Object-Head|221.08|251.56|251.56|216.37
+129|02|22|2211|Family Welfare|00||196||6||04||467|Vijayanagara|2211-00-196-6-04|Vijayanagara|V|Data|Object-Head|126.62|178.21|178.21|185.70
+129|02|22|2211|Family Welfare|00||196||6||04||||2211-00-196-6-04|HOA Total :|V|Total|Detailed-Head|7197.39|7761.74|7761.74|7556.91
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs||||2211-00-196-6-05|Rural Family Health Centres in PHCs|Header|Detailed-Head||||
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|401|Bengaluru (Urban)|2211-00-196-6-05|Bengaluru (Urban)|V|Data|Object-Head|479.07|497.77|497.77|485.82
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|402|Bengaluru (Rural)|2211-00-196-6-05|Bengaluru (Rural)|V|Data|Object-Head|132.07|161.48|161.48|212.49
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|403|Chitradurga|2211-00-196-6-05|Chitradurga|V|Data|Object-Head|437.03|472.84|472.84|462.57
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|404|Kolar|2211-00-196-6-05|Kolar|V|Data|Object-Head|369.33|420.02|420.02|388.72
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|405|Shivamogga|2211-00-196-6-05|Shivamogga|V|Data|Object-Head|427.51|484.93|484.93|450.64
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|406|Tumakuru|2211-00-196-6-05|Tumakuru|V|Data|Object-Head|819.15|918.35|918.35|912.56
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|407|Mysuru|2211-00-196-6-05|Mysuru|V|Data|Object-Head|418.87|417.43|417.43|431.08
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|408|Chikkamagaluru|2211-00-196-6-05|Chikkamagaluru|V|Data|Object-Head|407.08|469.44|469.44|447.78
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|409|Dakshina Kannada|2211-00-196-6-05|Dakshina Kannada|V|Data|Object-Head|473.89|477.39|477.39|431.03
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|410|Hassan|2211-00-196-6-05|Hassan|V|Data|Object-Head|839.71|981.09|981.09|895.94
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|411|Kodagu|2211-00-196-6-05|Kodagu|V|Data|Object-Head|71.76|67.63|67.63|71.38
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|412|Mandya|2211-00-196-6-05|Mandya|V|Data|Object-Head|348.53|365.40|365.40|372.99
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|413|Belagavi|2211-00-196-6-05|Belagavi|V|Data|Object-Head|1735.50|1864.43|1864.43|1776.79
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|414|Vijayapura|2211-00-196-6-05|Vijayapura|V|Data|Object-Head|985.89|1136.40|1136.40|1162.28
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|415|Dharwad|2211-00-196-6-05|Dharwad|V|Data|Object-Head|517.91|557.71|557.71|613.26
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|416|Uttara Kannada|2211-00-196-6-05|Uttara Kannada|V|Data|Object-Head|547.23|563.09|563.09|492.32
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|417|Kalaburagi|2211-00-196-6-05|Kalaburagi|V|Data|Object-Head|977.93|1040.09|1040.09|960.73
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|418|Ballari|2211-00-196-6-05|Ballari|V|Data|Object-Head|412.67|453.25|453.25|404.35
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|419|Bidar|2211-00-196-6-05|Bidar|V|Data|Object-Head|751.02|898.56|898.56|883.65
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|420|Raichur|2211-00-196-6-05|Raichur|V|Data|Object-Head|573.45|668.90|668.90|665.65
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|421|Yadgiri|2211-00-196-6-05|Yadgiri|V|Data|Object-Head|328.64|327.92|327.92|281.61
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|451|Davanagere|2211-00-196-6-05|Davanagere|V|Data|Object-Head|582.22|611.93|611.93|588.03
+129|02|22|2211|Family Welfare|00||196||6||05|Rural Family Health Centres in PHCs|452|Bengaluru South|2211-00-196-6-05|Bengaluru South|V|Data|Object-Head|204.35|220.27|220.27|236.57

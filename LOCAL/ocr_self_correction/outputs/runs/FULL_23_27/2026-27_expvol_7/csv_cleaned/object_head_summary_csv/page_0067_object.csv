@@ -1,0 +1,8 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+56|07|24|4801|Capital Outlay on Power Projects|01||||||||||4801|Capital Outlay on Power Projects|V|Header|Major-Head||||
+56|07|24|4801|Capital Outlay on Power Projects|01||190||0||09|Investment in Power Utility|||4801-01-190-0-09|Investment in Power Utility|V|Header|Detailed-Head||||
+56|07|24|4801|Capital Outlay on Power Projects|01||190||0||09|Investment in Power Utility|211|Investment|4801-01-190-0-09|Investment|V|Data|Object-Head|43896.00|55540.00|55540.00|
+56|07|24|4801|Capital Outlay on Power Projects|01||190||0||09|Investment in Power Utility|422|Schedule Caste Sub Plan|4801-01-190-0-09|Schedule Caste Sub Plan|V|Data|Object-Head|10290.00|10290.00|10290.00|
+56|07|24|4801|Capital Outlay on Power Projects|01||190||0||09|Investment in Power Utility|423|Tribal Sub Plan|4801-01-190-0-09|Tribal Sub Plan|V|Data|Object-Head|4170.00|4170.00|4170.00|
+56|07|24|4801|Capital Outlay on Power Projects|01||190||0||09|Investment in Power Utility||||HOA Total :|V|Total|Detailed-Head|58356.00|70000.00|70000.00|0.00
+56|07|24|4801|Capital Outlay on Power Projects|01||||||||||4801|4801 - Total :|V|Total|Major-Head|58356.00|70000.00|70000.00|0.00

@@ -1,0 +1,20 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+145|02|25|2205|Art and Culture|00||104|State Archives Unit|0||01|State Archives Unit|200|Maintenance Expenditure|2205-00-104-0-01|Maintenance Expenditure|V|Data|Object-Head|17.06|25.00|25.00|20.00
+145|02|25|2205|Art and Culture|00||104|State Archives Unit|0||01|State Archives Unit|||2205-00-104-0-01|HOA Total :|V|Total|Detailed-Head|440.58|508.86|610.44|690.78
+145|02|25|2205|Art and Culture|00||107||0||04|Maintenance of Mysore Palace|||2205-00-107-0-04|Maintenance of Mysore Palace|V|Header|Detailed-Head||||
+145|02|25|2205|Art and Culture|00||107||0||04|Maintenance of Mysore Palace|002|Basic Pay|2205-00-107-0-04|Basic Pay|V|Data|Object-Head|38.53|124.00|128.44|116.00
+145|02|25|2205|Art and Culture|00||107||0||04|Maintenance of Mysore Palace|003|Basic Pay-Staff|2205-00-107-0-04|Basic Pay-Staff|V|Data|Object-Head|71.41|||
+145|02|25|2205|Art and Culture|00||107||0||04|Maintenance of Mysore Palace|004|Interim Relief|2205-00-107-0-04|Interim Relief|V|Data|Object-Head|6.27|||
+145|02|25|2205|Art and Culture|00||107||0||04|Maintenance of Mysore Palace|011|Dearness Allowance|2205-00-107-0-04|Dearness Allowance|V|Data|Object-Head|24.20|28.00|28.00|29.00
+145|02|25|2205|Art and Culture|00||107||0||04|Maintenance of Mysore Palace|014|Other Allowance|2205-00-107-0-04|Other Allowance|V|Data|Object-Head|18.75|22.00|22.77|19.00
+145|02|25|2205|Art and Culture|00||107||0||04|Maintenance of Mysore Palace|020|Medical Allowance|2205-00-107-0-04|Medical Allowance|V|Data|Object-Head|0.70|||
+145|02|25|2205|Art and Culture|00||107||0||04|Maintenance of Mysore Palace|021|Reimbursement of Medical Expenses|2205-00-107-0-04|Reimbursement of Medical Expenses|V|Data|Object-Head|0.68|9.00|9.00|9.00
+145|02|25|2205|Art and Culture|00||107||0||04|Maintenance of Mysore Palace|035|Salary of Board/Corp.Staff working in State Government|2205-00-107-0-04|Salary of Board/Corp.Staff working in State Government|V|Data|Object-Head|62.57|78.16|78.16|71.53
+145|02|25|2205|Art and Culture|00||107||0||04|Maintenance of Mysore Palace|||2205-00-107-0-04|HOA Total :|V|Total|Detailed-Head|223.11|261.16|266.37|244.53
+145|02|25|2205|Art and Culture|00||796||0||01|Development Action Plan for Scheduled Tribes (DAPST)|||2205-00-796-0-01|Development Action Plan for Scheduled Tribes (DAPST)|V|Header|Detailed-Head||||
+145|02|25|2205|Art and Culture|00||796||0||01|Development Action Plan for Scheduled Tribes (DAPST)|423|Tribal Sub Plan|2205-00-796-0-01|Tribal Sub Plan|V|Data|Object-Head|299.99|300.00|300.00|500.00
+145|02|25|2205|Art and Culture|00||796||0||01|Development Action Plan for Scheduled Tribes (DAPST)|||2205-00-796-0-01|HOA Total :|V|Total|Detailed-Head|299.99|300.00|300.00|500.00
+145|02|25|2205|Art and Culture|00||800||0||15|Unspent SCSP-TSP Amount as per the SCSP-TSP Act 2013|||2205-00-800-0-15|Unspent SCSP-TSP Amount as per the SCSP-TSP Act 2013|V|Header|Detailed-Head||||
+145|02|25|2205|Art and Culture|00||800||0||15|Unspent SCSP-TSP Amount as per the SCSP-TSP Act 2013|422|Schedule Caste Sub Plan|2205-00-800-0-15|Schedule Caste Sub Plan|V|Data|Object-Head|96.50|2.56|2.56|0.09
+145|02|25|2205|Art and Culture|00||800||0||15|Unspent SCSP-TSP Amount as per the SCSP-TSP Act 2013|423|Tribal Sub Plan|2205-00-800-0-15|Tribal Sub Plan|V|Data|Object-Head|25.31|2.22|2.22|0.01
+145|02|25|2205|Art and Culture|00||800||0||15|Unspent SCSP-TSP Amount as per the SCSP-TSP Act 2013|||2205-00-800-0-15|HOA Total :|V|Total|Detailed-Head|121.81|4.78|4.78|0.10

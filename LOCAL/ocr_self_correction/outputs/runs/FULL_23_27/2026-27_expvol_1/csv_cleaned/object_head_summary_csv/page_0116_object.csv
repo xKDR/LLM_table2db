@@ -1,0 +1,14 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+102|01|05|2041|Taxes on Vehicles|00||902||0||01|Deduct - Amount met from Karnataka State Road Safety Fund|||2041-00-902-0-01|Deduct - Amount met from Karnataka State Road Safety Fund|V|Header|Detailed-Head||||
+102|01|05|2041|Taxes on Vehicles|00||902||0||01|Deduct - Amount met from Karnataka State Road Safety Fund|261|Inter Account Transfers|2041-00-902-0-01|Inter Account Transfers|V|Data|Object-Head|-8992.09|||
+102|01|05|2041|Taxes on Vehicles|00||902||0||01|Deduct - Amount met from Karnataka State Road Safety Fund|||2041-00-902-0-01|HOA Total :|V|Total|Detailed-Head|-8992.09|0.00|0.00|0.00
+102|01|05|2041|Taxes on Vehicles|00||902||0||02|Deduct - Amount met from Green Tax Fund|||2041-00-902-0-02|Deduct - Amount met from Green Tax Fund|V|Header|Detailed-Head||||
+102|01|05|2041|Taxes on Vehicles|00||902||0||02|Deduct - Amount met from Green Tax Fund|261|Inter Account Transfers|2041-00-902-0-02|Inter Account Transfers|V|Data|Object-Head|-1907.95|-2000.00|-2000.00|-2000.00
+102|01|05|2041|Taxes on Vehicles|00||902||0||02|Deduct - Amount met from Green Tax Fund|||2041-00-902-0-02|HOA Total :|V|Total|Detailed-Head|-1907.95|-2000.00|-2000.00|-2000.00
+102|01|05|2041|Taxes on Vehicles|00||911||0||00|Deduct Recoveries of Over Payment|||2041-00-911-0-00|Deduct Recoveries of Over Payment|V|Header|Detailed-Head||||
+102|01|05|2041|Taxes on Vehicles|00||911||0||00|Deduct Recoveries of Over Payment|364|Deduct - Recoveries|2041-00-911-0-00|Deduct - Recoveries|V|Data|Object-Head|-0.06|||
+102|01|05|2041|Taxes on Vehicles|00||911||0||00|Deduct Recoveries of Over Payment|||2041-00-911-0-00|HOA Total :|V|Total|Detailed-Head|-0.06|0.00|0.00|0.00
+102|01|05|2041|Taxes on Vehicles|00||911||0||01|Deduct Recovery of Over Payments of Current Year|||2041-00-911-0-01|Deduct Recovery of Over Payments of Current Year|V|Header|Detailed-Head||||
+102|01|05|2041|Taxes on Vehicles|00||911||0||01|Deduct Recovery of Over Payments of Current Year|364|Deduct - Recoveries|2041-00-911-0-01|Deduct - Recoveries|V|Data|Object-Head|-4.61|||
+102|01|05|2041|Taxes on Vehicles|00||911||0||01|Deduct Recovery of Over Payments of Current Year|||2041-00-911-0-01|HOA Total :|V|Total|Detailed-Head|-4.61|0.00|0.00|0.00
+102|01|05|2041|Taxes on Vehicles|00||||||||||2041-00-000-0-00|2041 - Total :|V|Total|Major-Head|51051.36|54953.43|24955.93|55986.23

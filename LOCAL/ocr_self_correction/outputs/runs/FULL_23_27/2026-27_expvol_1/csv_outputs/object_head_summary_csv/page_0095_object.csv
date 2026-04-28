@@ -1,0 +1,23 @@
+81|01|05|2055|Police|00||118|Coastal Security|0||01|KSISF-ISD-Coastal Security|034|Contract/Outsource|2055-00-118-0-01|Contract/Outsource|V|Data|Object-Head||||38.79
+81|01|05|2055|Police|00||118|Coastal Security|0||01|KSISF-ISD-Coastal Security|041|Travel Expenses|2055-00-118-0-01|Travel Expenses|V|Data|Object-Head|151.00|78.00|168.00|100.00
+81|01|05|2055|Police|00||118|Coastal Security|0||01|KSISF-ISD-Coastal Security|050|Office Expenses|2055-00-118-0-01|Office Expenses|V|Data|Object-Head||23.00|23.00|250.00
+81|01|05|2055|Police|00||118|Coastal Security|0||01|KSISF-ISD-Coastal Security|051|General Expenses|2055-00-118-0-01|General Expenses|V|Data|Object-Head|349.93|700.00|760.00|270.00
+81|01|05|2055|Police|00||118|Coastal Security|0||01|KSISF-ISD-Coastal Security|052|Telephone Charges|2055-00-118-0-01|Telephone Charges|V|Data|Object-Head|10.78|||
+81|01|05|2055|Police|00||118|Coastal Security|0||01|KSISF-ISD-Coastal Security|053|Purchase of Furniture and Fixture for Office|2055-00-118-0-01|Purchase of Furniture and Fixture for Office|V|Data|Object-Head|9.43|||
+81|01|05|2055|Police|00||118|Coastal Security|0||01|KSISF-ISD-Coastal Security|071|Building Expenses|2055-00-118-0-01|Building Expenses|V|Data|Object-Head|39.58|52.00|52.00|52.00
+81|01|05|2055|Police|00||118|Coastal Security|0||01|KSISF-ISD-Coastal Security|195|Transport Expenses|2055-00-118-0-01|Transport Expenses|V|Data|Object-Head|339.94|300.00|300.00|488.51
+81|01|05|2055|Police|00||118|Coastal Security|0||01|KSISF-ISD-Coastal Security|221|Materials and Supplies|2055-00-118-0-01|Materials and Supplies|V|Data|Object-Head|35.99|30.00|30.00|30.00
+81|01|05|2055|Police|00||118|Coastal Security|0||01|KSISF-ISD-Coastal Security|234|Diet Expenses|2055-00-118-0-01|Diet Expenses|V|Data|Object-Head||100.00|100.00|100.00
+81|01|05|2055|Police|00||118|Coastal Security|0||01|KSISF-ISD-Coastal Security|||||HOA Total :|V|Total|Detailed-Head|24196.67|29091.09|29191.09|30566.18
+81|01|05|2055|Police|00||797|Transfers to Reserve Funds and Deposit Accounts|0||01|Transfers to Karnataka State Road Safety Fund|||2055-00-797-0-01|Transfers to Karnataka State Road Safety Fund|V|Header|Detailed-Head||||
+81|01|05|2055|Police|00||797|Transfers to Reserve Funds and Deposit Accounts|0||01|Transfers to Karnataka State Road Safety Fund|261|Inter Account Transfers|2055-00-797-0-01|Inter Account Transfers|V|Data|Object-Head|9645.70|15000.00||18000.00
+81|01|05|2055|Police|00||797|Transfers to Reserve Funds and Deposit Accounts|0||01|Transfers to Karnataka State Road Safety Fund|||||HOA Total :|V|Total|Detailed-Head|9645.70|15000.00|0.00|18000.00
+81|01|05|2055|Police|00||902|Deduct - Amount met from Reserve Funds and Deposit Accounts|0||01|Deduct - Amount met from Karnataka State Road Safety Fund|||2055-00-902-0-01|Deduct - Amount met from Karnataka State Road Safety Fund|V|Header|Detailed-Head||||
+81|01|05|2055|Police|00||902|Deduct - Amount met from Reserve Funds and Deposit Accounts|0||01|Deduct - Amount met from Karnataka State Road Safety Fund|261|Inter Account Transfers|2055-00-902-0-01|Inter Account Transfers|V|Data|Object-Head|-7899.64|||
+81|01|05|2055|Police|00||902|Deduct - Amount met from Reserve Funds and Deposit Accounts|0||01|Deduct - Amount met from Karnataka State Road Safety Fund|||||HOA Total :|V|Total|Detailed-Head|-7899.64|0.00|0.00|0.00
+81|01|05|2055|Police|00||911|Deduct Recoveries of Overpayments|0||00|Deduct Recoveries of Over Payment|||2055-00-911-0-00|Deduct Recoveries of Over Payment|V|Header|Detailed-Head||||
+81|01|05|2055|Police|00||911|Deduct Recoveries of Overpayments|0||00|Deduct Recoveries of Over Payment|364|Deduct - Recoveries|2055-00-911-0-00|Deduct - Recoveries|V|Data|Object-Head|-3.03|||
+81|01|05|2055|Police|00||911|Deduct Recoveries of Overpayments|0||00|Deduct Recoveries of Over Payment|||||HOA Total :|V|Total|Detailed-Head|-3.03|0.00|0.00|0.00
+81|01|05|2055|Police|00||911|Deduct Recoveries of Overpayments|0||01|Deduct Recovery of Overpayments|||2055-00-911-0-01|Deduct Recovery of Overpayments|V|Header|Detailed-Head||||
+81|01|05|2055|Police|00||911|Deduct Recoveries of Overpayments|0||01|Deduct Recovery of Overpayments|364|Deduct - Recoveries|2055-00-911-0-01|Deduct - Recoveries|V|Data|Object-Head|-847.06|||
+81|01|05|2055|Police|00||911|Deduct Recoveries of Overpayments|0||01|Deduct Recovery of Overpayments|||||HOA Total :|V|Total|Detailed-Head|-847.06|0.00|0.00|0.00

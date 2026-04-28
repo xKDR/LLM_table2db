@@ -1,0 +1,14 @@
+{
+  "year": "2026-27",
+  "volume": "expvol_6",
+  "snippet_pdf": "DATA/All_States/KA_2026-27/2026-27_expvol_6.pdf",
+  "extract_start_page": "12",
+  "extract_end_page": "66",
+  "source_page_start": "12",
+  "source_page_end": "66",
+  "baseline_hotspot": "full",
+  "prompt_path": "LOCAL/ocr_self_correction/prompts/base_prompt_newFYs.md",
+  "model": "gemini-3-flash-preview",
+  "run_id": "FULL_23_27",
+  "timestamp": "2026-04-21T03:13:13.609354+00:00"
+}

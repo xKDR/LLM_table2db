@@ -1,0 +1,26 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+62|01|04|2251|Secretariat - Social Services|00||||||||||2251|Secretariat - Social Services||Header|Major-Head||||
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|||||||2251-00-090|Secretariat||Header|Minor-Head||||
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||||||2251-00-090-0|||Header|Sub-Head||||
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||01|Karnataka Government Secretariat|||2251-00-090-0-01|Karnataka Government Secretariat||Header|Detailed-Head||||
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||01|Karnataka Government Secretariat|002|Basic Pay|2251-00-090-0-01|Basic Pay||Data|Object-Head|2281.54|4880.00|4880.00|5003.00
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||01|Karnataka Government Secretariat|003|Basic Pay-Staff|2251-00-090-0-01|Basic Pay-Staff||Data|Object-Head|1624.98|||
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||01|Karnataka Government Secretariat|004|Interim Relief|2251-00-090-0-01|Interim Relief||Data|Object-Head|237.53|||
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||01|Karnataka Government Secretariat|011|Dearness Allowance|2251-00-090-0-01|Dearness Allowance||Data|Object-Head|1011.02|1198.00|1198.00|1386.00
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||01|Karnataka Government Secretariat|014|Other Allowance|2251-00-090-0-01|Other Allowance||Data|Object-Head|1069.77|1256.00|1261.00|1253.00
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||01|Karnataka Government Secretariat|020|Medical Allowance|2251-00-090-0-01|Medical Allowance||Data|Object-Head|12.82|||
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||01|Karnataka Government Secretariat|021|Reimbursement of Medical Expenses|2251-00-090-0-01|Reimbursement of Medical Expenses||Data|Object-Head|14.87|38.00|38.00|37.00
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||01|Karnataka Government Secretariat|034|Contract/Outsource|2251-00-090-0-01|Contract/Outsource||Data|Object-Head|226.55|318.74|318.74|
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||01|Karnataka Government Secretariat|035|Salary of Board/Corp.Staff working in State Government|2251-00-090-0-01|Salary of Board/Corp.Staff working in State Government||Data|Object-Head|26.99|31.76|31.76|
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||01|Karnataka Government Secretariat|||||HOA Total :|Total|Detailed-Head|6506.07|7722.50|7727.50|7679.00
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||03|Karnataka Information Commission|||2251-00-090-0-03|Karnataka Information Commission||Header|Detailed-Head||||
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||03|Karnataka Information Commission|001|Consolidated Salaries|2251-00-090-0-03|Consolidated Salaries||Data|Object-Head|180.51|548.32|548.32|578.00
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||03|Karnataka Information Commission|002|Basic Pay|2251-00-090-0-03|Basic Pay||Data|Object-Head|44.00|71.00|71.00|122.00
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||03|Karnataka Information Commission|003|Basic Pay-Staff|2251-00-090-0-03|Basic Pay-Staff||Data|Object-Head|24.99|||
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||03|Karnataka Information Commission|004|Interim Relief|2251-00-090-0-03|Interim Relief||Data|Object-Head|3.91|||
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||03|Karnataka Information Commission|011|Dearness Allowance|2251-00-090-0-03|Dearness Allowance||Data|Object-Head|21.28|16.00|16.00|40.00
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||03|Karnataka Information Commission|014|Other Allowance|2251-00-090-0-03|Other Allowance||Data|Object-Head|19.53|15.00|15.00|28.00
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||03|Karnataka Information Commission|020|Medical Allowance|2251-00-090-0-03|Medical Allowance||Data|Object-Head|0.19|||
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||03|Karnataka Information Commission|021|Reimbursement of Medical Expenses|2251-00-090-0-03|Reimbursement of Medical Expenses||Data|Object-Head|2.52|3.00|3.00|9.00
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||03|Karnataka Information Commission|034|Contract/Outsource|2251-00-090-0-03|Contract/Outsource||Data|Object-Head|295.72|355.12|355.12|361.33
+62|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||03|Karnataka Information Commission|035|Salary of Board/Corp.Staff working in State Government|2251-00-090-0-03|Salary of Board/Corp.Staff working in State Government||Data|Object-Head|51.75|23.76|23.76|28.90

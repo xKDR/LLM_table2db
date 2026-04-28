@@ -1,0 +1,23 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+1|Volume 1|03|2039|State Excise|00||001||0||01|Commissioner for Excise and Other Establishments|||2039-00-001-0-01|Commissioner for Excise and Other Establishments|V|Header|Detailed-Head||||
+1|Volume 1|03|2039|State Excise|00||001||0||01|Commissioner for Excise and Other Establishments|002|Basic Pay|2039-00-001-0-01|Basic Pay|V|Data|Object-Head|2198.15|23893.00|23893.00|24293.00
+1|Volume 1|03|2039|State Excise|00||001||0||01|Commissioner for Excise and Other Establishments|003|Basic Pay-Staff|2039-00-001-0-01|Basic Pay-Staff|V|Data|Object-Head|16839.52|||
+1|Volume 1|03|2039|State Excise|00||001||0||01|Commissioner for Excise and Other Establishments|004|Interim Relief|2039-00-001-0-01|Interim Relief|V|Data|Object-Head|1105.10|||
+1|Volume 1|03|2039|State Excise|00||001||0||01|Commissioner for Excise and Other Establishments|011|Dearness Allowance|2039-00-001-0-01|Dearness Allowance|V|Data|Object-Head|4194.89|5267.00|5267.00|6116.00
+1|Volume 1|03|2039|State Excise|00||001||0||01|Commissioner for Excise and Other Establishments|014|Other Allowance|2039-00-001-0-01|Other Allowance|V|Data|Object-Head|2616.42|3314.00|3314.00|3201.00
+1|Volume 1|03|2039|State Excise|00||001||0||01|Commissioner for Excise and Other Establishments|015|Subsidiary Expenses|2039-00-001-0-01|Subsidiary Expenses|V|Data|Object-Head|430.03|46.00|974.93|1150.00
+1|Volume 1|03|2039|State Excise|00||001||0||01|Commissioner for Excise and Other Establishments|020|Medical Allowance|2039-00-001-0-01|Medical Allowance|V|Data|Object-Head|138.72|||
+1|Volume 1|03|2039|State Excise|00||001||0||01|Commissioner for Excise and Other Establishments|021|Reimbursement of Medical Expenses|2039-00-001-0-01|Reimbursement of Medical Expenses|V|Data|Object-Head|175.27|248.00|248.00|242.00
+1|Volume 1|03|2039|State Excise|00||001||0||01|Commissioner for Excise and Other Establishments|034|Contract/Outsource|2039-00-001-0-01|Contract/Outsource|V|Data|Object-Head|656.34|708.91|708.91|1000.93
+1|Volume 1|03|2039|State Excise|00||001||0||01|Commissioner for Excise and Other Establishments|041|Travel Expenses|2039-00-001-0-01|Travel Expenses|V|Data|Object-Head|27.06|75.00|75.00|80.00
+1|Volume 1|03|2039|State Excise|00||001||0||01|Commissioner for Excise and Other Establishments|050|Office Expenses|2039-00-001-0-01|Office Expenses|V|Data|Object-Head||65.00|65.00|450.00
+1|Volume 1|03|2039|State Excise|00||001||0||01|Commissioner for Excise and Other Establishments|051|General Expenses|2039-00-001-0-01|General Expenses|V|Data|Object-Head|466.69|500.00|1500.00|150.00
+1|Volume 1|03|2039|State Excise|00||001||0||01|Commissioner for Excise and Other Establishments|052|Telephone Charges|2039-00-001-0-01|Telephone Charges|V|Data|Object-Head|40.98|||
+1|Volume 1|03|2039|State Excise|00||001||0||01|Commissioner for Excise and Other Establishments|071|Building Expenses|2039-00-001-0-01|Building Expenses|V|Data|Object-Head|1778.70|1700.00|1700.00|1800.00
+1|Volume 1|03|2039|State Excise|00||001||0||01|Commissioner for Excise and Other Establishments|117|Scholarships & Incentives|2039-00-001-0-01|Scholarships & Incentives|V|Data|Object-Head|45.31|52.00|52.00|54.00
+1|Volume 1|03|2039|State Excise|00||001||0||01|Commissioner for Excise and Other Establishments|180|Machinery and Equipments|2039-00-001-0-01|Machinery and Equipments|V|Data|Object-Head|5.96|||
+1|Volume 1|03|2039|State Excise|00||001||0||01|Commissioner for Excise and Other Establishments|195|Transport Expenses|2039-00-001-0-01|Transport Expenses|V|Data|Object-Head|1132.87|1195.11|1195.11|1456.08
+1|Volume 1|03|2039|State Excise|00||001||0||01|Commissioner for Excise and Other Establishments|||2039-00-001-0-01|HOA Total :|V|Total|Detailed-Head|31852.01|37064.02|38992.95|39993.01
+1|Volume 1|03|2039|State Excise|00||911||0||00|Deduct Recoveries of Over Payment|||2039-00-911-0-00|Deduct Recoveries of Over Payment|V|Header|Detailed-Head||||
+1|Volume 1|03|2039|State Excise|00||911||0||00|Deduct Recoveries of Over Payment|364|Deduct - Recoveries|2039-00-911-0-00|Deduct - Recoveries|V|Data|Object-Head|-0.19|||
+1|Volume 1|03|2039|State Excise|00||911||0||00|Deduct Recoveries of Over Payment|||2039-00-911-0-00|HOA Total :|V|Total|Detailed-Head|-0.19|0.00|0.00|0.00

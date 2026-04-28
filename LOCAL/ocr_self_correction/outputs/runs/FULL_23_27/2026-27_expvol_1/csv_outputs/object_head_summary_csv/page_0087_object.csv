@@ -1,0 +1,27 @@
+73|01|05|2055|Police|00|||||||||||2055|Police|V|Header|Major-Head||||
+73|01|05|2055|Police|00||001||0||01|Director General and Inspector General of Police||||2055-00-001-0-01|Director General and Inspector General of Police|V|Header|Detailed-Head||||
+73|01|05|2055|Police|00||001||0||01|Director General and Inspector General of Police|002|Basic Pay|2055-00-001-0-01|Basic Pay|V|Data|Object-Head|1814.40|11238.00|11238.00|11676.00
+73|01|05|2055|Police|00||001||0||01|Director General and Inspector General of Police|003|Basic Pay-Staff|2055-00-001-0-01|Basic Pay-Staff|V|Data|Object-Head|7208.73||||
+73|01|05|2055|Police|00||001||0||01|Director General and Inspector General of Police|004|Interim Relief|2055-00-001-0-01|Interim Relief|V|Data|Object-Head|501.40||||
+73|01|05|2055|Police|00||001||0||01|Director General and Inspector General of Police|011|Dearness Allowance|2055-00-001-0-01|Dearness Allowance|V|Data|Object-Head|2138.27|2663.00|2663.00|3159.00
+73|01|05|2055|Police|00||001||0||01|Director General and Inspector General of Police|014|Other Allowance|2055-00-001-0-01|Other Allowance|V|Data|Object-Head|1817.40|2147.00|2147.00|2171.00
+73|01|05|2055|Police|00||001||0||01|Director General and Inspector General of Police|015|Subsidiary Expenses|2055-00-001-0-01|Subsidiary Expenses|V|Data|Object-Head|186.85|176.60|176.60|261.00
+73|01|05|2055|Police|00||001||0||01|Director General and Inspector General of Police|020|Medical Allowance|2055-00-001-0-01|Medical Allowance|V|Data|Object-Head|59.97||||
+73|01|05|2055|Police|00||001||0||01|Director General and Inspector General of Police|021|Reimbursement of Medical Expenses|2055-00-001-0-01|Reimbursement of Medical Expenses|V|Data|Object-Head|15.81|20.07|20.07|20.33
+73|01|05|2055|Police|00||001||0||01|Director General and Inspector General of Police|034|Contract/Outsource|2055-00-001-0-01|Contract/Outsource|V|Data|Object-Head|791.14|1003.77|1003.77|1017.64
+73|01|05|2055|Police|00||001||0||01|Director General and Inspector General of Police|041|Travel Expenses|2055-00-001-0-01|Travel Expenses|V|Data|Object-Head|94.07|200.00|150.00|100.00
+73|01|05|2055|Police|00||001||0||01|Director General and Inspector General of Police|050|Office Expenses|2055-00-001-0-01|Office Expenses|V|Data|Object-Head||60.00|360.00|1060.00
+73|01|05|2055|Police|00||001||0||01|Director General and Inspector General of Police|051|General Expenses|2055-00-001-0-01|General Expenses|V|Data|Object-Head|2256.80|2000.00|1700.00|1000.00
+73|01|05|2055|Police|00||001||0||01|Director General and Inspector General of Police|052|Telephone Charges|2055-00-001-0-01|Telephone Charges|V|Data|Object-Head|25.66||||
+73|01|05|2055|Police|00||001||0||01|Director General and Inspector General of Police|071|Building Expenses|2055-00-001-0-01|Building Expenses|V|Data|Object-Head|327.78|260.00|330.00|275.00
+73|01|05|2055|Police|00||001||0||01|Director General and Inspector General of Police|103|Grants-in-Aid -General|2055-00-001-0-01|Grants-in-Aid -General|V|Data|Object-Head|64.40|68.64|68.64|70.00
+73|01|05|2055|Police|00||001||0||01|Director General and Inspector General of Police|131|Secret Service Expenses|2055-00-001-0-01|Secret Service Expenses|V|Data|Object-Head|2100.00|2000.00|2000.00|2000.00
+73|01|05|2055|Police|00||001||0||01|Director General and Inspector General of Police|180|Machinery and Equipments|2055-00-001-0-01|Machinery and Equipments|V|Data|Object-Head|1.00||||
+73|01|05|2055|Police|00||001||0||01|Director General and Inspector General of Police|195|Transport Expenses|2055-00-001-0-01|Transport Expenses|V|Data|Object-Head|595.34|500.00|580.00|809.87
+73|01|05|2055|Police|00||001||0||01|Director General and Inspector General of Police|221|Materials and Supplies|2055-00-001-0-01|Materials and Supplies|V|Data|Object-Head|16.00|22.00|22.00|22.00
+73|01|05|2055|Police|00||001||0||01|Director General and Inspector General of Police|222|Drugs and Chemicals|2055-00-001-0-01|Drugs and Chemicals|V|Data|Object-Head|9.99||||
+73|01|05|2055|Police|00||001||0||01|Director General and Inspector General of Police|||||HOA Total :|V|Total|Detailed-Head|20025.01|22359.08|22459.08|23641.84
+73|01|05|2055|Police|00||001||0||05|State Police Complaints Authority||||2055-00-001-0-05|State Police Complaints Authority|V|Header|Detailed-Head||||
+73|01|05|2055|Police|00||001||0||05|State Police Complaints Authority|002|Basic Pay|2055-00-001-0-05|Basic Pay|V|Data|Object-Head|15.11|52.00|52.00|45.00
+73|01|05|2055|Police|00||001||0||05|State Police Complaints Authority|003|Basic Pay-Staff|2055-00-001-0-05|Basic Pay-Staff|V|Data|Object-Head|16.48||||
+73|01|05|2055|Police|00||001||0||05|State Police Complaints Authority|004|Interim Relief|2055-00-001-0-05|Interim Relief|V|Data|Object-Head|1.81||||

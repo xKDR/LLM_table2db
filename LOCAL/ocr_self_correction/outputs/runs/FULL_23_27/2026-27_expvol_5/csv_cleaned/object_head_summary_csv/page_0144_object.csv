@@ -1,0 +1,14 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+131|05|14|2075|Miscellaneous General Services|00|||||||||||2075|Miscellaneous General Services|Header|Major-Head||||
+131|05|14|2075|Miscellaneous General Services|00||101||1||01|Amount Payable to Religious & Charitable Institutions on Abolition of Inams|||2075-00-101-1-01|Amount Payable to Religious & Charitable Institutions on Abolition of Inams||Header|Detailed-Head||||
+131|05|14|2075|Miscellaneous General Services|00||101||1||01|Amount Payable to Religious & Charitable Institutions on Abolition of Inams|100|Financial Assistance/Relief|2075-00-101-1-01|Financial Assistance/Relief||Data|Object-Head|15299.09|18500.00|18500.00|18500.00
+131|05|14|2075|Miscellaneous General Services|00||101||1||01|Amount Payable to Religious & Charitable Institutions on Abolition of Inams|||2075-00-101-1-01|HOA Total :||Total|Detailed-Head|15299.09|18500.00|18500.00|18500.00
+131|05|14|2075|Miscellaneous General Services|00||800||4||03|Roerich Estate Board|||2075-00-800-4-03|Roerich Estate Board||Header|Detailed-Head||||
+131|05|14|2075|Miscellaneous General Services|00||800||4||03|Roerich Estate Board|101|Grants-in-Aid-Salaries|2075-00-800-4-03|Grants-in-Aid-Salaries||Data|Object-Head|9.44|12.46|12.46|13.02
+131|05|14|2075|Miscellaneous General Services|00||800||4||03|Roerich Estate Board|103|Grants-in-Aid -General|2075-00-800-4-03|Grants-in-Aid -General||Data|Object-Head|5.00|5.00|5.00|5.00
+131|05|14|2075|Miscellaneous General Services|00||800||4||03|Roerich Estate Board|115|GIA Contract /Outsource|2075-00-800-4-03|GIA Contract /Outsource||Data|Object-Head|11.71|8.96|13.56|9.26
+131|05|14|2075|Miscellaneous General Services|00||800||4||03|Roerich Estate Board|||2075-00-800-4-03|HOA Total :||Total|Detailed-Head|26.15|26.42|31.02|27.28
+131|05|14|2075|Miscellaneous General Services|00||911||0||00|Deduct Recoveries of Overpayment|||2075-00-911-0-00|Deduct Recoveries of Overpayment||Header|Detailed-Head||||
+131|05|14|2075|Miscellaneous General Services|00||911||0||00|Deduct Recoveries of Overpayment|364|Deduct - Recoveries|2075-00-911-0-00|Deduct - Recoveries||Data|Object-Head|-2.11|||
+131|05|14|2075|Miscellaneous General Services|00||911||0||00|Deduct Recoveries of Overpayment|||2075-00-911-0-00|HOA Total :||Total|Detailed-Head|-2.11|0.00|0.00|0.00
+131|05|14|2075|Miscellaneous General Services|00||||||||||2075-00-911-0-00|2075 - Total :||Total|Major-Head|15323.13|18526.42|18531.02|18527.28

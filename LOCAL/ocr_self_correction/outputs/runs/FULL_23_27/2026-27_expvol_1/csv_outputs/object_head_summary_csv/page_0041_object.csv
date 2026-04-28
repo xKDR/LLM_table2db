@@ -1,0 +1,18 @@
+27|01|03|4059|Capital Outlay on Public Works|01||||||||||4059|Capital Outlay on Public Works||Header|Major-Head||||
+27|01|03|4059|Capital Outlay on Public Works|01||201||0||01|Aquisition of Land to State Accounts Department|||4059-01-201-0-01|Aquisition of Land to State Accounts Department||Header|Detailed-Head||||
+27|01|03|4059|Capital Outlay on Public Works|01||201||0||01|Aquisition of Land to State Accounts Department|386|Purchase/Construction of Buildings|4059-01-201-0-01|Purchase/Construction of Buildings||Data|Object-Head||23.18|28.16|1.00
+27|01|03|4059|Capital Outlay on Public Works|01||201||0||01|Aquisition of Land to State Accounts Department|||4059-01-201-0-01|HOA Total :||Total|Detailed-Head|0.00|23.18|28.16|1.00
+27|01|03|4059|Capital Outlay on Public Works|80||051||0||58|Special Capital Assistance from GOI.|||4059-80-051-0-58|Special Capital Assistance from GOI.||Header|Detailed-Head||||
+27|01|03|4059|Capital Outlay on Public Works|80||051||0||58|Special Capital Assistance from GOI.|132|Other Capital Expenses|4059-80-051-0-58|Other Capital Expenses||Data|Object-Head|90750.81|200000.00|120000.00|110000.00
+27|01|03|4059|Capital Outlay on Public Works|80||051||0||58|Special Capital Assistance from GOI.|436|NABARD Works|4059-80-051-0-58|NABARD Works||Data|Object-Head||10000.00|10000.00|90000.00
+27|01|03|4059|Capital Outlay on Public Works|80||051||0||58|Special Capital Assistance from GOI|||4059-80-051-0-58|HOA Total :||Total|Detailed-Head|90750.81|210000.00|130000.00|200000.00
+27|01|03|4059|Capital Outlay on Public Works|80||051||0||61|Special Capital Assistance from GOK.|||4059-80-051-0-61|Special Capital Assistance from GOK.||Header|Detailed-Head||||
+27|01|03|4059|Capital Outlay on Public Works|80||051||0||61|Special Capital Assistance from GOK.|132|Other Capital Expenses|4059-80-051-0-61|Other Capital Expenses||Data|Object-Head||||131100.00
+27|01|03|4059|Capital Outlay on Public Works|80||051||0||61|Special Capital Assistance from GOK.|||4059-80-051-0-61|HOA Total :||Total|Detailed-Head|0.00|0.00|0.00|131100.00
+27|01|03|4059|Capital Outlay on Public Works|80||051||0||62|CM's Infrastructure Development Program(CMIDP)|||4059-80-051-0-62|CM's Infrastructure Development Program(CMIDP)||Header|Detailed-Head||||
+27|01|03|4059|Capital Outlay on Public Works|80||051||0||62|CM's Infrastructure Development Program(CMIDP)|132|Other Capital Expenses|4059-80-051-0-62|Other Capital Expenses||Data|Object-Head||||60000.00
+27|01|03|4059|Capital Outlay on Public Works|80||051||0||62|CM's Infrastructure Development Program(CMIDP)|||4059-80-051-0-62|HOA Total :||Total|Detailed-Head|0.00|0.00|0.00|60000.00
+27|01|03|4059|Capital Outlay on Public Works|80||902||0||01|Deduct - Amount met from Infrastructure Fund|||4059-80-902-0-01|Deduct - Amount met from Infrastructure Fund||Header|Detailed-Head||||
+27|01|03|4059|Capital Outlay on Public Works|80||902||0||01|Deduct - Amount met from Infrastructure Fund|261|Inter Account Transfers|4059-80-902-0-01|Inter Account Transfers||Data|Object-Head||||-131100.00
+27|01|03|4059|Capital Outlay on Public Works|80||902||0||01|Deduct - Amount met from Infrastructure Fund|||4059-80-902-0-01|HOA Total :||Total|Detailed-Head|0.00|0.00|0.00|-131100.00
+27|01|03|4059|Capital Outlay on Public Works|80||||||||||4059|4059 - Total :||Total|Major-Head|90750.81|210023.18|130028.16|260001.00

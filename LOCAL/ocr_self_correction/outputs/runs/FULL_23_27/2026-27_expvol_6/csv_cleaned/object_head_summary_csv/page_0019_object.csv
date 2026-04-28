@@ -1,0 +1,23 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+6|06|15|3425|Other Scientific Research|60||||||||||3425|Other Scientific Research|V|Header|Major-Head||||
+6|06|15|3425|Other Scientific Research|60||200||0||01|Assistance to Scientific Institutions|||3425-60-200-0-01|Assistance to Scientific Institutions|V|Header|Detailed-Head||||
+6|06|15|3425|Other Scientific Research|60||200||0||01|Assistance to Scientific Institutions|059|Other Expenses|3425-60-200-0-01|Other Expenses|V|Data|Object-Head|3150.00|3480.00|3604.18|3045.00
+6|06|15|3425|Other Scientific Research|60||200||0||01|Assistance to Scientific Institutions|422|Schedule Caste Sub Plan|3425-60-200-0-01|Schedule Caste Sub Plan|V|Data|Object-Head||360.00||
+6|06|15|3425|Other Scientific Research|60||200||0||01|Assistance to Scientific Institutions|423|Tribal Sub Plan|3425-60-200-0-01|Tribal Sub Plan|V|Data|Object-Head||160.00||
+6|06|15|3425|Other Scientific Research|60||200||0||01|Assistance to Scientific Institutions|||3425-60-200-0-01|HOA Total :|V|Total|Detailed-Head|3150.00|4000.00|3604.18|3045.00
+6|06|15|3425|Other Scientific Research|60||200||0||16|Science & Technology Schemes|||3425-60-200-0-16|Science & Technology Schemes|V|Header|Detailed-Head||||
+6|06|15|3425|Other Scientific Research|60||200||0||16|Science & Technology Schemes|059|Other Expenses|3425-60-200-0-16|Other Expenses|V|Data|Object-Head|860.00|595.95|595.95|522.00
+6|06|15|3425|Other Scientific Research|60||200||0||16|Science & Technology Schemes|422|Schedule Caste Sub Plan|3425-60-200-0-16|Schedule Caste Sub Plan|V|Data|Object-Head|103.00|61.65|421.65|369.00
+6|06|15|3425|Other Scientific Research|60||200||0||16|Science & Technology Schemes|423|Tribal Sub Plan|3425-60-200-0-16|Tribal Sub Plan|V|Data|Object-Head|49.00|27.40|187.40|164.00
+6|06|15|3425|Other Scientific Research|60||200||0||16|Science & Technology Schemes|||3425-60-200-0-16|HOA Total :|V|Total|Detailed-Head|1012.00|685.00|1205.00|1055.00
+6|06|15|3425|Other Scientific Research|60||200||0||19|Support to Nano Technology|||3425-60-200-0-19|Support to Nano Technology|V|Header|Detailed-Head||||
+6|06|15|3425|Other Scientific Research|60||200||0||19|Support to Nano Technology|059|Other Expenses|3425-60-200-0-19|Other Expenses|V|Data|Object-Head|200.00|325.00|325.00|900.00
+6|06|15|3425|Other Scientific Research|60||200||0||19|Support to Nano Technology|||3425-60-200-0-19|HOA Total :|V|Total|Detailed-Head|200.00|325.00|325.00|900.00
+6|06|15|3425|Other Scientific Research|60||200||0||20|District Science Centres|||3425-60-200-0-20|District Science Centres|V|Header|Detailed-Head||||
+6|06|15|3425|Other Scientific Research|60||200||0||20|District Science Centres|059|Other Expenses|3425-60-200-0-20|Other Expenses|V|Data|Object-Head|1237.00|||
+6|06|15|3425|Other Scientific Research|60||200||0||20|District Science Centres|101|Grants-in-Aid-Salaries|3425-60-200-0-20|Grants-in-Aid-Salaries|V|Data|Object-Head|171.52|226.67|226.67|238.41
+6|06|15|3425|Other Scientific Research|60||200||0||20|District Science Centres|||3425-60-200-0-20|HOA Total :|V|Total|Detailed-Head|1408.52|226.67|226.67|238.41
+6|06|15|3425|Other Scientific Research|60||600||0||02|Science & Technology Mission|||3425-60-600-0-02|Science & Technology Mission|V|Header|Detailed-Head||||
+6|06|15|3425|Other Scientific Research|60||600||0||02|Science & Technology Mission|059|Other Expenses|3425-60-600-0-02|Other Expenses|V|Data|Object-Head|200.00|1.00|1.00|1600.00
+6|06|15|3425|Other Scientific Research|60||600||0||02|Science & Technology Mission|||3425-60-600-0-02|HOA Total :|V|Total|Detailed-Head|200.00|1.00|1.00|1600.00
+6|06|15|3425|Other Scientific Research|60||||||||||3425|3425 - Total :|V|Total|Major-Head|5970.52|5237.67|5361.85|6838.41

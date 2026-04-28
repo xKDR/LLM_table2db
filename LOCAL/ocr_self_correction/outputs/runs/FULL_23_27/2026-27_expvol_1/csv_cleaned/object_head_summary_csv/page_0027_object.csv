@@ -1,0 +1,17 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+13|1|03|2071|Pension & Other Retirement Benefits|01||||||||||2071|Pension & Other Retirement Benefits|V|Header|Major-Head||||
+13|1|03|2071|Pension & Other Retirement Benefits|01||101||3||01|Pension Payment to Retired Karnataka State Govt Employees|||2071-01-101-3-01|Pension Payment to Retired Karnataka State Govt Employees|V|Header|Detailed-Head||||
+13|1|03|2071|Pension & Other Retirement Benefits|01||101||3||01|Pension Payment to Retired Karnataka State Govt Employees|251|Pension & Retirement Benefits|2071-01-101-3-01|Pension & Retirement Benefits|V|Data|Object-Head|1756850.70|2069712.01|1998840.68|2220676.18
+13|1|03|2071|Pension & Other Retirement Benefits|01||101||3||01|Pension Payment to Retired Karnataka State Govt Employees|||2071-01-101-3-01|HOA Total :|V|Total|Detailed-Head|1756850.70|2069712.01|1998840.68|2220676.18
+13|1|03|2071|Pension & Other Retirement Benefits|01||101||3||02|Pensions Paid in England|||2071-01-101-3-02|Pensions Paid in England|V|Header|Detailed-Head||||
+13|1|03|2071|Pension & Other Retirement Benefits|01||101||3||02|Pensions Paid in England|251|Pension & Retirement Benefits|2071-01-101-3-02|Pension & Retirement Benefits|V|Data|Object-Head||1.00|1.00|1.00
+13|1|03|2071|Pension & Other Retirement Benefits|01||101||3||02|Pensions Paid in England|||2071-01-101-3-02|HOA Total :|V|Total|Detailed-Head|0.00|1.00|1.00|1.00
+13|1|03|2071|Pension & Other Retirement Benefits|01||101||4||01|Andhra Pradesh|||2071-01-101-4-01|Andhra Pradesh|C|Header|Detailed-Head||||
+13|1|03|2071|Pension & Other Retirement Benefits|01||101||4||01|Andhra Pradesh|251|Pension & Retirement Benefits|2071-01-101-4-01|Pension & Retirement Benefits|C|Data|Object-Head||1.00|1.00|1.00
+13|1|03|2071|Pension & Other Retirement Benefits|01||101||4||01|Andhra Pradesh|||2071-01-101-4-01|HOA Total :|C|Total|Detailed-Head|0.00|1.00|1.00|1.00
+13|1|03|2071|Pension & Other Retirement Benefits|01||101||4||02|Maharashtra|||2071-01-101-4-02|Maharashtra|C|Header|Detailed-Head||||
+13|1|03|2071|Pension & Other Retirement Benefits|01||101||4||02|Maharashtra|251|Pension & Retirement Benefits|2071-01-101-4-02|Pension & Retirement Benefits|C|Data|Object-Head||1.00|1.00|1.00
+13|1|03|2071|Pension & Other Retirement Benefits|01||101||4||02|Maharashtra|||2071-01-101-4-02|HOA Total :|C|Total|Detailed-Head|0.00|1.00|1.00|1.00
+13|1|03|2071|Pension & Other Retirement Benefits|01||102||3||01|Payment of Commuted Value of Pensions-Karnataka|||2071-01-102-3-01|Payment of Commuted Value of Pensions-Karnataka|V|Header|Detailed-Head||||
+13|1|03|2071|Pension & Other Retirement Benefits|01||102||3||01|Payment of Commuted Value of Pensions-Karnataka|251|Pension & Retirement Benefits|2071-01-102-3-01|Pension & Retirement Benefits|V|Data|Object-Head|189074.27|243547.08|312849.78|272282.60
+13|1|03|2071|Pension & Other Retirement Benefits|01||102||3||01|Payment of Commuted Value of Pensions-Karnataka|||2071-01-102-3-01|HOA Total :|V|Total|Detailed-Head|189074.27|243547.08|312849.78|272282.60

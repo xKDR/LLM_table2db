@@ -1,0 +1,22 @@
+139|01|28|4070|Capital Outlay on Other Administrative Services|00||||||||||4070|Capital Outlay on Other Administrative Services||Header|Major-Head||||
+139|01|28|4070|Capital Outlay on Other Administrative Services|00||001||||||||4070-00-001|001||Header|Minor-Head||||
+139|01|28|4070|Capital Outlay on Other Administrative Services|00||001||0||||||4070-00-001-0|0||Header|Sub-Head||||
+139|01|28|4070|Capital Outlay on Other Administrative Services|00||001||0||01|Capital Expenses- Legislative Assembly|||4070-00-001-0-01|Capital Expenses- Legislative Assembly||Header|Detailed-Head||||
+139|01|28|4070|Capital Outlay on Other Administrative Services|00||001||0||01|Capital Expenses- Legislative Assembly|053|Purchase of Furniture and Fixture for Office|4070-00-001-0-01|Purchase of Furniture and Fixture for Office|V|Data|Object-Head||20.00|20.00|5.00
+139|01|28|4070|Capital Outlay on Other Administrative Services|00||001||0||01|Capital Expenses- Legislative Assembly|132|Other Capital Expenses|4070-00-001-0-01|Other Capital Expenses|V|Data|Object-Head||1000.00|1000.00|1000.00
+139|01|28|4070|Capital Outlay on Other Administrative Services|00||001||0||01|Capital Expenses- Legislative Assembly|180|Machinery and Equipments|4070-00-001-0-01|Machinery and Equipments|V|Data|Object-Head||200.00|200.00|150.00
+139|01|28|4070|Capital Outlay on Other Administrative Services|00||001||0||01|Capital Expenses- Legislative Assembly|199|Transportation Assets|4070-00-001-0-01|Transportation Assets|V|Data|Object-Head||1.00|201.00|
+139|01|28|4070|Capital Outlay on Other Administrative Services|00||001||0||01|Capital Expenses- Legislative Assembly|199|Transportation Assets|4070-00-001-0-01|Transportation Assets|C|Data|Object-Head||1.00|1.00|1.00
+139|01|28|4070|Capital Outlay on Other Administrative Services|00||001||0||01|Capital Expenses- Legislative Assembly|||4070-00-001-0-01|HOA Total :||Total|Detailed-Head|0.00|1222.00|1422.00|1156.00
+139|01|28|4070|Capital Outlay on Other Administrative Services|00||800||||||||4070-00-800|800||Header|Minor-Head||||
+139|01|28|4070|Capital Outlay on Other Administrative Services|00||800||0||||||4070-00-800-0|0||Header|Sub-Head||||
+139|01|28|4070|Capital Outlay on Other Administrative Services|00||800||0||12|Purchase of Vehicles (Legislative Assembly)|||4070-00-800-0-12|Purchase of Vehicles (Legislative Assembly)||Header|Detailed-Head||||
+139|01|28|4070|Capital Outlay on Other Administrative Services|00||800||0||12|Purchase of Vehicles (Legislative Assembly)|199|Transportation Assets|4070-00-800-0-12|Transportation Assets|V|Data|Object-Head|26.13|||
+139|01|28|4070|Capital Outlay on Other Administrative Services|00||800||0||12|Purchase of Vehicles (Legislative Assembly)|199|Transportation Assets|4070-00-800-0-12|Transportation Assets|C|Data|Object-Head|37.76|||
+139|01|28|4070|Capital Outlay on Other Administrative Services|00||800||0||12|Purchase of Vehicles (Legislative Assembly)|||4070-00-800-0-12|HOA Total :||Total|Detailed-Head|63.89|0.00|0.00|0.00
+139|01|28|4070|Capital Outlay on Other Administrative Services|00||800||0||13|Capital Expenses- Legislative Council|||4070-00-800-0-13|Capital Expenses- Legislative Council||Header|Detailed-Head||||
+139|01|28|4070|Capital Outlay on Other Administrative Services|00||800||0||13|Capital Expenses- Legislative Council|180|Machinery and Equipments|4070-00-800-0-13|Machinery and Equipments|V|Data|Object-Head||15.00|22.50|15.00
+139|01|28|4070|Capital Outlay on Other Administrative Services|00||800||0||13|Capital Expenses- Legislative Council|199|Transportation Assets|4070-00-800-0-13|Transportation Assets|V|Data|Object-Head||1.00|62.00|
+139|01|28|4070|Capital Outlay on Other Administrative Services|00||800||0||13|Capital Expenses- Legislative Council|199|Transportation Assets|4070-00-800-0-13|Transportation Assets|C|Data|Object-Head||1.00|1.00|1.00
+139|01|28|4070|Capital Outlay on Other Administrative Services|00||800||0||13|Capital Expenses- Legislative Council|||4070-00-800-0-13|HOA Total :||Total|Detailed-Head|0.00|17.00|85.50|16.00
+139|01|28|4070|Capital Outlay on Other Administrative Services|00||||||||||4070|4070 - Total :||Total|Major-Head|63.89|1239.00|1507.50|1172.00

@@ -1,0 +1,17 @@
+107|05|13|3456|Civil Supplies|00||104|Consumer Welfare|0||03|State Consumer Helpline|050|Office Expenses|3456-00-104-0-03|Office Expenses|V|Data|Object-Head||7.00|7.00|5.00
+107|05|13|3456|Civil Supplies|00||104|Consumer Welfare|0||03|State Consumer Helpline|051|General Expenses|3456-00-104-0-03|General Expenses|V|Data|Object-Head|4.29|||
+107|05|13|3456|Civil Supplies|00||104|Consumer Welfare|0||03|State Consumer Helpline|177|IT Expenditure|3456-00-104-0-03|IT Expenditure|V|Data|Object-Head||||30.00
+107|05|13|3456|Civil Supplies|00||104|Consumer Welfare|0||03|State Consumer Helpline|||3456-00-104-0-03|HOA Total :|V|Total|Detailed-Head|15.88|19.87|19.87|48.27
+107|05|13|3456|Civil Supplies|00||797|Transfer to Reserve Funds and Deposit Accounts|0||04|Transfer of Application Fee and Penalties to Consumer Welfare Fund|||3456-00-797-0-04|Transfer of Application Fee and Penalties to Consumer Welfare Fund|V|Header|Detailed-Head||||
+107|05|13|3456|Civil Supplies|00||797|Transfer to Reserve Funds and Deposit Accounts|0||04|Transfer of Application Fee and Penalties to Consumer Welfare Fund|261|Inter Account Transfers|3456-00-797-0-04|Inter Account Transfers|V|Data|Object-Head|23.83|10.00|10.00|10.00
+107|05|13|3456|Civil Supplies|00||797|Transfer to Reserve Funds and Deposit Accounts|0||04|Transfer of Application Fee and Penalties to Consumer Welfare Fund|||3456-00-797-0-04|HOA Total :|V|Total|Detailed-Head|23.83|10.00|10.00|10.00
+107|05|13|3456|Civil Supplies|00||902|Deduct - Amount met from Consumer Welfare Fund|0||01|Deduct - Amount met from Consumer Welfare Fund|||3456-00-902-0-01|Deduct - Amount met from Consumer Welfare Fund|V|Header|Detailed-Head||||
+107|05|13|3456|Civil Supplies|00||902|Deduct - Amount met from Consumer Welfare Fund|0||01|Deduct - Amount met from Consumer Welfare Fund|261|Inter Account Transfers|3456-00-902-0-01|Inter Account Transfers|V|Data|Object-Head|-15.90|-30.00|-30.00|-30.00
+107|05|13|3456|Civil Supplies|00||902|Deduct - Amount met from Consumer Welfare Fund|0||01|Deduct - Amount met from Consumer Welfare Fund|||3456-00-902-0-01|HOA Total :|V|Total|Detailed-Head|-15.90|-30.00|-30.00|-30.00
+107|05|13|3456|Civil Supplies|00||911|Deduct - Recoveries of Overpayments|0||00|Deduct - Recoveries of Overpayments|||3456-00-911-0-00|Deduct - Recoveries of Overpayments|V|Header|Detailed-Head||||
+107|05|13|3456|Civil Supplies|00||911|Deduct - Recoveries of Overpayments|0||00|Deduct - Recoveries of Overpayments|364|Deduct - Recoveries|3456-00-911-0-00|Deduct - Recoveries|V|Data|Object-Head|-0.03|||
+107|05|13|3456|Civil Supplies|00||911|Deduct - Recoveries of Overpayments|0||00|Deduct - Recoveries of Overpayments|||3456-00-911-0-00|HOA Total :|V|Total|Detailed-Head|-0.03|0.00|0.00|0.00
+107|05|13|3456|Civil Supplies|00||911|Deduct - Recoveries of Overpayments|0||01|Deduct Recovery of Over Payments of Current Year|||3456-00-911-0-01|Deduct Recovery of Over Payments of Current Year|V|Header|Detailed-Head||||
+107|05|13|3456|Civil Supplies|00||911|Deduct - Recoveries of Overpayments|0||01|Deduct Recovery of Over Payments of Current Year|364|Deduct - Recoveries|3456-00-911-0-01|Deduct - Recoveries|V|Data|Object-Head|-0.39|||
+107|05|13|3456|Civil Supplies|00||911|Deduct - Recoveries of Overpayments|0||01|Deduct Recovery of Over Payments of Current Year|||3456-00-911-0-01|HOA Total :|V|Total|Detailed-Head|-0.39|0.00|0.00|0.00
+107|05|13|3456|Civil Supplies|00|||||||||3456-00-000-0-00|3456 - Total :|V|Total|Major-Head|4537.98|5220.51|5229.12|6048.76

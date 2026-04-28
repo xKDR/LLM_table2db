@@ -1,0 +1,13 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+63|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||03|Karnataka Information Commission|041|Travel Expenses|2251-00-090-0-03|Travel Expenses||Data|Object-Head|5.50|4.00|4.00|5.00
+63|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||03|Karnataka Information Commission|050|Office Expenses|2251-00-090-0-03|Office Expenses||Data|Object-Head||110.00|110.00|110.00
+63|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||03|Karnataka Information Commission|051|General Expenses|2251-00-090-0-03|General Expenses||Data|Object-Head|129.37|76.97|76.97|80.00
+63|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||03|Karnataka Information Commission|052|Telephone Charges|2251-00-090-0-03|Telephone Charges||Data|Object-Head|8.91|||
+63|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||03|Karnataka Information Commission|071|Building Expenses|2251-00-090-0-03|Building Expenses||Data|Object-Head|63.78|80.00|80.00|80.00
+63|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||03|Karnataka Information Commission|180|Machinery and Equipments|2251-00-090-0-03|Machinery and Equipments||Data|Object-Head|92.43|||
+63|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||03|Karnataka Information Commission|195|Transport Expenses|2251-00-090-0-03|Transport Expenses||Data|Object-Head|21.55|67.43|67.43|68.78
+63|01|04|2251|Secretariat - Social Services|00||090|Secretariat|0||03|Karnataka Information Commission|||||HOA Total :|Total|Detailed-Head|965.94|1370.60|1370.60|1511.01
+63|01|04|2251|Secretariat - Social Services|00||911|Deduct Recoveries|0||01|Deduct Recovery of Over Payments of Current Year|||2251-00-911-0-01|Deduct Recovery of Over Payments of Current Year||Header|Detailed-Head||||
+63|01|04|2251|Secretariat - Social Services|00||911|Deduct Recoveries|0||01|Deduct Recovery of Over Payments of Current Year|364|Deduct - Recoveries|2251-00-911-0-01|Deduct - Recoveries||Data|Object-Head|-1.93|||
+63|01|04|2251|Secretariat - Social Services|00||911|Deduct Recoveries|0||01|Deduct Recovery of Over Payments of Current Year|||||HOA Total :|Total|Detailed-Head|-1.93|0.00|0.00|0.00
+63|01|04|2251|Secretariat - Social Services|00|||||||||||2251 - Total :||Total|Major-Head|7470.08|9093.10|9098.10|9190.01

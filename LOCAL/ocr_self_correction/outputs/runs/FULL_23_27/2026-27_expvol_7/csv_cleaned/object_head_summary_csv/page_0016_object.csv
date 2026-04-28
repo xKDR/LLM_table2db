@@ -1,0 +1,8 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+5|07|20|2059|Public Works|80||911|Deduct Recoveries of Overpayments|0||02|Deduct-Recovery of Overpayments|||2059-80-911-0-02|Deduct-Recovery of Overpayments||Header|Detailed-Head||||
+5|07|20|2059|Public Works|80||911|Deduct Recoveries of Overpayments|0||02|Deduct-Recovery of Overpayments|364|Deduct - Recoveries|2059-80-911-0-02|Deduct - Recoveries||Data|Object-Head|-6.41|||
+5|07|20|2059|Public Works|80||911|Deduct Recoveries of Overpayments|0||02|Deduct-Recovery of Overpayments|||2059-80-911-0-02|HOA Total :||Total|Detailed-Head|-6.41|0.00|0.00|0.00
+5|07|20|2059|Public Works|80||911|Deduct Recoveries of Overpayments|0||03|Deduct- Recoveries|||2059-80-911-0-03|Deduct- Recoveries||Header|Detailed-Head||||
+5|07|20|2059|Public Works|80||911|Deduct Recoveries of Overpayments|0||03|Deduct- Recoveries|364|Deduct - Recoveries|2059-80-911-0-03|Deduct - Recoveries||Data|Object-Head|-1.07|||
+5|07|20|2059|Public Works|80||911|Deduct Recoveries of Overpayments|0||03|Deduct- Recoveries|||2059-80-911-0-03|HOA Total :||Total|Detailed-Head|-1.07|0.00|0.00|0.00
+5|07|20|2059|Public Works|80||||||||||2059|2059 - Total :||Total|Major-Head|75038.25|90746.35|90688.73|92385.93

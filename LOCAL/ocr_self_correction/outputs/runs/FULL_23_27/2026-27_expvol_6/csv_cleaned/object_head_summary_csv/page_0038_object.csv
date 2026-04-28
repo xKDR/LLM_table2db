@@ -1,0 +1,6 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+25|06|18|6858|Loans for Engineering Industries|01||||||||||6858|Loans for Engineering Industries|V|Header|Major-Head||||
+25|06|18|6858|Loans for Engineering Industries|01||190||6||00|Loans to Mysore Lamp Works Ltd.|||6858-01-190-6-00|Loans to Mysore Lamp Works Ltd.|V|Header|Detailed-Head||||
+25|06|18|6858|Loans for Engineering Industries|01||190||6||00|Loans to Mysore Lamp Works Ltd.|394|Loans|6858-01-190-6-00|Loans|V|Data|Object-Head|275.00||1000.00|
+25|06|18|6858|Loans for Engineering Industries|01||190||6||00|Loans to Mysore Lamp Works Ltd.||||HOA Total :|V|Total|Detailed-Head|275.00|0.00|1000.00|0.00
+25|06|18|6858|Loans for Engineering Industries|01|||||||||||6858 - Total :|V|Total|Major-Head|275.00|0.00|1000.00|0.00

@@ -1,0 +1,27 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+83|01|05|2056|Jails|00||001|Direction and Administration|0||01|Inspector General of Prisons||||2056-00-001-0-01|Inspector General of Prisons.|Header|Detailed-Head||||
+83|01|05|2056|Jails|00||001|Direction and Administration|0||01|Inspector General of Prisons|002|Basic Pay|2056-00-001-0-01|Basic Pay||Data|Object-Head|127.35|681.00|681.00|773.00
+83|01|05|2056|Jails|00||001|Direction and Administration|0||01|Inspector General of Prisons|003|Basic Pay-Staff|2056-00-001-0-01|Basic Pay-Staff||Data|Object-Head|444.73|||
+83|01|05|2056|Jails|00||001|Direction and Administration|0||01|Inspector General of Prisons|004|Interim Relief|2056-00-001-0-01|Interim Relief||Data|Object-Head|30.50|||
+83|01|05|2056|Jails|00||001|Direction and Administration|0||01|Inspector General of Prisons|011|Dearness Allowance|2056-00-001-0-01|Dearness Allowance||Data|Object-Head|136.57|160.00|160.00|212.00
+83|01|05|2056|Jails|00||001|Direction and Administration|0||01|Inspector General of Prisons|014|Other Allowance|2056-00-001-0-01|Other Allowance||Data|Object-Head|138.44|162.00|162.00|167.00
+83|01|05|2056|Jails|00||001|Direction and Administration|0||01|Inspector General of Prisons|015|Subsidiary Expenses|2056-00-001-0-01|Subsidiary Expenses||Data|Object-Head|2.08|27.64|27.64|17.64
+83|01|05|2056|Jails|00||001|Direction and Administration|0||01|Inspector General of Prisons|020|Medical Allowance|2056-00-001-0-01|Medical Allowance||Data|Object-Head|3.57|||
+83|01|05|2056|Jails|00||001|Direction and Administration|0||01|Inspector General of Prisons|021|Reimbursement of Medical Expenses|2056-00-001-0-01|Reimbursement of Medical Expenses||Data|Object-Head|4.17|15.00|15.00|15.00
+83|01|05|2056|Jails|00||001|Direction and Administration|0||01|Inspector General of Prisons|034|Contract/Outsource|2056-00-001-0-01|Contract/Outsource||Data|Object-Head|35.49|27.57|27.57|21.84
+83|01|05|2056|Jails|00||001|Direction and Administration|0||01|Inspector General of Prisons|041|Travel Expenses|2056-00-001-0-01|Travel Expenses||Data|Object-Head|4.79|5.00|5.00|5.00
+83|01|05|2056|Jails|00||001|Direction and Administration|0||01|Inspector General of Prisons|050|Office Expenses|2056-00-001-0-01|Office Expenses||Data|Object-Head||6.00|6.00|100.00
+83|01|05|2056|Jails|00||001|Direction and Administration|0||01|Inspector General of Prisons|051|General Expenses|2056-00-001-0-01|General Expenses||Data|Object-Head|149.99|150.00|150.00|60.00
+83|01|05|2056|Jails|00||001|Direction and Administration|0||01|Inspector General of Prisons|052|Telephone Charges|2056-00-001-0-01|Telephone Charges||Data|Object-Head|4.76|||
+83|01|05|2056|Jails|00||001|Direction and Administration|0||01|Inspector General of Prisons|071|Building Expenses|2056-00-001-0-01|Building Expenses||Data|Object-Head|12.09|15.00|15.00|15.00
+83|01|05|2056|Jails|00||001|Direction and Administration|0||01|Inspector General of Prisons|131|Secret Service Expenses|2056-00-001-0-01|Secret Service Expenses||Data|Object-Head|149.00|100.00|100.00|100.00
+83|01|05|2056|Jails|00||001|Direction and Administration|0||01|Inspector General of Prisons|195|Transport Expenses|2056-00-001-0-01|Transport Expenses||Data|Object-Head|62.93|75.00|75.00|47.87
+83|01|05|2056|Jails|00||001|Direction and Administration|0||01|Inspector General of Prisons|||||HOA Total :|Total|Detailed-Head|1306.46|1424.21|1424.21|1534.35
+83|01|05|2056|Jails|00||001|Direction and Administration|0||03|Share on Account of Regional Training Institute for South Zone||||2056-00-001-0-03|Share on Account of Regional Training Institute for South Zone|Header|Detailed-Head||||
+83|01|05|2056|Jails|00||001|Direction and Administration|0||03|Share on Account of Regional Training Institute for South Zone|104|Contributions|2056-00-001-0-03|Contributions||Data|Object-Head|100.00|100.00|100.00|75.00
+83|01|05|2056|Jails|00||001|Direction and Administration|0||03|Share on Account of Regional Training Institute for South Zone|||||HOA Total :|Total|Detailed-Head|100.00|100.00|100.00|75.00
+83|01|05|2056|Jails|00||101|Prisons and Correctional Services|0||01|Prisons and Correctional Services||||2056-00-101-0-01|Prisons and Correctional Services|Header|Detailed-Head||||
+83|01|05|2056|Jails|00||101|Prisons and Correctional Services|0||01|Prisons and Correctional Services|002|Basic Pay|2056-00-101-0-01|Basic Pay||Data|Object-Head|413.88|19407.00|19407.00|19745.00
+83|01|05|2056|Jails|00||101|Prisons and Correctional Services|0||01|Prisons and Correctional Services|003|Basic Pay-Staff|2056-00-101-0-01|Basic Pay-Staff||Data|Object-Head|15074.60|||
+83|01|05|2056|Jails|00||101|Prisons and Correctional Services|0||01|Prisons and Correctional Services|004|Interim Relief|2056-00-101-0-01|Interim Relief||Data|Object-Head|909.46|||
+83|01|05|2056|Jails|00||101|Prisons and Correctional Services|0||01|Prisons and Correctional Services|011|Dearness Allowance|2056-00-101-0-01|Dearness Allowance||Data|Object-Head|3425.12|4270.00|4270.00|5012.00

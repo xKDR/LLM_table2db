@@ -1,0 +1,19 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+70|01|04|3451|Secretariat- Economic Services|00||090||2||41|Directorate of e-Governance and Electronic Delivery of Citizen Services (EDCS)|035|Salary of Board/Corp.Staff working in State Government|3451-00-090-2-41|Salary of Board/Corp.Staff working in State Government|V|Data|Object-Head|41.69|35.10|42.60|43.07
+70|01|04|3451|Secretariat- Economic Services|00||090||2||41|Directorate of e-Governance and Electronic Delivery of Citizen Services (EDCS)|037|Payment on Service Contract|3451-00-090-2-41|Payment on Service Contract|V|Data|Object-Head||1084.32|1084.32|1128.00
+70|01|04|3451|Secretariat- Economic Services|00||090||2||41|Directorate of e-Governance and Electronic Delivery of Citizen Services (EDCS)|041|Travel Expenses|3451-00-090-2-41|Travel Expenses|V|Data|Object-Head|0.14|1.00|1.00|1.00
+70|01|04|3451|Secretariat- Economic Services|00||090||2||41|Directorate of e-Governance and Electronic Delivery of Citizen Services (EDCS)|050|Office Expenses|3451-00-090-2-41|Office Expenses|V|Data|Object-Head|7.46|10.00|10.00|
+70|01|04|3451|Secretariat- Economic Services|00||090||2||41|Directorate of e-Governance and Electronic Delivery of Citizen Services (EDCS)|051|General Expenses|3451-00-090-2-41|General Expenses|V|Data|Object-Head|1599.81|400.00|400.00|
+70|01|04|3451|Secretariat- Economic Services|00||090||2||41|Directorate of e-Governance and Electronic Delivery of Citizen Services (EDCS)|071|Building Expenses|3451-00-090-2-41|Building Expenses|V|Data|Object-Head|155.98|250.00|250.00|260.00
+70|01|04|3451|Secretariat- Economic Services|00||090||2||41|Directorate of e-Governance and Electronic Delivery of Citizen Services (EDCS)|195|Transport Expenses|3451-00-090-2-41|Transport Expenses|V|Data|Object-Head|15.24|25.51|25.51|41.44
+70|01|04|3451|Secretariat- Economic Services|00||090||2||41|Directorate of e-Governance and Electronic Delivery of Citizen Services (EDCS)||||HOA Total :|V|Total|Detailed-Head|1861.30|1855.93|1863.43|1516.51
+70|01|04|3451|Secretariat- Economic Services|00||090||2||42|Transaction charges on DBT|||3451-00-090-2-42|Transaction charges on DBT|V|Header|Detailed-Head||||
+70|01|04|3451|Secretariat- Economic Services|00||090||2||42|Transaction charges on DBT|059|Other Expenses|3451-00-090-2-42|Other Expenses|V|Data|Object-Head||1.00|1.00|
+70|01|04|3451|Secretariat- Economic Services|00||090||2||42|Transaction charges on DBT||||HOA Total :|V|Total|Detailed-Head|0.00|1.00|1.00|0.00
+70|01|04|3451|Secretariat- Economic Services|00||090||2||44|CSS-State Share-India AI Mission|||3451-00-090-2-44|CSS-State Share-India AI Mission|V|Header|Detailed-Head||||
+70|01|04|3451|Secretariat- Economic Services|00||090||2||44|CSS-State Share-India AI Mission|015|Subsidiary Expenses|3451-00-090-2-44|Subsidiary Expenses|V|Data|Object-Head||||200.00
+70|01|04|3451|Secretariat- Economic Services|00||090||2||44|CSS-State Share-India AI Mission||||HOA Total :|V|Total|Detailed-Head|0.00|0.00|0.00|200.00
+70|01|04|3451|Secretariat- Economic Services|00||090||2||50|Vacant Post Provision|||3451-00-090-2-50|Vacant Post Provision|V|Header|Detailed-Head||||
+70|01|04|3451|Secretariat- Economic Services|00||090||2||50|Vacant Post Provision|014|Other Allowance|3451-00-090-2-50|Other Allowance|V|Data|Object-Head||523.45|515.95|642.45
+70|01|04|3451|Secretariat- Economic Services|00||090||2||50|Vacant Post Provision||||HOA Total :|V|Total|Detailed-Head|0.00|523.45|515.95|642.45
+70|01|04|3451|Secretariat- Economic Services|00||||||||||3451|3451 - Total :|V|Total|Major-Head|9130.13|9567.17|9597.44|6151.41

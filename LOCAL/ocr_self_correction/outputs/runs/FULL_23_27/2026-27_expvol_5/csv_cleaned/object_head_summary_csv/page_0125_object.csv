@@ -1,0 +1,26 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+112|05|14|2029|Land Revenue|00||001||0||04|Commissionerate of Revenue|050|Office Expenses|2029-00-001-0-04|Office Expenses||Data|Object-Head|5.00|38.00|38.00|30.00
+112|05|14|2029|Land Revenue|00||001||0||04|Commissionerate of Revenue|051|General Expenses|2029-00-001-0-04|General Expenses||Data|Object-Head|50.00|103.00|103.00|70.00
+112|05|14|2029|Land Revenue|00||001||0||04|Commissionerate of Revenue|052|Telephone Charges|2029-00-001-0-04|Telephone Charges||Data|Object-Head|0.81|||
+112|05|14|2029|Land Revenue|00||001||0||04|Commissionerate of Revenue|053|Purchase of Furniture and Fixture for Office|2029-00-001-0-04|Purchase of Furniture and Fixture for Office||Data|Object-Head|12.99|||
+112|05|14|2029|Land Revenue|00||001||0||04|Commissionerate of Revenue|071|Building Expenses|2029-00-001-0-04|Building Expenses||Data|Object-Head|2.64|5.00|5.00|5.00
+112|05|14|2029|Land Revenue|00||001||0||04|Commissionerate of Revenue|140|Minor Works|2029-00-001-0-04|Minor Works||Data|Object-Head|4.98|20.00|20.00|15.00
+112|05|14|2029|Land Revenue|00||001||0||04|Commissionerate of Revenue|180|Machinery and Equipments|2029-00-001-0-04|Machinery and Equipments||Data|Object-Head|34.96|||
+112|05|14|2029|Land Revenue|00||001||0||04|Commissionerate of Revenue|195|Transport Expenses|2029-00-001-0-04|Transport Expenses||Data|Object-Head|22.32|35.60|35.60|31.57
+112|05|14|2029|Land Revenue|00||001||0||04|Commissionerate of Revenue||||2029-00-001-0-04|HOA Total :|Total|Detailed-Head|383.36|583.70|583.70|550.69
+112|05|14|2029|Land Revenue|00||101|Village Establishments|1|Village Establishments|01|Village Establishments||||2029-00-101-1-01|Village Establishments|Header|Detailed-Head||||
+112|05|14|2029|Land Revenue|00||101|Village Establishments|1|Village Establishments|01|Village Establishments|002|Basic Pay|2029-00-101-1-01|Basic Pay||Data|Object-Head||44152.00|44152.00|49604.00
+112|05|14|2029|Land Revenue|00||101|Village Establishments|1|Village Establishments|01|Village Establishments|003|Basic Pay-Staff|2029-00-101-1-01|Basic Pay-Staff||Data|Object-Head|33911.70|||
+112|05|14|2029|Land Revenue|00||101|Village Establishments|1|Village Establishments|01|Village Establishments|004|Interim Relief|2029-00-101-1-01|Interim Relief||Data|Object-Head|1857.33|||
+112|05|14|2029|Land Revenue|00||101|Village Establishments|1|Village Establishments|01|Village Establishments|011|Dearness Allowance|2029-00-101-1-01|Dearness Allowance||Data|Object-Head|7286.41|9714.00|9714.00|12401.00
+112|05|14|2029|Land Revenue|00||101|Village Establishments|1|Village Establishments|01|Village Establishments|014|Other Allowance|2029-00-101-1-01|Other Allowance||Data|Object-Head|3619.75|5229.00|5229.00|5188.00
+112|05|14|2029|Land Revenue|00||101|Village Establishments|1|Village Establishments|01|Village Establishments|020|Medical Allowance|2029-00-101-1-01|Medical Allowance||Data|Object-Head|328.82|||
+112|05|14|2029|Land Revenue|00||101|Village Establishments|1|Village Establishments|01|Village Establishments|021|Reimbursement of Medical Expenses|2029-00-101-1-01|Reimbursement of Medical Expenses||Data|Object-Head|115.37|588.00|588.00|648.00
+112|05|14|2029|Land Revenue|00||101|Village Establishments|1|Village Establishments|01|Village Establishments|034|Contract/Outsource|2029-00-101-1-01|Contract/Outsource||Data|Object-Head|17307.87|17987.06|17987.06|15884.66
+112|05|14|2029|Land Revenue|00||101|Village Establishments|1|Village Establishments|01|Village Establishments|041|Travel Expenses|2029-00-101-1-01|Travel Expenses||Data|Object-Head|0.57|5.00|5.00|3.00
+112|05|14|2029|Land Revenue|00||101|Village Establishments|1|Village Establishments|01|Village Establishments|050|Office Expenses|2029-00-101-1-01|Office Expenses||Data|Object-Head|134.37|157.00|157.00|200.00
+112|05|14|2029|Land Revenue|00||101|Village Establishments|1|Village Establishments|01|Village Establishments|051|General Expenses|2029-00-101-1-01|General Expenses||Data|Object-Head|118.63|75.00|75.00|78.00
+112|05|14|2029|Land Revenue|00||101|Village Establishments|1|Village Establishments|01|Village Establishments|052|Telephone Charges|2029-00-101-1-01|Telephone Charges||Data|Object-Head|0.22|||
+112|05|14|2029|Land Revenue|00||101|Village Establishments|1|Village Establishments|01|Village Establishments|071|Building Expenses|2029-00-101-1-01|Building Expenses||Data|Object-Head|13.23|26.00|26.00|27.00
+112|05|14|2029|Land Revenue|00||101|Village Establishments|1|Village Establishments|01|Village Establishments|180|Machinery and Equipments|2029-00-101-1-01|Machinery and Equipments||Data|Object-Head|0.14|||
+112|05|14|2029|Land Revenue|00||101|Village Establishments|1|Village Establishments|01|Village Establishments||||2029-00-101-1-01|HOA Total :|Total|Detailed-Head|64694.41|77933.06|77933.06|84033.66

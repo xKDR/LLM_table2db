@@ -1,0 +1,24 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+79|01|05|2055|Police|00||115||0||01|CSS-Central Share-Modernisation of Police Force|||2055-00-115-0-01|CSS-Central Share-Modernisation of Police Force|V|Header|Detailed-Head||||
+79|01|05|2055|Police|00||115||0||01|CSS-Central Share-Modernisation of Police Force|125|Modernisation|2055-00-115-0-01|Modernisation|V|Data|Object-Head|1062.00|||
+79|01|05|2055|Police|00||115||0||01|CSS-Central Share-Modernisation of Police Force||||HOA Total :|V|Total|Detailed-Head|1062.00|0.00|0.00|0.00
+79|01|05|2055|Police|00||115||0||02|CSS-State Share-Modernisation of Police Force|||2055-00-115-0-02|CSS-State Share-Modernisation of Police Force|V|Header|Detailed-Head||||
+79|01|05|2055|Police|00||115||0||02|CSS-State Share-Modernisation of Police Force|125|Modernisation|2055-00-115-0-02|Modernisation|V|Data|Object-Head|708.00|||
+79|01|05|2055|Police|00||115||0||02|CSS-State Share-Modernisation of Police Force||||HOA Total :|V|Total|Detailed-Head|708.00|0.00|0.00|0.00
+79|01|05|2055|Police|00||116||0||01|Forensic Science Laboratory, Bangalore|||2055-00-116-0-01|Forensic Science Laboratory, Bangalore|V|Header|Detailed-Head||||
+79|01|05|2055|Police|00||116||0||01|Forensic Science Laboratory, Bangalore|002|Basic Pay|2055-00-116-0-01|Basic Pay|V|Data|Object-Head|2102.01|5022.00|5022.00|5070.00
+79|01|05|2055|Police|00||116||0||01|Forensic Science Laboratory, Bangalore|003|Basic Pay-Staff|2055-00-116-0-01|Basic Pay-Staff|V|Data|Object-Head|1857.30|||
+79|01|05|2055|Police|00||116||0||01|Forensic Science Laboratory, Bangalore|004|Interim Relief|2055-00-116-0-01|Interim Relief|V|Data|Object-Head|240.18|||
+79|01|05|2055|Police|00||116||0||01|Forensic Science Laboratory, Bangalore|011|Dearness Allowance|2055-00-116-0-01|Dearness Allowance|V|Data|Object-Head|904.93|1117.00|1117.00|1281.00
+79|01|05|2055|Police|00||116||0||01|Forensic Science Laboratory, Bangalore|014|Other Allowance|2055-00-116-0-01|Other Allowance|V|Data|Object-Head|723.50|893.00|893.00|861.00
+79|01|05|2055|Police|00||116||0||01|Forensic Science Laboratory, Bangalore|015|Subsidiary Expenses|2055-00-116-0-01|Subsidiary Expenses|V|Data|Object-Head|84.77|129.54|94.54|149.00
+79|01|05|2055|Police|00||116||0||01|Forensic Science Laboratory, Bangalore|020|Medical Allowance|2055-00-116-0-01|Medical Allowance|V|Data|Object-Head|14.25|||
+79|01|05|2055|Police|00||116||0||01|Forensic Science Laboratory, Bangalore|021|Reimbursement of Medical Expenses|2055-00-116-0-01|Reimbursement of Medical Expenses|V|Data|Object-Head|3.93|7.00|7.00|8.12
+79|01|05|2055|Police|00||116||0||01|Forensic Science Laboratory, Bangalore|034|Contract/Outsource|2055-00-116-0-01|Contract/Outsource|V|Data|Object-Head|55.96|371.67|127.67|137.76
+79|01|05|2055|Police|00||116||0||01|Forensic Science Laboratory, Bangalore|041|Travel Expenses|2055-00-116-0-01|Travel Expenses|V|Data|Object-Head|24.29|5.00|5.00|20.00
+79|01|05|2055|Police|00||116||0||01|Forensic Science Laboratory, Bangalore|050|Office Expenses|2055-00-116-0-01|Office Expenses|V|Data|Object-Head||2.50|2.50|100.00
+79|01|05|2055|Police|00||116||0||01|Forensic Science Laboratory, Bangalore|051|General Expenses|2055-00-116-0-01|General Expenses|V|Data|Object-Head|545.11|500.00|744.00|400.00
+79|01|05|2055|Police|00||116||0||01|Forensic Science Laboratory, Bangalore|052|Telephone Charges|2055-00-116-0-01|Telephone Charges|V|Data|Object-Head|2.23|||
+79|01|05|2055|Police|00||116||0||01|Forensic Science Laboratory, Bangalore|071|Building Expenses|2055-00-116-0-01|Building Expenses|V|Data|Object-Head|168.89|160.00|160.00|166.00
+79|01|05|2055|Police|00||116||0||01|Forensic Science Laboratory, Bangalore|180|Machinery and Equipments|2055-00-116-0-01|Machinery and Equipments|V|Data|Object-Head|1099.54|||
+79|01|05|2055|Police|00||116||0||01|Forensic Science Laboratory, Bangalore|195|Transport Expenses|2055-00-116-0-01|Transport Expenses|V|Data|Object-Head|64.92|21.00|21.00|146.07

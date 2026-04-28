@@ -1,0 +1,12 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+2|06|06|3451|Secretariat- Economic Services|00||||||||||3451|Secretariat- Economic Services||Header|Major-Head||||
+2|06|06|3451|Secretariat- Economic Services|00||090||1||06|PPP Developmental Activities|||3451-00-090-1-06|PPP Developmental Activities||Header|Detailed-Head||||
+2|06|06|3451|Secretariat- Economic Services|00||090||1||06|PPP Developmental Activities|059|Other Expenses|3451-00-090-1-06|Other Expenses||Data|Object-Head|200.00|500.00|500.00|500.00
+2|06|06|3451|Secretariat- Economic Services|00||090||1||06|PPP Developmental Activities||||3451-00-090-1-06|HOA Total :|Total|Detailed-Head|200.00|500.00|500.00|500.00
+2|06|06|3451|Secretariat- Economic Services|00||090||1||11|Development of Minor Airports|||3451-00-090-1-11|Development of Minor Airports||Header|Detailed-Head||||
+2|06|06|3451|Secretariat- Economic Services|00||090||1||11|Development of Minor Airports|071|Building Expenses|3451-00-090-1-11|Building Expenses||Data|Object-Head|488.00|500.00|500.00|500.00
+2|06|06|3451|Secretariat- Economic Services|00||090||1||11|Development of Minor Airports||||3451-00-090-1-11|HOA Total :|Total|Detailed-Head|488.00|500.00|500.00|500.00
+2|06|06|3451|Secretariat- Economic Services|00||090||1||18|Regional Air Connectivity|||3451-00-090-1-18|Regional Air Connectivity||Header|Detailed-Head||||
+2|06|06|3451|Secretariat- Economic Services|00||090||1||18|Regional Air Connectivity|059|Other Expenses|3451-00-090-1-18|Other Expenses||Data|Object-Head|2499.62|4133.00|4133.00|3940.00
+2|06|06|3451|Secretariat- Economic Services|00||090||1||18|Regional Air Connectivity||||3451-00-090-1-18|HOA Total :|Total|Detailed-Head|2499.62|4133.00|4133.00|3940.00
+2|06|06|3451|Secretariat- Economic Services|00||||||||||3451|3451 - Total :||Total|Major-Head|3187.62|5133.00|5133.00|4940.00

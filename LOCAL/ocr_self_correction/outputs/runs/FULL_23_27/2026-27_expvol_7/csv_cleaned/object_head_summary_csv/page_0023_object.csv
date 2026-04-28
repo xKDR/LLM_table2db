@@ -1,0 +1,16 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+12|07|20|3054|Roads and Bridges|80|General|797||0||02|Transfer of Grants from Central Road and Infrastructure Fund to Deposit Head Subventions|||3054-80-797-0-02|Transfer of Grants from Central Road and Infrastructure Fund to Deposit Head Subventions|V|Header|Detailed-Head||||
+12|07|20|3054|Roads and Bridges|80|General|797||0||02|Transfer of Grants from Central Road and Infrastructure Fund to Deposit Head Subventions|261|Inter Account Transfers|3054-80-797-0-02|Inter Account Transfers|V|Data|Object-Head|45385.00|50000.00||50000.00
+12|07|20|3054|Roads and Bridges|80|General|797||0||02|Transfer of Grants from Central Road and Infrastructure Fund to Deposit Head Subventions||||HOA Total :|V|Total|Detailed-Head|45385.00|50000.00|0.00|50000.00
+12|07|20|3054|Roads and Bridges|80|General|800||0||10|KRDCL-Payment of Government Guarantee Commission|||3054-80-800-0-10|KRDCL-Payment of Government Guarantee Commission|V|Header|Detailed-Head||||
+12|07|20|3054|Roads and Bridges|80|General|800||0||10|KRDCL-Payment of Government Guarantee Commission|100|Financial Assistance/Relief|3054-80-800-0-10|Financial Assistance/Relief|V|Data|Object-Head||987.33|987.33|1046.00
+12|07|20|3054|Roads and Bridges|80|General|800||0||10|KRDCL-Payment of Government Guarantee Commission||||HOA Total :|V|Total|Detailed-Head|0.00|987.33|987.33|1046.00
+12|07|20|3054|Roads and Bridges|80|General|902||0||00|Deduct - Amount met from CMRRF|||3054-80-902-0-00|Deduct - Amount met from CMRRF|V|Header|Detailed-Head||||
+12|07|20|3054|Roads and Bridges|80|General|902||0||00|Deduct - Amount met from CMRRF|261|Inter Account Transfers|3054-80-902-0-00|Inter Account Transfers|V|Data|Object-Head|-20000.00|-5170.06|-5170.06|
+12|07|20|3054|Roads and Bridges|80|General|902||0||00|Deduct - Amount met from CMRRF||||HOA Total :|V|Total|Detailed-Head|-20000.00|-5170.06|-5170.06|0.00
+12|07|20|3054|Roads and Bridges|80|General|911||0||00|Deduct Recoveries of Over Payments|||3054-80-911-0-00|Deduct Recoveries of Over Payments|V|Header|Detailed-Head||||
+12|07|20|3054|Roads and Bridges|80|General|911||0||00|Deduct Recoveries of Over Payments|364|Deduct - Recoveries|3054-80-911-0-00|Deduct - Recoveries|V|Data|Object-Head|-0.01|||
+12|07|20|3054|Roads and Bridges|80|General|911||0||00|Deduct Recoveries of Over Payments||||HOA Total :|V|Total|Detailed-Head|-0.01|0.00|0.00|0.00
+12|07|20|3054|Roads and Bridges|80|General|911||0||01|Deduct recovery of Over Payments of Current Year|||3054-80-911-0-01|Deduct recovery of Over Payments of Current Year|V|Header|Detailed-Head||||
+12|07|20|3054|Roads and Bridges|80|General|911||0||01|Deduct recovery of Over Payments of Current Year|364|Deduct - Recoveries|3054-80-911-0-01|Deduct - Recoveries|V|Data|Object-Head|-1.50|||
+12|07|20|3054|Roads and Bridges|80|General|911||0||01|Deduct recovery of Over Payments of Current Year||||HOA Total :|V|Total|Detailed-Head|-1.50|0.00|0.00|0.00

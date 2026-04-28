@@ -1,0 +1,23 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+38|04|07|5054|Capital Outlay on Roads & Bridges|04||337||||||||5054-04-337|Roads||Header|Minor-Head||||
+38|04|07|5054|Capital Outlay on Roads & Bridges|04||337||0||09|Namma Grama Namma Raste Scheme (NGNRY)-6th Year Renewal|||5054-04-337-0-09|Namma Grama Namma Raste Scheme (NGNRY)-6th Year Renewal||Header|Detailed-Head||||
+38|04|07|5054|Capital Outlay on Roads & Bridges|04||337||0||09|Namma Grama Namma Raste Scheme (NGNRY)-6th Year Renewal|172|Roads|5054-04-337-0-09|Roads||Data|Object-Head||10000.00|10000.00|10000.00
+38|04|07|5054|Capital Outlay on Roads & Bridges|04||337||0||09|Namma Grama Namma Raste Scheme (NGNRY)-6th Year Renewal||||HOA Total :||Total|Detailed-Head|0.00|10000.00|10000.00|10000.00
+38|04|07|5054|Capital Outlay on Roads & Bridges|04||800||||||||5054-04-800|Other Expenditure||Header|Minor-Head||||
+38|04|07|5054|Capital Outlay on Roads & Bridges|04||800||3||90|Deduct- Receipts and Recoveries on Capital Account|||5054-04-800-3-90|Deduct- Receipts and Recoveries on Capital Account||Header|Detailed-Head||||
+38|04|07|5054|Capital Outlay on Roads & Bridges|04||800||3||90|Deduct- Receipts and Recoveries on Capital Account|364|Deduct - Recoveries|5054-04-800-3-90|Deduct - Recoveries||Data|Object-Head|-0.16|||
+38|04|07|5054|Capital Outlay on Roads & Bridges|04||800||3||90|Deduct- Receipts and Recoveries on Capital Account||||HOA Total :||Total|Detailed-Head|-0.16|0.00|0.00|0.00
+38|04|07|5054|Capital Outlay on Roads & Bridges|04||902||||||||5054-04-902|Deduct-Amount met from Capital Reserve Fund||Header|Minor-Head||||
+38|04|07|5054|Capital Outlay on Roads & Bridges|04||902||0||02|Deduct-Amount met from CMRRF|||5054-04-902-0-02|Deduct-Amount met from CMRRF||Header|Detailed-Head||||
+38|04|07|5054|Capital Outlay on Roads & Bridges|04||902||0||02|Deduct-Amount met from CMRRF|261|Inter Account Transfers|5054-04-902-0-02|Inter Account Transfers||Data|Object-Head|-49613.55|-75900.00|-75900.00|
+38|04|07|5054|Capital Outlay on Roads & Bridges|04||902||0||02|Deduct-Amount met from CMRRF||||HOA Total :||Total|Detailed-Head|-49613.55|-75900.00|-75900.00|0.00
+38|04|07|5054|Capital Outlay on Roads & Bridges|05||337||||||||5054-05-337|Roads||Header|Minor-Head||||
+38|04|07|5054|Capital Outlay on Roads & Bridges|05||337||5||02|PRAGATHI PATHA- Climate Smart Rural Road Connectivity-EAP|||5054-05-337-5-02|PRAGATHI PATHA- Climate Smart Rural Road Connectivity-EAP||Header|Detailed-Head||||
+38|04|07|5054|Capital Outlay on Roads & Bridges|05||337||5||02|PRAGATHI PATHA- Climate Smart Rural Road Connectivity-EAP|133|Regional Imbalance Redressal Program|5054-05-337-5-02|Regional Imbalance Redressal Program||Data|Object-Head||||20000.00
+38|04|07|5054|Capital Outlay on Roads & Bridges|05||337||5||02|PRAGATHI PATHA- Climate Smart Rural Road Connectivity-EAP|172|Roads|5054-05-337-5-02|Roads||Data|Object-Head||10000.00|10000.00|30000.00
+38|04|07|5054|Capital Outlay on Roads & Bridges|05||337||5||02|PRAGATHI PATHA- Climate Smart Rural Road Connectivity-EAP||||HOA Total :||Total|Detailed-Head|0.00|10000.00|10000.00|50000.00
+38|04|07|5054|Capital Outlay on Roads & Bridges|05||337||5||03|CM's Infrastructure Development Program(CMIDP)|||5054-05-337-5-03|CM's Infrastructure Development Program(CMIDP)||Header|Detailed-Head||||
+38|04|07|5054|Capital Outlay on Roads & Bridges|05||337||5||03|CM's Infrastructure Development Program(CMIDP)|172|Roads|5054-05-337-5-03|Roads||Data|Object-Head||76500.00|76500.00|75900.00
+38|04|07|5054|Capital Outlay on Roads & Bridges|05||337||5||03|CM's Infrastructure Development Program(CMIDP)|422|Schedule Caste Sub Plan|5054-05-337-5-03|Schedule Caste Sub Plan||Data|Object-Head||9900.00|9900.00|17150.00
+38|04|07|5054|Capital Outlay on Roads & Bridges|05||337||5||03|CM's Infrastructure Development Program(CMIDP)|423|Tribal Sub Plan|5054-05-337-5-03|Tribal Sub Plan||Data|Object-Head||3600.00|3600.00|6950.00
+38|04|07|5054|Capital Outlay on Roads & Bridges|05||337||5||03|CM's Infrastructure Development Program(CMIDP)||||HOA Total :||Total|Detailed-Head|0.00|90000.00|90000.00|100000.00

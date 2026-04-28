@@ -1,0 +1,19 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+122|04|19|2216|Housing|02||||||||||2216|Housing|V|Header|Major-Head||||
+122|04|19|2216|Housing|02||101||0||07|Vajpayee Urban Housing Scheme|||2216-02-101-0-07|Vajpayee Urban Housing Scheme|V|Header|Detailed-Head||||
+122|04|19|2216|Housing|02||101||0||07|Vajpayee Urban Housing Scheme|106|Subsidies|2216-02-101-0-07|Subsidies|V|Data|Object-Head||5000.00||5000.00
+122|04|19|2216|Housing|02||101||0||07|Vajpayee Urban Housing Scheme|||2216-02-101-0-07|HOA Total :|V|Total|Detailed-Head|0.00|5000.00|0.00|5000.00
+122|04|19|2216|Housing|02||105||0||01|Releases under Karnataka Real Estate (Regulation and Development) Act, 2016|||2216-02-105-0-01|Releases under Karnataka Real Estate (Regulation and Development) Act, 2016|V|Header|Detailed-Head||||
+122|04|19|2216|Housing|02||105||0||01|Releases under Karnataka Real Estate (Regulation and Development) Act, 2016|101|Grants-in-Aid-Salaries|2216-02-105-0-01|Grants-in-Aid-Salaries|V|Data|Object-Head|149.80|223.63|223.63|341.08
+122|04|19|2216|Housing|02||105||0||01|Releases under Karnataka Real Estate (Regulation and Development) Act, 2016|103|Grants-in-Aid -General|2216-02-105-0-01|Grants-in-Aid -General|V|Data|Object-Head|800.00|2000.00|2000.00|2000.00
+122|04|19|2216|Housing|02||105||0||01|Releases under Karnataka Real Estate (Regulation and Development) Act, 2016|115|GIA Contract /Outsource|2216-02-105-0-01|GIA Contract /Outsource|V|Data|Object-Head|415.65|424.09|424.09|414.55
+122|04|19|2216|Housing|02||105||0||01|Releases under Karnataka Real Estate (Regulation and Development) Act, 2016|||2216-02-105-0-01|HOA Total :|V|Total|Detailed-Head|1365.45|2647.72|2647.72|2755.63
+122|04|19|2216|Housing|02||106||0||01|CSS-Central Share-Administrative Expenditure- PMAY(U 1.0)|||2216-02-106-0-01|CSS-Central Share-Administrative Expenditure- PMAY(U 1.0)|V|Header|Detailed-Head||||
+122|04|19|2216|Housing|02||106||0||01|CSS-Central Share-Administrative Expenditure- PMAY(U 1.0)|051|General Expenses|2216-02-106-0-01|General Expenses|V|Data|Object-Head|||408.99|
+122|04|19|2216|Housing|02||106||0||01|CSS-Central Share-Administrative Expenditure- PMAY(U 1.0)|||2216-02-106-0-01|HOA Total :|V|Total|Detailed-Head|0.00|0.00|408.99|0.00
+122|04|19|2216|Housing|02||106||0||02|CSS-State Share-Administrative Expenditure- PMAY(U 1.0)|||2216-02-106-0-02|CSS-State Share-Administrative Expenditure- PMAY(U 1.0)|V|Header|Detailed-Head||||
+122|04|19|2216|Housing|02||106||0||02|CSS-State Share-Administrative Expenditure- PMAY(U 1.0)|051|General Expenses|2216-02-106-0-02|General Expenses|V|Data|Object-Head|||136.33|
+122|04|19|2216|Housing|02||106||0||02|CSS-State Share-Administrative Expenditure- PMAY(U 1.0)|||2216-02-106-0-02|HOA Total :|V|Total|Detailed-Head|0.00|0.00|136.33|0.00
+122|04|19|2216|Housing|02||106||0||03|CSS-Central Share-Affordable Housing in Partnership(AHP)- PMAY(U 2.0)|||2216-02-106-0-03|CSS-Central Share-Affordable Housing in Partnership(AHP)- PMAY(U 2.0)|V|Header|Detailed-Head||||
+122|04|19|2216|Housing|02||106||0||03|CSS-Central Share-Affordable Housing in Partnership(AHP)- PMAY(U 2.0)|051|General Expenses|2216-02-106-0-03|General Expenses|V|Data|Object-Head||||5000.00
+122|04|19|2216|Housing|02||106||0||03|CSS-Central Share-Affordable Housing in Partnership(AHP)- PMAY(U 2.0)|||2216-02-106-0-03|HOA Total :|V|Total|Detailed-Head|0.00|0.00|0.00|5000.00

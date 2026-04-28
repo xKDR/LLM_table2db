@@ -1,0 +1,25 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+9|02|12|3452|Tourism|01||101||0||05|Sri Renuka Yellamma Tourism Development Board|||3452|Tourism|V|Header|Major-Head||||
+9|02|12|3452|Tourism|01||101||0||05|Sri Renuka Yellamma Tourism Development Board|||3452-01-101-0-05|Sri Renuka Yellamma Tourism Development Board|V|Header|Detailed-Head||||
+9|02|12|3452|Tourism|01||101||0||05|Sri Renuka Yellamma Tourism Development Board|101|Grants-in-Aid-Salaries|3452-01-101-0-05|Grants-in-Aid-Salaries|V|Data|Object-Head||1.00|12.18|17.00
+9|02|12|3452|Tourism|01||101||0||05|Sri Renuka Yellamma Tourism Development Board|115|GIA Contract /Outsource|3452-01-101-0-05|GIA Contract /Outsource|V|Data|Object-Head||1.00|1.00|1.00
+9|02|12|3452|Tourism|01||101||0||05|Sri Renuka Yellamma Tourism Development Board|||3452-01-101-0-05|HOA Total :|V|Total|Detailed-Head|0.00|2.00|13.18|18.00
+9|02|12|3452|Tourism|80||001||0||01|Directorate of Tourism|||3452-80-001-0-01|Directorate of Tourism|V|Header|Detailed-Head||||
+9|02|12|3452|Tourism|80||001||0||01|Directorate of Tourism|002|Basic Pay|3452-80-001-0-01|Basic Pay|V|Data|Object-Head|325.19|656.00|656.00|732.00
+9|02|12|3452|Tourism|80||001||0||01|Directorate of Tourism|003|Basic Pay-Staff|3452-80-001-0-01|Basic Pay-Staff|V|Data|Object-Head|212.27|||
+9|02|12|3452|Tourism|80||001||0||01|Directorate of Tourism|004|Interim Relief|3452-80-001-0-01|Interim Relief|V|Data|Object-Head|33.49|||
+9|02|12|3452|Tourism|80||001||0||01|Directorate of Tourism|011|Dearness Allowance|3452-80-001-0-01|Dearness Allowance|V|Data|Object-Head|124.99|145.00|145.00|189.00
+9|02|12|3452|Tourism|80||001||0||01|Directorate of Tourism|014|Other Allowance|3452-80-001-0-01|Other Allowance|V|Data|Object-Head|89.00|100.00|100.00|116.00
+9|02|12|3452|Tourism|80||001||0||01|Directorate of Tourism|015|Subsidiary Expenses|3452-80-001-0-01|Subsidiary Expenses|V|Data|Object-Head|1227.22|1741.54|1741.54|1800.00
+9|02|12|3452|Tourism|80||001||0||01|Directorate of Tourism|020|Medical Allowance|3452-80-001-0-01|Medical Allowance|V|Data|Object-Head|1.82|||
+9|02|12|3452|Tourism|80||001||0||01|Directorate of Tourism|021|Reimbursement of Medical Expenses|3452-80-001-0-01|Reimbursement of Medical Expenses|V|Data|Object-Head|0.35|15.00|15.00|15.00
+9|02|12|3452|Tourism|80||001||0||01|Directorate of Tourism|033|Daily-wages|3452-80-001-0-01|Daily-wages|V|Data|Object-Head|12.87|14.21|14.21|2.45
+9|02|12|3452|Tourism|80||001||0||01|Directorate of Tourism|034|Contract/Outsource|3452-80-001-0-01|Contract/Outsource|V|Data|Object-Head|293.48|305.87|305.87|316.57
+9|02|12|3452|Tourism|80||001||0||01|Directorate of Tourism|041|Travel Expenses|3452-80-001-0-01|Travel Expenses|V|Data|Object-Head|5.79|6.00|6.00|6.00
+9|02|12|3452|Tourism|80||001||0||01|Directorate of Tourism|050|Office Expenses|3452-80-001-0-01|Office Expenses|V|Data|Object-Head||40.00|40.00|40.00
+9|02|12|3452|Tourism|80||001||0||01|Directorate of Tourism|051|General Expenses|3452-80-001-0-01|General Expenses|V|Data|Object-Head|28.86|30.00|30.00|30.00
+9|02|12|3452|Tourism|80||001||0||01|Directorate of Tourism|052|Telephone Charges|3452-80-001-0-01|Telephone Charges|V|Data|Object-Head|6.12|||
+9|02|12|3452|Tourism|80||001||0||01|Directorate of Tourism|071|Building Expenses|3452-80-001-0-01|Building Expenses|V|Data|Object-Head|247.12|349.00|349.00|349.00
+9|02|12|3452|Tourism|80||001||0||01|Directorate of Tourism|195|Transport Expenses|3452-80-001-0-01|Transport Expenses|V|Data|Object-Head|124.27|121.00|121.00|117.22
+9|02|12|3452|Tourism|80||001||0||01|Directorate of Tourism|200|Maintenance Expenditure|3452-80-001-0-01|Maintenance Expenditure|V|Data|Object-Head||5.00|5.00|4.00
+9|02|12|3452|Tourism|80||001||0||01|Directorate of Tourism|||3452-80-001-0-01|HOA Total :|V|Total|Detailed-Head|2732.84|3528.62|3528.62|3717.24

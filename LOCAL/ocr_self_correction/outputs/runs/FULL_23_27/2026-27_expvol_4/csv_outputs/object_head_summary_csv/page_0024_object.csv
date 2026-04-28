@@ -1,0 +1,23 @@
+13|04|07|2505|Rural Employment|60||101||0||04|Mahatma Gandhi National Rural Employment Assurance Scheme-Establishment|||2505-60-101-0-04|Mahatma Gandhi National Rural Employment Assurance Scheme-Establishment|V|Header|Detailed-Head||||
+13|04|07|2505|Rural Employment|60||101||0||04|Mahatma Gandhi National Rural Employment Assurance Scheme-Establishment|002|Basic Pay|2505-60-101-0-04|Basic Pay|V|Data|Object-Head|113.63|192.00|192.00|231.00
+13|04|07|2505|Rural Employment|60||101||0||04|Mahatma Gandhi National Rural Employment Assurance Scheme-Establishment|003|Basic Pay-Staff|2505-60-101-0-04|Basic Pay-Staff|V|Data|Object-Head|28.42||||
+13|04|07|2505|Rural Employment|60||101||0||04|Mahatma Gandhi National Rural Employment Assurance Scheme-Establishment|004|Interim Relief|2505-60-101-0-04|Interim Relief|V|Data|Object-Head|9.28||||
+13|04|07|2505|Rural Employment|60||101||0||04|Mahatma Gandhi National Rural Employment Assurance Scheme-Establishment|011|Dearness Allowance|2505-60-101-0-04|Dearness Allowance|V|Data|Object-Head|34.73|43.00|43.00|64.00
+13|04|07|2505|Rural Employment|60||101||0||04|Mahatma Gandhi National Rural Employment Assurance Scheme-Establishment|014|Other Allowance|2505-60-101-0-04|Other Allowance|V|Data|Object-Head|38.14|42.00|42.00|50.00
+13|04|07|2505|Rural Employment|60||101||0||04|Mahatma Gandhi National Rural Employment Assurance Scheme-Establishment|020|Medical Allowance|2505-60-101-0-04|Medical Allowance|V|Data|Object-Head|0.18||||
+13|04|07|2505|Rural Employment|60||101||0||04|Mahatma Gandhi National Rural Employment Assurance Scheme-Establishment|021|Reimbursement of Medical Expenses|2505-60-101-0-04|Reimbursement of Medical Expenses|V|Data|Object-Head|0.25|9.00|9.00|9.00
+13|04|07|2505|Rural Employment|60||101||0||04|Mahatma Gandhi National Rural Employment Assurance Scheme-Establishment|041|Travel Expenses|2505-60-101-0-04|Travel Expenses|V|Data|Object-Head|0.30|1.00|1.00|1.00
+13|04|07|2505|Rural Employment|60||101||0||04|Mahatma Gandhi National Rural Employment Assurance Scheme-Establishment|050|Office Expenses|2505-60-101-0-04|Office Expenses|V|Data|Object-Head||2.00|2.00|14.00
+13|04|07|2505|Rural Employment|60||101||0||04|Mahatma Gandhi National Rural Employment Assurance Scheme-Establishment|051|General Expenses|2505-60-101-0-04|General Expenses|V|Data|Object-Head|14.05|15.00|15.00|1.00
+13|04|07|2505|Rural Employment|60||101||0||04|Mahatma Gandhi National Rural Employment Assurance Scheme-Establishment|052|Telephone Charges|2505-60-101-0-04|Telephone Charges|V|Data|Object-Head|0.78||||
+13|04|07|2505|Rural Employment|60||101||0||04|Mahatma Gandhi National Rural Employment Assurance Scheme-Establishment|195|Transport Expenses|2505-60-101-0-04|Transport Expenses|V|Data|Object-Head|27.48|39.11|39.11|45.25
+13|04|07|2505|Rural Employment|60||101||0||04|Mahatma Gandhi National Rural Employment Assurance Scheme-Establishment|324|Honorarium|2505-60-101-0-04|Honorarium|V|Data|Object-Head|46.85|53.00|53.00|53.00
+13|04|07|2505|Rural Employment|60||101||0||04|Mahatma Gandhi National Rural Employment Assurance Scheme-Establishment|||2505-60-101-0-04|HOA Total :|V|Total|Detailed-Head|314.09|396.11|396.11|468.25
+13|04|07|2505|Rural Employment|60||196||6||04|CSS-Central Share-MGNREGA-Material Component|||2505-60-196-6-04|CSS-Central Share-MGNREGA-Material Component|V|Header|Detailed-Head||||
+13|04|07|2505|Rural Employment|60||196||6||04|CSS-Central Share-MGNREGA-Material Component|300|Lumpsum - ZP|2505-60-196-6-04|Lumpsum - ZP|V|Data|Object-Head|129981.34|180000.00|36909.00|124650.00
+13|04|07|2505|Rural Employment|60||196||6||04|CSS-Central Share-MGNREGA-Material Component|332|Lumpsum-SCSP|2505-60-196-6-04|Lumpsum-SCSP|V|Data|Object-Head||||31824.00
+13|04|07|2505|Rural Employment|60||196||6||04|CSS-Central Share-MGNREGA-Material Component|333|Lumpsum-TSP|2505-60-196-6-04|Lumpsum-TSP|V|Data|Object-Head||||23526.00
+13|04|07|2505|Rural Employment|60||196||6||04|CSS-Central Share-MGNREGA-Material Component|||2505-60-196-6-04|HOA Total :|V|Total|Detailed-Head|129981.34|180000.00|36909.00|180000.00
+13|04|07|2505|Rural Employment|60||196||6||05|CSS-State Share-MGNREGA-Material Component|||2505-60-196-6-05|CSS-State Share-MGNREGA-Material Component|V|Header|Detailed-Head||||
+13|04|07|2505|Rural Employment|60||196||6||05|CSS-State Share-MGNREGA-Material Component|300|Lumpsum - ZP|2505-60-196-6-05|Lumpsum - ZP|V|Data|Object-Head|43327.10|45000.00|45000.00|31162.50
+13|04|07|2505|Rural Employment|60||196||6||05|CSS-State Share-MGNREGA-Material Component|332|Lumpsum-SCSP|2505-60-196-6-05|Lumpsum-SCSP|V|Data|Object-Head||||7956.00

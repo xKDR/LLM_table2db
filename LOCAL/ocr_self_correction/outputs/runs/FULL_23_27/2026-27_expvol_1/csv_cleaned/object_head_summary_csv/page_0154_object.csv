@@ -1,0 +1,9 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+140|01|29|2048|Appropriation for reduction or avoidance of debt|00||||||||||2048|Appropriation for reduction or avoidance of debt||Header|Major-Head||||
+140|01|29|2048|Appropriation for reduction or avoidance of debt|00||101||||||||2048-00-101|101||Header|Minor-Head||||
+140|01|29|2048|Appropriation for reduction or avoidance of debt|00||101||4||||||2048-00-101-4|4||Header|Sub-Head||||
+140|01|29|2048|Appropriation for reduction or avoidance of debt|00||101||4||01|Contribution to Consolidated Sinking Fund|||2048-00-101-4-01|Contribution to Consolidated Sinking Fund||Header|Detailed-Head||||
+140|01|29|2048|Appropriation for reduction or avoidance of debt|00||101||4||01|Contribution to Consolidated Sinking Fund|240|Repayment of Borrowings|2048-00-101-4-01|Repayment of Borrowings|C|Data|Object-Head|200000.00|300000.00|50000.00|
+140|01|29|2048|Appropriation for reduction or avoidance of debt|00||101||4||01|Contribution to Consolidated Sinking Fund|261|Inter Account Transfers|2048-00-101-4-01|Inter Account Transfers|C|Data|Object-Head||||300000.00
+140|01|29|2048|Appropriation for reduction or avoidance of debt|00||101||4||01|Contribution to Consolidated Sinking Fund|||2048-00-101-4-01|HOA Total :|C|Total|Detailed-Head|200000.00|300000.00|50000.00|300000.00
+140|01|29|2048|Appropriation for reduction or avoidance of debt|00||||||||||2048|2048 - Total :|C|Total|Major-Head|200000.00|300000.00|50000.00|300000.00

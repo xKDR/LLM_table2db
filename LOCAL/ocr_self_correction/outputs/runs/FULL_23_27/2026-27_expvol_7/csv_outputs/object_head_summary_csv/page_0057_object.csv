@@ -1,0 +1,20 @@
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|1|Debits|01|Debits|293|M P W A Debits|2702-80-799-1-01|M P W A Debits||Data|Object-Head||1.00|1.00|
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|1|Debits|01|Debits|||2702-80-799-1-01|HOA Total :||Total|Detailed-Head|0.00|2.00|2.00|0.00
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|1|Debits|02|Credits|||2702-80-799-1-02|Credits||Header|Detailed-Head||||
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|1|Debits|02|Credits|294|Stock Credits|2702-80-799-1-02|Stock Credits||Data|Object-Head||-1.00|-1.00|
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|1|Debits|02|Credits|295|M P W A Credits|2702-80-799-1-02|M P W A Credits||Data|Object-Head||-1.00|-1.00|
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|1|Debits|02|Credits|||2702-80-799-1-02|HOA Total :||Total|Detailed-Head|0.00|-2.00|-2.00|0.00
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|2|Debits|01|Debits|||2702-80-799-2-01|Debits||Header|Detailed-Head||||
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|2|Debits|01|Debits|292|Stock Debits|2702-80-799-2-01|Stock Debits||Data|Object-Head||1.00|1.00|
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|2|Debits|01|Debits|293|M P W A Debits|2702-80-799-2-01|M P W A Debits||Data|Object-Head||1.00|1.00|
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|2|Debits|01|Debits|||2702-80-799-2-01|HOA Total :||Total|Detailed-Head|0.00|2.00|2.00|0.00
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|2|Debits|02|Credits|||2702-80-799-2-02|Credits||Header|Detailed-Head||||
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|2|Debits|02|Credits|294|Stock Credits|2702-80-799-2-02|Stock Credits||Data|Object-Head||-1.00|-1.00|
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|2|Debits|02|Credits|295|M P W A Credits|2702-80-799-2-02|M P W A Credits||Data|Object-Head||-1.00|-1.00|
+46|07|21|2702|Minor Irrigation|80|General|799|Suspense|2|Debits|02|Credits|||2702-80-799-2-02|HOA Total :||Total|Detailed-Head|0.00|-2.00|-2.00|0.00
+46|07|21|2702|Minor Irrigation|80|General|911|Deduct-Recovery of Overpayments|0||00|Deduct-Recovery of Overpayments|||2702-80-911-0-00|Deduct-Recovery of Overpayments||Header|Detailed-Head||||
+46|07|21|2702|Minor Irrigation|80|General|911|Deduct-Recovery of Overpayments|0||00|Deduct-Recovery of Overpayments|364|Deduct - Recoveries|2702-80-911-0-00|Deduct - Recoveries||Data|Object-Head|-11.91|||
+46|07|21|2702|Minor Irrigation|80|General|911|Deduct-Recovery of Overpayments|0||00|Deduct-Recovery of Overpayments|||2702-80-911-0-00|HOA Total :||Total|Detailed-Head|-11.91|0.00|0.00|0.00
+46|07|21|2702|Minor Irrigation|80|General|911|Deduct-Recovery of Overpayments|0||01|Deduct-Recovery of Overpayments|||2702-80-911-0-01|Deduct-Recovery of Overpayments||Header|Detailed-Head||||
+46|07|21|2702|Minor Irrigation|80|General|911|Deduct-Recovery of Overpayments|0||01|Deduct-Recovery of Overpayments|364|Deduct - Recoveries|2702-80-911-0-01|Deduct - Recoveries||Data|Object-Head|-3.24|||
+46|07|21|2702|Minor Irrigation|80|General|911|Deduct-Recovery of Overpayments|0||01|Deduct-Recovery of Overpayments|||2702-80-911-0-01|HOA Total :||Total|Detailed-Head|-3.24|0.00|0.00|0.00

@@ -1,0 +1,28 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+75|01|05|2055|Police|00||101||0||01|Criminal Investigation Department|020|Medical Allowance|2055-00-101-0-01|Medical Allowance|V|Data|Object-Head|32.48|||
+75|01|05|2055|Police|00||101||0||01|Criminal Investigation Department|021|Reimbursement of Medical Expenses|2055-00-101-0-01|Reimbursement of Medical Expenses|V|Data|Object-Head|9.44|14.96|14.96|17.73
+75|01|05|2055|Police|00||101||0||01|Criminal Investigation Department|034|Contract/Outsource|2055-00-101-0-01|Contract/Outsource|V|Data|Object-Head|236.98|535.49|535.49|499.77
+75|01|05|2055|Police|00||101||0||01|Criminal Investigation Department|041|Travel Expenses|2055-00-101-0-01|Travel Expenses|V|Data|Object-Head|99.99|60.00|60.00|70.00
+75|01|05|2055|Police|00||101||0||01|Criminal Investigation Department|050|Office Expenses|2055-00-101-0-01|Office Expenses|V|Data|Object-Head||40.00|40.00|80.00
+75|01|05|2055|Police|00||101||0||01|Criminal Investigation Department|051|General Expenses|2055-00-101-0-01|General Expenses|V|Data|Object-Head|299.98|250.00|300.00|210.00
+75|01|05|2055|Police|00||101||0||01|Criminal Investigation Department|052|Telephone Charges|2055-00-101-0-01|Telephone Charges|V|Data|Object-Head|15.68|||
+75|01|05|2055|Police|00||101||0||01|Criminal Investigation Department|053|Purchase of Furniture and Fixture for Office|2055-00-101-0-01|Purchase of Furniture and Fixture for Office|V|Data|Object-Head|9.00|||
+75|01|05|2055|Police|00||101||0||01|Criminal Investigation Department|071|Building Expenses|2055-00-101-0-01|Building Expenses|V|Data|Object-Head|68.30|80.00|80.00|80.00
+75|01|05|2055|Police|00||101||0||01|Criminal Investigation Department|195|Transport Expenses|2055-00-101-0-01|Transport Expenses|V|Data|Object-Head|400.77|343.00|343.00|729.13
+75|01|05|2055|Police|00||101||0||01|Criminal Investigation Department||||HOA Total :|V|Total|Detailed-Head|10981.74|12532.93|12582.93|13424.23
+75|01|05|2055|Police|00||101||0||03|State Intelligence|||2055-00-101-0-03|State Intelligence|V|Header|Detailed-Head||||
+75|01|05|2055|Police|00||101||0||03|State Intelligence|002|Basic Pay|2055-00-101-0-03|Basic Pay|V|Data|Object-Head|866.16|8775.00|8775.00|9361.00
+75|01|05|2055|Police|00||101||0||03|State Intelligence|003|Basic Pay-Staff|2055-00-101-0-03|Basic Pay-Staff|V|Data|Object-Head|6561.91|||
+75|01|05|2055|Police|00||101||0||03|State Intelligence|004|Interim Relief|2055-00-101-0-03|Interim Relief|V|Data|Object-Head|434.02|||
+75|01|05|2055|Police|00||101||0||03|State Intelligence|011|Dearness Allowance|2055-00-101-0-03|Dearness Allowance|V|Data|Object-Head|1708.60|1990.00|1990.00|2421.00
+75|01|05|2055|Police|00||101||0||03|State Intelligence|014|Other Allowance|2055-00-101-0-03|Other Allowance|V|Data|Object-Head|1765.26|1987.00|1987.00|2051.00
+75|01|05|2055|Police|00||101||0||03|State Intelligence|015|Subsidiary Expenses|2055-00-101-0-03|Subsidiary Expenses|V|Data|Object-Head|141.30|157.98|157.98|158.40
+75|01|05|2055|Police|00||101||0||03|State Intelligence|020|Medical Allowance|2055-00-101-0-03|Medical Allowance|V|Data|Object-Head|46.95|||
+75|01|05|2055|Police|00||101||0||03|State Intelligence|021|Reimbursement of Medical Expenses|2055-00-101-0-03|Reimbursement of Medical Expenses|V|Data|Object-Head|10.84|18.66|18.66|19.50
+75|01|05|2055|Police|00||101||0||03|State Intelligence|034|Contract/Outsource|2055-00-101-0-03|Contract/Outsource|V|Data|Object-Head||18.00|18.00|31.68
+75|01|05|2055|Police|00||101||0||03|State Intelligence|041|Travel Expenses|2055-00-101-0-03|Travel Expenses|V|Data|Object-Head|144.99|100.00|100.00|100.00
+75|01|05|2055|Police|00||101||0||03|State Intelligence|050|Office Expenses|2055-00-101-0-03|Office Expenses|V|Data|Object-Head||35.00|155.00|125.00
+75|01|05|2055|Police|00||101||0||03|State Intelligence|051|General Expenses|2055-00-101-0-03|General Expenses|V|Data|Object-Head|379.91|380.00|260.00|290.00
+75|01|05|2055|Police|00||101||0||03|State Intelligence|052|Telephone Charges|2055-00-101-0-03|Telephone Charges|V|Data|Object-Head|30.23|||
+75|01|05|2055|Police|00||101||0||03|State Intelligence|071|Building Expenses|2055-00-101-0-03|Building Expenses|V|Data|Object-Head|327.00|330.00|330.00|343.00
+75|01|05|2055|Police|00||101||0||03|State Intelligence|131|Secret Service Expenses|2055-00-101-0-03|Secret Service Expenses|V|Data|Object-Head|260.00|150.00|150.00|150.00

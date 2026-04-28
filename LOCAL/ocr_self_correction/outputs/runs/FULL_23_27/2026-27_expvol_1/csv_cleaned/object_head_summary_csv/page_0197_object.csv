@@ -1,0 +1,21 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+183|01|29|2049|Interest Payments|01||101||5||24||241|Interest Payments|2049-01-101-5-24|Interest Payments|C|Data|Object-Head||15260.00|15260.00|15260.00
+183|01|29|2049|Interest Payments|01||101||5||24||||2049-01-101-5-24|HOA Total :|C|Total|Detailed-Head|15260.38|15260.00|15260.00|15260.00
+183|01|29|2049|Interest Payments|01||101||5||25|2022-23 - 7.63% KGS 2042 (DOM 30-11-2042)|||2049-01-101-5-25|2022-23 - 7.63% KGS 2042 (DOM 30-11-2042)|C|Header|Detailed-Head||||
+183|01|29|2049|Interest Payments|01||101||5||25|2022-23 - 7.63% KGS 2042 (DOM 30-11-2042)|240|Repayment of Borrowings|2049-01-101-5-25|Repayment of Borrowings|C|Data|Object-Head|15260.00|||
+183|01|29|2049|Interest Payments|01||101||5||25|2022-23 - 7.63% KGS 2042 (DOM 30-11-2042)|241|Interest Payments|2049-01-101-5-25|Interest Payments|C|Data|Object-Head||15260.00|15260.00|15260.00
+183|01|29|2049|Interest Payments|01||101||5||25|2022-23 - 7.63% KGS 2042 (DOM 30-11-2042)|||2049-01-101-5-25|HOA Total :|C|Total|Detailed-Head|15260.00|15260.00|15260.00|15260.00
+183|01|29|2049|Interest Payments|01||101||5||26|2022-23 - 7.59% KGS 2038 (DOM 07-12-2038)|||2049-01-101-5-26|2022-23 - 7.59% KGS 2038 (DOM 07-12-2038)|C|Header|Detailed-Head||||
+183|01|29|2049|Interest Payments|01||101||5||26|2022-23 - 7.59% KGS 2038 (DOM 07-12-2038)|240|Repayment of Borrowings|2049-01-101-5-26|Repayment of Borrowings|C|Data|Object-Head|15260.00|||
+183|01|29|2049|Interest Payments|01||101||5||26|2022-23 - 7.59% KGS 2038 (DOM 07-12-2038)|241|Interest Payments|2049-01-101-5-26|Interest Payments|C|Data|Object-Head||15260.00|15260.00|15260.00
+183|01|29|2049|Interest Payments|01||101||5||26|2022-23 - 7.59% KGS 2038 (DOM 07-12-2038)|||2049-01-101-5-26|HOA Total :|C|Total|Detailed-Head|15260.00|15260.00|15260.00|15260.00
+183|01|29|2049|Interest Payments|01||101||5||27|2022-23 - 7.54% KGS 2041 (DOM 07-12-2041)|||2049-01-101-5-27|2022-23 - 7.54% KGS 2041 (DOM 07-12-2041)|C|Header|Detailed-Head||||
+183|01|29|2049|Interest Payments|01||101||5||27|2022-23 - 7.54% KGS 2041 (DOM 07-12-2041)|240|Repayment of Borrowings|2049-01-101-5-27|Repayment of Borrowings|C|Data|Object-Head|15180.00|||
+183|01|29|2049|Interest Payments|01||101||5||27|2022-23 - 7.54% KGS 2041 (DOM 07-12-2041)|241|Interest Payments|2049-01-101-5-27|Interest Payments|C|Data|Object-Head||15180.00|15180.00|15180.00
+183|01|29|2049|Interest Payments|01||101||5||27|2022-23 - 7.54% KGS 2041 (DOM 07-12-2041)|||2049-01-101-5-27|HOA Total :|C|Total|Detailed-Head|15180.00|15180.00|15180.00|15180.00
+183|01|29|2049|Interest Payments|01||101||5||28|2022-23 - 7.63% KGS 2039 (DOM 14-12-2039)|||2049-01-101-5-28|2022-23 - 7.63% KGS 2039 (DOM 14-12-2039)|C|Header|Detailed-Head||||
+183|01|29|2049|Interest Payments|01||101||5||28|2022-23 - 7.63% KGS 2039 (DOM 14-12-2039)|240|Repayment of Borrowings|2049-01-101-5-28|Repayment of Borrowings|C|Data|Object-Head|15080.00|||
+183|01|29|2049|Interest Payments|01||101||5||28|2022-23 - 7.63% KGS 2039 (DOM 14-12-2039)|241|Interest Payments|2049-01-101-5-28|Interest Payments|C|Data|Object-Head||15080.00|15080.00|15080.00
+183|01|29|2049|Interest Payments|01||101||5||28|2022-23 - 7.63% KGS 2039 (DOM 14-12-2039)|||2049-01-101-5-28|HOA Total :|C|Total|Detailed-Head|15080.00|15080.00|15080.00|15080.00
+183|01|29|2049|Interest Payments|01||101||5||29|2022-23 - 7.63% KGS 2040 (DOM 14-12-2040)|||2049-01-101-5-29|2022-23 - 7.63% KGS 2040 (DOM 14-12-2040)|C|Header|Detailed-Head||||
+183|01|29|2049|Interest Payments|01||101||5||29|2022-23 - 7.63% KGS 2040 (DOM 14-12-2040)|240|Repayment of Borrowings|2049-01-101-5-29|Repayment of Borrowings|C|Data|Object-Head|15260.00|||

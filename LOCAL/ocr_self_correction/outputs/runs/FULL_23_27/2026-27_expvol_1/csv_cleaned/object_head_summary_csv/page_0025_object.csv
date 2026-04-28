@@ -1,0 +1,28 @@
+Source_Page_Number|Volume_Number|Demand_Number|Major_Head_Code|Major_Head_Name|Sub_Major_Head_Code|Sub_Major_Head_Name|Minor_Head_Code|Minor_Head_Name|Sub_Head_Code|Sub_Head_Name|Detailed_Head_Code|Detailed_Head_Name|Object_Head_Code|Object_Head_Description|Full_Account_Code|Description|Vote_Charge_Marker|Row_Type|Row_Level|Financial_Col_1|Financial_Col_2|Financial_Col_3|Financial_Col_4
+11|01|03|2054|Treasury and Accounts Administration|00||095||0||06|Project Director HRMS-2|020|Medical Allowance|2054-00-095-0-06|Medical Allowance|V|Data|Object-Head|0.15|||
+11|01|03|2054|Treasury and Accounts Administration|00||095||0||06|Project Director HRMS-2|021|Reimbursement of Medical Expenses|2054-00-095-0-06|Reimbursement of Medical Expenses|V|Data|Object-Head|0.16|9.00|9.00|3.00
+11|01|03|2054|Treasury and Accounts Administration|00||095||0||06|Project Director HRMS-2|034|Contract/Outsource|2054-00-095-0-06|Contract/Outsource|V|Data|Object-Head|289.10|316.80|323.80|328.67
+11|01|03|2054|Treasury and Accounts Administration|00||095||0||06|Project Director HRMS-2|041|Travel Expenses|2054-00-095-0-06|Travel Expenses|V|Data|Object-Head|0.53|1.50|1.50|1.00
+11|01|03|2054|Treasury and Accounts Administration|00||095||0||06|Project Director HRMS-2|050|Office Expenses|2054-00-095-0-06|Office Expenses|V|Data|Object-Head|0.77|7.00|7.00|5.00
+11|01|03|2054|Treasury and Accounts Administration|00||095||0||06|Project Director HRMS-2|051|General Expenses|2054-00-095-0-06|General Expenses|V|Data|Object-Head|980.17|5.00|5.00|10.00
+11|01|03|2054|Treasury and Accounts Administration|00||095||0||06|Project Director HRMS-2|052|Telephone Charges|2054-00-095-0-06|Telephone Charges|V|Data|Object-Head|0.24|||
+11|01|03|2054|Treasury and Accounts Administration|00||095||0||06|Project Director HRMS-2|071|Building Expenses|2054-00-095-0-06|Building Expenses|V|Data|Object-Head|0.14|0.52|0.52|0.50
+11|01|03|2054|Treasury and Accounts Administration|00||095||0||06|Project Director HRMS-2|177|IT Expenditure|2054-00-095-0-06|IT Expenditure|V|Data|Object-Head||1500.00|1500.00|2000.00
+11|01|03|2054|Treasury and Accounts Administration|00||095||0||06|Project Director HRMS-2|180|Machinery and Equipments|2054-00-095-0-06|Machinery and Equipments|V|Data|Object-Head|2.25|||
+11|01|03|2054|Treasury and Accounts Administration|00||095||0||06|Project Director HRMS-2|195|Transport Expenses|2054-00-095-0-06|Transport Expenses|V|Data|Object-Head|9.99|17.76|17.76|20.40
+11|01|03|2054|Treasury and Accounts Administration|00||095||0||06|Project Director HRMS-2|200|Maintenance Expenditure|2054-00-095-0-06|Maintenance Expenditure|V|Data|Object-Head||9.50|9.50|5.00
+11|01|03|2054|Treasury and Accounts Administration|00||095||0||06|Project Director HRMS-2|324|Honorarium|2054-00-095-0-06|Honorarium|V|Data|Object-Head|2.47|3.00|3.00|
+11|01|03|2054|Treasury and Accounts Administration|00||095||0||06|Project Director HRMS-2|||2054-00-095-0-06|HOA Total :|V|Total|Detailed-Head|1407.34|2038.08|2045.08|2523.57
+11|01|03|2054|Treasury and Accounts Administration|00||098||0||01|Controller, State Accounts Department|||2054-00-098-0-01|Controller, State Accounts Department|V|Header|Detailed-Head||||
+11|01|03|2054|Treasury and Accounts Administration|00||098||0||01|Controller, State Accounts Department|002|Basic Pay|2054-00-098-0-01|Basic Pay|V|Data|Object-Head|2345.72|5429.00|5429.00|4969.00
+11|01|03|2054|Treasury and Accounts Administration|00||098||0||01|Controller, State Accounts Department|003|Basic Pay-Staff|2054-00-098-0-01|Basic Pay-Staff|V|Data|Object-Head|1899.53|||
+11|01|03|2054|Treasury and Accounts Administration|00||098||0||01|Controller, State Accounts Department|004|Interim Relief|2054-00-098-0-01|Interim Relief|V|Data|Object-Head|258.61|||
+11|01|03|2054|Treasury and Accounts Administration|00||098||0||01|Controller, State Accounts Department|011|Dearness Allowance|2054-00-098-0-01|Dearness Allowance|V|Data|Object-Head|968.23|1195.00|1195.00|1242.00
+11|01|03|2054|Treasury and Accounts Administration|00||098||0||01|Controller, State Accounts Department|014|Other Allowance|2054-00-098-0-01|Other Allowance|V|Data|Object-Head|665.97|831.00|831.00|716.00
+11|01|03|2054|Treasury and Accounts Administration|00||098||0||01|Controller, State Accounts Department|015|Subsidiary Expenses|2054-00-098-0-01|Subsidiary Expenses|V|Data|Object-Head|84.87|31.00|31.00|32.00
+11|01|03|2054|Treasury and Accounts Administration|00||098||0||01|Controller, State Accounts Department|020|Medical Allowance|2054-00-098-0-01|Medical Allowance|V|Data|Object-Head|16.83|||
+11|01|03|2054|Treasury and Accounts Administration|00||098||0||01|Controller, State Accounts Department|021|Reimbursement of Medical Expenses|2054-00-098-0-01|Reimbursement of Medical Expenses|V|Data|Object-Head|14.75|49.00|49.00|44.00
+11|01|03|2054|Treasury and Accounts Administration|00||098||0||01|Controller, State Accounts Department|034|Contract/Outsource|2054-00-098-0-01|Contract/Outsource|V|Data|Object-Head|352.69|377.14|377.14|391.50
+11|01|03|2054|Treasury and Accounts Administration|00||098||0||01|Controller, State Accounts Department|041|Travel Expenses|2054-00-098-0-01|Travel Expenses|V|Data|Object-Head|146.32|104.00|104.00|104.00
+11|01|03|2054|Treasury and Accounts Administration|00||098||0||01|Controller, State Accounts Department|050|Office Expenses|2054-00-098-0-01|Office Expenses|V|Data|Object-Head|56.32|68.00|68.00|70.00
+11|01|03|2054|Treasury and Accounts Administration|00||098||0||01|Controller, State Accounts Department|051|General Expenses|2054-00-098-0-01|General Expenses|V|Data|Object-Head|14.23|15.00|15.00|15.00
